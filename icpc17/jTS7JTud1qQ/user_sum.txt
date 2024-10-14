@@ -1,0 +1,55 @@
+why can having class variables in public mess up a program 
+But why do I have to take the long path creating a private variable and then having to make two public functions in order to get the variable when I can just make a public variable I dont understand whats the big deal
+How can we use the variable name in the setName and getName functions before the variable is declared itself I thought C had a topdown execution
+Man Im Confused I did everything correct but its not running and its saying CreateProccess  No such File Or Directory
+How can a variable name declared in private be used in public  Can anyone please clarify 
+Do you need a different object for every variable
+if your using more than one string would you have to make another function just to return it 
+which compiler you are using
+that means that if we want to build variables in private we need to create two functions for every one of variables  isnt a lot of work 
+cant you just put string name in the parenthesis why is x that important
+*****
+why can having class variables in public mess up a program
+why make two functions if you can do this string getNamestring x name  x return name
+when would you make a variable public and exactly what problems could it cause
+i never could understand what is the use of includeiostream or includestring can someone explain
+"how can i code it if i want to prompt the user to enter the name and store in the private variable that means that if we want to build variables in private we need to create two functions for every one of variables  isnt a lot of work"
+if you dont set a variable in class private or public what is the default
+So youre making it private only to make it public but its still private I understand you make a public so you can access it in the main function Im just confused as to how it matters if its private if youre making it public I think I just dont understand the private part When would you only want to set it to private to only use it in the class Can you give me a scenario where that would occur
+Why not just have the return name inside the setname function of course change the return type as well
+Will calling get and set slower than accessing the variable in c Javascript will so i am thinking will c affect the performance
+What is the benefit in making your variables private and having to jump through hoops to get them
+*****
+But why do I have to take the long path creating a private variable and then having to make two public functions in order to get the variable when I can just make a public variable I dont understand whats the big deal
+How can we use the variable name in the setName and getName functions before the variable is declared itself I thought C had a topdown execution
+hello what is the difference between setName and getName i am confused about the two
+hi im 12 and in my function that returns the string variable i get an error that says the variable wa not declared in this scope
+tell me the difference between public and private
+Okay Need to clear some of my doubts here Can anyone tell me the different between class and struct  Because I know that both need object to be use inside main but I need more explanation 
+Would it not be better practice to declare the private variables before the public functions
+Can anyone explain why we need include string because I deleted it and it still worked
+what compiler are you using
+that means that if we want to build variables in private we need to create two functions for every one of variables  isnt a lot of work  
+*****
+If you did all that so that people couldnt access the variable surely they could access the function to change the variable anyway
+why is setname void 
+if you dont set a variable in class private or public what is the default 
+How do I know when I should use   and when I shouldn’t
+cant you just put string name in the parenthesis why is x that important
+Im kind of confused How come the variable name did not have to go before the functions getName and setName
+how come he doesnt put  behind string name in the private class
+Do you need a different object for every variable
+How would I be able to do this with multiple variables Would I have to put each variable in the parameter where he has string x
+Why do you have to place return name
+*****
+can someone explain when i dont put the include string the program still works help
+Thanks a lot  i was wondering if we can put the setName and the getName functions together in one function public void setgetNamestring anameacout  a  endlits working  but is it right 
+How does the compiler know what the variable name is if you are not declaring it until after the functions
+So variables being private is better practice but sometime and some variables need to be public Ok what would be an example of a variable that would need to be public
+You didnt ever really explain why youd ever want a private section in classes Youre just hiding it from yourself
+hello what is the difference between setName and getName i am confused about the two
+In one of the previous videos bucky mentioned compilers compiles line by lineSo when it comes to line 8the variable name is not yet createdso the compiler should point it out as an errorright Thanks in advance
+Could someone please explain to me why he used string getName instead of void getName
+the function setName is already include the name in the class what is the use of private string name over there
+Is there any Tutorials for INLINE FUNCTIONS  Im so undone with that thing 
+*****

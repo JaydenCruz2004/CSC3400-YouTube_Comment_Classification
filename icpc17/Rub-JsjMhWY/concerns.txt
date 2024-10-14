@@ -1,0 +1,128 @@
+So with this can I make videos games like for example Assasins Creed League of Legends or GTA something along that calibre  and on my own 
+During 4250Can someone explain to me why the badNum no need to add  infront Why it is not int numArrayPtr  badNums 
+You can use n instead of  endl to start a new line iecout  Hello World nAnyone knows the difference exactly
+Still confused on Polymorphism Its always explained in such a this is easy to understand manner but the definition leads me to believe it is a nebulous concept
+Can you post a link to where you download c please
+Please do a c for unity game engine if you can 
+may i know how can i program the front size in c language 
+Does this go through the whole of the C programming language
+so what is installing the coding on windows do i need to do it if im just planning on making a basic game for a school project
+What font are you using its kinda cool Is it exclusive from mac
+can you please make a video on c STL how to use them efficiently and all thank you
+a lot of your terminology doesnt really make sense for example  is not a bracket array subscripts are not called labels cout is not a function etc
+Brand new to c I have heard of something called templates What are they Anyway thanks for the speedy intro Helps get jump started
+I cant find the download link for text editor S
+why is c used in the gaming industry and what are its applicantions in the current days besides video games
+I think that this is a great refresher for someone who is not familiar with c I feel this will be a good video to expand more on the topics of c programming Btw do you have a video for learning the entire C programming language in one video Tha
+Please do a video on stl
+When I type stoi or stod to convert string to double Codeblock tells me error stoi was not declared in this scope Could somebody help me
+I get an error with the int getNumWheels  cout  Station Wagon has 4 Wheels  endl I have to add a return 0 at the end Whats going on Im using Visual Studio 2015 if thats of any importance
+GPP is broken for me it keeps printing out GIGANTIC errors like not knowing that I requested to load the iostream I need some help
+Can you please highlight the level of C you are teaching I bought the book C Primer 5th Edition which is said to be the most advanced and programmer friendly book around Would this video cover most of C11 Do I still need to refer to the book
+If I want to get into game design is C my best option for doing that
+Hi Is there really a need of curly brackets within some statements All the seem to do is mess up my layout when Im organising my ints in VS
+Im sorry but I just cant understand the inner workings of your factorial fuction how does that work I did some tests myself using cout  to check when and how the values change and I honestly have no idea The function runs three times on its own
+It isnt a subtitle Foreigners are a little difficult to listenHope to have a subtitle
+Derek Banas Could you do a video tutorial about helpful things in the winapi  handles gui items cursors proccess threads etc 
+Hey where could I get some real detailed closes on this Also is it unrealistic to be able to learn C and begin on a video game project within one year
+So do you prefer g over clang and if so are there specific reasons 
+Can you please make a c tutorial series like you did with java
+Whats the difference between a float and a double
+Hey Derek Can you do a video about Assembly Language for x86 architecture assuming viewers know Assembly Language for ARM architecture
+Hey Derek why do the constructors and methods are declared out of class sorry about this question sounds like ignorant 
+Before I spend the hour and ten minutes watching this video may I ask how I get can the most out of it What would be the best way to absorb as much of this information as possible What am I expected to be able to do after studying this tutorial and w
+Can U provide subtitles for all videos
+PS  I think youve declared your multidimensional array wrongly Unless Im missing something you declared a 5 by 5 array but you only needed a 2 by 5 array  
+How can you overload the operation for it to work on one of your classes
+My only previous experience is with HTML and mIRC scripting Is C the good next step or should I learn Java first like some comments are suggesting What IDE for Java Will learning Java help later with learning C Excellent Video but Im strugglin
+please cover installation
+Is it better to use stoi and stod than use casting
+Hi Im using a Mac what would you suggest I install to use C and other languages Derek Banas
+hey can any one plzz help me in making a word processor through c i will be verry greatull 
+What is that font called D I know its a mac os x font but I still want to know D
+I liked the video but only thing i missed is the explanation for the friend function generic classes and functions and templatesWould be really glad if you get some video on these things as wellLooking forward for your response Thank you 
+Derek why does lotteryNumVectinsertlotteryNumVectbegin lotteryNumArray lotteryNumArray3 insert 3 more  The declaration of the array creates a vector of 10 and the insert I know it is written insert does insert the 3  first of the array an
+Hi there I like your tutiorials Can you make tutorials for c and data structures 
+Am i right C seems to operate the same way as javascript
+What all can you do when you learn to code I am trying to learn so I can be a game programmer but how does all these codes translate into a game
+Please make a video about COBOLYour videos are awesomeI watched it completely thank you
+If you could just tell me the two prgrams you have opened that would be great lol Im pretty much new to C and Im confused on what you are coding it in and what is a terminal lol
+648okay I cant understand what happened there
+what is the difference between float and double on win32  win64 and ubunduOn win32 that i use when i cout  a number eg 314159265 i do not see any difference between a float and  a double number  In both cases i see in my console 314159  doub
+I really liked the video learnt a lot But i was also hoping to understand how header files work in cpp
+using code blocks with ggcc compiler and having set it on c11 wondering why it doesnt know stoi stoi was not declared in this scopethe code I used for stoistring s getlinecinsint i  stoiscout  i inlcuded all these libin
+would you please tell me if i can run cpp on pycharm and how if yes 
+make a video explaining friend functions stl rtti and other stuff aswell
+What font of the text editor is it
+how to make a WordPress site
+arrays start at 0 so when you place five numbers into bad number  1500  theres actually another space right senpai
+why the pointer is given importance in c and how does it works
+which compiler is best for win7 I used g 481 but that doesnt recognize the stoi function used in this video
+Hey pal how can I compilerun cpp files in a Mac Thanks D
+watched the whole thing very informativehelpful Im trying to learn C from what rudimentary Java I already know Do you have any suggestions for a good translational video I could watch to explain some more discrepancies pointers dynamic memory 
+Im about 23 mins in and Im having a problem with converting my strings C keeps saying that my stod and stoi functions are not defined am I missing something
+Awesome video Just one question after learning everything in this video how can I further my C knowledge Is this all there is to C
+Not only did I watch the full video but it took me aobut 5 hours bc of pausing and coding at same timeanything more on ADTS I have to make a class with a dynamic array of a list
+Out of curiosity why setup prototypes inside the class and define them outside Isnt is just easier to define the function inside the class My apologies if youre just trying to get the concept across
+so how does the increment work and why is there a 6 and 7
+Can you make a video for R programming
+please can you help me run a program for the forllowing  voidgetMQLCodes hereWrite codes here to find MEAN QUEUE LENGTHvoidgetThroughputCodes hereWrite codes here to findTHROUGHPUT voidgetBlockingCodes hereWrit
+For getting user input for assigning to an existing variable couldnt you just write cin  variableinstead of writing getlinecin variable
+ may i ask why my code does not give the same desired result that your code gavewhich is your name being printed outinclude iostreaminclude vectorinclude fstreamusing namespace stdint mainchar myName56derek
+I started to code with html css What should I go into next to start building basic programs and whats the language I should know for a modern day job
+Hey Derek at 622 Im doing exactly what youre doing but it says that cout in namespace std does not name a type It would be greatly appreciated if you could help me with this Here is my codeinclude iostreaminclude vectorinclude string
+hey Derek banas when I write a programme in turbo c software the programe is to ad subtract multiply and division of two given numbers when I compile I get clrscr error plz help
+Do you have anything for Partially Filled Arrays and Searching through strings
+Derek Banas Hello Derek I have been following this tutorial but I get stuck at using the stoi function It doesnt seem to work for me Did you have to do anything to get that working Thanks for all the great tutorials
+Can you do an SDL tutorial
+can someone pls explain what File IO is 
+Im using codelite for my coding and it doesnt seem to allow randNum Is there something I missed in the tutorial or is codelite not capable of allowing variables like a random number
+I really want to know how could we download c on a mac Since my college studies requires the program and if it comes to worst ill buy a new pc But is there any way we can use c in an apple macbook
+what would the best IDE be for those on mac Yosemiteconsidering mac now only supports LLDB via XCode to get the debugger working be
+Hi Derek thank you for this very helpful videoI have a question concerning the class at 5724 How the function that destroy the animal is called
+For some reason I cannot use rand or stoi The compiler says that they have not been declared even though they are not variables What do I do
+Derek Banas Should I start with C first then move to C or should I start from C right away
+Can you make a tutorial on how to setup the environment The ones Im using are hard to use and I spent more time trying to setup them up then actually learning
+Hey can you do Installation please D 
+You switched up the index and amount of chars to be erased at 2714 1st number is index and 2nd number is amount of characters to delete
+very good tutorial I would love for a Part 2 explaining Templates and smart pointers 
+Can you teach people how to make games like pong and snake in HTML5 and javascript
+2738 pretty sure you mean index 6 and 7 characters
+Great video One question will you ever go over templates and linked lists in c
+How do I install it in a MAC OSX
+How can i get rid of threads and breakpoints
+Im a C programmer and C isnt much different except for the cout  function and in C you could define a whole string character array at once unlike C where you have to define each character individually into a variable I prefer to use printf
+Is it necessary to use a virtual destructor in the base class Or should I only use one then I have a dynamic array or stuff like that
+1810 rand doesnt work for me It says rand was not declared in this scope  Can someone help me pls
+how do I get the g compiler set up so that I can use text wrangler and compile my programs through terminal Your link is to doing so on a pc however you use a mac in this video
+By terminal do you mean cmd because I typed in the Scarlet g stuff but it doesnt seem to work  Can you help
+How to i install C on my Mac 
+Did you say dashes or slashes on 041 It sounds like dashes when I slowed it down as well
+Will you do same kind of videos about C like you did about Java 
+can you do swift
+Derek Banas  Could you pls give the tutorial on SCALA and which cover most of the important topics
+Hello i am use Console Application and Windows Form in same Solution but Im trying to share the same variable Do have any suggestion 
+can someone please help me most of the time when I try to run simple code such as hello world i end up with a blank command prompt and when I close it I cant run the code again it keeps telling me that  cannot open output file bindebughello worl
+Really a good succinct and precise tutorial One suggest would be to come up with more advanced topics in the next tutorial as that would really help in understanding the programming paradigms For ex Implementation of Stack with real world use Binar
+When creating the number guessing game is there a reason why you dont immediately store the variable as an integer instead of storing it first as a string and then converting it
+While doing the While Loopsection I ran into the error rand was not declared in this scopeI fixed it withinclude cstdlibWere I the only one or did I miss something before this sectionPS It seems like my compiler doesnt support C11 tha
+Did yours have include stdlibh when you used rand How come mine doesnt work when it doesnt include that specific library
+the random number while loop doesnt work
+Derek Banas I use CodeBlocks for programming will that be fine for this tutorial video 
+If my text editor is Notepad will I need to download a compiler such as Eclipse as well
+Derek would this vid teach me enough to make a gamecos ive learnt that most games are programmed in this language
+i need more on for loops  sorting etc n thanks
+Wow that are some pieces of compressed information Thanks a lotJust one thing I could not help but notice in what kind of a hurry you seemed to be when you recorded this Maybe itd help to keep pace if youd slow down a little bit Cant wait 
+Youve got talent Could u plz make a tuto on c just in depth explaining coding to someone like me who knows nothing about this Thanks in advance
+watched the entire video your concise tutorial has helped my coding immenselycould you point me in the right direction to add graphics libraries for making games with c Im having a tough time running sample games like pong or snake from other
+Please can you say the best C version for me
+When I practiced the code at 2127 it says error stoi was not declared in this scope how do I fix it
+You said at 4645 that it is not needed to initialize everytime a pointer However I learnt that when you declare a pointer without initialising it the memory block contains what it was containing before so the pointer could possibly point to someth
+can i use notepad for this i think i can but just in case if im wrong tell me
+do vc please
+Derek Banas  Hows come the rand method you covered always returns the same random numbers every time I execute the program I was expecting different numbers every time Is this because its in main instead of a separate function
+Is Visual Studio 2015 good for this I installed the c packs though im not sure if it is too new or what Can I just get the 2011 c packs
+You sir are amazing Looking forward to your other videos Also it would be great if you could actually walk us through some actual coding exercises Even though this was incredibly fast paced I definitely benefited I am currently taking my 3rd c
+how to instal c in mac
+min 2129 stoi doesnt work for me can someone help me pls it says error stod was not declared in this scope
+Thank you for this tutorial C is a large language there are lots of ways of doing almost everything There are lots of things we dont know in C11 Can you do a tutorial on Advanced C11 and STL  So that we can write simple readable efficient c

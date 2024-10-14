@@ -1,0 +1,500 @@
+Photo tag is not working what to fo
+The header and its paragraph wont showed up on my browser Is something wrong I did the exact thing as shown in the video Have tried it on Internet Explorer still nothing just a blank page Fortunately the Title did showed up
+ur best teaching i ever had in my life sooo thank u i like the teaching when u give us 
+wow what a tutorial i will definitely be helped with this
+HTML
+Simply superb
+Awesome demonstration helped me alot 
+what the hell if i open it then again notepad will open
+Thanks for this tute
+Thanks soooo much this vid was really helpful subed
+12 mins 17 seconds fk u
+ia it okay to use com 
+Thanks good introduction
+when i try this and save it just like you did the commands like for example html and its closing part  show up on my browser  can you help me w this plz
+It was 12 minutes and 16 seconds
+htmlhead title World cup tickets side titlestylebody  backgroundcolorEFF5FBfontfamilyArialmargintop10pxmarginbottom10pxglavna width900pxbordersolid 3pxdrejkiheight100pxbackgroundcolor04B431
+i feel successful D thanks 3
+Just use kompozer 
+New priceShare and get 20 discounthttpssellfycompRv60
+Thanks 
+Thank you so muchi learned so much about htmlXD
+Can you show me how to create a Login and Register Page Thanks
+PUBLIC COMMENT
+Thanks for the hostgator tutorial HGSAVEUPTO50
+great nice tutorial
+Great job Jake Cant wait for more tutorials
+Very well explained cheers mate
+you are the best teacher You really make it easy to learn
+thanks bro
+Thats alot of learning
+Very easy to understand video Thanks
+if you want to learn more about HTML5 and CSS you must visit this web site  codecademy enjoy D  
+Thank you so muchfeel gud
+thousandth comment 
+What about Python in 12 minutes Any video in the future
+VERY helpful video Everything went really well except for the image I copied it down as in the video but I may have made a mistake when I was filing it Note I am using Windows 10 and Firefox Any help would be appreciated
+Hey great video its so hard to find some content as straightforward and clear as you make it helped out a lot thanks 
+Very good video and you are a good teacher and thank you for this video
+Bangin
+amazing guys
+any body wants to learn code go to my channel to learn CODE
+This is pretty cool Thanks Question so to start a web page is not important to start with the DOCTYPE html tagJust html tag works
+Thank you for the tutorial
+EASY
+thanx dude gr8 video
+Thanks to much for Free tutorial
+Very good and concise intro to HTML thank you Jake
+Woop this video was uploaded on my bday jake D
+awesome tutorial thanks
+Hmhmhmmm that seems really interesting Could youjaketvee make a tutorial how to make background and maybe Buttons That could be really great D
+very very very good work friend you made my day I have subscribed you hope you continue your support 
+html    head    titleFIFA WORLD CUP 2014titleheadbody stylebackgroundcolorEFF5FB fontfamilyArial margin10px 0px 10px 0pxtable stylewidth900px bordersolid 3px aligncentertr td colspan2stylehight100px 
+run folks this will make a fuck off you20 years behind and will do you huge damage
+you dont need doctype html
+yeah thank you very much jaketvee D it helped a lot 
+Quick  thorough Greatly appreciated Subd
+thank you very much  really helpful
+Fangs  D
+Hey how would you like to get noticed as a administrator on a HTMLCSS forums All you have to do is frequently post you tutorial meterial on the forums extremetripcouk Ive just started out its something ive wanted to do for a while now and well 
+your video was so helpful  for me and the same for those commenting  about iti was able to  to add a image to my  web page and thanks  for posting these video cause my web design course on alison is getting  ads where they cover half the video
+Amazing video i learnt something
+Legendary man tho this is just super basic I can now go to class tomorrow with a much better understanding of what Im typing tyvm for making these vids 3
+wow easy to learn thank you jake keep upload your tutorial about website programming like csshtmlAJAXPHPand etc
+I am on windows 7  Not working at all  I am saving the file as eg newpagehtml but its opening like a usual explorer page can you please help
+Make sure the file has a htm or html extension You may need to show file extensions in Windows Explorer the option is somewhere like ToolsFolder Options
+its really easy to learnthanks man
+thank you for  your video Nice and easy
+Thanx for passing on knowledge FOR FREE my fellow
+thanks a lot brother
+What mic do you use
+Great video  very helpful
+good job bro thanks
+thank u so much
+It doesnt work Why
+Thanks made my first page it may be crap but im proud of it placed it as decoration at my blog shivratnani wordpress com if you are afraid its spam then dont go there P 
+No nonsense straight forward videoPlease keep up the good work
+superb
+Great video I need all the help I can get
+it shows up as the same as the document when i try to open the webpage 
+gd 
+my pic was not showing in the html my html isfileCUsersDELLDocumentsHTMLwebpagehtml
+Thanks mate That was superb
+awesome
+it didint work for me 
+Can I put text over an image
+great videothanx man
+htmlhead                  titleHI JAKEtitleheadbody                  h1Dear Jakeh1                  pI am an eleven year old boy who thanks to you and the slight corrections in the comments will soon make his own website fu
+Nope its impossible to learn HTML in 12 minutes idiots
+Superb
+Thanks Bro very explanatory
+Excellent video I am a complete novice and this is the first tutorial that has made any sense to meThank you
+my image is not coming everything is fine
+very very superb tutorial amazingu r a genious watching ur video makes my html knowledge grow
+Excellent tutorial Couldnt be any simpler and yet Effective and comprehensive for a beginner like me
+Jake I thank you for that very simple yet informing tutorial 
+I dont get the image i made when i put Img srcimgbmp 
+Chinese cant do that xD
+Thank you for this video
+how do you center the main title 
+I use a lot of the Div tag and the class 
+I just loved how you made it so clear and easy to understand I loved the way you taught it I am having problems with trying to create my first website and html meta tags thats why I watched this but very informative I think you have a talent with t
+yeabut how to publish a page on web
+hey guys I couldnt put the image S Exactly did the same thing but it didnt work well with me
+how do you get it to display on the browser I saved it to my desktop as all files and then opened it up in firefox and it just shows the code
+very useful video
+Great Job I have a web site and have been playing around every time I add something to the sidebar which requires HTML This should make it much easier
+Nice tutorial
+How old is this video
+execellent
+Dragonflyinhaven you put in html box
+Unfortuantly I cant put a pic but still nice tutorial
+Do I need internet explorer Im using Google Chrome and it doesnt want to open it anything
+My image is not being displayed the image a created in PAINT what do i do All you see is a small square and a page like image HELP please anyone
+subscribed  thanks buddy
+Hi I watched the video to pass my one course at school and Im not a native speaker of English but the video was so clear Thank you so much
+Five years later you still cant cook for yourself 
+Taught me more in 12 minutes than my GCSE teacher did in 2 years
+ur supposed to start with doctype html
+I was struggling files path and directories for images I like that you made it clear in the first place and showing us how to get organized and start correctly right from the word go 
+For all HTML Colors check out htmlcolors  net
+Hey mate I have a question Page 1 is a user and pass 2 textboxes with a login button How do I show the user I had to write in Page 1 in Page 2 say a box that will say Welcome user  Kind Regards
+You didnt even taught 5 of the language
+Nice video 
+You sound like zazef XD
+how to put h1hello worldh on the center
+Subscribe my channel for free Udemy courses
+thanks be blessed man the best teacher ever seen 
+cool video  thanks mate 
+Thanks Jake This was my first introduction to html Ill watch Part 2 and then I plan to discover how to create a content link for the childrens picture books I publish so I dont have to always wait for the kind people whove helped me to date to
+You typed super fast
+good
+Im giving up 
+I wish I would have seen this video back when I was a beginner  good job man
+What do you mean content has to be between the body tags and tags have to be opened and closed and there are rules about some not being allowed inside of others but generally the order just depends on what you want the page to look like
+plz help me somebody every tym whn i add content in word pad then every tym i have to save file n replace old one wht key should i press for my data to directly place on webpage
+HiIf I made a website like this can other people go to the website and see everything I made or do I need something else for that ThanksBye
+Thanks a lot Youre awesome
+This is really good and informative thanks for the tutorial
+What about DocType
+The image didnt upload and I did the same by all the comments I can see i am not the only one with the same problem
+peopleget adobe dreamweaver
+THANK YOU
+I was hoping you make a video about more html
+KevinMikeProndzinski Thats great glad I could help you out Yes Im from the UK Thanks for watching 
+thank you so much for this video i watched it 3 times and now i know most of html P from other tuts too P
+Amazing video Thanks
+Great Job was actually a lot simpler than I assumed I have programmed in C and advanced C before as well as Windows programming Seems there is just learning the keywords code and your off Not to say that I am minimizing your tutorial Looking f
+That was really easy to understandgood job there buddy 
+Thank you so much for creating this simple to follow and amazing tutorial video
+it didnt happen in window 81 anuy idea guys
+Very simple and very helpful thank you Jake
+thank you man you helped a lot
+fab video  thanks
+htmlheadtitlejavascript and matrixtitleheadbodylayer idnote top10 left30 width100height50 bgcolorGreen visibilityhiddenpClick here and you see the matrix webpagelayerh1 Javascript and matrixh1pLinka
+very helpful to get started cant wait until i can build my own website
+Good entry I appreciate you for posting video
+thank you D
+a great tutorial thanks a lot
+Very helpful Thanks so much
+Cool videoSubscribe
+hey i think we have the same browser but seriously when i click the new on my documents I ddnt see the bmp you talking
+when I type this in at the very beginningand I save it as htmlit opens it up in a webpage but with the code ON the page
+cool video
+My image isnt showingI tried every way to make the src more accurate but nothings workin it shows a box with a cross I even tried clicking show picture but no good
+555 thats not a lovely image its just ugly but tnx 4 everything
+i realise now that you dont need to have fancy programmes to make a html webpageor learn about it just a wordpadand youre ready to goi learned this and it tickles my spine thank you for uploading this
+The scribble is actually good modern art Look close at 902 Did you spot the man with a beer belly lying on his back having a wank 
+1235294117 mins
+Heyjoin my google group CODINGpractice
+Thank you
+Hay man thanks 
+Thanks mateAnd a solution for someone not to steal video is put a name or your YouTube channel name at the begging and end of the vid although people can edit it Thank you very much mate
+Thanks JakeI learned lot from you about HTML and now am really interested future HTML concept to study if you have any video about HTML please share with me it will me a lot or send me a link if possibleThanks again   
+The photo you taught doesnt appear but Im in a Windows 8 PC and im trying to fix this up the problem is I dont have Bitmap but when I went to the browser it appears as a small image sign
+does it works for tumblr
+this is very help ful clear and informative thanks
+Minecraftisbozzsite11com is the website I
+thanks simple and well explained
+image link i tried to much img scrDshamihtmlimgbmp dont work
+God bless
+You are a JEDI my friend Your CSS video helped me alot Thanks Are you going to do a video for Javascript
+Thats true but people watching an HTML tutorial like this are likely complete beginners so a slowerpaced video is better suited Those learning PHP are likely more competent programmers and can keep up with a faster video
+Good man
+hi how to add link or video 
+Get hosting account for just 1 cent at hostgator using coupon 1centaprlmay2013 
+Yhank you soooo MUCH  
+i use SnagIt
+IS THIS THE ONLY TOPIC YOU HAVE I WANT TO LEARN MORE MAYBE HACKING
+for the imagebmp I right clicked the bitmap file and went to properties and then copy and pasted the location into the img worked like a charm did it on Windows 10
+Heythank u brou made it really simple and its a great video
+How can I move the picture alignbottom doesnt work
+nice tutorial popular
+thank you for upload this videothis video very help for mei have try 10 times but not work then i will see your video on youtube then finaly imake my html
+stuck on the actually bit where it turns into a website
+Omg thank you so much
+Good video
+great video thanks for this
+its helpul to the students like me to get the codes for the html and this tutorial is awesome
+you da MVP 
+your PC Sucks
+Jake Wright your the best html tutor for me
+very interesting video it helped me a lot
+I did everything and when i save and open it it bring the code itself please tell me what to do
+Guysafter saving my WebpageHTML i cant open itI have access to internet and i created my HTML in my computer Please help
+Best programming tutorial ever period
+ty
+Watch my new video Learn HTML in 12 Minutes Part 2 to learn how to change the size of images along with more important HTML tags Theres a link in the description Thanks 
+you really helped me brothank you so much
+i have just typed a html on note pad  and i want to know how to open the webste on Google chrome the code of note pad wont open on Google chrome  plez help
+the image is broken and cant c itas there is a rectangular box with something curved lines as if something is brokenwhat to do
+I appreciate the information and even liked your video I hit the like button but Im here because I was informed that the only way to properly run youtube videos on Internet Explorer 11 is to use something called HTML5 since Adobe flash player isnt 
+Thanks This was really helpful I made my first HTML page today
+Can someone give me a free web hosters
+Thanks man this video helped allot 
+Hi Jake what do you use to video the screen of your computer  Ive looked online for free downloads that do so but all the reviews say they contain virusesYour videos are also amazing   really inspirational
+In between pause  these symbolsDo you mean less than and greater than
+what programm do you use for this
+good working
+your not learning but memorizing take the time to know what HyperText markup language means
+THANKK YOU YOUR AWESOME
+How do you add a link and get things next to each other and change the colour of the hr etc
+You will not be an expert  Next video  Master HTML in 24 Minutes
+dislike
+Thank you
+i need your help on this p tag this is my web p tag close i need this paragrabh in red this is my weband this one green this is my webthis one yellow this is my webthis one blue condition is no css tag will be use 
+Please Upload More Stuff About HTML
+You play roblox too OOOO
+Hi I have also made a video just like this for mac so if you have a mac I recommend watching this
+how do we change the internet address for the website
+Made
+I need help Can someone write a thing i can put for an image The image file isdownload 4jpg it says
+Well this is what I wanted
+what software do you use normally
+the best tutorial yetsimplestraight to the point and very clear explanationthank you for the upload
+Thanx man
+Thanks so much I found this very helpful
+nice 
+Nice Video for basic start for to learn HTML and you explain it very simple way its goodThanks
+I dont understand haha
+For percent would you write percent or 
+awesome Now i learnt it
+check my youtube channel for simple html tutorials and how to make 2d games
+wonderful
+i got windows 7 and im stuck in the part of the image thing the image is saved in a folder in my desktop named web development inside that it contains also the file im working on but can someone help me the image shows up as a small box with a x on
+1 million views Congrats Jake
+thanks sweet and simply clarification jake
+Yay bHTMLb
+Thank you very much Helped me a lot
+how did u get the bitmap image thing i dont have it im using win10
+thanksdude
+Nice
+Photo part is not working 
+my page is not showing image
+I have used this app when I was in high school as an elective during my junior year and I love it
+i cant get the picture to work can anyone help me with that please
+Thank you This Is WONDERFUL
+hi I uploaded a video to blogger and I want it make to autoplay so how can I do please help mecode is thisdiv classseparator styleclear both textalign centerobject classBLOGvideoclass contentid73839d7b1997a137 height266 i
+I have followed all the steps to a pin point and they all seem to work except for the image part I named it what I wanted and put it in img scr tag form but the image i scribbled on paint didnt show All it showed was a small box thing that looked as 
+Where did you learn to code
+Very useful thanks
+Very goodfor the most basic of HTML instructions Unlike other uploaders they dont instructthey think everyone knows HTML and there are a lot of beginners out there Opening and closing and the standalone tags like br is very important 
+who the h are you
+Nice
+Thanks Jake you are a very good teacher
+why the image didnt work i wrote just like you 
+Is It Possable To Change The URL For The File If Yes How Example  fileCUsersCenteredNameDesktophome20school20workProgramingBat20WorkWebPagehtml  To  wwwExamplecom
+If i share the link of the site would others be able to view it Is it already public
+ty for helping me out
+Have you dragged the image file over onto the right hand side on filezilla Assuming you use filezilla This is how it gets recognised
+i have not option of bitmap image how i getplz replay quickly
+ur just arsome dude
+This tutorial made many thinks about html clear in my mind That was very useful and helpful Thank you very much
+You can make in this language right RIGHT
+Very helpful I am currently trying to learn files hyperlinks to send my photos and how best to protect them etc So nothing is too basic for me This was perfect Great job
+how do we make it so that the file is uploaded to the website but its private 
+brilliant tutorial still having trouble getting the image to show
+I just watched this for your voice
+thank you
+GoOd WoRk bro
+thanks lad been looking everywhere for some simple but effective tutorials couldnt have found a better example D
+nice  thanks it helped a lot in my Infocomm homework
+Yo dude thats awesome Finally i manage to make my project so easy 
+next say learn html more and more 12 minute
+Will this work for tumblr
+i put it in teh browserand it just showed the text
+Hello everyone if you are interested in HTML tutorials please subscribe us We post short videos regularly on different tags of HTML If that interests you please subscribe us Peace
+so learn HTML in 12 minutes hah so i have to click for part 2 another 12 minutes
+Thank you this was very helpful
+Hi Jake Thanks for this wonderful tutorial video
+its good its very easy nd clear thanks for u jake wright
+Mine doesnt work past the title i see the title but the heading and the paragraphs dont want to show up
+omg thx soooooo much i have been looking a tutorial like this for ages This is really informative and shows you the most common html tags keep up the good work
+great job
+Thanks for helping refresh my memory on this Jake D
+Thanks a ton Jake it was very very helpful for a beginner like me 
+Sorry i do not know why i can not get the result as same as yours even thought i write as same as yours i just can get the things as same as that we write on the notewaiting for help Thank you
+Very clear and concise instruction Ive dabbled in websites for years but now I finally understand html Thank you
+hey i have a question does it matter where you place your text or tags in the document
+thank you for this no bullshit you got straight to it
+jeah i made my own site
+You just earned a subscriber Thank you 
+HI i have put an image on m webpage but when i open the webpage in internet explorer the image wont show up a small white box with a red x in it shows up in its place where the image should be PLEASE HELP  great tutorial btw very helpful and easy
+The image that I created shows up as an x inside a box What am I doing wrong
+Thanks Jake this is my intro into html and Im learning and I like this Cheers From Australia
+I know html but its a statics page no one can open this site please tell me that how this html site is used in lan network if i create my html page how to get that htmlpage on the website can u help me please  I will be your thankuful
+what happened to putting DOCTYPE html in first
+for a begginer good start at learning HTML would be to study existing web pages around the net by either using web dev tools inside browsers or some webapp like Webdeconstructor com that lets you analyse layout of any given webpage and all HTML ta
+That was really helpful Thanks 
+Subscribed you helped me out a lot Appreciate it
+i Does html formatting work in YouTube comments i
+thanks thats just what I was looking for
+DOCTYPE html
+3200th like  Thank you for this tutorial sir
+The image didnt work for me I put img srcimagebmpAnd it came up nothing
+pls wont u mind showing me the basics to adding a menu with sub menus
+guys go at watchv4mslythC7cto make make 150hr online
+If you use the same speed you did in Learn PHP in 15 mins you could have done this html in 5mins
+Watched this video back in 2011 and is what inspired me to become a web developer
+How to i upload this to the web so i can access the sight with google chrome
+My image doesnt show up 
+Jake are you from Middlesbrough Or the north east Teesside
+l learnt a lot  thanks
+This 12 minute video actually taught me more about HTML than my Beginner Computer science class Excellent tutorial well prepared
+It is even better than what I learned in the university
+Thanks for the Video  
+butt how to put that webpage online i mean like other from anywhere can see 
+hiiiiii 
+What does src stand for
+isnt the first tag DOCTYPE html 
+You need to click in Text Edit Format and Make Plain Text and make sure you save the file with the htm or html extension
+Thanks  
+Im using a mac and the code is executing but when I open my webpage the image does not show up It just shows a little symbol instead of the actual image HELPPP
+a very simple and easy to understand rundown of the basics thanks for sharing your time with us
+Subscribe my Channel For facebook tricks
+Cheers and thanks for letting me know
+what if i already have a photoshop template and wants to make it into this u know with the heading and the text and such any help btw very nice tutorial i learned alot of something i though was impossibruuu D
+Awesome video man  Thanks so much aha  I didnt think I could learn Html to be honest ahaUm One question when your inserting an image When I click on new in my documents I havent got the create an image option   whats easiest for me to d
+niceeee
+Great tutorial thank you 
+this vedio is just for new
+Keep up the great work I am learning html And this helped Thanks
+To everyone that makes mistakes I recommend using Notepad for this it has a nice thing that helps you script html files
+This is awesome  Dude  You are amazing  You just helped me through the hardest part of my ICT practicals  Thankyou so much 
+HDVideoGame You need to find a web host youll probably easily find a free one and upload the html files
+In notepad the only file type showing is txt howdo I change it to html
+I am trying to make a Tumblr theme for my blog but Im horrible at using HTMLs I have two questions 1 How do I change the font of the text I have put up 2 How do I put a background on my webpage Thanks 
+how to switching to browser please help
+I want to be a programmer when I am older and I think this will help me a lot Gonna try it tomorrow Thanx for the help
+thank you great info
+HTML is so hard I mean Why all this head body things If you are new to coding try Python
+HI SARMAD ALSaeed
+what is the keyboard shortcut to jump like that in notepad like you do on 156
+the image bit aint working for me plz help
+Excellent HTML basics
+Thanks a lot for the video it helped me a lot is there anyway you could make a short video on understanding bootstrap process If not all good man keep up the good work on videos I enjoy them very much 
+I followed what you did but I couldnt get the image to work it just puts a  sign instead I made my page on the mac equivalent of notepad will that effect it
+TRY TYPING IMAGEBMP instead of imagebitmap OR RIGHT CLICK THE PICTURE GO TO PROPERTIES AND YOU HAVE TO KNEW WHAT IS THE EXTENSION OF YOUR PIC I BELIEVE YOURS IS bmp
+how to get HMTL Folder
+Im starting a new tutorial series to build your own ECommerce site from scratch Ill be teaching HTML CSS PHP mySQL Javascript and AJAX I assume you know nothing and the tutorial will walk you through to having a finished product that will work 
+That was very helpful thank you so much 
+omg you just saved 3 hours of my life thank you
+Nice tutorial thank you  Easy language huh  Easier than  C yes  I also think that you can create programs with this language yes  Thanks again
+Im having a problem with the bmp pulling up Each time Ive tried different pictures btw both the short pathway and the full pathway explanation I am only getting Errfile notfound
+Thank you for sharing Jake
+Btw I cant even put a picture on my Internet Explorer one
+my like is 40th
+Tazer4ever lol its Hyper Text Markup Language
+I swear its Ewan McGregor narrating lol NeitherHereNorThere
+You explained that really well Thank you 
+Very good tutorial keep doing more please i am a very beginner 
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+I was looking soo long just to try and find something basic like this New sub for you bud
+watchvFAcpcIJJdEM
+thanks man
+Wow Thank you sir more or less it did helped me to learn some basic tags in html  once again thank you sir 
+HELPED ME ALOT THANKS
+doctypes m8
+SerraxGaming Thank you man D
+When i done all of that  can i send it to my friend or something
+I learned from codeacademy
+Fantastic for beginners If you live in London and want to design and launch your site in one day then heres a tip book a one day workshop with Luckywebs for 89 They teach you all about choosing the right domain name setting up web hosting the we
+I just made a webpage that would like this text Tis a silly place insert Lets not go to reddit tis a silly place photo here Fun times
+IS HTML A COMPUTER LANGUAGE LIKE FORTRAN 
+wow
+u forgotten the  a href
+hoi
+This was a rather refreshingly easy to understand tutorial Its not difficult for people to learn and this tutorial does actually get you started very quickly One point to note Websites that work and have impact are those that are clear and easy to
+why the image dont open
+click spaceease of access webpage info
+thanks so much i love html now
+Thank you sooooo much for the awsome video btw my image is not showing on the webpage I did exactly what you showed in the video It just shows a small image icon on the webpage but the image does not showI am on windows And using notepad
+how to insert the picture which stored in SME other folder
+I learned alot
+In this video you will learn just the symplest things in HTML NO ANYTHINK USEFFUL
+cool
+i teach HTML step by step subscribe to my channel 
+awesome really ur amazing
+This is the best code for beginners tutorial I have watched and Ive watched quite a few What programme should I use to try this on Mac
+Dude your a genius thank you never created a web page before and your instructions where so simple to follow
+I like your lessons Tahnk you very much 
+Thanks a lot Very simple and helpful
+i created as like you told but the image is not appearhelp me to solve the prob 
+Thanks a lot for sharing your knowledge
+This is a fantastic tutorial I was wondering though does the image need to be a bmp Im not actually doing this just watching for the syntax to add various things but I was just wondering in case that was the problem others were having
+nice tutorialcutting to the chase i need a coder that knows what there doing 5050 spit of the idea intellelabingcom
+so i have the image tag done exactly as shown in the video but all that is showing on the page after saving and refreshing is a small image icon Am i doing something wrong
+Thanks for your great tutorialCome visit my channel as well because I do have a great video there
+i learned more in 12 minutes than i did in 3 years of high school thankyou
+it doesnt show my pic it just shows a box with a red x in it
+Thanks for this nice tutorial for people who wants to learn more there is a free online course to learn how to design and developing Mobile HTML5 Appshttpsiversityorgc19r814f1
+thnkzz jake 
+The dislike side of the like bar looks like Justine Beaver penis with a boner Not that Ive seen it since its so microscopic and I dont wanna see it D YEEEEEYZ
+mine becomes an image file
+Cheers to you sir You explained this better in 12min than my professor did in a week
+In the dialog box when you save a new file in the bottom you have a Save as field In this box select All files and then just save the file as namehtml
+how did you get it from notepad to on the webpage on internet explorer
+If you want other people to see your website you need to upload it to a web server Its not on the internet if its just on your own computer You could turn your computer into a web server but that probably isnt the best way to host a website The 
+Thank you this was a great upload
+how do the paths work to images when you upload html to an actual website to create a funtioning online webpage people can visit since the path wouldnt be on your computer anymore
+Please Upload More Stuff About HTML 
+NickMarshallMusic          srcSource
+Thank you I learned some more stuff It was so easy I wish you made some more 
+Great Job JakeYou demystified programing language Thanks The other presenters seems so selfobsessed and unnecessarily convoluted 
+can you make a video on creating tables in html and styling them internal and external styling
+nice video
+i need learn very pro HTML
+technically it is 12 minutes and 16 seconds not exactly 12 minutes
+html  12html  
+Thanks
+HDVideoGame Youll be able to get a free web host but not with a com domain youll always have to buy one of those Instead youd get a subdomain like hdvideogamerandomwebhostexample
+jaketvee ok thanksbut i need to ask youis anywhere a webhost who will keep my website freebut with a domain com
+your accent  life
+Well explained Thank you for making this video
+Is this how every website was madeFor example facebook and twitter And can you make a social network using notepadIm dont want to do this because im guessing it woild take mobey and advanced knowledge of coding and webdesignBut im just curious
+Awesomethanks i will try it now  
+hi great great great great video im a new youtuber i actually like your video and make videos on the same niche i will try to learn from you thankz 
+hey i cnt see anything other than my title and nothing else what to do now
+Thanks dude this really helped me for my school project
+thanks bro for this
+thank youit is a good start for me
+ tomorrow is my exam  Thank you so much
+i will help who want to design a project in HTML 
+man i respect everything you said but dont display my picture bmp
+If you use a mac use applescript editor 
+im on a mac using text edit and when i do basic html coding i then open it and all the browser google chrome does is display the codes not the titles and stuff any help 
+Best vedio  thanks man
+He sounds like seven hawking
+Thanks Youve helped me start on a hobby that could turn into a career
+wow thanks it helped
+Thank you very much i understand D
+Good brief overview
+You need at least 1 month to learn HTML
+Look at the top menu on notepad and find run then click it and it will say run in Firefox Then choose which browser you want it to run in
+Thanks so much I love this
+Happy New Year Jake Thanks for sharing this lesson you are an excellent teacher I subscribed
+Thank you so much Im looking to take my career into coding and you just helped me start it 
+SuperSexyBoiGod Yes I did I thought Id make a new and hopefully better version
+ Im begin in the field of web design I want to share my friends the same attention 
+Thanks God someone uploaded something useful Another subscriber for you bro
+Try this nowwwwclearshoppecom
+the way you say paragraph shivers
+Hey everyone make sure you have save dthe name as indexhtm or html just throwing that out there with those who have beenhaving problems 
+InformativeThanks
+your english very clear its made the lesson very interasting
+verry help full
+Good lesson
+Thanks For The Video 1010
+Thanks Jake this helped me a lot This is a whole lot easier to understand as a beginner than a lot of other tutorials
+Thanks for the video
+Probably CamStudio
+      
+my picture didnt upload and at the end of the vid you said only you was able to be able to view the site if you have it in your documents whats the point of creating a web site if no one else can view it from theree home
+jake wright please help image didnt work for me too please help me
+How do you add a background image to a website Thank you 
+nice cool thanks
+What does h1 means again
+Thanks 
+12minutes  niceeeee
+Your awesome british accent keeps distracting me good Lord 
+Thanks a lot for the nice tutorial Javed from Bangladesh
+Excellent tutorial thanks
+ Get hosting account for just 1 cent at hostgator using coupon 1centaprlmay2013
+Very Nicely done 
+so easy thanks mate
+No I Mean Create A Small Page With Files Stored In The Systems Server
+You sound like a combination of Daniel Radcliffe and Zayn Malik sorry irrelevant
+goooooood 
+you can only watch this shit for a bit befor u have to leeve this video becuz this motherfuckers voice sounds so fucking annoying and gay
+Found this most helpful Thank you
+Why would I chose xhtml over html
+Thanks very useful
+Well you silly person give the basic code OO
+is there a way to host it without a ftp software or online service
+Cool
+Thank you so much for sharing this  it was extremely helpful  Im going to explore html a lot more  thanks to you  it looked so confusing up until now but youve made it look so simple
+Bro U rockyou taught so nicely
+thank you so much like subscribed 
+hey Jake why dont you make MATLAB tutorialI am desperate studying that 
+HTML5TUTORIALGURU COM
+Im gonna enjoy using this

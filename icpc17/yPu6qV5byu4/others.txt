@@ -1,0 +1,385 @@
+was good but too fast P
+Great Tutorial covers a lot Thanks
+Strange you downloaded MySQL Workbench but then did all of your SQL in the terminal Its much easier to create your entire database using MySQL workbench Even if you are hand coding MySQL will prompt and error check while you are typing 
+You do not have enough likes It is an excelent work I took a DB class almost 10 years ago and thanks for your video I remembered all  it was under posgreSQL but it is close enough D
+Wow man You helped me so much Thank you I really appreciate what you do Hugs from Argentina D
+You have earned a sub from this video the python video and the C
+Thank you for creating this it has been a big help
+Your videos are a beacon that guides me home atleast to my bread anyway and likewise so for many underdog college grads like me Im sure Simplifying design like that in condensed one hour very well articulated and carefully covered videos which help me overcome my programmingscripting demons I wanted to write a thank you note but I wonder what I have ended up with So thank you Mr Banas for all your hard work D 
+Thanks for your tutorial very useful After learning your tutorialI have a deep insight for mysql
+THANKS MAN
+Thanks Derek for your  well prepared presentation clear explanation and simple expression
+Thank you for such an amazing tutorial Its perfectly organized in the easiest way for the comprehension of  the material It took me about 8 hrs to learn it by saying it I mean that after watching this video and practicing on every example described in it I actually can use the sql which in ordinary circumstances would have taken several weeksprobablyPS subjectively speaking you organized your tutorial in the way that complies with the way I thinkwhich happens extremely rarely Usually the online courses that I have taken include huge amounts of unnecessary material the person speaks to slowlyand in the result I keep loosing my focuswhich didnt happen at this videoAgain thank you so much
+I like the video but Im new to Mysql or sql  I will need to reveiw this video 5 times more I do see a patern of syntaxThanksGloria Bronner MPMMPA
+this is exactly what I was hoping for when I searched for a mysql tutorialthank you 
+I started with WAMP3 and they did change from 25enough to make it suck the lessons you give here are great
+Great job in explaining some much in this video
+I watched it all m8
+Very good compilation of all topics Well explained as well Thank you
+You are the BEST on line tutorial I love your speed of talking and clean explanationThanks
+you mother culero
+Nice tutorial and exactly the primer I was looking to gain a basic understanding of MySQL
+I wish I had found your channel some time ago
+As a fast learning but attention deficit individual I really appreciate these quick overviews Lets me know exactly what I already kinda know and what I need to study more of all in under an hour Thanks Derek
+I watched the whole thing Thanks again
+Wow this was really awesome  Lots of information in a short timeframe  Im going to need to watch it another time or two to make sure I got everything  I see some other videos of other things Id like to learn as well so assuming theyre as good as this one Im definitely going to hit that subscribe button  THANK YOU
+jjhhhghgghggffffddd
+Awesome tutorial Packed with information Love it Thanks Much
+Wow a fellow twin peaks fan
+much too fast for me i had to do a lot of pausing and replaying but great examples and such regardless
+Very helpful Thank You 
+Thank you that was a great jobkeep doing the good workGob bless you
+Great thanks It looks easy and you explain good a little too fast but in a short time LIKE
+Thank you for a great useful video 
+You are the best Derek thnx for the great informative tutorials
+Derek I am guy from Slovakia of age 28 in September I explored the beauty of programming when I was 10 years old on Commodore 64 however in some age I stopped and went other way in my life when I tried to understand objective programming maybe five years ago I did was not able to figure out how that really works but thank to your videos I was able to code my own application and I am very grateful for that world needs more people like you amazing teacher
+Hi DerekDo you know if there is a network system software for network computers that would contribute its resources to help slow computers to perform faster like Autodesk Backburner its for 3D rendering purposeBut generally for using a computer for making it faster
+Hi I am pretty new to sql All the tutorials I have watch show me how to connect to a server but they do not show how to create a server It is properly me not understanding since i can not figure it out with any tutorial
+Excellent tutorial well paced well explained and all information no hesitation or waffle
+I watched the whole thing Great content plenty of examples Would recommend to anyone looking into MySQL Looking forward to watching more of your videos when I have time
+Youre the real MVP my friend This actually IS everything you need to know about MySql Thank You
+Hi DerekIts darren again Hope all is well Do you have anything on crystal reports Thanks 
+you are the best
+amazing
+This helped so much Thank you for taking the time and effort to do this well
+Derek You are an amazingly productive all rounded charismatic personAll the respect for you man I hope that you will find all the success you are looking forThank you very much for your time and effort
+Great tutorial A lot of information Thank you
+This is too fast
+Thank you very much for the video Very informative and awesome that you fit in so much into a single video I feel like I have an extremely much higher understanding after watching it than creating my own database the second time trough Many thanks good sir
+I watched the whole thing I thought it was very well done Thank you for putting this together
+I watched the whole video  Thanks for the great tutorial
+Thank you your tutorials are the best Somehow you manage to make things to seem so simple
+U r the boss bruh
+thanks for tutorial
+Thanks a lot The tutorial was simple to understand and follow I enjoyed it
+Awesome tutorial make some like this tutorial for other kinds of database like NoSQL mongodb
+This is great  Thanks
+Watched the whole video Im new to SQL so was bit fast for me but was great one ever watched
+Love these tutorials To the point with minimal chatter And if its going too fast or I need time to absorb a concept I can just use the magic of the pause button
+Watched the entire video thanks alot Do you have a video about SQL and PHP working together
+im having my final interview tomorrow and this video helped me a lot in recalling mysql after a year Thanks a lot this video is great thanks for doing this
+amazing work
+Thank you this is a great tutorial
+Thank you so much for this tutorial It was really helpful as I prepare to work on my project using Java and MySQL
+Awesome Video Derek  You are making difference in peoples life by creating such videos
+Awesome video very helpful for a complete revision thank you
+Hi  This is an awesome video Thank you so much for posting this
+I always look at Tutorials on the You tube as they are quick source of information And I can say this is one of the best I also watched PHP Programming and planning to watch c and Java as wellI am also Looking forward for the object oriented part of PHP Also anything advanced with MySQL would be great Thanks a lot for these tutorials May God keep you happy 
+Thanks for the video I love how concise it is Im going to rewatch it before any SQL projects I start to refresh my memory p
+nice watched the whole thing
+i have troble logging in syntax error  and lots of other codes
+Great job for anyone who wants a basic understanding of SQL  GREAT PRESENTATION AND FANTASTIC VALUE  Very nicely done
+Thank you very much for this amazing explanation
+Watched the whole thing Excellent presentation  examples are well presented I will watch this again and recommend to others
+What a great overview thanks for taking the time to do this I hadnt done Mysql in a while and this was very helpful
+This video is something known asAwesome
+I watched the whole thing Good job
+Watched it all Very useful
+Great  Thanks 
+Best MySQL Video  Thanks
+For those who are struggling connecting to their database This is windows usersFind your Xampp insallation path for me the path is CXamppmysqlbin1 Open Command prompt and enter the followin do not enter the list numbers 2 CD then press enter3 C then press enter again4 CD Xampp press enter again  note Xampp is a file I stored my xampp  CD means go to this file5 CD mysql then press enter6 CD bin then press enter7 mysql u root p then enter if you made a password enter your password after pThen after that you are ready
+Great review of what MySQL can do
+For those who are struggling to understand what he means by moddable he means multiple
+can i have your mail id please You discussed just like spoon feeding to freshers
+you said sex at 1319
+kys
+For long I wanted to learn MySQL and I have to admit that your video was best kind of it Now I can have a sense of experts ing
+soo fast though
+Youre the best Subscribed Liked Shared 
+tysm covers alot
+Well explained and very clear to understandBien explicado y muy claro para entenderlo
+One of the first tutorials thats not so slow it bores me till cant focus Really liked the whole video will now watch your other videos 
+YAY Now were all ready for functions views normalization optimization distributed DB clustering load balancing and disaster recovery JK Excellent tutorial I needed a refresher and this got me right back on the horse after a long hiatus from SQL Back then we called it RDBMS Dbase  Rbase Stop laughing  Seriously though your vid brought it all back like riding a bike Thanks
+Well  i watched the whole thing and i want to thank you sir for this amzaing video
+This video was really helpful and IMO a great introduction to MySQL Thank you
+Brilliant video for a quick recap on whatever I had learnt Thankyou D
+your tutorials are GREAT
+Whew that was a good chunk of info Now back to Java Video Tutorial 34Your channel is awesome man
+Awesome tutorial man  I totally loved it  Keep it up 3 3 3
+excellent presentation
+Very helpful Thank you
+Excellent tutorial This really got me ahead of the game and served as a nice supplement to my coding bootcamp
+Is there anything you do not know Thanks for the video 
+Wow this is awesome Ive been searching for days for some sort of course or tutorial that would explain even how to create a new database I watched 10 mins and it has been a huge help More useful information in 10 mins than searching and reading documentation for days
+For those who are struggling to connect to DB and use Xampp  open cmdcd Cxamppmysqlbinmysql u username p h 127001 PasswordSHOW DATABASES
+Great tutorial NOT TOO FAST Just right so we dont get bored Use the space bar and rewind if your not getting it If you dont have basics of database then get a book
+very nice will help me make decision on moving from access to mysql
+Need to watch this multiple times Packed Very fast presentation
+Excellent Tutorial Derek Ive not yet used mySQL or attempted myself but Ive bookmarked this page Looks like a top notch reference  Thanks in advance
+wowwhat an amazing explanationu really helped me a lotThanks a ton
+Awesome i love this video great job and keep it up
+i spent roughly 400 mins watching this very helpful
+Thanks for the video Very usefull tutorial
+Watched the whole thing But it got very complicated very fast xD
+Watched entire video and its awesome Very detailed oriented and almost all commands are covered under one video Thats perfect
+You are SERIOUSLY incredible Im amazed how clear concise and informative you were for 45 min of time
+Feel like bursting  but i like it D
+Easy as pie
+Awsome both thumbs up
+Great video All I needed to know Thanks a lot
+you sound like that disney voice character kronk  from emperors new groove
+Hi DerekGreat Explanation  and enjoyed then your next tutorial will be mongo db  RegardsRaja
+Dude you are beyond awesome
+Great refresher
+This is such a huge help I learned more in 25 mins from this vid then I did in 2 weeks of school  Subscribed
+You are the best Thanks
+Thanks Watched it all at 2X speed for a super quick overview Now to dig in
+Id like to see a 3D modelling tutorial in something like Sketchup or Maya 3D which is free httpwwwautodeskcomeducationfreesoftwaremaya
+great tutorial thank you 
+Very helpful video for the MySQL beginnerThanks
+I guess Laura Palmer missed all the tests
+that was awesome Thanks
+Very good video
+Always learning something from your posts
+Super helpful thanks man 
+Thanks for the informative video Good effort you put in
+                 
+Hi DerekI just want to say thanks for this wonderful video Very informative and clear So thanks again
+HANDS DOWN best teacher Love your videos 
+Very Useful Thanks
+Wow this has taught me more than my whole undergrad has lol this short little video couldve saved me in my database course P If only I found this earlier lol I feel really confident with my queries after I finished watching this Well Done
+Really cool video
+I like the way you make the videos learned Python and now SQL  that I need for my faculty classes ONLY I have to watch it on SPEED 15 so it makes me stay focus trough whole video But great work 
+I did not watch all of it but I watched most of it
+Thank You so much for your knowledge great
+Great video
+Hello DerekYou have always been a great inspiration to meIf you find some free time please make a video for the rest of MySql as well as triggers and transactionsThank you
+great job
+Incredibly helpful  thanks for making videos like these 
+INSERT INTO student VALUE   Dale Cooper Ok so I had to pause this video bcuz I feel like Twin Peaks is calling 
+This tutorial was perfect 
+Thanks  This is one of the best tutorial Ive seen 
+Thanks a lot Derek your tutorials have been very useful 
+I just watched the whole thing and it was a very good tutorial I already know SQL from my studies but that was several years ago This was a good refreshment of my knowledge We did this thing in class where we designed an SQL query to pick the employee who earned second most in salary in company and that was a pretty tricky query I forgot how to do that one now hope that I dont have to do something like that when I work
+Thank you very much Light years ahead of the other videos
+Genious
+Amazing  Thnx Dude You Got A Subscribe From Egypt D  So Helpful
+Great video Derek its great see someone put together information in a nice tidy package
+Pretty Nice I watched the whole video Quite Resourceful
+awesome as always
+Awesomegood job on putting useful scriptsqueries together
+great tutorial  It really helped with my understanding with SQL  Seeing you put it into practice was extremely helpful
+thanks so much man this was very helpful you explained everything i need thanks a lot
+Great video very informativethanks
+excellent all inclusive tutorial in just 40 minutes
+Thank you Derek Its very helpful
+just watched the video in full first to see what MySQL looks like the hardest part is to get the software to run and practice after watching video MySQL doesnt look so bad
+Awesome intro to the SQL Cheers y
+Extremely useful video Derek  bravo 
+Great video Very concentrated but still comprehensible You can read all this in books but watching someone actually do it is invaluable Also there must be a great job of editing done here because I cant believe anyone could have done all this demo in one shot 
+Its awesome thank you for the tutorial
+Very helpful video Thanks for this upload
+or just use phpMyAdmin
+thankz  best SQL learning i saw still now
+like your confidence when you teach
+Twin Peaks fan 
+I love you
+Great tutorial Thank you This was very helpful and had a good pace Really Appreciate it D Hope there is more one video tutorials like this for other concepts as well
+cool vidmaybe if I watch more educational vids instead of crime I might learn something useful
+good work Thanks yup watched the whole thing 
+watched the whole thing thanks for the tutorial 
+I just wanted to say Bravo I went from not knowing really anything about the language and a vague idea of the concepts to building a full database of my relatives and tracking relations Super helpful thanks a bunch
+Its the best introduction to mysql ive ever seen congratulations Not even the programmers ive met in my previous internshipment know that much
+Well I thought it worked but dont get the datetime its just 00000000 and 0s for time also By the way I am useing phpMyEdit to create the php file
+Thank you very much Very concise but extensive tutorial helped me a lot
+thanks good tutorialyou are awesome
+Derek youre a top notch programmer sir I love watching these just for quick referenceYou dont happen to know ActionScript do uI have been programming a few videogames quiz style but Im looking into motion graphic style games I have heard using Java DoubleBuffering is the best way to go but in all honesty Im not a Java Programmer Once again great vidsjbarnes
+I saw the whole thing Great tutorial I learned so much Thank you for the Cheat Sheet because I definitely did not remember everything I saw but it helped just to get familiar with all the commands Keep making more videos Looking forward to exploring your channel more
+Very helpful videos This kind of concept assists by getting the broad sense of what a languages can do with good detail as well This and the Golang videos really gave me a a strong start
+Hi Derek This is Abhijit I really appreciate the effort you take to make these videos covering such a lot of information in a single video The way you teach really makes it easy to understand how things operate I am getting into practicing SQL right awayRegardsAbhijit
+very crisp
+greatly greatly Appreciated It is much easier to understand coding by terminal than by sentences in books
+Thank you for the video Im not able to go to school right now so I feel like watching this and practicing a bit on my own will ease my anxiety and make me more confident when I go back to school I like being able to scrape the surface and get familiar with what coding on the job is actually going to look like before I decide to make a career choice 
+Terrific stuff for new SQL users  My experience is based around SQL Server Management Studio so Im spoiled by intellisense hints 
+thank you so much
+I absooutely enjoyed it And learned a ton just in the past what seemed like 4 hours with breaks I took notes and tested each sample copying  pasting my proven tests into a note document for fure reference My goal is to work with MySQL and iOS apps and Dreamweaver generated pages Any clues on these let me know please Thanks again
+Thanks a lot for this
+Clear voice nice video thank you
+extreeemly informative thanks
+Very nice tutorial
+Thank you so much You actually made programming fun again for me and now I can program in any language within an hour Life has become so much easier with these videos and also a bonus cheat sheet Please keep adding new videos Thanks a ton again
+You are very good at what you do sir Thank you and all that
+Its Great tutorial Dear thanks for sharing 
+Great Twin Peaks references
+thank you for the fast reply i can do the tut from mysql command line but id like to follow along from start to finish as i am using sql plus and mysql so learning this will help me faster with understanding the syntax which is my weakness taking 336 intro to db and design very lab and group heavy
+excellent
+Thank you I stopped taking notes at 3000 I didnt follow up with all the tables but I did understand quite a bit I know a little bit of python and I knew some SQL too I use access so the mouse does everything for me
+that was real good  very clear thanks
+Thank you Darek I could not imagine better explonation 1 
+you are awesome
+Thank you Derek
+Wow this is hands down the best SQL video I have seen  I am sure most of us have paid 3k plus for SQL classes that do not even come close to this  BRAVO
+On a sidenote Derek you win the YouTube Respond to Comments and Fans award Thanks for always interacting with us and making great content
+Your videos are awesome I love you subscribed And yes I got to the end of your video
+Excellent tutorial Derek As always keep up the great work Thank you so much for sharing your knowledge 
+The compress level of this tutorial are very high  weight much 
+ Awesome video it is greatly appreciated
+Thank you so much bro Appreciate it D
+I had to share this with the Computer Science Club at my school it is really good
+I love these Videos Clear  straightforward and most of all short
+Ive got a huge server with a mess of media that I need to take stock of coming at the end of the month and I havent look at mysql since college This is just the dustoff I needed thanks
+Thanks for the vidsyou are a true Master of the Internet
+Its very useful  thank you soo much for this video   
+Watched the whole thing Very helpful Thanks
+Here my first attempts with MySQL it looks easy and well done
+Great job Efficient use of time excellent information clear and concise
+I have Only 5 Minutes and the tutorial u describe is to the point what i wanted for so long thank you so much
+Thank you so much Derek for this great tutorial
+All of these videos are not perfect eg many people complain about some small stuff missing but they are excellent in giving most people enugh information to get started immediately without having to research the stuff for several hours I like them a lot
+thank you so much had a better idea now
+Very good video covered extremely well though I wouldnt mind learning about using UNION
+Bro this is so useful  Thumbs up for you
+Hey derek thanks for video FINALLY I could understand what joins are all about D
+Thanks Derek
+Watched the whole thinggonna watch it againand probably a few more times after thatjust find the way you deliver information much easier to understand than from reading booksfeels way more interactiveA sincere Thank You
+Very nice tutorial 
+i have taken several SQL courses to get all this knowledge from different angles this is a fantastic tutorial and it explained some lingering questions that id had after other courses thank you
+simple AND to the POINT
+Awesome  now I dont have to watch other tutorials 
+Great video and easy to follow Thank you
+Your accent is Western PA am I right
+do you have a video for kids to learn computer programming
+I watched the whole thing cause I love your videos You are the best teacher on the interwebs
+Excellent tutorial and delivery Nice to have a presenter who knows how to speak a sentence without a ton of interruptions vocal pauses and other annoying speech mannerisms so frequently found on the Net Straightforward information in a tight and easy package and would like to see him do something similar for Ruby
+12 Weeks class turns into 41 Minutes class
+Thanks a lot man Ive being following almost all your tutorials you are just amazing
+Sweet and awesome
+am newbie i want to know server management
+Hope your health is better
+you wanted people to leave a comment if we saw the whole video DI did  Well one thing to notice is that it all went really fast not to fast though it was okay  but not faster D Since some people cant follow up all in all a Great video and good quick Tutorial on MySQL i knew nothing an hour ago and now i wanna give it a shot just for fun D Thank you for putting your time into these kinda videos you are helping a lot of people to get started or getting a better understanding for this kinda stuff D
+thank you and it was really helpful and did cover the MySQL really well  
+Excellent one
+Thanks Great class
+Wow Fantastic introduction to MySQL Thank you
+This tutorial is very useful for beginner and we want a video on triggers stored procedure and transactionsThank You
+from iraq thank you very much my bro
+Thanks again  Great tutorial great teacher This is what the Internet was made for 
+As someone who is breaking into the software developer world I always come to your videos first whenever I need to learn a new languageframeworkskill There is nobody else doing video tutorials that are as easy to follow and informative as yours Production quality is high youre easy to understand A work sir please keep it up
+the interface of my MySQL Workbench is completely different to the video 
+Watched the whole thingTook some of the mystery out of MySQL Gonna have to comeback and write things down so I can throw it into virtualbox and play some and commit to memory Thanks from a mechanic trying to get into a less painful but just as fun career
+Thank you for this video I found the examples to be very helpful D
+Watched the whole video D great tutorial Thanks
+I started with your new Ruby on Rails tutorials about a week ago and 5 videos in there hasnt been one that has disappointed  These are all fantastic videos and they have helped tremendously
+Great video thanks mate
+Fantastic videos To the point practical and full of useful real world information Thank you for taking the time to make and post these
+ya da MAN help me a lot Thanks so much
+This was really useful
+great thanks
+Greeeeeeeat  training video thank you
+Awesome vid lots in so little time It got a little nasty in the last 2 minutes tho lol but much apreciated lesson This combined with the xampp i have installed my jdbc book and the MySQL crashcourse book i have comming in will probably get me ready to include this under my developers resume
+Best video I have seen so far
+Hey Derek I only have one question How come you know everything
+thank you for the postit is a very good introduction to MySQL
+Very thorough and explanatory presentation of MySQL in a short video Keep it up
+Im fluent on MS SQL Server Given the speed this would have been a nightmare to try and follow coming in new and looking for an intro tutorial I can understand why some feel this was much to fast
+Amazing video Very clear very practical I was searching for info on MySQL after being incredibly disappointed with a college class that was supposed to introduce me to this subject but instead focused on busy work like rewriting in a word document an entire chapter from the book yes this happened Anyway your video was EXTREMELY USEFUL and much more informative than my college class is turning out to be so far
+Very niceThank youYou should easily put  the suggestion up there feel free to pause the video if you find it too fastAlso thanks for recommendation for the book I just ordered it Hope it works for a beginner as am I 
+i love you forever 3  3
+Thanks for the answer It works now
+  hello   its me 
+Derek this is one complete package so much in just 41 mins Information density per unit time is quite high And I really like the video for this
+one of the most extensive and compact tutorials on mysql awesome
+Its as if youve read our minds how exactly we want tutorial videos to be Excellent pace Comprehensive coverage Thanks a ton
+Great tutorial Thanks for bringing the Twin Peaks characters back together
+This is a very good summary I love it
+You are great 
+Great very objectivety
+Thanks for this awesome video Derek 
+Derek Thank you sooo very much for this awesome tutorial May God reward you back for brilliant info you provided in this awesome vid H Majeed
+Very good content and easy to understand
+For those struggling with the a 1067 error on a windows installation while using a later version of MySqlwithout XAMPPYou do not need the final NULL value for the primary key since it is set to AUTOINCREMENT
+Great video and thank you  I have been looking for a good information tutorial video and so far this is the best Do you have a video in JavaScript
+This was very useful thanks I watched the whole thing and have now started building out my database to store player data
+Thanks for the video very helpful
+I really like your video It is straight forward concise saving me a bunch of time listening to other people LONG explanation thumbs up
+Really very nice Thank you very much for this kind of share
+Thank you very much D amazing
+youre the best 
+This is incredibly outstanding You did a great job by making this one shot video covering major aspects of sql Thanks a ton for video
+Excellent we need more tutorials like this 
+Your video just saved me so hard I was going to fail my CSC 436 Databases class Everything I was doing didnt make sense for this one database class I have but now I understand everything Why couldnt you be my teacher
+Great video  thanks again 
+Very informative video thank you for posting it Can you recommend any projects for newbies to get hands on experience other than recreating what you did in the video
+Awesome video Wish I would have found this video while I was taking this course for college last semester I made an A in the class anyway but I struggled This would have made my life soooooo easy
+great stuff man nothing here you cant do in R or Excel but a lot of companies seem to be using it so thanks for the video
+Waooo Dareck you are killer programmer i like your coding style and flow of things that you cover in pretty short time
+Very informative Great for a quick brush up and overview of MySQL Subscribed
+Dale Cooper nice
+Great Presentation 
+Thank you so much for putting this video out I saw the whole thing and followed the tutorial by creating similarish databases to test it out myselfI got here because I am trying to make a bilingual website and I figured that this would probably be the best way Thanks quite a punch you pack in 40 mins
+My college had me install sqldeveloper and didnt really do a good job of teaching it  Thanks so much for this video it really helped me understand the nuts and bolts of working with MySQL  Before this all I knew was concepts which really isnt good enough
+I am currently learning MYSQL This video is excellent  thank you
+I always appreciate your concise statements editing out of fluff and especially the cadence of idea flow  Those things seem to reach into my brain on a deeper level and more efficiently than most videos and books
+Great Tutorial it helped me a lot
+do you have a skype to hit me up if help is available there too its alot faster kirbyjr1
+This was so fantastic Thanks a lot for making thisAnd I actually did watch the whole thing D
+Amazing tutorial perfectly suited to a programmer just getting into databases D In just 40 minutes I have all the base understanding I need
+Very useful and timeefficient tutorial for SQLnewbies like i am
+Always doing an amazing job with your videos Derek
+You made it very simple and practical for a quick and good startWell done
+This was an outstanding video  As a long time dBase Clipper and Access programmer I am looking for an application that I can use in both Windows and Linux This video gives a very good overview and provides a reference that one can use
+Thankyou Professor Derek
+I wish my workbench 63 looked anything like yours so I could comprehend what youre doing
+Good tutorial but requires users already know how to set up MYSQL workbench not too difficult but requires another YT tutorial and use Command to access mysql which I still havent figured out
+Really a nice one  I greatly appreciated
+Great video It was very helpful
+cool stuff sir thank you for the videos D 
+the tutorial is good but youre speaking too fast I cant keep up with all that new information coming so fast
+nice video thanks a lot
+very nice video it is helpping me for my examvery nice
+You are a legend I need double portion of your anointing
+Great refresher thank you very much
+I watched the whole thing Took me 4 hours to do all the the commands in mySQL workbench but this was a tremendous jumpstart in my mySQL skills I think now I am ready to hot the ground running in my new job Thanks a lot
+Thank you
+Those are some old ass students  nice video 
+Wow Nice stuff It will take me a while to get through it all  Im slow
+Thank you for that pretty introduction to MySQL its deep for real
+Excellent
+Like a tutorial must be like
+Just what I needed Big thanks
+Im leaving a comment because I watched the whole thing
+This is the best video Ive seen so far He gets to the point and entertains at the same time
+Man I love your videos only problem is is that your talking speed is a bit too fast for meI wish YouTube had a 075x speed option I currently watch your vids at 05x speed during difficult parts but its a bit too slow lol
+really concentrated helpful in creating and using database
+Thanks for making such kind of useful video
+Great tutorial Thanks 
+i saw a bunch of complains in the comments but it was just perfect for me HUGE Thanks to you there are no better tutorials on youtube than yours in this field
+This is simply amazing I will recommend you to my students Bravo and please keep up these life saving tutorials
+Great job on this tutorial Thank you And yes I watched the whole thing Cheers
+Watched the whole thing Thank you This tutorial is very good if you have previous experiences with Databases and want to warm up your memory as i did People doing this stuff for the first time may be little confused with this phase
+good video keep it up
+Really good  thank you for all your effort in explaining MySQL
+Excellent tutorial Will watch your others
+I will be getting my MySQL certification exam this December Glad I watched your video as a refresher Thanks a lot Derek
+Im two minutes into this and more confused than when I started You go insanely fast Its very pretty and you have a great voice but this would be better if it was broken into five videos of a little longer length
+Nice
+Great the talking speed is great
+MRPERFECTIONIST
+Awesome tutorial thank you Derek
+very nice video short easy and fast
+yep for me i did watch the whole video
+Thanks for this awesome tutorial
+standing Ovation to Derek banas Wish we all become like you one day in this topic
+SQL workbench does not work like this video says it does At least not anymore The interface is different now
+thanks a lot derek  great tutorial 
+WowVery informative and educational Im astonished about how much this video learned me in just 40 minutesThank you very much for making these tutorials Derek
+A very information packed video I need to pause and play every time just to absorb it
+great video i highly recommend downloading and working on mysql workbench instead of the terminal
+how can you remember all the keywords 
+Wow I am self taught and have been using SQL for years but I saw things that I had no idea existed but will use in the future Best 45 minutes I spent in years I am now going to check out your other shows Keep up the good work you should be proud of your self
+Excellent preentation Keep going
+asdfasdf cool
+Thank you so much its very helpful i have an exam inn next few days god blessed youSorry for my bad english
+Thanks for the tutorial Very informative and helpful 
+This stuff is hard I am in a course at a university in USA and our Chinese broken English speaking instructor has us typing and running queries directly in the Oracle SQL command line He provides our statements in Word and then we have to correct them in Notepad and then paste them into My SQL command shell Half the time it works the other it does not This is hard to grasp I cannot even look at the modifications I am supposedly making in tables because half the time the queries have errors FrustratingWhat software do you recommend using with Oracle 11g Express to learn how to write and correct quiresThanks
+thanks Derek i actually took notes and stuff this was EXTREMELY helpful
+my best way to learn is to make what you do like insert data but then i make a different as you so you made student i made accounts
+Dear Could you give m your mobile number  i would like to call you to talk about my project and hope you can share it with me my mobile is 886922045488  thanks
+Thanks a lot
+Thanks for the vid man it really helps me relearn stuff I forgot in SQL Especially since I was taught to use SQLite and now I want to actually use MySql as is
+really good tutorial wish you would be my lecturer at my university lol
+This was a great tutorial as always Watched it till the end and you explained everything really simple and good Thanks and keep on the good work
+very fast refreshing up on my sql knowledge thank you
+Great tutorial Very concise D and I find your voice calming much like Tom Hanks P
+Thank you Derek so much information presented with such clarity
+Wow Great pace Learned all I needed Thanks

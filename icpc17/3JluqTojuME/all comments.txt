@@ -1,0 +1,500 @@
+which html snytax do you use If i choose the normal HTMLSyntax it is shown to me as PHP l
+Hi thereThank you for knowledge on web design and sharing it with us I have one issue when creating my website I would like a portrait orientated website I would like to have a background image and then on top of that a background colour As you 
+how did he get a browser next to the note pad
+Thank you
+awesome
+Hello I am having an issue I am new to this I followed every step and google is showing up as a hyperlink When I try to click on it I get a message that the page is not available Am I doing something wrong Any help will be greatly appreciated A
+Im a mac user do i have to enable websharing or something when i click on the html it doesnt show up in my browser
+good tutorial thank you
+to those of you that use a pc not a mac when he says go to chrome and open the indexhtml file you right click on the black notepad screen OPEN IN BROWSER and it opens it in google just like on his screen hope that helps you get started im new to t
+Great channel I am new to the area but I work with this and your tutorials are great Keep up the good job
+Im making my own website for a hobby when it comes to the designing of it will CSS give me enough choices to make a pretty decent looking website or should i learn some photoshop skills
+Im going to sound stupid here but when he opened it on chrome I couldnt find how On Windows I have donwloaded sublime and saved an empty file with html now what do i do
+shouldve explained what indexhtml is at the startyou shouldve explained what that web browser page is doing as well and the connection
+Notepad is also pretty good as well and its my primary tool
+how do i open my file in google Noob here
+It was very usefull  Subscribed 
+Really great videos Watched them all so far Your good at explaining it quickly and efficiently hopefully look forward to more in the near future
+What color scheme is he using
+thank for this video
+i cant connect do localhost9000 what would u suggest doing
+is  DOCTYPE html necessary seen it alot not sure if required
+500 if you put your cursor between the open and close of head how do you get it that its lined out  If i put enter the head and head are lined under each other in your case its not how do you do that 
+I feel like I learned 90x this just from editing my Myspace page back in the day
+Thanks for posting How do you open it up in Chrome
+im having trouble with sublime text and how to actually put the changes onto the website everything is correctly entered but when i press save it doesnt change the website at all i am already using a web test app 
+I was taking a course on web design and they kinda taught me BOTH ways of applying bold and italicsso the standard is em and strong instead of i and b
+bloody awesome
+Im going to be amazing at coding
+When I type a hrefgooglecomgooglecomaIt searches for the file in my PC instead of going to the websiteInstead the file directs tofileCUsersMeDesktopgooglecomWhat do I do
+Hey Con someone pass me The img sorcetext a cant see ir right
+You da boss Awesome Thanks
+leirbagian
+how can i save the file in sublime
+I prefer Vim
+ Real World Coding in HTML  CSS Launch a career as a web designer by learning HTML5 CSS3 responsive design Sass cross device compatibility and more  httpredirectviglinkcomkey378b304254ee943f27ae7890cfce4091typebkuhttps3A2F2Fwww
+how is the text in colors
+hi i need help when i put the text onto the script exactly how u showed it nothing heppened on the webpage even after i refreshed it any solutions btw great video  i subbed and liked and im definitley excited to watch the rest of the series haha anyw
+this is much nicer than code academy and w3c or whatever it is i did uninstall sublime because it kept giving me a process error when i saved hated that because it was nice when it finished the tags for me
+What if you want to use an image from your own computer One without a URL
+Wont you need to start with DOCTYPE html 
+How do i put my own images on
+httpswwwfiverrcomirfa1122designyourprofessionalwebsitein48hours
+This Video is GREAT man  I Know HTML CSS But still this video give me a bettter ideo of those things 
+Time to start  Thanks bro 
+ey once i close all the projects and save em unfinished so i can continue next time but i cant find my saved html coding i cant add more codes does this mean u only have one life coding non stop im like come on man its takes alot of time to code what 
+How do you open your own local host
+LearnCodeacademy Hey thanks for posting these great vids Are you sure Sublime text is free It just prompted me to pay 70 for a license for continued use
+ok so now my img is just a little square with a tiny fold in the upper right hand corner  still no image
+Yo this is a great video I love the pace at which you take it its like the perfect speed thank yu
+Thanks for the video
+hi nice vid but im having in using this sublime text i dont know how to put the indexhtml and theres no highlights in the code im typing im a total beginner when it comes to this stuff so i wish you could help me
+Nice  try dev with OrnaJS lib beauty for landing page
+I have a simple question Why do you have to close ul It seems like Of course its just part of coding but when I took it off nothing changed Is this something that can glitch later on
+such a good dad D
+Man you really degrading real web devellopers do you actually believe if someone learn couple of hml tags that he is web develloper Web development is so much more than knowing some hml and css and litlle bit of javaScript 
+Start with HTML and easy tutorial herekawdoco   learnwebdesign  
+hiI recently enrolled for a java coursecore and advanced Can you please tell what are the various fields that I can apply myself to upon completing the courseHowever Im more interested towards web development In this scenario what is that i ne
+whats the code editor name
+How to move text in such gaps as he did
+can you add me on skype blaapa I am starting out web dev and would be nice to have you in my contacts if I come across any problems
+It wont let me save it as html It keeps saying I need to ask the administrator for permission
+HTML is so easy compared to C FOR ARDUINOS
+You sir are amazing
+what font do you use in that software
+You Sir are a great teacher 
+nicewwwgooglecoinsearchqmagentowebdesignmaxwebinfoieutf8oeutf8gwsrdcreiC3itVrxAseduQS2nKrQBw
+wow a can code now thank
+3nx bro
+I basically learn all this in my myspace days lol  
+In their website the Sublime Text mentions Sublime Text may be downloaded and evaluated for free however a license must be purchased for continued use There is no enforced time limit for the evaluation What does it mean Does it mean that after 
+Hi Dude Good Evening to everyone We are web developers Zoondia provides innovative fullservice web development solutions for your media and marketing needs If you are interested to know more please get us back Thank you Have a great day
+never mind i got it to open thanks  anyway
+awesome tutorial
+At one point I wanted to learn html BORING VIDS EVERYWHERE But then I came to you when you were a small Youtuber The picture from you on a bicycle 502 subs And know I am learning jQuery from your vids You even had your name as a  youtube account
+Sublime text 2s font was soooo ugly lol sublime text 3 ftw
+you did a great job here for learner thanks bro
+I downloaded sublime but how do I get to the website so I can start devolping
+htmlhead titleGreat VideotitleheadbodystrongThanksstrong for the great videobremVeryem helpful and easy to follow br pThis is my first webpagephtml
+im going to be consistent to web development and if i ever get anywhere i will shout this you out cause your tutorials are amazing and a really big help
+Ive taken html classes a few years back and havent really used the knowledge but I saw how web developers are making money and Im like hey I can do that so i went and looked for tutorials to refresh my memory i have been to booooring videos bef
+whats the difference between the head and body tag
+what colour scheme are you using 
+how could i get this browser that when u write the code sublime text 2 its show on itI mean the white one next to the sublime text 2 
+Do you have to learn HTML and CSS in order to do JavaScript Or can you just do JavaScript Great videos by the way
+guys should i download this it keeps saying it may be harmful to my laptopyes or NO
+Why is i improper
+nice presentation
+When I type in html and other tags and I look at chrome it just actually shows up as html HELP
+Great video brother thank you for that
+im really interested in web development but i dont seem to find any good options as to where to study every college that ive found so far is online or too expensive and ive also found that some people study web design or computer science to late
+Great video but Im having trouble with saving the indexhtml file When I save it says its Unable to save indexhtml
+Hi I am interested in learning to do webdesign maybe programming and graphic design by myself Which programmes is recommended and is new age I try to find online courses but I found only dreamweaver which I heared is out dated and not in use anymor
+Well you dont have to buy Photoshop to be a designer either there are very very good FOSS alternatives
+Relay Great 
+Hi when i try to write a tag and want to do a head tag it dosent shows me a list like if you do a h it gives you options how do i enable that 
+Crystal clear  Excellent stuff 
+how the hell do u actually OPEN the folder up in crome am I missing something
+this has been really helpful
+Why is Sublime Text better that notepad
+thats enough  theres some others rools
+Guys if you want to underline use uTextu      Happy underlining
+can you show me how to get to the JavaScript of younowcom
+Thank you so much for this short tutorialI am deciding on what career to take and Ive always been interested in computersIll be back againThanks
+HTML is so easy compared to C
+how do i get that localhost website thing lol when i open chrome it just shows me google ik im dumb but im new to this stuff
+How do you move the text like in 1226 
+May I do this using pages on my macbook 
+I use notepad is there any difference from sublime text
+someone has probably asked this but how do I pull up the code on to a site so I can see the code online
+999 days ago
+How did you get the liveReload to work
+notepad is also another great text editing software
+I keep getting an ad for tree house anyone had any experience with them
+dude you dont give any instruction on how to open the file in chrome really frustrating when a person doesnt know how and is trying to learn off of the video you provide if we already knew how to do it we wouldnt be watching this you need to edit
+Anyone explain to me please what is developer and what does a developer do
+how do I make my website instantly refresh like yours without having to save and refresh thanks 
+Any help  pleasehow can i start pages to start the webdeveloper
+Very useful video Many thanks to the authorAlso let me recommend Blisk Browser  very powerfull tool for WEBdeveloping
+I subscribe you immediately at the middle of  the tutorialYou are really Helpful  Y
+what collor scheme you are using
+great tutorial i think people are getting confused on the saving and previewing it on chrome part
+when I save It  It becomes firefox index
+I know the basics of  javascript and jquery And I was wondering whether i should  just keep my javascript knowledge at basic and continue on to mastering jquery or should I master javascript first 
+is there a code to size down the image
+hey i want to learn about the basic setup you have here localhost and such i used apache2 as my web server on my Ubuntu and i am kind stuck at that point 
+Why Learn HTML Alone When You Can Do it with other platforms like wordpress jhoomla
+332 MEN GO THEIR OWN WAY
+How do I safe my work on notepad so that I can continue the next day
+How do you move the img to the side of some text
+How do I open a localhost like the one youre using
+Hi to author of these videos do you have any udemy coursesI like your style of teaching
+I cant link a YouTube channel when I click on my link it says channel unavailable
+and i want to do something new in website
+how do i use localhost
+Nice Im loving this
+I like the fact that this was uploaded on my birthday
+OFTEN OF10 LOL
+How can i open my site 
+Hey Thanks for sharing this video I didnt know that there is text editor called sublimeI wanna try it now and how long we can use the free trial of sublimehow much is the purchasing fee
+You copied the address of a picture from another website to use as an example  Im assuming this is just an example this is something you would NOTwant to do this as an ethical practice because you would be using a picture without someones permissi
+very very helpfull thank you very much for explaining this keep the vids coming
+I have a indexphp how do i convert that to html
+I cant save my indexhtml in sublime text
+what color scheme is this guy using
+I do have a few questions though about this  I took classes in high school with programming we did HTML CSS PHP MYSQL and Java but the teacher never really told us where we could go with this  I personally have no idea what specific jobs there 
+Very helpful  why did you leave space every time you started a new one eg htmlbodybodyEtc
+How can i connect or go to webpage
+Thank you you have simply made this topic easier to comprehend I do a lot of self studying I have self studied on HTML coding and a little bit of CSS and all i can think is that its so hard to get it into my head but your Video Tutorials are like 
+Please Please make a video like Design fundamentals etc
+Free course for limited time learn web development fasthttpswwwudemycombuildmodernwebsitesin1hourcouponCodegetitfree
+Right so I know quite a bit about HTML infact im watching this not to learn more to get ideas I do this just incase I have forgot something that i dont a while ago just to see if i can improve anything with it Your video is extremely simple and l
+Thank you so much for making these tutorials free
+Not enough explanation for the IDE dont know how you view it in browser after saving
+h1Great Videoh1 Thanks hahaha
+How do you get the auto webpage refresh function
+you should make playlist and separate everything outgithub bootstrap and everything is smashed into one playlist
+I cant find How to create CSS Layouts  Web Development Tutorial for Beginners 4  with HTML  CSS
+D See what I did  Thanks for the video
+cool
+Looking for books on web developing HTML CSS and JavaScript for beginners  If anyone could help me out i would appreciate it thank you 
+You make this easy to understand  I love your teaching style THANK YOU 
+sir i am a begginner in webdevelopment
+if youre using sublime text what color scheme it looks really nice
+u told us that its free text editor but it aint free
+How did you get the auto suggestions while typing but I dont 
+i can not open my html file in internet I must me missing a step I am working on notepad
+i believe now to say bold its fontweight bold
+Weve defined the a tag but it doesnt know enough about itself to know where to go  me
+How do I open it in chrome having problems
+I have this for school project
+Strong or B which is right  and why 
+BIG love for your channel dud
+How do I make the image I want to use smaller 
+how I will open my code on chrome 
+great videos dude clear and detailed explantion ur the best  lolz at the baby crying
+How can i open the indexhtml page
+hi how can i open on own webpage what wwwplease reply me back asap thanks 
+Whats wrong with using DOCTYPE html to start then html langen or whatever and then head  then title then head again then body then h1 p h2 p h2 p and any other img a or we in between Thing is there are a lot of people developing
+So when selling something to a customer would you just send the completed file to them I would like to know the process please thank you
+833  Hell of a site youve created 
+ya very nice explanes everything quick and simple
+Im an Electronic Engineering graduate with some knowledge in coding Can I learn web developing using this video tutorial series I mean can I get a complete knowledge
+Youre such a good teacher compare with so many others When you can teach and making it easy means you mastered it and its without the attitude
+You dont necessarily spend  to be a web designer you can use Gimp instead of Photoshop 
+nice videoI am a web designer please tell me software how can i detect which file use url link
+Man i save that file indexhtml and when i want to open it its not opening in chrome  
+hi how to open sublime text on chromeanybody hepl me plz
+This img href doesnt work for me Am on a mac and using safari they picture comes up as a  every time 
+Using b u and i are still valid for cases when you dont want the screen reader to add emphasis where you dont need it
+where can I go to get the certification for JavaScript and html
+wow this too good and intrusting to learn but as shone in this tutorial all functions are used separately but if it is needed in mixture what we have to do can any one suggest me
+how did you get your local host pleas answer and how
+hi i really like this tutorial that you made i am new to web dev i downloaded the sublime and the crome it doesnt work to me please can you send me more info how set up this same way you do yours thanks
+DOCTYPE htmlhtmlheadtitleVisarzz Channeltitlelink relstylesheet typetextcss hrefstylecssheadbodydiv classheaderbodyhtmlThere is html but we have to using stylecss and editing
+thanks alot this video motivated me to become a pro
+Great video  Thanks for sharing  
+AWESOME F  job keep up the good work
+Dude you know some good books for HTML CSS and JavaScript
+845
+how can i see my html file live like youre doing in the video
+Hi there are there any errors in this code I made Would it work as a websitedoctype htmlHTML Langenusheadtitle My Example titleheadbody stylebackgroundcolorlightBLUEbh1 stylecolorblue My Example bh1i
+i saved my indexhtml how do i open file open in chrome to find my file were i have saved it i have a problem connecting google chrome and sublime text together please help
+Best HTML beginner tutorial on youtube Keep up the great work man god bless you
+very helpful thank you for the video
+here you got a quick starting template Ive put together feel free to download guys httpwww3zippysharecomvVQMC75nvfilehtml
+how do i open this in chrome
+Big thanks Class one done On to practicing now
+and I thought I only needed html Little did I know lol
+dude I am very fresh at this and I really want to learn Your videos look very informative but I cant even do the very first step that you taught Do you have any suggestions
+Image didnt load for me c
+If you are looking premium web development at the right price for your project visit httpwwwebaycomitm252507668029ssPageNameSTRKMESELXITtrksidp3984m1555l2649I saw this ad on craigslist and messaged them my requirements and my website
+I found a good way at memorizing these codes and doing them After what he did try to delete every codes you copied and create one without looking at the video It helps me a lot For an example up until 524 we learned quite a bit so we have to del
+in body put body bgcolorred
+Thanks 
+How can I do same you  having code in one side and viewing in other side 
+realy good u just 14 minutes to html beginner to learn and understand
+how come that your browser is auto reload what browser you are using sorry for my grammar
+Antagonist DC  yes this how you correctly write html code from someone whos made websites for the last 3 years You dont need special software   theres not an official way you just need a text editor and a html file  This is what you do as a 
+Also you seem to have good design skills as well please tell me something as i totally lack any eye for aesthetics
+If anyone needs a blast of traffic to their website this is a great way to get it with thishttpvurmes30daytraffic
+youre so good D taking it slow and easy so i can learn so quickly without having to repeat the video 10000 times thanks
+how do i get the second creen on the browser to open on my computer to view the live updates please reply thanks for the video
+Say me please whats name proqram which you used in this video  My komp window PC
+Question I recently used CSS3 code in a stylesheet for full image background and could not get background image to appear I have used this same code on another computer different img and it worked fine this is HP lap top with Windows 10 I even 
+Why are my tags red
+Thank you so much This was so simple to follow 
+source code plz 
+when i reload the page is still the same why
+Youre a great teacher thank you for your videos
+This video is a litle bit outdated but still very helpful The way im learning is codecademycom best site to teach you D
+i love both web developing and networking but web developing seems  much fun
+HiThank for the html lesson m really excited to see that I can actually construct a web page This is my first ever attempt One problem though my link is not working its directing to the Chttpwwwgooglecom   Why
+PLS HOW DO YOU OPEN THAT PAGE YOU WORKED ON
+easy web development course is available on my channel
+Everyone go look up bootstrap and see what it can do for your site I have been wondering how people make websites look so good and I found the answer today
+LearnCodeacademy hello Sir thank you for great vediobut unfortunately i wasnt able to copy the HTML on chrome can you or anyone who understand guide me plz
+Hello im 14 years old do you think i might be able to do a webpage
+Please help i cant connect the localhost
+Great introduction to HTML Not overwhelming seems to be pretty efficient way to teach
+but dont most websites use php so why learn html and javascript
+Hi Will thanks for offering this amazing video It does help me to learn a lot My question is about how to start the career as a web developer I am a beginner and what I learned is all from your videos I might be hard for me to get an internship o
+What about the meta charsetutf8 
+This tutorial is very useful thanks for uploading it
+Thanks for the tutorialThis has really sparked an interest in me and im only 15Going to continue watching your great tutorials and hopefully i learn more
+I am studying in a University and the class is so boring You gave me the start I needed Thank you so much D Y
+sublime is NOT free 
+I like the colors of the txt mine is just white pls help heheheh 
+GOOd video but it was kinda small
+Thank youGOD bless you
+what colour scheme is he using
+ Learn Web Development Essentials and Become a Web Developer From Scratch in this Complete HTML  CSS Beginners Course learn more here  httpredirectviglinkcomkey378b304254ee943f27ae7890cfce4091typebkuhttps3A2F2Fwwwudemycom2Fbuild
+Im using text edit on mac and i was wondering how to open it in safariD thx before hand hope you can get back to me
+Which OS would you recommend for web development Just curious as I will be pursuing this field as a career
+maybe you can try this link httpswwwfacebookcompagesFreePdfToWordConverter1650433568504651 it provides free and good converter i tried it and feel it is great sharing with you now
+Hello Bro why I dont see 4 pls send me ur link about part4 Thanks you
+I need to start learning more webdevelopment Nice tutorials
+Do we use html instead of doctype html 
+Looking for books on web developing on HTML CSS and JavaScript for beginners  If anyone can help me out i would appreciate it thank you 
+i wanna ask one thingi dont know anything  about coding but i want learn it and build my own website like a web developerwhere i should begin
+SUBLIME TEXT is not freeIt says unregistered
+can you open all types of sites if you know html css and javascript
+How did you get your Sublime Text to indent so beautifully No matter how much I play with the settings I cant get it to show the nesting in that way which makes it MUCH easier for me to read
+Its going to filehard drive locationwwwgooglecom instead of just wwwgooglecom when I first type the a href AND the image is just showing as a little broken file pictureNevermind Missed http
+I have downloaded subline Text app but there are so many of them there such as dash2 textastic dash3 and siteSnitch which one shall i go for
+why are my tags in the brackets red am i doing something wrong
+How do you get the thing up in chrome that he has on the right
+why wouldnt you just just italic or bold with css
+how you set it up to show in the local host
+I have installed sublime text3 on windows 8 how to get the corresponding browser which will reflect concurrently how to get the same working platform like one u got
+How do I make this run on my google chrome I have Microsoft
+I have seen LOTZ of videos  but this one  one of the best I hope the series will be super good Also hoping if there are some deprecatedrejected tags of html5  there will be updated pop up commentsthough html5 was not mentioned   So many vid
+could you teach this things to me online I am ready to pay for your teaching lessons I am looking forward to hearing from you
+great turtorial really helped me for my project at school 
+What if we want to put the image from the file in the computer and not from an online source
+Im having a problem and I hope you respond to this soon as possible bud I searched on google chrome localhost9000 and my google chrome will say Image Of What it says httpgyazocom7dbf01a2d8a3e06e31c757743520b18a I tried to connect to these 
+Whats with all the ads what the hell
+Antagonist DC This is the correct way to creating websites You can create a website in pretty much any text editor HTML and CSS is easy but thats not what makes the website specialHTMLCSS adds content and styling but doesnt add any interacti
+great tuitorialgreat videogreat voicethe best tuitorials Ive seen so far
+thank you a lot excellent tutorial D
+which notebook for web development mac or windows
+Awesome quick tutorials Try to create my startup web page using your tutorials Ill be sure to post a link of what I learn Thanks 
+thank so much for this video ive been using codeademy and this video has helped me understand it so much easier
+How do you make a drop down list
+how to cheange name
+thanks broooo
+This works the same thing on Windows right
+amazingtutorialu make things so simple Thank you  
+Wow really good with how he explained everything and not making it so complicated how everyone makes it seems 
+I love how you made the tutorial so concise others use 10 tutorials to show what youve done in one which bores me to death so thanks for getting straight to the point 
+i am learning at home by these videosthankui dont need to spend money out there at institute n taking booring classes
+okay i may be an idiot or is just missing something but im trying to get my text to change color not just the back ground under color scheme It is saved as html so is there something i need to download or a setting i need to changeedit figured 
+i find this not so hard think this would be a good job
+okay so I downloaded sublime text installed it but is nowhere to be found on my pc I tried it a few times but it wont install successfully I guess or Im doing something wrong what actually could be the problem since Im very tired but if someon
+way easier than this httpwwwelegantthemescomaffiliatesidevaffiliatephpid16263
+Awesome straightforward tutorial
+Thanks for doing this You really helped me 
+hi is this compatible with html5
+how do i name my untiled to indexhtml
+hi could you pls tell me how to set up my localhost and make my chrome to work the same as yours while editing with sublime text Mine doesnt connect to the localhost I would appreciate so much if you could film a tutorial video 
+Heycan i also type in javascriptAnd how can i get to my local host webpageThanks
+how do you get colored coded words when i type in html its just white
+Build Or Enhance Your Website Miroslav Vegh Website Developer And Website Quality Assurance he the 4BN Business Partner and building your website  you can connect with him here httpwwwmeetupcom4BNetworkingmessagesboardsthread492574194BN
+great video i followed step by step and started practicing for the first time thank you for the tutorials
+This video is very informative do you have any thing for non coders
+when i put my image in a black x comes up how to fix
+so ca my friends access my website 
+thanx for the video  please i wanna ask what is the page that you are writing on  its better than writing on notepad
+This vid has summarised me about htmlgreat workthanx 
+Looking for books on web developing about HTML CSS and JavaScript for beginners  and a good laptop raging from 400600  If you could help me out I would really appreciate it
+GET 1 CENT HOSTING MONTH AT HOSTGATOR USING COUPON CODE  PENNYHOST 
+How do I write in localhost
+LearnCodeacademy hey when you put your html file on the server how do you set up auto reload of your pageand how do you keep code so clean i mean its not messy all the time
+I have a question I embedded some soundcloud songs onto my website Im working on but I dont know how to apply css to those I wanted to make them look properly centered and styled appropriately Any Ideas
+how do you install this How do you get the browser like that
+What difference does sublime text make is it just the interface
+If I have a long document with 3050 paragraphs and I need to put p in front and p after every paragraphs Whats the fastest method I have emmet installed with sublime text if that helps
+thanks for sharing 
+thanks a lot you are the besti enjoy watching your video it awesome
+For some reason I can run my html files Their save as html but afterwards I configure python for sublime I cant seem to run html files at all Help
+Great video Learnt so much in  so little time Thank you
+Sorry for ask  why i cant open localhost  or need some application to open 
+Is it the same if you use the indexphp
+I typed exactly what you typed for the image but it just shows up with a small sticker looking thing What should I do
+how to adjust multlines in text editor using shortcut  U are doing at 1231 minutesPlease reply meI am searching for that shortcut from many days
+Mine is a Local File How do I make it Public
+so sir plzzz help me that which type of website should i make
+HelloMarch Madness 60 Off New Hosting PlansTake some time away from your brackets for a sure slam dunk Save 60 OFF all new hosting plans Friday March 25th from 12am to 1159pm CST This is one quick sale so dont miss this opportunity to pas
+i disagree notepad is way better
+How do u link that notepad to the browser sorry but i am beginner
+NICE
+how do i make my tags green in sublime or a different colour than the text haha
+Why doesnt the image come up Always had this problem
+So in this video you basically covered all the html tags
+Guys NO WAY this is all you need to know what about input typesformstables If you are serious about web developing visit w3schoolscom and youll see how much more there is to learn
+Sublime text is NOT free
+Nice Video
+i am not getting the image displayed in my first webpage
+Im here to say thank you for your tutorial Congrats youre a great teacher Nicely done
+Can I use Xcode to do HTML
+I use notepad  is that software fine LearnCodeacademy 
+hey its says web page not found on google chromeany suggestion
+maybe i missed the point how to run this realtime compiling the html css code
+thanks so much im getting into coding and hopefully can learn to become a web developer this video was sooo clear you are a great teacher
+Great Pls what does it take to receive the training  Am interested
+I found episode 4 went directly here havent watched a minute but Thank You
+Why cant I save my first file on sublime permission denied
+Mint
+very helpful video thanksD
+Can someone tell me if this is a good spot to start watching his videos Should I watch any prerequisites to understand this better
+Great intro to web development here I really like how you explain everything in simple terms that even total beginners can understand Keep up the great work man 
+Thank you Jason Owen adding attribute helped
+how did you get to that localhost9000 on your browser
+what books would you suggest to get on this subject
+would anyone please give me the link of sublime text download link
+Nice
+HiIts great tutorial Thanksalso if anyone looking for good secure and cheap web hosting provider i highly recommend to check interServerhttpsinterservernetdockwebsite234761htmlyou can use this coupon BSAVE1 end enjoy 1 cent hosting fo
+How do I get it coming up on the right can u do a video on it pls
+What happened with lesson 4
+How do I see the website
+thanks for this video allow me to say though that i could wait for you to go hug your baby with mom  then make the video 
+nowadays most people uses drag and drop web buildersdamn people building webpage through coding gives more joy
+how should i learn web dev master html first or learn it in conjunction with css and java
+How come that there is always someone that needs a web page for u to make himOr is it like that are web developers making always new web pages or what
+is it not free anymore for Subline Text
+Isnt it required to use the alt attribute in the img tag
+Im using notepad but Im not sure how you get what you write on notepad to chromecould anyone help please 
+All Tags for HTML Defines a commentDOCTYPE Defines the document typea Defines a hyperlinkabbr Defines an abbreviation or an acronymacronym Not supported in HTML5 Use abbr insteadDefines an acronymaddress Defines contact i
+So apparently sublime text is no longer free It wants me to buy a 70 dollar license
+Im on a mac using text wrangler How can I create tabs across my webpage
+I used this stuff on Myspace waaay back when to make my page Pretty Lmao I was a freakin pro at the time so this is pretty simple Had no Idea it was HTML even though its obvious  ha
+wow you are now a web developer hahhahaha thanks for video tutorial
+Have already learned C and Python
+Designers have more work remotely but developers have more money  I correctly understand
+HeyI use Notepad for programing can you take name of your program
+Hey i have a JavaScript prompt inside my HTML page in prompt i have a nonenglish text but inside HTML it works fine but when i place javascript file to another folder the text inside prompt encodes incorrectly how to fix it tell me please
+im sorry i have a problem everytime i try to build in chrome in russian weird symbols appear instead of cyrillic I already changed the encoding to cyrillic but when I build in chrome I still see weird symbols The encoding to use when the encoding c
+hi there Thanks for the video Its been truly helpful 
+Great teacher
+sorry but I cart see the text your writing but thank you for the help
+You said to make another website before you go onto ep2 so I made thisfileUserskmulgrewDesktopDions20StuffCodingTest20WebhtmlPlz Like So He Can See It
+How do you get the result screen on SublimeText I downloaded the program but I cant see how the project looks I can only see the code Do I need to purchase the license
+nice tutorial im using notepad  its free 
+Can you help me With a Web development IF u can Please reply here in this comment sectionYou make a good video I like this video
+Nice video  but i have a question how do we put the title to the centre of the screen centre alignment please reply as soon as you can 
+Why didnt you insert the DOCTYPE html to it im curious D
+can i get all video merged into one zip  for downloading plz
+Hey great videoIs it free to get a web host and where would I be able to get itThanks
+how do i get to open file on chrome
+How did you get the live reload for your page Was it some sort of addon for Sublime or for the browser
+how do you get the web page opened next to sublime text I can input the codes into Sublime text but Im not seeing where the input is becoming output on a webpage Thanks
+i have no file open with chrome 
+I dont understand how u opened it on chrome im on windows 81
+Nothing shows up when I write anything
+Do you think an associates degree is worth it or should I just get a certificate and teach myself LearnCodeacademy
+great tutorial 
+this is the best html tutorial ever tysm
+Helpful post Thanks
+is it okay to use notepad
+I understand the first five minutes or so of this perfectly but how come my code is showing up on my webpage along with what is in the body  Also my title shows up on the website as if it were content
+Hmm Im studying to be a Web designer but now that i saw this video I think I might change it to Web Development 
+Hey I Have this schoolproject which is making a website I wanted some inspiration about the design and I found one that I really like My question is HOW CAN I MAKE A BUTTON NAVIGATION BAR LIKE THIS ONE AND HOW TO MAKE THAT LOGO UNDER THE BUTTONS 
+thanks a lot buddy11
+thanks a lot youre extremely useful compared to coursera
+I do both developer and designer
+With CSS i can make animations lol take that JS
+This is c only scripting
+b i u still works so im not discarding it fully p
+Great video Looks like you are using Apple laptop How do you set up view of the webpage you are developing side by side with Sublime Text Which SW or extension to use How to set it up Thanks
+Dumb question but how do I name it html
+LearnCodeacademy I need help on finding good books on HTML CSS and JavaScript for beginners  Please help
+do you not have to close the line break you put br next to the bold text but no br Anywhere I could see not having to close it since it begins and ends their if that makes sense just want to make sure before I go practicing
+Actually Im seeing its something wrong with my TextEdit preferencesjust cant quite figure it out yet
+THUMBS UPPADYUP
+iv installed sublime text bt cant open it with google can you plz help me out
+Hey its also a good idea to close your img tags with a  instead of just putting and to help with lists think of li as a list item instead of a line item otherwise this was a good video i recomend codeacadamy it tought me html and css in 7 hours 
+Did you have the 2 nd partI a beginner and I really want to learn
+Your videos are pretty good Do you have any advice for someone trying to make a form that includes a name email address subject message and send email button that sends an email to whatever email address you decide to in the code I am using HTML
+Great tutorial Thanks for your time and great work
+the image thing wouldnt work for me hmm
+Hey I am just getting into this stuff as I want to become an emarketer You now have to spend 70 on the license to use sublime text Can you make a video using notepad
+323 that made me LMAO
+Hello Friends I am new into the web development I am trying to look in the internet how can I do that my code refresh automatically like in this video you mentioned that you are using LibraryLoad how can I do that my code refresh automatically in 
+hi will i follow your instruction on this video i dont know what is wrong on my file coz its not work the css when i link it to the html do you have any idea what is wrong
+For a text editor I HIGHLY recommend Brackets Its made specifically for web development 100 free and made by Adobe It has stuff like live preview to instantly see your webpage and autocomplete so you dont have to memorize everything THUMBS UP 
+thanks alot man so helpful video
+If I can listen understand English
+Should you use the following code above the title tag meta charsetUTF8
+Is it me or the video seems blurry
+thank you so much for this web development  series  its very new to me so I keep running into snagsi havent yet been able to get the img link to work  ant ideas  it took me a while but I got the Google link to work just not the img
+i used to use these tags when I used facebook and they allowed us to customize our statuses and comments lol this wasnt hard at all
+LearnCodeacademy hey how are you showing these changes happening simultaneously on the webpage Can you explain that please
+No php 
+This was my first time attempting html and I was able to make everything look exactly the same way you did Your directions are awesome Thank you for making this painless
+Question is for Window environment
+Learncodeacademy Nice vid man Id like to know what are the pros and cons of building your own website rather than getting your own website for free from other companies that provide such services Thanks
+How did you make it so your sublime changes the color of certain words like the html and the strong Mine is just white
+Found this very much helpful except the letters werent clearThanks
+the best Tutorial chenal ever
+Sorry for being ignorant but how do i make my text apear on the websitelocalhost9000is it a program i have to download
+HOW DO YOU OPEN A LOCAL HOST
+Fundamental course for beginers It is a bit old Great post
+Thank you for the share one question thou after awhile when I was using the sublimetext it jumped to a website saying that I need to purchase a licence to continue its USD70 How can I use it for free as I really like this programme thanks 
+Thanks for this tutorial 
+how do i open file
+im a beginning designer here are my thoughts on html wht do you think about itHtml is better I think because you can capitalize tags In xhtml it is to difficult for a beginner in web design I still struggle in html and I dont want to imagine mysel
+Ive always been interested in web developing but never knew if I really would enjoy the process and felt overwhelmed when looking for beginner material This video this video this video Thank you so much
+LearCodeacademy Hi I was wondering what did you to so that in order to have the web page update while you are coding It is getting annoying that I have to keep opening my windows explorer and opening up the file just to see if the changes I made wor
+a newb question but how can i preview the code on chrome
+Do you think its better to go to a tech school or go to a University for web development 
+Very nice tutorial thanks
+guys can u tell me how to open all my stuff in chrome please  ive tried everything but 
+wowyou make it looks so easy manThanks a lot
+what about PHP
+Hey Nice video its really helpful Id like to know if its possible to include a javascript file on sublime and then link it from the html If possible is it just the same like you did with the maincss Thanks
+why are the codes that youre using are green color but when im doing it i get them red is that a problem excuse me for my ignorance
+I cant quite understand you when you say what you are using to automatically see in real time what you write libraryload is it Great guide by the way im about to start a webmaster grade and i found this very helpfull
+hey thanks for your nice and simple tutorials its a great help Actually I have knowledge of HTML nd CSS and i am learning java script but I am confused that what I had learn is enough or not What I am searching for a complete course on web designin
+thank you for giving me hope  with this Congratulations you are a web developer lol   
+Just like thenewboston Thats a compliment
+What school did you go 
+Thank you so much for your videos You are really helpful And your way of explaining is simply the best It was the first video I watched to take a start of web development And now I a feel like a web developer Lol Thanks again 
+Is this HTML5
+Whats the best laptop for developing and maybe some video and photo editing Mac preferred Just should i go air or pro
+How do you get chrome to reflect the changes simultaneously without having to hit refresh every time
+Youre Amazing
+i do exactly what you do but my html and title tags dont change colour when i write html it appears on my webpage im totally new to this what am i doing wrong why is everything different for me than everyone else
+how to i make it have custom domain like instead of fileCUsersXaidinatorx2000XDocumentsRexCraftRexCraft20Home20Pagehtml it says wwwexampleca or com u know plz help me
+For images how do you put an image in from your computer as opposed to a url
+Watch and learn from expert JavaScript videos Discover cool JavaScript tutorials guides projects and peoplehttpswwwlivecodingtvcategoriesjavascript
+HTML and CSS are on the design side of things
+How can i see it on localhost
+what software do you use
+Whats the proper tag for underline
+Does anyone know what a Dildo is cause thats the shity knowledge i got out of this video i need to know how to make a indexhtml file before i can even do any of that
+why there is no Tag options when I typing  like what happen on 410 I am a beginner Please help Thx
+How do you get it to auto complete I dowloaded sublime text but it does not autocomplete Thanks
+Hey Ive got a question My dir local project using Apache on Ubuntu looks sth like thisprojectfolderresources          css                   mycsscss          images                   bgpngindexphpWhen i try to refer to my b
+Nice work
+Thousands of dollars for adobe apps I have all of them for 250 lmao
+Well Not gonna watch an convincing ad says not to watch YT for help and just pay them ten dollars to get a five page tutorial Sarcasm I wont pay ten dollars and Ill watch the vid
+keeps saying permission denied when i try to save it 
+Thanks The Tutorial must Interesting And Useful For Beginners httpswwwpinterestcomwebDeveloperbd
+simple and crisp thanks
+Great tutorials Im on the 3rd part already and Im learning a lot doing it step by step as youve mentioned Im 23 already and I hope its not yet too late for me to learn this and use it to find a job 
+how to rename a webpage
+Help Why cant I find my saved files indexhtml in my finder searched the name also the name of the folder its in nothing is showingnote someone previously worked on sublime on my laptop and im now just getting into it so im not sure what kind o
+One or two videos taught me all of HTMLCSS I never knew making a website could be so easy With that said Ive completed college classes in VB and C so maybe thats why it seems so easy
+Ooohhhh This is the type of stuff that comes up when I rightclick on a page and go to inspect element I see I am officially enlightened
+question is it possible to completely replace javascript with ruby or python Im just talking out of my ass right now but Im curious
+For my first project in sublime the code would color coat itself but when i opened a new window in sublime and started typing my second project it just stayed as white code Even tho it still works why is it doing that
+when i started learning these two it only took me about 1 or 2 days to learn im getting pretty good
+how did he make the tags pop up when he begin typing
+This was a great tutorial thank you so much for showing me so clearly
+Great tutorial Looking forward to watching the whole playlist
+what software did u  use and why your site localhost9000
+Can you do this with a pc
+
+Hi Im a newbie to this How do I go about to having My webpage on google chrome I have saved the file on sublime text but I cant seem to open it in chrome Thanks
+very insightful video man thanks a lot it helped me make sense of quite a bit
+need help can so when i make a new file it does not allow me to name ithelp please

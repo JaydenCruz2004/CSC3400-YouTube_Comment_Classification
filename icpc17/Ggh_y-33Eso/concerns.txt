@@ -1,0 +1,141 @@
+You forgot about horizontal lines
+Derek which is this text editor i use notepadbut seeing that you have the code and the output side to side is really fascinating can you please tell me the name of the text editor please 
+Dear do you have a little elaborate tutorial for HTMLWhich software is best for learning HTML and making websitePlease reply as soon as possible If you dont mind could I get your skype idThank you
+What editor you are using
+How do I create a button though
+Where did you download your notepad
+When I open the file in goggle I dont see anything HEEEELPP
+so do i NEED a mac for this or am i good with a PC  in the beginning u type ISO  so is that just for mac or is it for everythng    also mine doesnt turn the stuff red when itypedmeta httpequivContent Type ContenttexthtmlcharsetISO88591
+I liked this tutorial because they are basic tags when designing a site  I do have a better understanding however I would like to make a suggestion  Is there anyway that you could make a simple txt doc to follow along with  I only suggest that beca
+you teach well and simple I did not understand why you CUT OFF the text all the way to the RIGHT of the page you have the EMPTY SCREEN to the rightyou should STRETCH TO RIGHT SO WE CAN SEE THE WHOLE CODE LEFT TO RIGHT
+I enjoyed this tutorial I am sure Ill be referring to it often Do you have any videos on building a sidebar 
+Where do I put photo from my desktop
+Great video but I have a question how do you pull up the example on the side that shows you what you are doing as you type in the code Also the highlighted colors are not coming up as I type in the code like it is on your screen It is all just blac
+is there going to be an HTML5 tutorial
+is a php is something that helps out html
+Deek Banas sorry I keep asking u questions but because your a expert programmer can make a tutorial or playlist of how to hack htg06
+Does this mean I could use html code to make my own webpage for free Im new to this so sorry if I sound silly 
+Are there any of your videos which decsribe how to learn php
+Plus Why are there so many markup languages  DOCTYPEs Do some have capabilities that others dont Does any of them do everything And if so why learnteachuse anything but the ones that do
+i have a flat grey BG I want it to take up 100of the screen and I dont want my website to scroll horizontally or vertically Can I do this if I designed it in photoshop
+ 938 When you define the web link can you change the texts sizecolor i tried strong but does not work any help  Thanks  im noob
+ur8 pal can you do any more tutorials on more html coding with diferent stuff in it please 
+I like your tutsHave you ever used Delphi Id really like to learn that language because its one of the more complicated ones and I want to edit a program that is in Delphi
+Im trying to make a site where users can post their own stuff can you help me
+Great tutorial How would create a comment box and something to prevent people from spamming comments A reply would be great Keep up the great work
+Do you have a web server set up on your computer If not are you on a Mac or windows machine
+my img doesnt appear on the link its blank with  the dimensions but doesnt have a picture  its got a little icon in the middle please help 
+What is the point in tabbing 
+so all i do is make a txt file on my laptopthen do every thing you did
+How do you type so fastly in multiple rows Do you use some shortcuts while typing for example h1 to h6  If yes Are these text editor shortcuts I generally use windows
+What IDE does he use
+Hi Im learning a on quick edit since my laptop doesnt work but when I click preview to see the h1Hih1 tag it doesnt show
+what program are u using to write this
+Im not sure Have you tried changing it to a hex code You shouldnt need to but the hexcode for red is FF0000
+Hello Where do I save my html file in order to have access to it by using localhostlearnhtmlhtml as the address in firefox Thanks
+awesome video they taught me html in my college but this beats those 2030 lectures lol and btw whats meta In our courses the space between the head tags was empty so is all that codeexcept css necessary
+Where do you write the text whats the programm and how do you opened that local host thing in browser
+great well I am almost done with a project started with the html and css  now I need to resize everything so it can bee viewable on mobile devices do you know anything about responsive web design can you help me
+ooooopsyyou goofedhtml 4xx does not have a self closing extra slash should just be an ending  without the space
+and whats the difference between name and value in the radio code
+the speed is great Personally I Love high speed since U can go back on and on again and stop where ever U want but BUT1  why I couldnt get what U get when I type exactly same   like from the start I couldnt get the H1 to become red color e
+Hi I love your tutorials Im trying to learn html but im having issues with wamp reading the html file It shows up blank and none of the code renders or prints on the page I have used wamp to install and use wordpress and it works fine However I c
+how do you get whats in your code to show up in a bother window do you copy and paste a link to the browser or does the browser automatically know
+how exactly do you view what the html generates after you have typed
+Regarding the part where you send the information send message to this email how am i supposed to receive the email when i press enter i says that Your file was not found
+did you remove the space between the  and com
+How do you set up the text editor so that the html shows in the browser
+Hey Derek I see you use notpad for mac or is it a different program Could you please tell me what and how to download it for a MAC computer regards Boes
+444 are these custom shortcuts If not could anyone point me to a list of these shortcuts for copy pasting a certain number of times and formatting as was shown
+Is there a way to display the work from Text Wrangler without having to go online  I have Dreamweaver and did a run thru with it following along to this video  Now Im going try it in Text Wrangler  Also how do get you get the coloring to work on
+The color part didnt work for me pls help
+I do not want to sound like an Idiot but is this were every website starts or how every website starts with html
+YOU FORGOT TO TALK ABOUT FRAMES
+Where do you type all this information at Is it an application
+Please let me know if this isnt the right place for this because this might happen in the future but would you be able to make a video on machine learning Im thinking one of your synopses if not a howto since its so theoretical Would be interes
+What program were you writing the code in
+Umm I have a pc what program should I type this in
+I tried this and saved it as an HTML document I opened it and brought me to a blank page
+I typed in the thing u did in the video like the meta name stuff but nothing happened when i did it
+I am new to this how do I test my code in chrome like you have yours on the side
+what element allow people to upload files in webpage
+Wait so if html isnt a programming language what language are you using in this tutorial pls reply Derek Banas
+What are the best tags to use to create a resume excluding center tags and CSS
+Also 1 WTF are there deprecatedabandoned modifiers I mean even if you came up with somethin better than say align why abandon it Why not just have 2 ways of doin it 2What happens if a deprecated modifier I use today gets abandoned tomorrow
+Thanks for thoroughly explaining this My only confusion is I only have WordPad Will this typed format still work there
+what html type is this and will these tags work on html5  
+Notepad wont register html no colors are showing I head it right and everything
+what does  mean and 
+Hi just a quick question In the user input sectionwhat is the purpose of name and value  Thanks luv ur vids by the way 
+Can you please do a video on how to use html to create a website
+OS Linux Mac OS
+Could you give a description of each color coding in the textThank you
+thank you Derek Banas and i want to learn 8085 micro processor programming please make it it will help me
+quick question where do i go from here CSS
+how do you send to a specific email
+is this html4 or html5
+Where can I find an IDE
+Hmm the only parts I didnt fully understand concerned forms  PHPIll get around to PHP but Ive been told MySQL  SQL is much more important
+What about the divdiv tags P
+Derek Sir  Can you let me know the working of recyclerview in Android  if you know  
+Mr Banas I think you could increase the quality of your instructional videos by speaking in a less monotonous way Thank you
+How do you open a document to actually type this stuff
+What do you use to make these presentations theyre pretty neat Is it Prezi
+Can you take it little slower next time you do a tutorial but very good anyway
+A lot of my documents are showing up in HTML While trying to repair my printer I must have done something wrong that affected my TEXTEDIT application How can I restore my original regular script documents HELP
+How would I write an html code if I want to change the font only
+What program do I use on windows 7
+How do you get that website preview to the side What file do I even save it as Throughout this tutorial I was just operating on a txt file with Notepad2
+Derek whats the plugin that you are using to preview what you are writing on the code
+What about div tags
+What tabbing are you referring to
+Hi Derek Thanks for the response Please forgive me I am very new at all of this Where can I find my web server doc folder and the wpconfigphp  I already have added the database in MySQL Thanks again for all of your help  Fritz
+Hey great video btw what program are you using
+wtf wtf is he typing lol Do i have to start somewhere else b4 im able to understand wtf this is lol
+Also is there a way to refresh one part of the page every amount of minutes
+extra detail  would be great
+why do you think they made br  the standard way instead of bri find br much faster to type 
+Derek Banas If I want to create a fancy website like you usually see I assume html is not the right scripting language for this right  Judging but what I saw and what youre capable with html I assume people use other stuff  What is mostly use  css
+Say i have a ul list can i turn each one into a link
+Thanks for all the video tutorials Derek Theyre invaluable I have a simple question what program are you using to write your code in this video Its nice to see the effect of your work on the right as you type
+derekbanas Since I dont have a Mac I was wondering what would would suggest as an alternative to Testwrangler I just downloaded Notepad 
+wat program r u using 
+Great video How do I seeacces the information given by the user with forms
+I dont get good For what we use meta
+how is the program called 
+just one question you were puttin those tags down wicked fast just wandering how you do that is it hotkeys 
+Hi I really want to know what program youre using to code that HTML D
+Is it easier to use hexadecimal colours or ascii colours
+i tried the command of hi colorred and it doesnt work why is this it just shows up saying that command instead plz help
+what are you using to type it
+What type of file does the mailphp have to be If I try sending the info it says file not found but I have a text file called mail2php in my direcory where my html is saved
+Are you using TextWrangler on a Mac Notepad is equally good on windows
+Thank you This helped me do one of my labs lol ON TIME PS can you make a indept Tut on HTML  CSS I like the way you teach
+Hi Derek Could you tell me how to set up the localhost on my browser please I constantly get this error HTTP Error 40314  Forbidden How do you set localhost to reflect your codes in text editor please
+you should think about doing a video for html 5
+I hate to be the idiot to ask this but do you have a version where you like go slower and give examples Im sorry to ask this Im just really slow and have a hard time picking up on things Examples really help me You are a good presenter it is ju
+hey could u email me the mail2php file PLEASE ill pm u my email if you say yes please
+When I do the first run the biggest H1 doesnt turn red and I get a message that says h1 colorred and then it writes everything else 
+How do oyu get to the place youre at in Google Chrome on the right
+How does one receive the input from buttons and text fields
+Hi Derek Thanks again There is so much to learn but you make it easy Ive noticed that you are using a localhost Do you have step by step instructions for creating multiple virtual hosts I have tried with another tutorial but it sucked and wasnt
+Hi Derek thank you for your help on providing these tutorials I have a question to ask you is about enabling user to manually enter the date of log in as well as entering username and password many thanks Amy
+shopping carts as in a webpage that sells stuff  well I might as well give it a shot but im sure its gonna take some time to learn  
+How to create user registration 
+Ok I think this tutorial was awsome just a quick questionAt the end when a user submits how do you get the data to send to your email  like when i changed form action from mail12 to my email it gave an error
+how do you get that sample window u had on the right of the text editor 
+Thanks for the Tutorial Derek  What two programs are you using on your Mac in the tutorial Notepad seems to only work for Windows Thanks
+730 without www why
+How could you get someone the webpage to send the input to an email account
+ok so im trying to create a web sitesomething small for me and my buddiesso basicallywith html this is a website im making like copy and pasteand it will become a copy able link im trying everything you saidso far my friends dont see anythingre
+Hello Derek i was wondering could you give me link to converter or whatever this things called i am new with this all programming stuff Btw great tutorial understood almost everything Sorry if this is spam or something i havent checked all th
+Can you make a tutorial for new features introduced in HTML50 
+how were u short cutting things like it automatically showed up in the coding
+Derek Thanks for this video I am completing a website for a class that I am in and wondered if I could embed this video into my website The website is only for one specific assignment and my professor will be the only one to see it Please let me kn
+Wish he would show how to get those windows up Can I use Sublime Text for the Window on the left What is the window on the right
+I am trying to learn html using my raspberry pi I am also trying to learn as much as I can before I go to college Any suggestions or tips  What programs are you using Your video helped answer a few questions I had and showed me a few more things T
+Would the inpector that comes with Mozilla work or no and may i sub you for the viewers on my page
+Have you like covered everything you have taught in other videos about HTML
+Is it possible that you can make a similar video for  Html5 cause I know it uses different tags I learned more in this video than I did in a single semester of college and this channel is one of my goto channels for information Thanks 
+But how did you get the window to your right to display what you are coding
+If everything in the head tag doesnt show up on the website what is it for

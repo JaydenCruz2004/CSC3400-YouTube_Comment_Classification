@@ -1,0 +1,341 @@
+An absolutely brilliant tutorial Its the second one I watched and the only thing I have to say is I wish I would have found your channel earlier Its amazingly productive and time consuming way to learnPS I hope you are going to post tutorial on non relational data bases or newSQL db
+You learn a lot when you have a different version I noticed in your second class you typed in only the attributes that are exclusive to the class created were as in python 35 you have to type the attributes that you are inheriting from plus the attribute that is exclusive to the new class that is being created The angels sang when I finally resolved it
+Just subscribed love the vids and the no fluff approach THIS is what I and I think most folks wantneed Theres already enough videos out there about the core concepts of programmings yet nearly every tut out there feels it has to start right from the beginning of what is a data type and a string is this and numbers are that etcetc But I like how youve decided to be smart about it take advantage of the fact that videos allow for PAUSE REWINDPLAY and just fly through everything with just enough clear  concise explanations to tell them exactly what it is your doing and why but none of the other hogwash Kudos to you 2 questions 1 Sorry if this has been asked before but what program are you using for your videos I love the seemless zoom capabilities Ive never had to use one before and now I find myself needing to make some videos to help some colleagues of mine Im on windows though just so you knowAlso is that zoom done while youre shooting automatically like via hotkey or when you click the screen Or is that done post shoot in editing 2 Do you plan on revisiting your JS in 30min video I see that was done in 2011 so just wondering The reason I ask is because Im fairly new to learning actual programming and atm Im learning JS as Im also learning web development and I was just unsure if some of the stuff in that video was no longer applicable or if certain things have been deprecatedaddedetc that would actually deem a revision of that video appropriate Thanks Derek And Keep up the great work 
+Love the pace  Thanks
+Wow just found your chennel and this really helped me out  thank you
+This video was just what I was looking for I have a good background in java and some other languages and all I needed was a quick overview of python without taking ages to explain stuff Thanks a lot D
+RIP Fiddler 
+hey i really loved this video very very simple to understand n indeed i have learned python thanks a lot derek
+wow thanks i installed it and coded in it as you spoke thanks i am really getting into coding thanks a bunch the onaly coding i did before was on kodu game lab 
+What computer language ia easy to learn for beginners
+Thank you in my high school my computer science teacher is not the best and this helped a lot because I inspire to be a programmer for games or software someday 3
+It Helped lot As i working on writing the Automation scripts using Python now it is easy to work on Thanks a Lot Derek thanks for your effort
+Dear Derek yours tutorial videos are so helpful to me thank you you are doing great job  
+Nicely done Derek
+Pretty useful Thank you very much
+Python is easy than Java netbeans
+Please could you help me with some code i need to do thanks
+Im learning Python and am going through the tutorial Learn Python the hard way This was a really good run down of what I already learned and gave some additional examples Really helped reinforce some topics Thank you
+Its basically logic
+youre fricken amazing Im literally paying for a course that doesnt make half so much sense as this
+Any chance of you making Django 19 tutorial
+Ive been learning Java for about 3 months and just finished my first fully functional app Holy crap people werent lying when they say Python is much easier However now that I have a general grasp of Java Python is pretty straight forward Great video
+Great python overview
+What was taught for a 12 week semester of a course u did in one video Thank you so much Ill let u know how handy this came in after my exam on Tuesday
+what do you do with python Im looking to make games and program in general
+You are so goodThank you so much
+Thanks Derek Just what I needed to learn 
+Wow Are there other people working on these videos how many programming languages do you know what are your limits D
+Do you really have a dog named Spot
+Where are the semicolons Oh the humanity
+This is way better than the Zero to Hero by CodeGeeks video on YouTube I feel like I can learn the same amount in such a huge time difference Their video is 11 hours long Thanks for uploading this man I subbed
+Is programming worth learningive been thinking about it for a while but is it advantageous and worth while
+It was very straight forward and super useful I used to wirte mathematical problem solving stuffs with fortran and I thought this must be way harder but it looks like its not thanks
+lmbo this was great
+reptilians attack python hisssssssssssssssssssssssssssssssssssssssssssss
+Thank you
+Ecigs in your bookmarksOh Derek 
+Nice job  thanks so much
+That is the most slamming lesson that i have ever seen and it works Keep that going it gets drilled in to the head watch over and over and  BAM you see where its goingThanks
+Hello Derek Very good video A quick glance with a rapid fire speed of python overview It can help get started on pythonGood basic info on class and polymorphismThanksParesh
+Just discovered my new favorite youtube channel a lot of knowledge in each of your videos Ill refer people Great
+Great video that indeed covers 90 of Python Watch Dereks PythonSQLite and Tkinter to get 99 coverage
+so many memorization oh well
+greaaaat stuff Writing in 3hrs and I just learnt more than I did this past few months
+This is great I like the format of just vomiting all the nuances out at once Very good for people who are familiar with other languages I wish it wouldve had stuff about imports and how that works
+What recording software do u use
+Loving this video What is the type face used in pycharm
+I absolutely love your superhero references in all your videos
+2114
+DUDE Today I learned Python and that Humanity still has a chance Dear Sir You have wings Rumi
+So much info in so little time Thanks
+Dude u r awesome
+Excellent video Thank you
+Hey Derek Banas I am 12 Years old and i am really into Programming i wanna program when i grow up and i am strating from now Your video inspired and encouraged me to do it more I am doing it and following your steps is making me really familiar with it Awesome great video You talk very smart and you dont waste your time talking You straight up tell us the answers Also you reply to evey comment Wow Just wow For a person who has more than 100 subscribers more than 100 000 in your case You do reply on comments and not just ignore them That is one of the things that show that you care about your subscribers fans or students and you answer to each question of them I dont have a question i have a big statement to tell you that you did great And i am just happy to have you on youtube Thank you Derek banas
+Perfect for what I was looking for intro to Python for programmers who know other languagesnothing more nothing less
+Thank you very much
+clear and concise thanks
+Been looking forward to a python video from you keep up the great work
+Good job
+I got an interview with apple they asked for my credentials and I showed them this video They hired me on the spot Thank you Derek Banas
+Great videoeven though i knew python the video just keep me hooked i just loved the way you explained and that enthusiasmGood job
+Awesome Thanks Derek
+A superb tutorial  great content pace and delivery
+Great tutorial Thanks
+Ok Clear But to me this is simple aritmethics How can you use this stuff to create something like an interactive game how many million pages of code does it require This is beyond me Maybe it doesnt take a genius to program but it takes a genius to make something big it
+Thanks a lotthis was really helpful
+Yesterday I watched your Python Programming tutorial It summarizes all concepts in one video Great Work  It was kind of refreshment I would love to come over again before I start with Python programming Thank you Derek 
+What conditions does work in Python Facebook password
+3534 I dont got no type hahahaReally helpful video tho keep em coming
+Amazing refresher Thank you 
+You are a life saver Thank you for sharing this video 
+you are the best
+Love your videos which macbook do use for the tutorial is it pro 15inch the high end mode with i7 processor and nvidia graphics card
+Hey what is the best Python ide
+Keep at it dude  This is good and deserves more attention 
+Theese videos are great and the reason is if your knowledge have some random wholes in it a cheese model of knowledge which is very common and also detrimental you can simply spend 23 hours of rechecking your knowns and unknowns about the basics i think this is the fastest way to do it and then when you find what you miss  jump into greater depth and paly arround with it so you learn it Also you may stumble across some usefull smart tips and tricks So great work Do more of these  I Upvote right away
+ LiteralsWhat are literals They can beStringsNumbersTo take something literally is to take it at face value This is what we mean by literalSo a literal value would be a sequence of one or more characters that stand for itself Such as the literal 12As we said that numbers can be literals The numbers I am speaking of specifically are digits 09 with an optional sign  or  and sometimes it can be decimal point numbersAn example of a decimal point number being a literal number is the exponential notation If a number contains a decimal point then it denotes a floating point value or float An example would be 1024It is important to note that commas are never used in numeric literalsAnd since numeric literals without a positive sign denotes it as positive an explicit positive sign is rarely usedThere is a bit more you need to know about floating point numbers and how python deals with themThere is no limit to the size of an integer that can be represented in Python but floating point values have a limited range and a limited precision Python uses doubleprecision standard format IEEE 754 providing a range of 10308 to 10308 with 1617 digits of precision To denote such a range of values floatingpoint numbers can be represented in scientific notationThe reasons why we must understand the limitations of floating point numberrepresentation isto prevent arithmetic overflowa condition that occurs when a calculated result is too large in magnitudesize to be represented eg would be multiplying two values that may create this conditionWhen arithmetic overflow occurs you will get a result called inf which is short for infinity rather than the correct result This indicates that arithmetic overflow has occurredTo prevent arithmetic underflow a condition that occurs when a calculated result is too small inmagnitude to be represented eg the division of two numbers that may create this condition depending on the size of numbers used Like 10e2300  10e100Python returns with 00This of course is wrong The correct answer is 10e2400 indicating that arithmetic underflow has occurredThen there are limits of precision when representing floatsArithmetic overfl ow and arithmetic underfl ow are relatively easily detected The loss of precisionthat can result in a calculated result however is a much more subtle issue For example1 divided by 3 13 is equal to the infinitely repeating decimal 333333333 which also has repeating digits in base twobinary 010101010 Since any floatingpoint representation necessarily contains only a finite number of digits what is stored for many floatingpoint values is only an approximation of the true value as can be demonstrated in Pythonstatementexpressionsmathematical expressionsData Typesintintegersstrings
+you are my hero DerekThanks so much for this video My old laptop just crashed yesterday it was an Acer Aspire 5610z had it for 9 years What laptop do you recommend for web development
+Whiskers is one fatass cat
+First language ever learned Thank you for this video I loved the way you taught everything If only all videos were like this
+great vid
+very helpful thanks buddy
+You explain everything very well and anyone with a bit of experience in programming will understand very easily Thanks for all of these single video tutorials
+Aaaaaaannnnd
+does textwrangler work
+For the ultimate fast learner watch at 15x speed
+I literally came here because I have a Computer Science exam coming up in 5 days time and I know nothing A semester of this course and I played Lets see if this helpedPs I submitted this comment before watching the videoI dont want to repeat this course Ive done well in practical assignments because Ive had help but theory papers I dont know
+After years of C I find Pythons structure quote annoying DI already miss all the semicolons and braces
+I was just wondering if anyone could help me I have a programming assignment using python and I need to include a while loop The topic is Dosage Calculations of Prednisonecan be any drug to Lupus Patients Does anyone have an idea of how I can add a while loop to this Thanks Derek Banas
+I use Python for about 2 years and I Love Python and Id like a Python Serie
+Drink 3 energy drinks smoke 3 joints and watch this video without stopping it Power learning
+Probably the best python tutorial Ive seen Very viable
+803
+nice
+Thanks a lot Derek for your video So instructing Ive just shared it on our FB page httpswwwfacebookcomGDGOranposts1218253608219913
+You spelt Cheque Wrong
+Thanks I got a book called python for dummies and between this video and the book I have finally started to grasp python programming
+Are there anyone knows what can I do with my BSc degree in CS except programing
+Hey Derek Do you have a video about integrating Wordpress to a selfcoded website
+what is your profession is it a programmer for a company
+Thanks for this video Great overview of the basic concepts before I head into my final for my intro to programming class tomorrow
+Gotta love Python but the hacking man is just wow those guys used this and hacked a really secure buisnessmans profile in like 8 hours imagine if this happened to the government nah just kidding they probably have passwords in thousands of charactersother than that great video was able to go back to points that i didnt really get a context of and study a bit more in that section thank yoy
+print Thanks a lot this was really helpful
+This learn in one video thing is really good Great work  Keep it up  
+Install  017Basics  223Arithmetic  421Strings  554Lists  Arrays  808Tuples  1224Dictionary  1337Conditionals  1546For Loop  1941While Loop  2157Functions  2459User Input  2634String Functions  2657File IO  3011Classes  Objects  3204Constructors  3439Inheritance  3724Overwriting Functions  3758Overloading Functions  3947Polymorphism  4119
+Thank you I already had some very VERY basic knowledge but this has really broadened my horizons and now I feel a lot more comfortable with Python Definitely subscribing
+I guess there is a reason I suck at math and find programing really hard to learn I know that basically any programing language can do pretty much anything you want to but I just cant see the bigger picture and dont know the magnitude of things I could build with this therefore I zone out because none of this makes any sense to me I mean I could look at something really complex but then it is incredibly hard to dissect the code and I get lost I guess Ill never learn anything other than HTML and CSS but it just so happens that I hate frontend development Then again its impossible to find a decent job without a language but you need to have had practice and experience and so the loop of misery continues
+Thank you so much for making this I noticed someone else vouched for Django I would love to see a series or a quick start video on Django Its hard to find good video tutorials on the subjectAnyways thanks again for the great video and keep up the great work
+oh OK thanks Im just trying to understand code as I want to be a game developer
+really helperThanks1
+So its like LUA
+Yeah Ive never programmed anything Not quite sure why Im even watching this 15 minutes in and Im understanding less and less xD
+Started programming a few days ago have tried python javascript jQuery and htmlcss and this tutorial is the best so far Ive found
+Good tutorial  just with essential  Good for those that known others languages like C or Java and want quicly to have a idea about python
+Are you familiar with Advanced Dungeons  Dragons  I am attempting to create classes and objects that generate NPCs and assign stat bonuses to the appropriate attributes  ie  For a fighter with a 1896 Strength will have a 2 to hit and 5 to damage but other classes with an 18 strength will only have 1 to hit and 2 to damage  I created a NPC generator just using functions but I do need to learn OOP
+great video thank you Derek
+This is amazing  thank you
+God nice resolution excellent pronunciation good speech and speed to show us as much you wanted to share with usim gonna replay this video and others too with a great pleasurethanks a lot for be there Derek Just in time
+Great
+damn this video is fast
+Wow how many languages do you know  I am watching this video first before I start my lesson in Codecademy  You are great
+Why are you so awesome   
+infinity  0while infinty  0printPokemon Goinfinity  1
+This is a gem Thanks for teaching me Python
+Im thinking of teaching myself coding The thing is there are so many different coding languages and I dont know which one would be best for a beginner like me Please leave a reply with your suggestion of a coding language that would be good for a beginner
+Hi DerekI am currently in the process of learning Python and your video was very helpful in putting all of the concepts together and filling in a lot of the blanks I had in my newfound knowledgeI like your friendly conversational styleexcept for the animal testing reference no bueno
+the and or statement are notage  1 andage  18 it isifage  1 and age  18
+thnaks alot man your tut helped me keep it uppeace from iraq
+I still find this very confusing The idea should be to stick to basics no create vast arrays Some parts simplified Python yet later I had a hard time relating As a teacher programmer VS BASIC and musician people do not realize teaching is  skill too For years I have seen teachers lose students after a while A teacher must give people something to relate too This video loses after a while Good work good try
+thanks Derek Banas
+This tutorial is excellent All concepts are well explained The sound is clear your speech and voice intonation are very good you zoomin on all the important icons your progression speed is fast you use humorous examples such quality Im amazed at your skills Derek keep it up 
+I used your java tutorial and passed my Java examIm writing a program in python and now theres this holy grail of a videoDude you rock
+hey man Im new to python and this video is helping me a lot  Thank you
+This might sound like a dumb question Derek and now you will see how terribly limited I am I would like to ask you about some REAL WORLD applications with PythonI mean I think for any company to pay a Python programmer 60100K a year for printing lists of items doing the item counts simple arithmetic operations it must be MUCH more than that to merit such salaryPlease let me have a glance at a big picture of what very economically feasible I should be able to accomplish for an employer using the Python once I when I employ learned Python basics which for now in my humble opinion do NOT seem to represent such a highly valuable skillI mean how an ability to count list items to manipulate the lists etc can be useful for building websites web applications etc and benefit somebody who is quite comfortable with HTML CSS PHP Dream Weaver PS and so onAlso perhaps somebody else will want to join me on this questionReally really BIG ThanksPaul
+The pace at which you teach is amazing For a coder this is perfect to learn a new language Thank you
+YOu can actually leanr python in one video  this video But you need to have a lot of experience in another programming language to be able to understand the concepts of object oriented programming If you already have that level of information mark my words  Python synyax is sugar  Very easy to learn very logically structured and very reliable And it is a trully remarkable progrmaming language
+Thank you very much for this tutorial 
+Btw You are getting famous in Brazil too
+hello sir I just want to ask what keymap scheme is good to use thanks
+see the whole video Its SUPER awesome Thanks you
+nice vid guy  3 Simple to understand and packed full of information for beginners to the language 3
+thank you you are the great 
+Hey derek u made a great tutorial But if i remember correct toString  is not pythonic you should use repr instead to create a readable form of the class 
+why does IronPython have less views
+just say thankseffectivefasteasy
+Oh yes Python Thanks so much My goodness How many programming languages do you develop in Derek Your roots are in Java right
+Totally loved the video Nice and clear
+BY FAR the best video to dive in Python out there forget the 11 hours tutorialAmazingly efficient
+Just a suggestionboth code and result screens should be fully visible  so that we can see the result without needing you to scroll
+As a person who is mainly experienced with C this looks really easy
+Awesome cool Darek Print  Thank you   
+very good tutorial
+brilliant explanation happy to see my work cut short
+Wonderful job really useful saves lots of time Removes the fear of lengthy learning curves 
+What about Ubuntu
+Very informative and interesting video
+Go to uni Learn programming language in half a year Watch Derek Banas video Learn programming language in 45 minutes
+a nice tutorial
+Best programming tutorial I have ever seen by far Rich Concise Tothepoint Thank you sir for letting me spend my most useful 43 minutes  15 seconds on youtube 
+Very helpful 
+That is the best python 101 video thank you very much Derek I appreciate your hard work
+nice onevery helpful for a beginnerthanks 
+last video i look at was from like 1907 made by John Mauchly HIM FUCKING SELF it was carved in stone and he stopped half way through to fight saber tooth tigers im so happy i found a newer tutorial
+Great tutorial Informative and relevant content 
+hey thanks for the videoI am 12 years old and I understood easily
+I must say amount of information you sir posses is amazing Thank you so much for this video It will take me some time to memorize the rules but this is really helpful
+glad to see posters who understand the power of the pause and rewind function of a youtube vid ie thanks for making it snappy
+the fastest way to learn python I think
+Very nice kind of crash course for Python
+Great tutorialThanks very much Derek
+got this step by step  where do I go from here  please  any advice is welcome
+Ok I will try
+Awesome exactly what I wanted a quick rundown of Python Thank You
+I am now a master Thank you
+Youre best
+Many many thanks
+Calling all developers thereDo you want to win an iPhone 6s or other gadgetsParticipate now in the Developer Economics surveyhttpvmobmeDE1Q16VLvlVJeINPYxe4
+this is before i have watched the vid but i really hope that i can make a music shufller after this D oh and btw i havehave only made a program that asks for your name D
+Hmmmm no comments
+It seems only Fortran is missing 
+Awesome video I have learned Java HTMLCSSJavaScript and I wanted to know how to program C and python Because of this video I was able to learn python and learn c all in one video Thanks a lot Derek
+Thank you Great video Really nice to be able to jump back to if When I forget something
+205 After midnight 4 hours in trying to install python
+You Want Learn From Others Join The Purely Python Channel On DiscordLet It Be The Next Place To Discuss Your Favorite LanguagehttpsdiscordggNbnDuRt
+and there you go  list inside of listthat sounds kinda funny
+Thanks You are a lifesaver
+Very good tutorial I understand enough to play around on it now Thanks
+Thanks Derek learnt a bit need hands on
+Finished the whole thing Ive got 334 lines in my text editor Thank you very much for making this I now feel comfortable enough with python that I can use it for my projects in school
+Excellent I needed this tutorial as a quick refresher to start working with Python again Thanks
+So I learned Python but I dont know how to use it practically For example how do I make a game with Python That is the main reason that I even started coding to make games
+Thanks for the tutorial but I just wonder are you really know every programming language 
+like to see some ios tutorials from youand anyway you get everything clean and clearso you made us to think programming is not much difficult
+Cool video Thank god you didnt touch the boring python command prompt like other python videos I like Pycharm which gives very easy handling Thanks
+this is so condensed
+Okay I have a different question than Kevin Isnt it too late for learning a 1st programming language at 22 Hes learning it at 12 so its like 10 years a difference
+Thank you very much for sharing such an amazing video
+great it would have taken me 2 weeks to search for all this information on the internet here i got it in 45 minutes D Thanks a lot
+Thank you very much The best python tutorial
+This video is so awesomeNot only was I able to learn python in a nutshell but I will now be able to teach my 5yr old daughter on how to use itThanks and keep up the good work
+song
+Thanks for the video
+your tutorials are awesome please upload for all other languages
+Excellent one
+So you are a flash fan 1422
+More python Django Flask etc please Thank you
+somehow the java equivalent of this video only took 34 minutes while this took 43 minutes even tho python code is about 3 times shorter than java code
+it is good way and fast as we are in fast time you are more than smart but your so fast so we have to slow down 
+Worth 43 minutes of my life Thank you
+Awesome  Helped me a lot Thanks Derek
+Awesome
+Thank you for the share This is really helped
+Thank you for the Python crash course
+Amazing video Made sense and I love how straight forward you are with the beginning
+I should have started with python instead of Java This makes so sense
+what would be the next step after learning all the information from this tutorial are there any good intermediate tutorials that you know of
+Finally I understand the super function Thanks
+Awesome video i like how its straight to the point very easy to learn and im coming from experience with java and c
+Thanks Derek  thats very helpful
+thank you for this video  i downloaded it and installed it as u showed  yet it just shows DOS window with two options  either b for browser or Q for quit 
+Very useful tutorial Thanks
+Thank you for this A great overview to get me started
+Im new to Python any ideas
+Superb tutorial Thanks
+My brain hurtsI mean seriously
+thank you for the video been learning Python for a month and this video is a godsend 5 stars for the video 
+Thanks a lot for this great introductory video to Python Very informative I hope you could make a similar video for Groovy Thatd be amazing D 
+Awesome job 
+You are super
+Thanks so much for this videoI have been taking a python programming class at my university and the teacher here is horrible and moves way too quickly I have a midterm in 6 hours and this video is saving my ass
+Derek is the worlds best tutor
+RIP dear Semicolon
+Supernice crash course on basic Python  thank you
+I already knew Batch but Batch is FUCKING USELESS this was helpful thanks
+if youre on a mac you could also just open the terminal and type in python
+Great course DerekThank you
+i need help im on windows and its not paired with python
+Great video I started programming with Java mainly and a bit of CC Keep hearing about the virtues of Python from a few friends and this video seems like a great place to familiarise myself with quirks of the language
+Really nice video I like it
+Ashy is Len not a function of the string like capitalize
+I learned english just for programming There is not enough turkish tutorials in youtube Thx a lot It helped me so much 
+Ecigs
+Well done
+Great Post
+How hard would Derek Banas crush a whiteboard interview
+Learned more in this 43 min session than a couple weeks in my programming class  
+Nice one Derek spot on introduction
+beginning at 810 is one of the best intro to python lists ive seen excellent work here derek
+tanks for the help bose Using a bid python now
+I just made this particle simulator using Python and Pygame Its on GitHub httpsgithubcomflpymonkeyParticleSimulator
+Great video  It would nice to see the second video of python which presents more advanced topics such as threads and lambda
+Rapid fire round
+Thnx  its also better than googles python classes
+You are a genius Derek thank you thank you thank you I learned phython in 2 hours just by practicing simple commands
+Hey Derek I have a question Can you monetize your videos of you programming Wasnt sure if youtube lets you monetize them or not
+I got excited when I heard the Pgh accent Represent
+donde se guardan los mdulos
+I love it so so much It can really save most of my time THANK YOU 
+Very unique video I think its a great way of having a quick run down of what to expect within the python language Great idea 
+The Learn in one Video videos are great for learning the basics of a new language or reviewing one that may not be so fresh in my mind Thank you Derek
+Aboslutely useful my friend  thanks a lot 
+Great video Thank You Derek Banas
+Derek Banas So i downloaded PyCharm what do i do now im so losthttpprntscrcomb0dt8nhttpprntscrcomb0dtdl
+3 minutes in and already on to variables amazingYou have earned one subscriber
+Why is python sometimes not taught at universities or there are few classes on it
+Awesome video  Just what I needed Thanks for the upload
+i want to know about python command line
+Awesome
+You are a gifted teacher I formerly programmed a lot of python and just needed a to the point video
+Am I the only one who cringes when I read Python because of the whole no semicolon thing
+Sorry If I dont have the comma it will work
+Wow Quick learning of python got some idea about it
+Interesting that you used import sys then read line instead of eg bigDog  floatinputEnter cms tall of your dog The most striking thing of learning is the abstractness What I do is read and work on Python code problems without trying to really understand what is happening I just dive in and read or write and modify according to whether it works This video provides a good intro to basics The next step is learning how to create problems form an algorithm then write code For example how to create a chess board graphic then create pieces then create movement rules then attach values to pieces etc etc What seems to happen is the unconscious works on the material First initial material we exposure basic understanding practice application assimilation and finally association with other learned material
+Thanks for making this video man I just started watching and hopefully this will be of use to me 
+What would you recommend the next step be Is there a good book to get or something Thanks and nice video
+this is very similar to visual basic
+Thank you This was very very informative and better than a certain popular web tutorial that takes hours to complete One thing though I thought the OOP portion was very confusing and rushed especially polymorphism compared to everything else But overall this was extremely helpful and timesaving I also think a bit on application could help a brief explanation of the ways one can use what theyve learned in the real world
+very good tutorial for me thank you
+This has annoyed me so I have gone to downloading PyCharm Edu and starting from there
+Great video You covered basically everything Ive learned in 2 months in 43 minutes Awesome 
+Thanks for this video Very informative and structured introduction into python 
+How hard is it to couple two software using Python I am trying to get the output of a software import it to ArcGIS do spatial analysis with GIS and then export the output to the software again How hard is that I have never used Python before but I am learning Thank you
+i feel like im the only one who is 11yrs old but Derek Banas you just earned a sub thank you so much
+Thank you so much man This helped me so much You are awesome
+Is your brain for sale My brain really hurts but I need your knowledge inside my head But thank you it has been a very interesting brief look at Python You made this one understandable without it needing to be complex Ive just found your Python 27 tutorials I hope they follow that method
+Another Awesome class thank you Derek for taking the time to make and post itI always love taking your classes and going back to them to review and reinforce the material more You covered a ton of great stuff in Python
+Jeez I wish youd taught my intro programming class I learned more Python in 43 minutes than I did C in half a semester Im not sure that sentence made any sense but you get what I mean P 
+1 MILLION VIEWSyay
+Thanks heaps
+This series of videos is incredibly useful for a quick revision of a language Thank you very much
+That was very helpful  Thanks
+Amazing tutorial At 05x its more alcoholic D
+This was an excellent reviewthanks
+thanks it helped me and my gf alotvery helpful rate 5
+So hard to get used to not putting semicolons at the end of a statement D
+Thanks Mate
+THANK YOUUUUUUUUUUUUUUUU
+great video
+i loved the video Actually i had one chapter on python for exam and i didnt know a single word this video helped me a loteasy to understand and not at all boring thank u so much
+I heard Python 3 does not have enough support as compared to Python 2
+This Is Great Thank you sir for your time put into this just to explain this subject in such detail but keeping it so simple at the same time
+This is very good tutorial No time wasting Straight to the point
+Im an amateur programmer and your videos have helped me a LOT Thanks
+Thank you for your tutorial
+you lost me at 155
+Absolute quality youtube content Thank you kindly
+Man are you for real PThanks 
+Derek Banas Do you have any good tutorials for programming Rasperry Pis GPIO pins using Python in Raspbian OS I am new to Python and Raspberry Pi Need some beginner level tutorials
+is the fist time that i am viewing the python language and i fall in love with  Awesome I was looking for a web backend tool and i dont know what i should pick pythondjango or rubyrails what are the best im totally new
+Great short tutorial Python made easy
+This pretty good am learning its syntax to have idea on it
+FANTASTIC
+So is it better to learn python before javascriptI keep hearing both sides of the debate
+Superb Derek Thank you so much sir 
+This is an amazing video
+Very good video Thank you very much
+Definitely a fantastic video Great run through and helped me understand the language much better Thank you
+Very informative overview
+Thats funny Im downloading version 352 How coincidental is that
+it is very helpful for methank you so much
+Id rather use Cobra Moduli D Much faster compile and execution speed
+loved the vid keep up the great work
+Great video Thank you
+Python 27 pycharm 504
+BASIC is better
+Really cute and helpful
+Very nice I give you 1010 Congrat
+This is perfect for me because I completed the Python course on Codecademy a while ago and wrote a few scripts but I havent touched it in months This offers a great refresher than I can sit through in one session rather than having to pull from various different sources Thanks 
+I found the perfect bed time story I could not become more sleepy 
+Hey derek How did you learn all of those languages Was it before you start making videos or while doing the videosagain you are an awesome person  and I will still vote for you in 16 haha 
+Excellent Thanks Derek
+Thx for the tutorial DerekNever realised my cupboard walked talked and ate XD
+awesome tutorial  can you tell what extra effort I have to give to build a web crawler 
+I bookmarked this page Think on earning money on Fiverrcom You can do this
+Thanks man I just started using python with Django A good video on python like this is a MUSTNow Im waiting for a new Django tutorial series 
+That was quick and easy to learnthumb up 
+I love the part what goes on inside a function stays inside the functionor is it Vegas man I am confused P BTW Great video straight to the point
+Thank you so much Another skill added to my resume 
+ATTENTIONFor those planning to put Python Programming on their resume after watching this video you must be DELUSIONAL Even though this video does an amazing job of covering the general basics it does just that it covers the BASICS There is wayyyyyy more to python In your job interviews the employer will ask you if you have any experience in particular python fields like Python Networking Data Science with Python Machine Learning Systems with Python Black Hat Python etc No one will hire you just because you know how to create a loop a list or a class in Python So deflate that programming ego of yours or else you will face a big world of hurt when the employer decides you are not right for that amazingly high paid programming job That will be an opportunity flushed down the toilet all because you thought that 1 video was enough to teach you a whole programming language You will need at least need a year or two of consistent python programming experience before an employer can take you seriously
+This is a pretty amazing rundown of Python Though a bit in the fast lane for me the pace of the instruction does cover the concepts clearly and is perfect when referencing for future use The cheat sheet is also a great supplement to the video Thanks Derek
+Dear DerekI just started to learn programming from scratch without any background  Yes is have some basic knowledge of Linux Windows Android is in general and servers mostly Linux based For the moment I study online by myself Let me tell that I saw few of your clips and FUCKING THANK YOU FOR ALL THE JOB ARE YOU DOING If there is anything I speak in my name that can help you doing more even on a larger scale will be good to know Thank you again and please DONT STOP We at least I need this simple way of providing logical steps of basic programming

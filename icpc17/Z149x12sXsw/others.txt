@@ -1,0 +1,336 @@
+Youre very welcome  Im going to make an Android page tomorrow and Ill put a short description next to every article so that it is easier to search for exactly what you need Thank you for reminding me
+Thankyou so much great quality tutorial
+Thank you very much  Youre very kind 
+I like this tutorial
+Thank you very much for the kind message  Im very happy to be able to help
+Thanks this is exactly what  a tutorial should be
+Thank you  I added the app to the list Feel free to make requests because I want to make a ton of apps
+Great Im glad you enjoyed it  I noticed a few years ago that I should start making tutorials as if you guys were looking over my shoulder much like I do with junior developers when Im the software architect With this tutorial I decided to take it to the next level by working through real code and apps It looks like the experiment has worked pretty well Thanks for telling me you like it
+Youre very welcome and thank you for giving my videos a look 
+I will cover just about everything with Android Sorry Im not getting them out quicker but there will be a new one tomorrow on SQLite3 I should be uploading a bunch over the next 2 weeks
+You can start at either In part 2 I just talk about some technical things I wanted out of the way Every video after that I want to create real apps
+Hi Derek as a user interface developer the cool work flows and graphics Ive dabbled with the back end stuff a little But it has always been really hit and miss because Im stumbling around in the dark and occasionally bumping into something by accident I started off on your channel by watching the CSS videos Now hopefully I can get a great birds eye view of the back end of an Android app Being a fellow Macintosh user makes the whole learning process so much more relative Thanks
+What about Android Studios
+You are awesome Seriously the amount of useful information packed into these things and the way that information comes at you quickly is perfect for how my brain works Much appreciated Thank you for making these
+Thank you for helping  Youre very welcome
+Cool tutorial BTW Eclipse autocomplete seems disabled by default To enable it Window  Preferences  Java  Editor  Content Assist  Advanced And check the boxes labeled Java Proposals and hit Apply 
+Wonderful Work I was in need for it i cant express my thanks  plz go on in publishing more of Android Vedios
+Im glad you figured it out I definitely need to provide the source since I cover so much info in each video
+This was a little too much thanks anyways 
+is it bad that i dont understand what all the app layouts and all the other stuff you covered in the first 7 minutes are
+the most impressive part of this video is how fast your emulator booted up xD 
+Thank you  Ill do my best to live up to that
+i mean been paid monthly fees for using the application rather than buying the app
+Thank you  I hope it helps
+ThankYou very much Derek
+drawable drawable drawable drawableu make my day lol
+I provide all the code in the description and its heavily commented That may help Feel free to ask questions
+I dont know what was causing all that issue but i basically clicked on Build automatically and then it stopped that issue altogether Now it does everything automatically
+Learning this stuff takes some time Everything is organized around a MVC principle and if you arent used to that it can seem pretty strange It may help if you print out the code and take notes as the video runs in your own words Then if you have trouble understanding something send me a message and Ill do my best to help 
+Thank you very much Mr Derek Banas for your great job that is helping me and many other people to getting in the Android Programming World Thank you very very much Sorry my bad English 
+Youre very welcome  Many more Android tutorials are coming
+Great tutorial dude
+Really good Thanks so much
+Take a look at the code that I link to in the description There is probably a little typo some place Im sure the code works though
+I second to that thank you
+Java abstracts too many things away from the programmer Why Google has mandated it as the official language of Android is beyond me Making a Linux platform not support the wealth of C tools and libraries is blasphemy to me
+I dont quite understand the Java part because Ive been programming in C and Im really new to Java but soon Ill understand because Im working hard
+it works 
+Amazing Android App Development tutorial Fast and to the point About to start there next in the series D
+This should help developer android comreferenceandroidosRecoverySystem htmlrebootWipeUserData
+Cont I decided a few years ago that security was my goal I wanted a business that was very secure but also didnt tie me to a limited number of customers Shopping carts worked for me It took a few years to understand things like dealing with suppliers margins marketing etc but in the end it was worth it Im just not the type of person that can handle having a boss Companies will definitely never stop hiring good programmers though They are just too valuable
+Thank you  Im glad that you enjoy them
+No questions but thank you for doing this 
+Many thanks Derek This series is surely going to become the definitive Android programming tutorial series on YouTube    I appreciate your structured approach to covering your subjects
+THANK YOU THIS IS AN EXTREMELY USEFUL AND AWESOME TUTORIAL Though there are things that i dont understand i believe i will know them after watching the other tutorials
+I like this kind of high level approach to a new topic Its straight to the point and doesnt insult my intelligence Great job and thanks
+Your voice reminds me of the character Red from Pineapple Express lol no harm intended
+Thank you  I dont use shortcuts because I was told that they confuse people I should do a tutorial on Eclipse shortcuts
+awazing tutorial
+Very clear very concise Thanks
+Thank you  Here is a nice example on how to do that stackoverflow comquestions1671569catchingkeypressedwiththevirtualkeyboardinandroid
+Thank you  I do my best to make original videos Im glad you enjoyed it
+Hi thank you  Im glad you are enjoying the videos Feel free to send me a YouTube PM I check YouTube all of the time and nobody will see it I dont check anything else with any regularity aside from Google Im glad to help if I can
+Thank you  Im glad you enjoyed the info on multidimensional arrays It is funny how many common topics arent covered very well It always makes me happy when I can make those topics understandable 
+Well if youve used pygame really easy then its about 99 the same You have a really good method of teaching and good presentation and Im confident there are a lot of people interested in it All that combined  really useful tutorial D I look forward to seeing if decide to give it a shot otherwise I will gladly continue to watch all billion of your other videos P
+Great Im glad I could help 
+Ok last question is there any big differences between the books I see the nerd ranch came out earlier in 2013 and the oreally one came out at like 7 months ago
+Outstanding videos best videos that I have seen on this subject
+Thank you very much  It makes me very happy to know Im able to help That is all the thanks I need
+Ill cover advanced custom layouts soon Im holding off for now because they will make everything else more confusing
+whut
+Love this sort of machine gun tutorial Thanks
+nice
+Your very welcome  Im using Monaco 
+Thankyou Derek These tutorials are fantastic
+Good tutorial D Thank you soo much Bt tw I JUST RELEASED MY FIRST ANDROID APP Im so happy P Check it out on my channel D lol
+Very nice tutorial thanks a lot  Waiting for others
+i have no basic about java and hard to understand 
+This tutorial is very good actually Thank you so much
+Thanks for your help I got it to work by following the installation video I was previously using the ADT bundle so that may have been causing the issue
+derek as i run the application the textbox and button is on the screen but as i enter some string and press enter it shows message helloworld on the screen which is the name of my project and not the message which i typed
+Ive watch numerous tutorials on Android and by far this one is clear  concise And I felt very motivated as well Thank you
+weight provides a way to divide the available space between components
+EXELENT VIDEO
+Love your tutorial style  right on
+Awesome thank you so much for doing all these tutorials Thank you for all that hard work its really high quality content perfectly explained and nicely laid out 
+this tutorial is very helpful sometimes i watch android tutorial to feel asleep but not here
+Hi teacher Derek May I ask which game engine I should use if I wanna make android game thanks
+thanks man thumbs up
+It is very cool to be in this network of people helping other people for free It is very gratifying  I think many programmers just naturally like to help people solve problems When the internet game along and allowed us to help people while remaining closed off from society that was a magical combination 
+Such high quality content I think your end goal should be Pluralsightcom  you should be paid for your service I was actually just watching an Android course there and I turned it off and turned this tutorial on Thanks Derek
+Well Its not that hard You made it look so easy Great Job  looking forward for the next tutorial 
+Ill do my best Im very happy that you liked it Android isnt normally taught this way
+One of the better tutorials I have seen Thanks
+yes you do
+The cheapest I use Go Daddy There are discount codes everywhere online that will save you a ton of money
+Thank you very much  Youre very welcome 
+Thanks for the videosI really enjoyed the pace and how you explained everything Most times I am watching videos having to skip around because there overview is slow and doesnt really help me keep up with what Im interested in I actually managed to fall behind on creating things in yours haha thanks  
+ctrlshiftoimport all suggested libraries
+Encryption is a very complex topic Ill see what I can do but it will require a ton of math
+thx sir you are great
+Youre very welcome  This tutorial series has been harder to make then any other Im trying to make apps while covering everything but also while trying to avoid to much duplication I throw out about 3 videos for each one you see just because they dont fit the above requirements Im very happy you enjoy them
+Thank you  I do my best to keep the tutorials interesting and understandable It sometimes takes a smart person to be able to take all of this information at once but I feel like my community is very intelligent and I dont talk down to you Im glad you found them useful
+Del boy another beauty
+best Tutorial ever tyvm for links
+It is a bit hard to understand but still amazing explanation
+I cant believe how much work you put into this tutorial You are truly incredible
+Thank you  Ive decided to cover custom interfaces later in the tutorial series to hopefully avoid confusion Ill definitely cover the topic soon
+DEREK What are your thoughts on Android Studio
+I like the way you emphasize the words Its keeping me awake Thanks for this valuable tutorial
+best tutorial for beginners so far many thanks
+Dude if you do this videos in android studio i will follow you
+Thanks for the prompt reply It is a type
+Great its short and sweet 
+Excellent job thanks for sharing your knowledge Ill watch the whole serie
+Make sure import androidR isnt in the top of any of your java files Make sure everything s updated in eclipse Help  Update You can also try Project  Clean
+Thank you so much awesome awesome guide
+As you probably know google have announced their new ideas android studio have you got any plans to do tutorials using it
+I hope I didnt overwhelm anybody good sense of humor this guy
+Thank you  Youll see that I dont make tutorials like everyone else If you can handle tons of information flying into your brain youll like my tutorials I promise that Ill cover everything I already covered xml parsing data from web services Ill cover sending data over wifi etc Feel free to make requests They help me structure the videos so I dont forget anything
+What error do you see in the LogCat panel Window  Show View  Other  Android  LogCat I also have all the code in the description for this video that may help
+I would totally respect that decision this is very well produced Even the design and animations are good Very unusual to find tutorials with this quality Im already in the second tutorial 
+he knows where is is talking about the only problem is that i dont know where he is talking about jokes i do understend pritty much of it but thanks for the great tips D
+What is the error What does it say in the LogCat panel
+Nice tutorial Easy to get the basics
+Hi man thank you for this video I see that you begin with an app already created is this your first video or is there some other first Thank you again
+i want to make an online business appdo you have a sample project about it
+Yep it was  editmessage cannot be resolved as a type Did Clean Up and now works Thank you very much Your really do great job Subscribed 
+15 Minutes in and i got a headachewhat am i doing with ma life
+Thanks Derek Really appreciate it Its impressive what you do 
+Ive been on the verge of diving into Android for years Think of it as a Yesterday I said tomorrow situation Im now following each of these tutorials using my Nexus 4 as a device Your tutorials are informative not overwhelming and the way you use tones in your voice makes everything sound easy promoting me to make sure I understand everything Thank you
+Im learning this as an iOS developer Ive never even used an Android phone for more than 5 minutes Very informative very easy to understand Thanks
+Yes later in this tutorial I cover reading data from web services and parsing xml and json
+Thank you
+Thank you  Try this stackoverflow comquestions14445837icantruntheandroidsdkmanagerthroughtheeclipseimgettinganerrorint
+Thank you for this awesome and clear series 
+I think this is the best android tutorial on youtube 
+Sorry about that I provide all the code in the description and it is heavily commented Many find it helps to take notes on it as they watch Feel free to ask me questions
+Thank you  You need to have the project explorer open Window  Show View  Project Explorer Right click in the Project Explorer and if Android Application Project doesnt show up as an option in new click Other and then look in the Android folder I hope that helps
+Thank you very much for the kind message  Ill do my best to cover everything Ill definitely cover your 2 requests
+It would help if you print out the code and take notes as you watch That way you can watch the video at your own preferred speed by pausing when you need That was my idea any way 
+I meant EXTRAMESSAGE of course 
+no updates found I am using API 18
+You dont need to be an expert with XML but you should know some java
+You are a awesome Thank you I am not bothering you anymore with questions P Have a nice day sir
+Since were using EXTRAMESSAGE on DisplayMessageActivityjava file thats static so that we can just use it outside of the main class
+For anyone whos app is crashing instantly saying unfortunately your app has closed The problem lies in this line of your MainActivityjava file  EditText editText  EditText findViewByIdRstringeditmessageThe problem is that you are calling a String in our Rjava file that doesnt exist So we need to change that Rstringeditmessage to Rideditmessage because as you can see we actually declare this editmessage in our xlm layout file here androididideditmessage  Note the id is where we are initiating it as an ID not in our actual Rjava fileHope this helped it took me two days to find this out
+Great Explanation for a beginner like meTruly InspiredLooking forward to learn codingCHEERS
+I really must because I hear that all of the time I live very close to Scranton which is where the Office was filmed
+Make sure you dont have any R file imports in any of your java class files Then click Project  Clean
+Derek seriously your videos are amazing
+Youre very welcome  I dont know about that because I dont understand how to read a barcode Sorry about that
+Thank you  Ill be covering SMS as soon as possible Thank you for the request
+Derek I take my hat off amazing display of knowledge not only of the application but speech fabulous Learned a great deal THANK YOU
+Im glad you got it working 
+Thank you  I aprecciate the compliment I try to do my best
+Thank you  Im very happy that you enjoyed it
+Make sure you are using Eclipse Indigo with the ADT plugin installed through Eclipse using Help  Install Software
+855 and like I said before its going to define elements in 1 Directionhad to point it out xDgreat video though
+Nice try Well cone with the begginer turorial however android dev is a bit wierd ITs like programming JAVA HTML CSS all in on P
+hi im looking to make  android app that allows some home made how to videos to be played and have links Facebook tweeter and have live event up dates can any one help or point me in the correct direction to sort this out
+Monaco
+Thank you  EXTRAMESSAGE is just the key for the key  value pair It is used to pass information between Activities Sorry this seems t confuse many people You just want to have a unique name for the key
+I have seen a few different tutorials by other uploaders and Derek Banas ARE by far the the best in every aspect From content presentation to sound and video quality nothing is even close Also I find that his website is full of great content as well I only wish I would have came across him a year ago when I first started learning
+how about tutorials for iphones and black berry
+Hi bro excelent Tutorial i am getting started with android app and those totutorial are helping me alot to understand in easy way for real thanks alot
+very nice  thanks a lot
+Great video Perfectly paced  keep it up 
+Thank you  I do my best to pack each video full of information
+I provide a link to all the code in the description for this video Tell me if you need any more help
+Open your LogCat panel Window  Show View  Other  Android  LogCat Tell me what errors you see there that are assigned to your specific classes and not outside libraries Ill do my best to help
+That was just great  Thanks a lot really appreciate that you are trying to share your knowledge with the us and you are doing really good 
+Youre some kind of genius
+You need to know the basics of java I have a java tutorial to help with that
+your unbeatable teacher
+Android Studio has a long way to go in terms of UI design With Visual Studio Win32 forms it automatically generates all UI handler code for you Even the XML portion the code for WPF applicationsThere is a lot of manual XML editing with Android Studio which should really be managed almost entirely by the interface designer 
+Youre very kind  Thank you
+I dont understand
+Did you see the first 2 videos on how to install everything
+Make sure you dont have any import R or import androidRs in your Java class files in src  Project  Clean  Restart Eclipse Tell me if that didnt work
+Thank you  Yes it was made for people that already know Java I wanted to make a different type of Android tutorial
+These quick overviews are great Wish they were around when I first started
+Best tutorial I have ever seen
+Yes and im so glad that you take this approach Its really a lot better than any other tutorials ive seen When i saw you were making android tutorials i knew there was hope for me Keep it up
+Windows 7 have an Intel chipset  i7 39ghz Eclipse Indigo Service Release 2
+I take great pleasure in being the first to respectfully hail up Derek Lord of code tutorials You just went and did it once again my friend
+Thank you I used tips from this and other tutorials to help me create my latest app Please help out a fellow programmer and check the app out  httpsplaygooglecomstoreappsdetailsidcomcluelesstwosquaresThank you for the videos great help
+You sound like Andy from The Office
+Thank you  Im glad you enjoyed it
+sir in android programming what phone is compatibleis samsung galaxy y compatible
+Look in your LogCat panel for errors Look specifically for errors in your own files
+Youre very welcome  Im a bit confused Do you want it to be cleared when it gets focus
+nicea sincere blessing from hong kongGod bless you and the world
+THANK YOU SO MUCH
+Uuh finally I get somethingBest tutorial
+I love how this guy tells me not to worry about it if what hes saying goes way over my head reassures me that its natural at this stage to be likeum huh  
+The amount of information thats coming at me I learn about the same as I do in college but this is much more easier to understand and its being explained in a really nice way Thx Derek 
+Hi Guys I got bored and decided to make an Android game and in the future hope to make more professional apps Please check out my game app in the google store and dont forget to rate Thankshttpsplaygooglecomstoreappsdetailsidgamedroidgles1StarJumper
+With the help of tutorial we did a softwarehttpsplaygooglecomstoreappsdetailsidcomgenzcomtravelarm
+Im always glad to help 
+Awesome tutorial Why dont you post it on Hackrio amongst the list of other Ionic tutorials
+This is absolutely fantastic Its my very first comment on YouTube so I hope you get the value of this words 
+I love your tutorials
+Really good explenation love it Thank you for your hard work
+Thank you Derek It was very helpful tutorial I really appreciate your work
+Thanks for this Really appreciate what you do
+Thank you  I did my best to make every part of this tutorial interesting Im very happy that so many people are enjoying it
+You got the title of SIR from my side and this tutorial very helpful for the People
+thank ya fella    
+I think this might be my 2nd or 3rd comment ever on a YouTube video  But this tutorial totally rocked  I would buy you a pint or several if I could  Everything you need to get to a state of being to able to see what you need to do and where you to go nextExcellent work mate
+                      
+Thank you  Im glad you found me as well
+Thank you 
+YOU DONT UNDERSTAND CAPITALISM 
+What Video Editing software did you use to record  zoom in  control things
+fabulous series  very very helpful   thank you Derek  
+Thanks for the upload man Comprehensive video 
+Yeah that was the problem was afraid you had removed the video  
+is it hard core android development or with phonegap
+I really like it and it was helpful thank you dude
+That is a big understatement  The world in general perplexes me I pretty much grew up in a hole in the ground so Im extremely happy about my life style I have enough money
+Thanks Derek Banas the tutorial is really great A 25 minute guide to start building apps  
+Best programming tutorial Ive seen it finally makes sense
+Im glad you fixed it 
+Nice tutorial I got it working and its cool But I do feel like youre going a little too fast for some the information load is a bit overwhelming Oh well I guess its quite hard to softly settle into something like this Nice videos thank you Subscribed
+Nopegot it The thing that went wrong was I HAD NOT SAVED THE FILES To EveryBody here as sson as you create editmessagesave activitymain and proceed Or else There will be trouble Anway Derek thanks a lot Im now all Set for the loads to come Thanks for the quick reply 
+I want people to pay subscription fee rather than pay a one time fee for some of my application any ideas
+Thx for the video dude Here is my game made in androidhttpsplaygooglecomstoreappsdetailsidcomSmallsoftStudioMemoLight
+Yes Im not really aiming this tutorial at a programming beginner I decided to instead aim at helping people that are transitioning from a language like Java C or C into developing Android apps That way I wouldnt talk down to people but instead treat them as a professional equal I doubt a beginner with little programming knowledge would benefit from learning to program the Android route
+Thank you  
+Thank you very much for the nice compliment  I do my best to constantly improve the videos each time I start a new series Im trying to take this up a notch Sorry it is taking so long Ill get the next one up asap
+Love the pace For those of us who who have App programmers but want to understand App development more intuitively to manage them you hit the mark Also huge congrats that you can talk without wordwhiskers uhhhh ummmm Nice job
+thanks  anyway u know how to make an online shop using mysql and php
+Great it would be great if you make tutorial on iOS Xcode 
+Awesome tutorial very informative
+Excellent tutorial Really nice way to get people started on Android app development
+O M G Perfectly Thank you very much 
+Dude This is awesome Summary of what could be 4 chapters in a book
+hi derek banas finally u r started android i am working on this realy helps me thanks 
+hi sir derek do you have a video tutorial on eqela programming I like watching most of your tutorials and most of the topics are interesting more power to you and godbless 
+Thank you  I will cover everything by the end The next video will be up tomorrow 
+wow derek you are a beast hahaha you just explained everything faster than the speed of light 
+MINECRAFT D
+Im very happy to have been able to help 
+Its already 43 API18
+Thank you  Im working on the next Android tutorial now
+Thank you  Yes I never followed what everyone else was doing even though I knew it was better to make short videos I always make videos that I think will help teach the topic in the best way Im very happy that you enjoy them
+Learn how to make your own APPhttpwwwingresocyberneticocommaxcp77home
+great vids
+cant wait for the next installment of the series great tutorial good for the ones who does not have a lot of time reading books nice presentation
+Thanx for this tutorial
+Dude the best tutorial on android i have ever seen  Good luck
+Most of the videos are on this one page newthinktank comvideosandroidvideotutorial
+love your tutorials really helped and where clear
+Subscribed Incredible job Everything discussed in this video was described so clearly and was very easy to follow I look forward to following your other videos Keep up the great work
+I need the errors just for your java classes in the LogCat Window  Show View  Other  Android  LogCat
+Yes it is like sending a key value pair to the next activity
+Love it  Great job Derek
+Great tutorial Its nice to have a no bs no frills tutorial to watch Im impressed at how fluid you talk and work I dont think you said um or rambled at any point 
+Wow You have the most powerful efficient teaching style I have ever seen Very impressive Thank you so much for your work
+Thank you  I have been doing this for a while Im very happy Im able to make understanding how to make apps easier Thanks for telling me you like them
+Im going to cover Google maps soon That will help you but youll have to bounce GPS coordinates off of a server of your own to pass the different coordinates
+Thank you very much  I try to do my best
+brent swanson  you can go here  It will explain you basics its my website i have messaged you as i cant post webadresses in comments it will teach u a basics of c programming and about loops and stuff Derek Banas i am learning java as of now and really looking forward to learn from you  please do not give up on the tutorial cuz i was taking lessons from someone else  and he gave up the tutorial cuz he was lazy
+After watching the whole video and completing the little app I can say that you are awesome indeed once more but I think you speak too fast over complicating things for me atleast maybe Im too much of beginner in Java
+Thank You so much for the tutorial I just finished this one and I feel good about programming for android already But I know I have a lot to learn so I cant wait to see what you can teach me in the future
+Thank you derek for wonderful tutorial
+I am following these videos along the developerandroidcom tutorial and I am enjoying every bit of it Thanks for your hard work and these postings helps a lot
+why didnt you make iOS development Tutorials it would be great
+Thank you  there is no doubt a typo some place I provide a link to my code which works You can also find the specific error in your LogCat panel in Eclipse Look specifically for your class names in it and youll find the error If you dont understand it send it to me and Ill do my best to help
+Thank you but that is the last job Id want 
+i have diff values in my eclipsevaluesw820dp i dont have sws
+I watched this whole tutorial strait through and ended up with a good test app running on my phone While watching I understood most but not all Should I watch your Java tutorials before moving on Would it make it easier on my brain Thanks Austin
+Superb tutorial  I started andriod development recently and find this very helpful really appreciate this magnificent effort
+Try the first option and if that doesnt worktry the third It sounds like some strange preference in eclipse
+Im glad you enjoyed it  I havent made a widget tutorial yet but I will very soon I should have the next Android tutorial uploaded today
+Do you have to have any programming knologe to follow this tutorial
+Oh cool I figured so but was just wanting to double check
+Thank you very much  Ill upload them as quickly as possible
+kk thanx
+I truly recommend this tutorial great job Mr Derek and thank you 
+It doesnt matter how you capitalize your names Just make sure the file names in your layout folder dont have any uppercase letters in them
+Expect more huge tutorials that are packed with info 
+Thank you  Stick with it and youll be able to make just about anything After you get past the initial learning curve it is very easy to make Android apps Always feel free to ask questions
+Awesome tutorial congrats I was looking for something like this easy explained references to files concete explainations Best tutorial I have ever seen so far related to android
+Very Useful to me Thanks for android development team
+Youre welcome  Thank you for giving my videos a chance
+Im always happy to help If you have any problems post them just understand that I cant answer questions while sleeping 
+thank you so much Derek it works fine even in android kit kat environment 
+Great stuff
+Im taking a class in Android application development and Ive always felt that the professor was a little stale This on the other hand is amazing Ive already showed countless classmates this tutorial and they agree with me Keep up the great work Derek Seriously I cannot Like this hard enough
+Simply Awesome
+Im using Eclipse with the Android plugin I use it because it is in essence the same as Android Studio and it has many fewer bugs then the other alternatives
+You can name your fields how ever youd like Im confused by the error
+There seem to be some platform specific issues in regards to the Android plugin Many people say that if you keep all your file names in lowercase that this problem goes away One solution was to constantly clean the project as you have done If you are using Eclipse Juno instead of Eclipse this may be an issue The Android Studio is also extremely buggy
+If you watch the following videos you should be ready to go 1  7 9 13  16 You could replace parts 13  16 with just parts 1 and 2 of my design patterns tutorial
+I dont sell anything Everything I make is 100 free
+thanks derek actually i replaced my whole code with yours and guess what it worked thank a lot manjust tell me why is it taking so long to run and display  i am running windows 8 on 3 GB RAMintel i3 processor still it is so slow to run the android application
+Awesome tutorial Id say Im an extracurricular developer so this is exactly where I needed to start Im really looking forward to watching the rest I did end up having the Rideditmessages error as described below but restarting Eclipse seemed to do the trick I really appreciate the time people like you take to do these things thanks
+exactly what Ive been looking for simple not over detailed and straight to the point all in one video thanks allot
+WOoooww   Thank you  its so goood 
+SirDerek can u please upload this Android Development TutorialS in Kickassto
+Great job  like the overview prior to explaining the details
+using apple to develop andriod lol 
+What else can i say THANK UOOO
+BOO YA
+Great guide Due to personal preference I want to start Android development by using Android Studio I wish there was a tutorial like this one for Android Studio instead of Eclipse 
+Always feel free to ask questions Im here to help
+I ended up starting all over again and I just finished it so I wanted to thank you because it really helped
+thanks for sharing
+Always feel free to ask questions 
+Thank you so much Derek watching your video was surprisingly entertaining Ive watched a ton of other app related vids like this one But those shut me off in one second Yet I was able to watch yours the entire time without feeling tired a bit I appreciate it so much as to how hard you worked to put together all your videos Thank y ou
+Hi I have every video and links to all the code here newthinktank com201307androidvideotutorialsofar I also provide links to the code in the description for every video I also have the complete packages for every video so you can just import everything all at once into Eclipse Everything is free of course 
+Thank you  I edit everything in iMovie and record everything with camtasia 2
+Tip and Final Bill are working just fine
+Excellent tutorial I had just read through the android version of this same app and was feeling very confused missing the big picture By running through the high level issues like you did I feel I have a much better overall picture BTW I love tutorials that go fast you keep me interested and if it DOES go too fast thats what the pauserewind buttons are for Awesome
+Yes I have tested it Since it is nearly identical to what Im using in this video Im going to continue using Eclipse The Android studio is still to buggy
+thank you for all 
+Thank you for taking the time to tell me how much you enjoyed it  My text couple videos will be on how to make a universal translator app for Android
+its funny how he makes an android app with a Mac P
+Views provide access to layout and interaction tools
+I really need something ALOT more user friendly I am struggling to even get started
+OH thank you Derek You explain things so easily and I get it in once or in twice thank you I know its 2 years after you recorded it but now I am going to finish watching your android series Thanks Derek I follow your tutorials and wait for your new tutorials
+Derek Banas great tutorial perfectly pitched for seasoned developers with 0 android experience
+I think you are referring to the emulator Yes I think so but Im not certain if everything would work exactly the same
+Here is everything on one page newthinktank comvideosjavavideotutorial
+Hey just wanted to say thanks for doing this Im just getting in to Android Development and your tutorial was entertaining easy and informative I cant wait to check out the other videos 
+Well done  Very good tutorial Thanks for the lesson 
+your voice is awesome  I have been watching the Marakana android development videos but yours is way better D
+Great  Im happy that I could help
+Thank you  the part you need to understand is the object oriented design part After you get that the rest will be easy
+Hello guys I have just launched my new application which will be helpful for people who are loosing hours to find proper gift for their loved ones so i gather at one place gifts from some internet shopping stores and list is updating always I would like to hear everyones opinion and if you have any suggestions about the application or objection let me know httpsplaygooglecomstoreappsdetailsidcomdusandimitrijevicdontforget
+Give me the exact error and Ill see if I can help
+                 
+Love this tutorial
+somebody who knows nothing about java therefore should watch your java tuts before this right
+YOUARETHEMAN Love your tutorials very informative and awesome presentation Keep being awesome as hell mannnn 
+So Im guessing I need to learn Java before I take this
+Thank you very much  Many more Android tutorials are coming this weekend
+I will eventually cover most anything youll need to make any Android app You can make anything
+This is exactly the level of teaching I was finding Channels like newboston are too slow you are absolutely perfect You go in depth only when necessary and you are precise and concise making no stupid jokes and stuffSubscribed
+Does it take a team to create a game on par with the likes of temple run  jetpack joyride Or is it possible for me to solo it
+Great tut Thanx
+Awesome Tutorial man Havent been coding in a while but this has reminded me of how good it tastes Just like CornFlakes
+Thank you very much  Im glad I was able to help Youre very welcome
+Thank you  Im glad you are enjoying the video Many more are in the works

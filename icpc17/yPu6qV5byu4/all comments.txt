@@ -1,0 +1,500 @@
+was good but too fast P
+Great Tutorial covers a lot Thanks
+witch my sql connector u need for the php mysql connectionmay u need a driverthanks derek 
+Strange you downloaded MySQL Workbench but then did all of your SQL in the terminal Its much easier to create your entire database using MySQL workbench Even if you are hand coding MySQL will prompt and error check while you are typing 
+Thank you for this wonderful tutorial Derek Could you please explain what is the difference between HAVING and WHERE
+You do not have enough likes It is an excelent work I took a DB class almost 10 years ago and thanks for your video I remembered all  it was under posgreSQL but it is close enough D
+Hey Derek Amazing video Could you do one like this for real world javascript or HTML5 and CSS3 That would be awesome 
+Wow man You helped me so much Thank you I really appreciate what you do Hugs from Argentina D
+You have earned a sub from this video the python video and the C
+Thank you for creating this it has been a big help
+Your videos are a beacon that guides me home atleast to my bread anyway and likewise so for many underdog college grads like me Im sure Simplifying design like that in condensed one hour very well articulated and carefully covered videos which help me overcome my programmingscripting demons I wanted to write a thank you note but I wonder what I have ended up with So thank you Mr Banas for all your hard work D 
+Is this lecture really covered most of the functionalities in SQL as you mentioned
+Thanks for your tutorial very useful After learning your tutorialI have a deep insight for mysql
+THANKS MAN
+Hi Derek I watched some of your tutorials like Java Python C MySQL These are very nice One thing that I want to ask you about new tutorial related to DataModelling Underlying database is not a concern at all but Oracles any version would be good XE is nice and free So is it possible for you to create a new tutorial on Data Modelling
+Thanks Derek for your  well prepared presentation clear explanation and simple expression
+Thank you for such an amazing tutorial Its perfectly organized in the easiest way for the comprehension of  the material It took me about 8 hrs to learn it by saying it I mean that after watching this video and practicing on every example described in it I actually can use the sql which in ordinary circumstances would have taken several weeksprobablyPS subjectively speaking you organized your tutorial in the way that complies with the way I thinkwhich happens extremely rarely Usually the online courses that I have taken include huge amounts of unnecessary material the person speaks to slowlyand in the result I keep loosing my focuswhich didnt happen at this videoAgain thank you so much
+I like the video but Im new to Mysql or sql  I will need to reveiw this video 5 times more I do see a patern of syntaxThanksGloria Bronner MPMMPA
+Hey Derek Just finished the whole video You explain things very well Thank you I dont know how often you read your comments or if youre still taking requests But Id like to request another video on MySQLSQL that focuses on JOINS With an indepth explanation of each kind of join and lots of examples of course Id also love to get some infoexamples on subqueriesnested queries Please 
+this is exactly what I was hoping for when I searched for a mysql tutorialthank you 
+I started with WAMP3 and they did change from 25enough to make it suck the lessons you give here are great
+Great job in explaining some much in this video
+I watched it all m8
+Very good compilation of all topics Well explained as well Thank you
+You are the BEST on line tutorial I love your speed of talking and clean explanationThanks
+you mother culero
+Nice tutorial and exactly the primer I was looking to gain a basic understanding of MySQL
+I wish I had found your channel some time ago
+As a fast learning but attention deficit individual I really appreciate these quick overviews Lets me know exactly what I already kinda know and what I need to study more of all in under an hour Thanks Derek
+I watched the whole thing Thanks again
+Wow this was really awesome  Lots of information in a short timeframe  Im going to need to watch it another time or two to make sure I got everything  I see some other videos of other things Id like to learn as well so assuming theyre as good as this one Im definitely going to hit that subscribe button  THANK YOU
+jjhhhghgghggffffddd
+Very nice and informative thanksNeed tutorial on store procedures and functions
+Awesome tutorial Packed with information Love it Thanks Much
+Wow a fellow twin peaks fan
+much too fast for me i had to do a lot of pausing and replaying but great examples and such regardless
+Very helpful Thank You 
+Thank you that was a great jobkeep doing the good workGob bless you
+Great thanks It looks easy and you explain good a little too fast but in a short time LIKE
+hey man you are the best teacher i didnt understand the order by command thanks a lot
+Thank you for a great useful video 
+You are the best Derek thnx for the great informative tutorials
+Derek I am guy from Slovakia of age 28 in September I explored the beauty of programming when I was 10 years old on Commodore 64 however in some age I stopped and went other way in my life when I tried to understand objective programming maybe five years ago I did was not able to figure out how that really works but thank to your videos I was able to code my own application and I am very grateful for that world needs more people like you amazing teacher
+Hi DerekDo you know if there is a network system software for network computers that would contribute its resources to help slow computers to perform faster like Autodesk Backburner its for 3D rendering purposeBut generally for using a computer for making it faster
+Hi I am pretty new to sql All the tutorials I have watch show me how to connect to a server but they do not show how to create a server It is properly me not understanding since i can not figure it out with any tutorial
+Excellent tutorial well paced well explained and all information no hesitation or waffle
+I watched the whole thing Great content plenty of examples Would recommend to anyone looking into MySQL Looking forward to watching more of your videos when I have time
+Youre the real MVP my friend This actually IS everything you need to know about MySql Thank You
+Hi DerekIts darren again Hope all is well Do you have anything on crystal reports Thanks 
+Love the tutorial You should do SAS
+love the videos but I have not seen anything on updating one or more fields of an existing row
+please tell me how to install my sql
+you are the best
+amazing
+This helped so much Thank you for taking the time and effort to do this well
+I cannot connect to mysql using terminal It always says Command not found Someone please help
+Derek You are an amazingly productive all rounded charismatic personAll the respect for you man I hope that you will find all the success you are looking forThank you very much for your time and effort
+Great tutorial A lot of information Thank you
+This is too fast
+Which version of MySQLWorkbench are you using please The one I downloaded has a GUI that is radically different to the one shown here Edit Spelling
+Thank you very much for the video Very informative and awesome that you fit in so much into a single video I feel like I have an extremely much higher understanding after watching it than creating my own database the second time trough Many thanks good sir
+I watched the whole thing I thought it was very well done Thank you for putting this together
+I watched the whole video  Thanks for the great tutorial
+Thank you your tutorials are the best Somehow you manage to make things to seem so simple
+U r the boss bruh
+thanks for tutorial
+Hey Derek Thanks for all of these tutorials I have a question You have made all of the code available Does that mean it is free to use I am working on a website for my classes that will need the exact functions and databases that you have created here as an example I really could not have found a better example of what I want to do anywhere else on the internet I still want to learn how it works and will continue the lessons but I wanted to make sure I didnt cross over a lineCheersPeter
+Hi Derek Thank you very much for your tutorial Ive been struggling with MySQL for months but now its fnially clear I just wanted to know How do I connect MySQL to an extern server or extern database
+Thanks a lot The tutorial was simple to understand and follow I enjoyed it
+Awesome tutorial make some like this tutorial for other kinds of database like NoSQL mongodb
+This is great  Thanks
+Hey thanks for taking the time of recording this and putting it online you really did a great job there Personally the breaks between each next set of information could be a tiny bit longer so that I can take notes more adequately but I just hit the pause button a bit more often so ultimately I guess thats fine I watched the whole thing as a reminder for my IT classes and to get some good examples of complicated queries for inspiration However what Im struggling with is to come up with ideas for the actual sample data that makes sense to students  I want them to feel the need to create alter new tables etc so Id love to give them a choice of projects they can choose from to set up the data in the first place So while your student data base made perfect sense for this tutorial it doesnt strike me as suitable for the youngsters 1617 yearolds Have you got any other ideas for sample databases that are not too scary Ive got plenty of ideas for proprietary use but Id love to give them a project that speaks well teenager 
+How to delete a database named testcom or something like thatcouse I tried that drop database method on that database didnt work
+Watched the whole video Im new to SQL so was bit fast for me but was great one ever watched
+Love these tutorials To the point with minimal chatter And if its going too fast or I need time to absorb a concept I can just use the magic of the pause button
+Where do I find User Administration in the new Workbenchs GUI Thank you 
+Watched the entire video thanks alot Do you have a video about SQL and PHP working together
+Can you help me i just created my first connection and when ever i try to connect it says Cant connect to MySQL server on 127001 61
+im having my final interview tomorrow and this video helped me a lot in recalling mysql after a year Thanks a lot this video is great thanks for doing this
+amazing work
+Thank you this is a great tutorial
+Thank you so much for this tutorial It was really helpful as I prepare to work on my project using Java and MySQL
+Nice Great Job Can you have similar for MySQL admin perspective
+can i learn mySQL without understanding PHP
+On your last query arent you describing a full outer join and using an inner join or is it different in mySQL Great tutorial
+Awesome Video Derek  You are making difference in peoples life by creating such videos
+what is the version he is using
+please can put a trigger tutorial
+Awesome video very helpful for a complete revision thank you
+Hi  This is an awesome video Thank you so much for posting this
+I always look at Tutorials on the You tube as they are quick source of information And I can say this is one of the best I also watched PHP Programming and planning to watch c and Java as wellI am also Looking forward for the object oriented part of PHP Also anything advanced with MySQL would be great Thanks a lot for these tutorials May God keep you happy 
+Thanks for the video I love how concise it is Im going to rewatch it before any SQL projects I start to refresh my memory p
+nice watched the whole thing
+i have troble logging in syntax error  and lots of other codes
+Great job for anyone who wants a basic understanding of SQL  GREAT PRESENTATION AND FANTASTIC VALUE  Very nicely done
+I plan on watching this video but before I do I wanted to check if this will teach me what I need because Im not exactly sure what I need is not being an astute web developerI have created a webpage not live which allows users to sign into using and account from another website When they sign in their public data is saved into a file as variables username profile picture users URL I want to be able to save this data into a secure database permanently for each user I also want to link other variables points the user earns on website nickname to each specific user and have some of these elements users points available to be called upon edited and used within the site while also changing in the database My site is in HTML with PHP scripts What I want to know is 1 Can I learn this from this video2 Im not advanced at web development the complicated scripting for my site was not made by me Is this too advanced for a newbie to take on Would you recommend it  I know I could spend time and learn a lot more about this but I am also in the middle of learning Game Development and dont wish to take on another huge load of study3 If yes would this be a large or small project to hire someone forSorry for bombarding you with questions but I wasnt quite sure where to ask this and you seem quite adept at the subjectThanks
+Thank you very much for this amazing explanation
+How did you resize text on mysql for ease of visualization
+Watched the whole thing Excellent presentation  examples are well presented I will watch this again and recommend to others
+What a great overview thanks for taking the time to do this I hadnt done Mysql in a while and this was very helpful
+This video is something known asAwesome
+I watched the whole thing Good job
+Watched it all Very useful
+Great  Thanks 
+Best MySQL Video  Thanks
+For those who are struggling connecting to their database This is windows usersFind your Xampp insallation path for me the path is CXamppmysqlbin1 Open Command prompt and enter the followin do not enter the list numbers 2 CD then press enter3 C then press enter again4 CD Xampp press enter again  note Xampp is a file I stored my xampp  CD means go to this file5 CD mysql then press enter6 CD bin then press enter7 mysql u root p then enter if you made a password enter your password after pThen after that you are ready
+Great review of what MySQL can do
+Derek Banas  When I put in a phone number 1234567890 it gives me a error however if I put in 1234567890 its fine That data type is a varchar so it should not matter how I put it in right You are phenomenal at explaining things That is the reason I am a long time subscriber 
+For those who are struggling to understand what he means by moddable he means multiple
+can i have your mail id please You discussed just like spoon feeding to freshers
+you said sex at 1319
+kys
+For long I wanted to learn MySQL and I have to admit that your video was best kind of it Now I can have a sense of experts ing
+soo fast though
+Youre the best Subscribed Liked Shared 
+tysm covers alot
+Well explained and very clear to understandBien explicado y muy claro para entenderlo
+One of the first tutorials thats not so slow it bores me till cant focus Really liked the whole video will now watch your other videos 
+How did you shrink that size on terminal 
+YAY Now were all ready for functions views normalization optimization distributed DB clustering load balancing and disaster recovery JK Excellent tutorial I needed a refresher and this got me right back on the horse after a long hiatus from SQL Back then we called it RDBMS Dbase  Rbase Stop laughing  Seriously though your vid brought it all back like riding a bike Thanks
+Well  i watched the whole thing and i want to thank you sir for this amzaing video
+This video was really helpful and IMO a great introduction to MySQL Thank you
+Brilliant video for a quick recap on whatever I had learnt Thankyou D
+Hi can we get a copy of the database that you used so that i could practice or experiment on something like for example what if i did not included the group by in one of the commands that you performed what could be the result thank you
+your tutorials are GREAT
+Whew that was a good chunk of info Now back to Java Video Tutorial 34Your channel is awesome man
+Awesome tutorial man  I totally loved it  Keep it up 3 3 3
+excellent presentation
+Very helpful Thank you
+Excellent tutorial This really got me ahead of the game and served as a nice supplement to my coding bootcamp
+Is there anything you do not know Thanks for the video 
+Wow this is awesome Ive been searching for days for some sort of course or tutorial that would explain even how to create a new database I watched 10 mins and it has been a huge help More useful information in 10 mins than searching and reading documentation for days
+For those who are struggling to connect to DB and use Xampp  open cmdcd Cxamppmysqlbinmysql u username p h 127001 PasswordSHOW DATABASES
+Great tutorial NOT TOO FAST Just right so we dont get bored Use the space bar and rewind if your not getting it If you dont have basics of database then get a book
+very nice will help me make decision on moving from access to mysql
+Great Work That basically covers everything in DB class except for Relational Algebra If you can make a quick video explaining Relational Algebra that would be great
+Need to watch this multiple times Packed Very fast presentation
+Excellent Tutorial Derek Ive not yet used mySQL or attempted myself but Ive bookmarked this page Looks like a top notch reference  Thanks in advance
+wowwhat an amazing explanationu really helped me a lotThanks a ton
+Awesome i love this video great job and keep it up
+i spent roughly 400 mins watching this very helpful
+Thanks for the video Very usefull tutorial
+Im trying to create a cart of sorts and you say early on not to have a table with similar information My thought then was to create an items table and pull the items into a cart but Im not sure how to save this or if I could create a table of the items chosen How would you propose to save this I dont want this to last only while the person is logged in it should last until it is edited by the user
+Watched the whole thing But it got very complicated very fast xD
+I watched the whole thing Haha I was wondering how you brought up the past 3 lines at around 3335 after making the mistake Or did you just skip that part of the video where you typed it in again I know if you press up or f3 u can only bring up one line at a time
+Watched entire video and its awesome Very detailed oriented and almost all commands are covered under one video Thats perfect
+You are SERIOUSLY incredible Im amazed how clear concise and informative you were for 45 min of time
+They teach us in school just SQL but the commands compared to MySQL are pretty much the same thing Is there a difference between these two and is there a reason why they chose to teach us SQL for ASPNET
+Nothing about using the graphical interface 
+Feel like bursting  but i like it D
+Easy as pie
+Awsome both thumbs up
+Great video All I needed to know Thanks a lot
+you sound like that disney voice character kronk  from emperors new groove
+1716 arent you just telling it to make the studentid and eventid primary keys with PRIMARY KEYeventid  studentid later 1952 the describe score says that you got two primary keys inside that table
+Hi DerekGreat Explanation  and enjoyed then your next tutorial will be mongo db  RegardsRaja
+Dude you are beyond awesome
+Great refresher
+Hi Derek I am trying to access the Mysql through the terminal and when I type mysql or mysql5 it says bash command not found I am able to access the database using sql scripts within the workbench so i presume that I have it installed correctly I am running the latest version of mysql so how should I access it in the terminal
+This is such a huge help I learned more in 25 mins from this vid then I did in 2 weeks of school  Subscribed
+What about procedures Nothing was said about them in video UnionsAnd triggers too In what cases do we need to use triggersGrants are not commonly used
+You are the best Thanks
+Thanks Watched it all at 2X speed for a super quick overview Now to dig in
+Id like to see a 3D modelling tutorial in something like Sketchup or Maya 3D which is free httpwwwautodeskcomeducationfreesoftwaremaya
+great tutorial thank you 
+Is there an IDE to do all this instead of command line 
+Very helpful video for the MySQL beginnerThanks
+which version are you using because mines looks different
+I guess Laura Palmer missed all the tests
+that was awesome Thanks
+Very good video
+My GUI looks completely different Any idea why I downloaded workbench from the MySQL website Any ideas Could you post a link to the correct file Windows 8 64bit
+I think that your second LIMIT command 2551 only worked because you had 10 entries While playing around SELECT firstname lastname FROM students LIMIT 4 9 kept returning 6 entries instead of 5 I think that LIMIT works by discard  of matches return  of matches So yours worked because it tried to return the next 10 entries after discarding the first 5 which was the last 5 entries It really should have been SELECT firstname lastname FROM students LIMIT 5 5 GREAT VIDEO Im learning a lot
+Always learning something from your posts
+Super helpful thanks man 
+Thanks for the informative video Good effort you put in
+                 
+Hi DerekI just want to say thanks for this wonderful video Very informative and clear So thanks again
+HANDS DOWN best teacher Love your videos 
+Very Useful Thanks
+Wow this has taught me more than my whole undergrad has lol this short little video couldve saved me in my database course P If only I found this earlier lol I feel really confident with my queries after I finished watching this Well Done
+Really cool video
+I like the way you make the videos learned Python and now SQL  that I need for my faculty classes ONLY I have to watch it on SPEED 15 so it makes me stay focus trough whole video But great work 
+I did not watch all of it but I watched most of it
+Thank You so much for your knowledge great
+Great video
+Amazing I cant believe I cant even get past the first 15 seconds of the video without getting totally lost  The very first screen in this tutorial and all tutorials shows three main areas SQL Development Data Modeling and Server Administration  Problem is I dont see thoseAll I see is a big black screen that says MySQL Connections in the upper left hand corner  Unfortunately NONE of the tutorials Ive found tell you what to do from THERE  
+Hello DerekYou have always been a great inspiration to meIf you find some free time please make a video for the rest of MySql as well as triggers and transactionsThank you
+great job
+Incredibly helpful  thanks for making videos like these 
+INSERT INTO student VALUE   Dale Cooper Ok so I had to pause this video bcuz I feel like Twin Peaks is calling 
+This tutorial was perfect 
+Thanks  This is one of the best tutorial Ive seen 
+Is it really that easy to get rid of a database Just DROP database01 and poof now you are a florist
+Thanks a lot Derek your tutorials have been very useful 
+Zipcode cannot be an integer My zipcode is 02120 I believe INT cannot start with a 0 can it
+I just watched the whole thing and it was a very good tutorial I already know SQL from my studies but that was several years ago This was a good refreshment of my knowledge We did this thing in class where we designed an SQL query to pick the employee who earned second most in salary in company and that was a pretty tricky query I forgot how to do that one now hope that I dont have to do something like that when I work
+Thank you very much Light years ahead of the other videos
+Genious
+Amazing  Thnx Dude You Got A Subscribe From Egypt D  So Helpful
+Great video Derek its great see someone put together information in a nice tidy package
+Pretty Nice I watched the whole video Quite Resourceful
+altering and ordering columns failed for test table on  mysql57 alter table test add maxscore INT NOT NULL AFTER type failed Escaping type didnt help So I added the table then tried to change column order but it never worked Any sols
+awesome as always
+Awesomegood job on putting useful scriptsqueries together
+great tutorial  It really helped with my understanding with SQL  Seeing you put it into practice was extremely helpful
+thanks so much man this was very helpful you explained everything i need thanks a lot
+Already lost 45s in My MySQL workbench looks really different And How did you get mysqldlocalhost to show up Did you create a database before hand How do you already have users and passwords
+Great video very informativethanks
+excellent all inclusive tutorial in just 40 minutes
+Thank you Derek Its very helpful
+just watched the video in full first to see what MySQL looks like the hardest part is to get the software to run and practice after watching video MySQL doesnt look so bad
+Awesome intro to the SQL Cheers y
+Extremely useful video Derek  bravo 
+Great video Very concentrated but still comprehensible You can read all this in books but watching someone actually do it is invaluable Also there must be a great job of editing done here because I cant believe anyone could have done all this demo in one shot 
+Its awesome thank you for the tutorial
+Very helpful video Thanks for this upload
+or just use phpMyAdmin
+thankz  best SQL learning i saw still now
+like your confidence when you teach
+How do you adjust the display of messy output
+what the keyword UNSIGNED mean
+Twin Peaks fan 
+I love you
+Great tutorial Thank you This was very helpful and had a good pace Really Appreciate it D Hope there is more one video tutorials like this for other concepts as well
+cool vidmaybe if I watch more educational vids instead of crime I might learn something useful
+good work Thanks yup watched the whole thing 
+How do I get your terminal  screen thing Im seeing a whole SQL Workbench GUI
+watched the whole thing thanks for the tutorial 
+I just wanted to say Bravo I went from not knowing really anything about the language and a vague idea of the concepts to building a full database of my relatives and tracking relations Super helpful thanks a bunch
+Its the best introduction to mysql ive ever seen congratulations Not even the programmers ive met in my previous internshipment know that much
+Well I thought it worked but dont get the datetime its just 00000000 and 0s for time also By the way I am useing phpMyEdit to create the php file
+Thank you very much Very concise but extensive tutorial helped me a lot
+thanks good tutorialyou are awesome
+Derek youre a top notch programmer sir I love watching these just for quick referenceYou dont happen to know ActionScript do uI have been programming a few videogames quiz style but Im looking into motion graphic style games I have heard using Java DoubleBuffering is the best way to go but in all honesty Im not a Java Programmer Once again great vidsjbarnes
+I saw the whole thing Great tutorial I learned so much Thank you for the Cheat Sheet because I definitely did not remember everything I saw but it helped just to get familiar with all the commands Keep making more videos Looking forward to exploring your channel more
+Very helpful videos This kind of concept assists by getting the broad sense of what a languages can do with good detail as well This and the Golang videos really gave me a a strong start
+Hi Derek This is Abhijit I really appreciate the effort you take to make these videos covering such a lot of information in a single video The way you teach really makes it easy to understand how things operate I am getting into practicing SQL right awayRegardsAbhijit
+very crisp
+greatly greatly Appreciated It is much easier to understand coding by terminal than by sentences in books
+Thank you for the video Im not able to go to school right now so I feel like watching this and practicing a bit on my own will ease my anxiety and make me more confident when I go back to school I like being able to scrape the surface and get familiar with what coding on the job is actually going to look like before I decide to make a career choice 
+Derek Banas Would it be possible to sit an oracle exam on MySQL with the contents of this video
+Terrific stuff for new SQL users  My experience is based around SQL Server Management Studio so Im spoiled by intellisense hints 
+thank you so much
+I absooutely enjoyed it And learned a ton just in the past what seemed like 4 hours with breaks I took notes and tested each sample copying  pasting my proven tests into a note document for fure reference My goal is to work with MySQL and iOS apps and Dreamweaver generated pages Any clues on these let me know please Thanks again
+Thanks a lot for this
+Clear voice nice video thank you
+extreeemly informative thanks
+hii Derek i am trying to learn MySQL and I installed it and for some reason my workbench looks different than yours and its home page lack some of the features you have on your home page do you why its like that
+Very nice tutorial
+Thank you so much You actually made programming fun again for me and now I can program in any language within an hour Life has become so much easier with these videos and also a bonus cheat sheet Please keep adding new videos Thanks a ton again
+You are very good at what you do sir Thank you and all that
+Its Great tutorial Dear thanks for sharing 
+Great Twin Peaks references
+thank you for the fast reply i can do the tut from mysql command line but id like to follow along from start to finish as i am using sql plus and mysql so learning this will help me faster with understanding the syntax which is my weakness taking 336 intro to db and design very lab and group heavy
+excellent
+Thank you I stopped taking notes at 3000 I didnt follow up with all the tables but I did understand quite a bit I know a little bit of python and I knew some SQL too I use access so the mouse does everything for me
+HiI was pretty confused that you said the number in varchar is just an estimate I interpreted it on first hearing that its kind of a size hint for mysql Reading the docs its really hard limit and you receive either an error or the value is truncated if you try to insert a longer value
+that was real good  very clear thanks
+Thank you Darek I could not imagine better explonation 1 
+you are awesome
+Thank you Derek
+Wow this is hands down the best SQL video I have seen  I am sure most of us have paid 3k plus for SQL classes that do not even come close to this  BRAVO
+On a sidenote Derek you win the YouTube Respond to Comments and Fans award Thanks for always interacting with us and making great content
+Your videos are awesome I love you subscribed And yes I got to the end of your video
+Can you give this lecture in Hebrew I dont know English very well Please
+Derek I was wondering if you could do a video performing queries on the Sakila database I dont see hardly any queries using it I think it would give us all a more realistic MySQL situation Maybe you could cover real world advanced queries against that database
+Excellent tutorial Derek As always keep up the great work Thank you so much for sharing your knowledge 
+The compress level of this tutorial are very high  weight much 
+Cool tutorial But i cant find how to open the MySQL terminal Any help D
+ Awesome video it is greatly appreciated
+Why didnt you make a table for quizzes and one for tests
+Thank you so much bro Appreciate it D
+I had to share this with the Computer Science Club at my school it is really good
+I love these Videos Clear  straightforward and most of all short
+how do you open that terminal at 104 in the MySQL Workbench
+Very nice tutorial but I didnt find solution what i was looking for Lets say you delete one of the studentsID i mean take one student off the table totally lets say in row 6Im making the database in an app so Im not using terminal input interface like in your tutorial If I then add a new student in the table with autoincrement on and offcourse want to fill up the empty gap in studentIDrow 6 to the new student Instead it places it last in the table lets say the last place is 12 so after a while deleting students from the table it will be a mess that maybe looks like this studentID 135781112How do I insert new student in the first row that was deleted like for instance row 6Ill hope you can answer Been looking for an answer for months now Thanks
+cant we use WHERE instead of HAVING at 3004
+Why did you not have to state they were foreign keysFor example shouldnt CREATE TABLE test end in FOREIGN KEY classid REFERENCES ClassClassid
+Ive got a huge server with a mess of media that I need to take stock of coming at the end of the month and I havent look at mysql since college This is just the dustoff I needed thanks
+Thanks for the vidsyou are a true Master of the Internet
+Its very useful  thank you soo much for this video   
+Watched the whole thing Very helpful Thanks
+Here my first attempts with MySQL it looks easy and well done
+Great job Efficient use of time excellent information clear and concise
+Should email also be a primary key
+I have Only 5 Minutes and the tutorial u describe is to the point what i wanted for so long thank you so much
+Thank you so much Derek for this great tutorial
+Im just so lostI got MySQL Workbench but there is no button named Server Administration therefore I cannot create a new user therefore I cannot login into console PS Do you mean CMD Windows or the Python Scripting Shell Or Maybe the SQL Utilities ShellIm so lost I dunno where to start Im sorry if im missing something obvious but I just cant figure out how to start the SQL Server eitherEDIT I think I created a user
+All of these videos are not perfect eg many people complain about some small stuff missing but they are excellent in giving most people enugh information to get started immediately without having to research the stuff for several hours I like them a lot
+thank you so much had a better idea now
+Very good video covered extremely well though I wouldnt mind learning about using UNION
+Bro this is so useful  Thumbs up for you
+Hey derek thanks for video FINALLY I could understand what joins are all about D
+Thanks Derek
+Watched the whole thinggonna watch it againand probably a few more times after thatjust find the way you deliver information much easier to understand than from reading booksfeels way more interactiveA sincere Thank You
+Very nice tutorial 
+i have taken several SQL courses to get all this knowledge from different angles this is a fantastic tutorial and it explained some lingering questions that id had after other courses thank you
+Is it true that this video covers 95 of what we need to know about MySQL 
+I have both Mysql and Mysql Workbench installed in my system are they both the same thing and are they linked to one anotherI know Mysql is command line based and Mysql Workbench is a GUI but can i use them interchangeably and both have the same dataplease help
+simple AND to the POINT
+Awesome  now I dont have to watch other tutorials 
+Great video and easy to follow Thank you
+What is Scarlet  You typed that in the beggining
+At 445 when you describe the names and emails and press enter how can you switch back to the row above the current prompt to modify what you typed Eg is you accidentally typed firstname VARCHARR30 NOT NULL with 2 R in VARCHAR but pressed enter how can you access the row to modify it
+Your accent is Western PA am I right
+do you have a video for kids to learn computer programming
+I watched the whole thing cause I love your videos You are the best teacher on the interwebs
+Excellent tutorial and delivery Nice to have a presenter who knows how to speak a sentence without a ton of interruptions vocal pauses and other annoying speech mannerisms so frequently found on the Net Straightforward information in a tight and easy package and would like to see him do something similar for Ruby
+Thank you for the wonderful teaching can you help us to learn how to print or display database created in mysql
+12 Weeks class turns into 41 Minutes class
+When I open MySQL Workbench it looks nothing like that and I dont see Server Administration anywhere
+Thanks a lot man Ive being following almost all your tutorials you are just amazing
+Sweet and awesome
+am newbie i want to know server management
+Hope your health is better
+you wanted people to leave a comment if we saw the whole video DI did  Well one thing to notice is that it all went really fast not to fast though it was okay  but not faster D Since some people cant follow up all in all a Great video and good quick Tutorial on MySQL i knew nothing an hour ago and now i wanna give it a shot just for fun D Thank you for putting your time into these kinda videos you are helping a lot of people to get started or getting a better understanding for this kinda stuff D
+thank you and it was really helpful and did cover the MySQL really well  
+Excellent one
+Thanks Great class
+Heres a question for you I want to check if a row with a unique identifier exists If it does exist I want to update data in specific columns in that row If it doesnt I want to create the row and enter all required data How would I perform that checkEGIF ROW EXISTS WHERE coluniquename  somenameUPDATE VALUES col2  somevalue col4  somevalueELSEINSERT INTO table VALUEScol1 col2 col3 col4 col5
+Wow Fantastic introduction to MySQL Thank you
+Hi Derek a great clear and concise video My question is if I want to have a website that has a form where data is submitted to the MySQL database would I use the following process HTML format form in broswer JavaScripst form validation PHP send the data to the MySQL database and create the tables within the MySQL database for the PHP to send the data to Thanks in advance 
+This tutorial is very useful for beginner and we want a video on triggers stored procedure and transactionsThank You
+from iraq thank you very much my bro
+Thanks again  Great tutorial great teacher This is what the Internet was made for 
+As someone who is breaking into the software developer world I always come to your videos first whenever I need to learn a new languageframeworkskill There is nobody else doing video tutorials that are as easy to follow and informative as yours Production quality is high youre easy to understand A work sir please keep it up
+the interface of my MySQL Workbench is completely different to the video 
+Watched the whole thingTook some of the mystery out of MySQL Gonna have to comeback and write things down so I can throw it into virtualbox and play some and commit to memory Thanks from a mechanic trying to get into a less painful but just as fun career
+Thank you for this video I found the examples to be very helpful D
+Watched the whole video D great tutorial Thanks
+Hey Derek great videosOne comment Id like to add is to probably sometime slow things a bitYou write ant talk really fastso sometimes its kind of hard to keep track of everything but overall the information is greatI am watching your Java videos Keep up the good work
+I started with your new Ruby on Rails tutorials about a week ago and 5 videos in there hasnt been one that has disappointed  These are all fantastic videos and they have helped tremendously
+Great video thanks mate
+Fantastic videos To the point practical and full of useful real world information Thank you for taking the time to make and post these
+ya da MAN help me a lot Thanks so much
+This was really useful
+great thanks
+Greeeeeeeat  training video thank you
+Awesome vid lots in so little time It got a little nasty in the last 2 minutes tho lol but much apreciated lesson This combined with the xampp i have installed my jdbc book and the MySQL crashcourse book i have comming in will probably get me ready to include this under my developers resume
+very cool video from the very last query example you show the inner join pulling back ALL data from both table in SQL it will only pull back data that is common to both tables in order to pull back ALL data from both you would need to use UNION so is inner join from MySQL the same are UNION in SQL
+cool video Derek Could you make another video only about joins
+Best video I have seen so far
+Hey Derek I only have one question How come you know everything
+thank you for the postit is a very good introduction to MySQL
+Very thorough and explanatory presentation of MySQL in a short video Keep it up
+is this work with netbeans 
+Im fluent on MS SQL Server Given the speed this would have been a nightmare to try and follow coming in new and looking for an intro tutorial I can understand why some feel this was much to fast
+Amazing video Very clear very practical I was searching for info on MySQL after being incredibly disappointed with a college class that was supposed to introduce me to this subject but instead focused on busy work like rewriting in a word document an entire chapter from the book yes this happened Anyway your video was EXTREMELY USEFUL and much more informative than my college class is turning out to be so far
+Very niceThank youYou should easily put  the suggestion up there feel free to pause the video if you find it too fastAlso thanks for recommendation for the book I just ordered it Hope it works for a beginner as am I 
+i love you forever 3  3
+Thanks for the answer It works now
+Hi how do shink down in size at 1138minsThank you
+Appreciate the help but I cant get mysql to open in the terminal It keeps telling me command not found when i input mysql or mysql5 How would I figure out what my computer calls it
+how i know  type of mysql i mean u type mysql5 or anything else 
+  hello   its me 
+Derek this is one complete package so much in just 41 mins Information density per unit time is quite high And I really like the video for this
+zipcode should really be char5 or varchar10 as some zip codes start with one or more leading zeros and newer zip codes are extended to 9 digits Thats a design issue not a MySQL issue
+one of the most extensive and compact tutorials on mysql awesome
+Its as if youve read our minds how exactly we want tutorial videos to be Excellent pace Comprehensive coverage Thanks a ton
+Great tutorial Thanks for bringing the Twin Peaks characters back together
+This is a very good summary I love it
+You are great 
+Great very objectivety
+Thanks for this awesome video Derek 
+Derek Thank you sooo very much for this awesome tutorial May God reward you back for brilliant info you provided in this awesome vid H Majeed
+Very good content and easy to understand
+For those struggling with the a 1067 error on a windows installation while using a later version of MySqlwithout XAMPPYou do not need the final NULL value for the primary key since it is set to AUTOINCREMENT
+What version of workbench is he using on his mac My workbench looks totally different
+Great video and thank you  I have been looking for a good information tutorial video and so far this is the best Do you have a video in JavaScript
+This was very useful thanks I watched the whole thing and have now started building out my database to store player data
+Thanks for the video very helpful
+How did you shrink the table in the CMDIm using windows I cant see everything in the table and I cant make the CMD window wider
+I really like your video It is straight forward concise saving me a bunch of time listening to other people LONG explanation thumbs up
+how do you even get into the terminal to use thisis there an option or do you have to open the cmdshelletc
+Really very nice Thank you very much for this kind of share
+Thank you very much D amazing
+youre the best 
+This is incredibly outstanding You did a great job by making this one shot video covering major aspects of sql Thanks a ton for video
+Excellent we need more tutorials like this 
+Your video just saved me so hard I was going to fail my CSC 436 Databases class Everything I was doing didnt make sense for this one database class I have but now I understand everything Why couldnt you be my teacher
+Great video  thanks again 
+Very informative video thank you for posting it Can you recommend any projects for newbies to get hands on experience other than recreating what you did in the video
+When I open mysql workbench I get a page with a black background and a totally different layout How do I get to the page where you started
+Excellent Video That was great I think you did an amazing job of going thru it quickly enough and yet still covering almost anything that can be done Very informative and well demonstrated Bid thumbs upI was wondering if it is possible for two systems to use either one table for users which possibly could be a combination of both tables or maybe even pull the data from either table as both have a userid without changing the code on the back end of both systems Is it possible to do it from the phpMyadmin for example
+Awesome video Wish I would have found this video while I was taking this course for college last semester I made an A in the class anyway but I struggled This would have made my life soooooo easy
+great stuff man nothing here you cant do in R or Excel but a lot of companies seem to be using it so thanks for the video
+Waooo Dareck you are killer programmer i like your coding style and flow of things that you cover in pretty short time
+Very informative Great for a quick brush up and overview of MySQL Subscribed
+Dale Cooper nice
+Great Presentation 
+Thank you so much for putting this video out I saw the whole thing and followed the tutorial by creating similarish databases to test it out myselfI got here because I am trying to make a bilingual website and I figured that this would probably be the best way Thanks quite a punch you pack in 40 mins
+My college had me install sqldeveloper and didnt really do a good job of teaching it  Thanks so much for this video it really helped me understand the nuts and bolts of working with MySQL  Before this all I knew was concepts which really isnt good enough
+I am currently learning MYSQL This video is excellent  thank you
+I always appreciate your concise statements editing out of fluff and especially the cadence of idea flow  Those things seem to reach into my brain on a deeper level and more efficiently than most videos and books
+For some reason and Im using Windows 8 I cant find the terminal used in the video How do I open the terminal
+Great Tutorial it helped me a lot
+do you have a skype to hit me up if help is available there too its alot faster kirbyjr1
+This was so fantastic Thanks a lot for making thisAnd I actually did watch the whole thing D
+Amazing tutorial perfectly suited to a programmer just getting into databases D In just 40 minutes I have all the base understanding I need
+Very useful and timeefficient tutorial for SQLnewbies like i am
+then please give me the URL of that tutorials
+Always doing an amazing job with your videos Derek
+You made it very simple and practical for a quick and good startWell done
+please upload video over PLSQL also
+This was an outstanding video  As a long time dBase Clipper and Access programmer I am looking for an application that I can use in both Windows and Linux This video gives a very good overview and provides a reference that one can use
+Is it pronounced Ess Que Ell or Sequel
+Thankyou Professor Derek
+I wish my workbench 63 looked anything like yours so I could comprehend what youre doing
+Could you do one video for PostgreeSQL and other for MongoDB It would be very helpful
+I typed this into MySQL command line in order to import data into my tables but I keep getting this error What am I doing wrong Is my file location in the wrong area I have it in the Temp file on my C drive Please advisemysql LOAD DATA INFILE TempTest1csv INTO TABLE TestTableERROR 1290 HY000 The MySQL server is running with the securefilepriv option so it cannot execute this statement
+Damn was hoping you would have covered stored procedures functions triggers and events Possibility 
+Good tutorial but requires users already know how to set up MYSQL workbench not too difficult but requires another YT tutorial and use Command to access mysql which I still havent figured out
+Really a nice one  I greatly appreciated
+Great video It was very helpful
+cool stuff sir thank you for the videos D 
+Thanks Derek for great videoI have question about last example What is diference if You use SELECT studentfirst namestudentlastnamescorestestidscoresscoreFROM student scoresWHERE studentstudentidscoresstudentid AND scoresscore15ORDER BY scorestestid  
+When you CREATE a table using the terminal can you go up one line if you typed something wrongI know you can use   and  to go left and right but can you go up and down while you are creating a table I am using Windows Powershell and it does not appear to be easy to go up a line once you type ENTER
+the tutorial is good but youre speaking too fast I cant keep up with all that new information coming so fast
+nice video thanks a lot
+very nice video it is helpping me for my examvery nice
+hai  do you have any  video  my SQL runs on a system i dont know if my was question correct im still confusing but this video was teach me a lot
+I learned more from a book of SQL than this lecture I loved how you explained DML but what of schemes domains and privileges assertions indexes views isolation levels SQL function or abstract data types definition Are they included in MySQL How does MySQL connect to a distributed network
+You are a legend I need double portion of your anointing
+Great refresher thank you very much
+I watched the whole thing Took me 4 hours to do all the the commands in mySQL workbench but this was a tremendous jumpstart in my mySQL skills I think now I am ready to hot the ground running in my new job Thanks a lot
+Thank you
+Those are some old ass students  nice video 
+Wow Nice stuff It will take me a while to get through it all  Im slow
+Thank you for that pretty introduction to MySQL its deep for real
+Excellent
+excellentb tutorial one question  for Visual basicwindows path file syntax iscusersmanueldesktopdatosxlsI need change  for this new path file will becusersmanueldesktopdatosxlsplease help me 
+I HATE MYSQL i only want to save 20mb video inside DB as longblob but it doesnt allow me it gives some error like Row size too large  8126 In MS Access i know its jst a small DB but it allows me to store videos as huge as i want WHY DO MYSQL prevent me from doing it
+Can someone give me a rundown on how to install the workbench I have downloaded both the installer and the ZIP file however whenever I double click the file MySQLWorkbench it says The program cant start because MSVCR120dll is missing from your computer I can find somewhere to download this dll but where am I supposed to place it
+Like a tutorial must be like
+Just what I needed Big thanks
+How can i do tha on 3336 to fix my typing errors
+Can you also make a video about the MySQL privilegesconnections etc for beginners Because on this video its straight to coding but I would like from the beginning Thanks
+Hi Professor Derek can you make a complete one for  Javascript
+HI Derek Thanks for the video Could you explain how to import data from excel to mysql I have spent days trying to install phpmyadmin but to no avail 
+Im leaving a comment because I watched the whole thing
+This is the best video Ive seen so far He gets to the point and entertains at the same time
+I downloaded MySQL workbench but its totally differentIt looks black now and I dont see the server administrationHave I downloaded the wrong toolbtw nice lifehack with that fever in 1 day
+please tell me how to make webprojects like college website I know html very well
+Man I love your videos only problem is is that your talking speed is a bit too fast for meI wish YouTube had a 075x speed option I currently watch your vids at 05x speed during difficult parts but its a bit too slow lol
+really concentrated helpful in creating and using database
+Thanks for making such kind of useful video
+Great tutorial Thanks 
+i saw a bunch of complains in the comments but it was just perfect for me HUGE Thanks to you there are no better tutorials on youtube than yours in this field
+This is simply amazing I will recommend you to my students Bravo and please keep up these life saving tutorials
+Great job on this tutorial Thank you And yes I watched the whole thing Cheers
+I liked this video It was a good refresher before I attempt to create the largest mysql database Ive ever done One question though Is there a reason you dont declare foreign keys in your create statements You mention certain columns will act as foreign keys and give a good explanation but you dont actually identify them with your code Just wondering
+Watched the whole thing Thank you This tutorial is very good if you have previous experiences with Databases and want to warm up your memory as i did People doing this stuff for the first time may be little confused with this phase
+good video keep it up
+Have an issueselect  from person where factory IN southnorthLets say I want the persons who are in both regions and not one person who is in either one of themIN statements give me all possible solutions I want only the ones who are combined How do I proceed
+Hi Derek Banas thanks for the tutorials I have a question I use msql 57 for some reason I keep getting error message for the last line studentid INT UNSIGNED NOT NULL AUTOINCREMENT PRIMARY KEY  what Im I doing wrong
+Really good  thank you for all your effort in explaining MySQL
+Excellent tutorial Will watch your others
+I will be getting my MySQL certification exam this December Glad I watched your video as a refresher Thanks a lot Derek
+Im two minutes into this and more confused than when I started You go insanely fast Its very pretty and you have a great voice but this would be better if it was broken into five videos of a little longer length
+Hey dude sorry for a stupid question but i dont know where u opened that tab i  mean where is workbench central   
+Nice
+Thanks for another great video One thing I noticed you didnt mention is that when doing a COUNTCOLUMN select it wont count NULLs unless you use  Not sure if this is important since you tended to include conditionals that expected values such as COUNTDISTINCT state
+Great the talking speed is great
+MRPERFECTIONIST
+ALL tutorials should be like this fast and to the pointNow can you use this in a sentenceMeaning whats the next step I get creating tables and rows and adding data and pulling data out but people work all day in the command line when dealing with MySQL do theyWhat should I learn next
+Awesome tutorial thank you Derek
+very nice video short easy and fast
+yep for me i did watch the whole video
+Thanks for this awesome tutorial
+standing Ovation to Derek banas Wish we all become like you one day in this topic
+SQL workbench does not work like this video says it does At least not anymore The interface is different now
+thanks a lot derek  great tutorial 
+WowVery informative and educational Im astonished about how much this video learned me in just 40 minutesThank you very much for making these tutorials Derek
+Derek can we use MySQL database to store our personal information daily missions notes language learning materials and other stuffI think that would make a lot of practice at the same that
+A very information packed video I need to pause and play every time just to absorb it
+great video i highly recommend downloading and working on mysql workbench instead of the terminal
+how can you remember all the keywords 
+Wow I am self taught and have been using SQL for years but I saw things that I had no idea existed but will use in the future Best 45 minutes I spent in years I am now going to check out your other shows Keep up the good work you should be proud of your self
+Excellent preentation Keep going
+Hello DerekIs it possible to install the very basic SQL standalone database on Windows7and get it up and running just to learn and practice CRUD using just Command Line    Ive downloaded MySQL package unzipped and moved it to Program Files    But it didnt work somehow or maybe i did something wrong
+Thanks man this really helped a lot but could you also do a phpMyAdmin version if you get the chance the terminal is leaving me a little uneasy about what im doing in phpmyadmin I only ask this because my uni only has phpmyadmin otherwise i would love to use it this way
+asdfasdf cool
+How about a REST tutorial  
+Thank you so much its very helpful i have an exam inn next few days god blessed youSorry for my bad english
+Thanks for the tutorial Very informative and helpful 
+This stuff is hard I am in a course at a university in USA and our Chinese broken English speaking instructor has us typing and running queries directly in the Oracle SQL command line He provides our statements in Word and then we have to correct them in Notepad and then paste them into My SQL command shell Half the time it works the other it does not This is hard to grasp I cannot even look at the modifications I am supposedly making in tables because half the time the queries have errors FrustratingWhat software do you recommend using with Oracle 11g Express to learn how to write and correct quiresThanks
+thanks Derek i actually took notes and stuff this was EXTREMELY helpful
+my best way to learn is to make what you do like insert data but then i make a different as you so you made student i made accounts
+Dear Could you give m your mobile number  i would like to call you to talk about my project and hope you can share it with me my mobile is 886922045488  thanks
+Thanks a lot
+Thanks for the vid man it really helps me relearn stuff I forgot in SQL Especially since I was taught to use SQLite and now I want to actually use MySql as is
+really good tutorial wish you would be my lecturer at my university lol
+This was a great tutorial as always Watched it till the end and you explained everything really simple and good Thanks and keep on the good work
+very fast refreshing up on my sql knowledge thank you
+Where i can download MySQL
+Great tutorial Very concise D and I find your voice calming much like Tom Hanks P
+do i need to do this when a website is saying Error connecting to mysql or does the website it self
+Thank you Derek so much information presented with such clarity
+Wow Great pace Learned all I needed Thanks

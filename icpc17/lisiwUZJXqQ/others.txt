@@ -1,0 +1,344 @@
+Thanks a lot you are a great instructor I really enjoyedlearn from your tutorial
+This man this man is doing Gods work for free Legend
+nice video in c
+Thank you man
+This was super helpful I used a foreach loop that i copied out of my book on one of my assignmentsand it worked but I didnt understand the logic behind it This explained it Thanks
+Amazing dude thank you Youve just made my life so much easier Straight to the point with full explanations Subscribed  True
+This video helped me so much I am eager to learn fast and the content I picked up really easily syntax is what tripped me up at the start coming back to this has helped me pick up the syntax Now I have been programming in c for 2 years and though
+YOU HAVE A C TUTORIALYou sir just made me day
+Great overview gives me plenty of topics to research
+yoopie thanks prayer answered
+That was great thanks
+Thank You Derek Banas I am 12 year boy who has learned C from your tutorials
+You are just the top of the top Derek  Awesome Derek 
+Dude thank you so much I just avoided looking at a thousandpage tutorial book and notunderstanding
+Ironically the only thing that nobody has able to create for Visual Studio yet is a decent uninstaller You still have to uninstall most of the packages VS installs along with itself manually since the uninstaller only removes VS and maybe 5 packages
+I think you should put in the description that this tutorial is not for beginners but also maybe not for programmers with a little experience especially java experience I know java pretty well so this is pretty repetitive I can imagine as a brand 
+hey have you made a video on unity
+I was always hoping for a C tutorial but since in most of your tutorials you use OS X I never thought this would ever be coming Thank for such a great tutorial Appreciate the great work One day we shall get a C tutorial from you P 
+MacLinux users dont forget you can use Visual Studio Code and net core now
+You are great I am trying to watch almost all of your videos They are really intensive and cover many subjects I want to know Thanks a lot
+
+Thanks for this tutorial
+i need a help plzz 
+I know Java but not C This video provided an excellent introduction for me Just what I was looking for Thanks
+Awesome Efficient Short I dont need a 8 hrs video and spending 15mins teaching you how to downloadinstall the visual studio This is exactly what I am looking for
+11145
+Major Spoiler Alert in the section about Abstract Classes
+How do you know every programming language
+So much code to get very little done in OOP Thats why I prefer functional programming
+This is super awesomeI know C Java and wanted to know C Now I have learned C in a pretty organized way at least the very important basicsThanks Derek
+Your videos are perfect for a programmer that has experience with another language If anybody went through these videos 3 times typing out and playing with the examples of course theyd have a fantastic fundamental of C Im going to go through all
+Hey thanks This is great I really needed a quick rundownrefresher as I had not looked at C in 5 years  Other videos take forever I have to hurry up and get a job
+Wow this is just too much for me Just started with 2nd year and Im so hyped to learn C It looks harder than C D Wish me good luck lol
+Hey Derek first of all great video it really does help get your head around the language and what it can doI just wanted to ask if you could or if you were going to make a series on c maybe the journey through making an application so we can see th
+For perfect Revision  make the lecture for C in one video also
+wow thanks I asked a few weeks ago
+as a Java programmer trying out Cthis is freakin awesome
+Question Do you have any videos on making games in C or any other language of course or plan on making any in the future I think you would do an excellent job explaining something so complex especially for platformers or Diablotype games
+Pi as 314 could lead to some interesting physics
+bookmarked
+You have the best programming tutorials on youtube that I have seen Thank you so much for taking the time to do these
+your skills are superb may god bless you for spreading knowledge can u help me i need to resolve this issue httpanswersunity3dcomquestions1142653howtodestroyeachinstanceofprefabusinginputhtmlcomment1142684
+Some days ago Ive started to learn C This video reminded and made me understand much stuff that Ive learned from a book Hopefully you could share with us much more about C in near future Thank you for your valuable time Sorry for my english
+Oh wow I was about to start learning C and was looking for a tutorial to do so What timing
+F please When you get a chance
+ are u gay
+So C is basically what would happen if C and Java had a baby
+This is just about my favorite tutorial Ive seen on YouTube No bull very quick explanations that effectively describe what is going on and a deep understanding Im experienced with many programming languages and after about 2 hours after pausing
+If your console wont open add ConsoleReadKey at the end of your main function
+You sir youre a God
+Im unable to get the code
+I am trying to learn c cause most of the game development stuff I find is in c Like unity and other things
+Quick question lets say I have a coordinates classe which hold xy and z integer coordinates in another class I want to say PlayerLocation to this Coordinates class I do that all seems fine it gets initializes i step through the code and all bu
+Visual Studio is a great program for programming and such but I highly reccomend using Atom since it is completely hackable and has community made addons
+Thank u so much more videos please
+Fantastic Presentation  Very Helpful Thank You 
+Thank You i was just looking for a Video on C
+Amazing tutorialas always
+First what should i say
+Hello quite nice tutorial really good one Just check out on 1445 i think you forgot to put break in case 2 so iti will also run default when choosing case 2  i think P i am a bit of newbie in C but my c instict says so P 
+would you recomend the deitel books How to program Series by the way aweasome tutorial
+With his if statement like that someone who isnt 713 years old would be told to go to high school Meaning if I was 3 years old or 89 years old it would say Go to high school
+You are amazing  Thank you so much 
+Not friendly to new users You pass you driving and get the keys to an F1 car
+thank you so much for using your hard earned time for this great tutorial on C It really helped me
+this is unrelated to C but are you making Drupal videos
+Hi Derekthat was a great repetition for me Thanks for your time and effortMartina
+Very good video Many thanks Learning a lot from it
+learning programming gives me brain cancer thanks to this video just watched the first 5 minutes and I can already create sykrim on unity
+You are awesome I love the way explaining I really interested to follow your videos I just like you so much
+you rock thanks dude
+Too quick Its like theres no breathing room between sentences
+Good way to start and learn C
+ what first language did you learn and thanks for video
+Ive been looking for this type of video thanks dude Usually I find videos that treat me like a retard with no experience in programming but with this video I can see the major differences and similarities between C and C The language Im more f
+This is a Comment code for Derek Banas at YoutubeConsoleWriteLineTHUMBS UP Great VideoConsoleReadLineend of comment code
+Great Video and Awesome speed I love learning at a quick pace
+Awesome video It gets right to the point nice and quick For someone who is researching other languages trying to choose which one to study next this is very informative
+Love your style Derek Get it done Lifes short
+Thanks very much for the tutorial While I dont think its necessarily great for a beginner to start here this was a great video for a user who is already familiar with another programming language Java for myselfThanks a bunch
+public static void Textint x int y string texttryConsoleSetCursorPositionx yConsoleWritetextcatch ArgumentOutOfRangeException errorConsoleClearConsoleWriteLineerrorMessageText42 42 Awesome Video ConsoleR
+I didnt expect to find such a great compact tutorial on YouTube Everything is to the point just perfect thanks
+you are great Derek keep it up
+How good are you in C  Junior  Intermediate  Senior  have you played with Xamarin and try to make some money out of apps etc  if I can study 10hrs a day plus for 2 years can I be around junior level 
+I made an application said Windows wpf I made two windows they connect perfect if I click the button on the first it goes to the second window WINDOW WPFonce I make a third window and wire the button on the second window to open the third it 
+I did have a problem with learning c sharp but this video is really the one I needed fast short precise tutorials I really dont know how I thank you D
+Why do you have a ghost mouse
+IT HAS ARRIVED
+Thanks Derek For Fulfilling My Request
+Java by Microsoft Available now at your local Bucks
+Any tips or ideas on what to work on next to get a better handle on c I went through Microsofts virtual academy videos as well I am trying to think of projects I could work on Most things are either too introductory Hello World variations or too
+Thanks very much for the tutorial All these big companies create so many similar programming languagesC Java and C they are all so similar
+I have a C final test in 5 days you really helped me out 3
+Hey Nice video as always  I was wondering if you could make one on receiving Bitcoin payments with PHP using this API httpsblockchaininfoapiapireceive Iam in the process of developing a web application that would need this and i dont re
+sir you have done a really very good job but there are some porblems in your explaination and these are that you are talking too fast and your not explaining enough about what these do and what that do examplesreadlineconsolethe orderswith thi
+I have had this very frustrating problem with Visual Studio 2015 I do not have to option to make a new Microsoft Forms Application or a Console application and many others I am only able to make 4 different projects and none of them are good for doin
+Amazing tutorial  thanks a lot waiting for a gui form version 
+Any chance you are doing an advanced c tutorial generics linq entity framework mvc for example
+I needed a quick refresherI am done but I didnt see concepts like virtual classes and the like Hope you have them somewhere else
+Youre tutorials are the best Youre the only one form who I learned anything  Now I think creating games in C will not be as impossible as i tought  Thanks
+Mr Dude THANK YOU 
+The best tut ive ever seen thanx alot derek and we hope to see you soon in other videos
+Thank you for your input
+Great for even more intermediate C users i actually forgot a few of these basic things after using C for 6months Its good to touch up on some stuff 
+int Java  0int CSharp  100bool CSharpIsBetterifCSharp  JavaCSharpIsBetter  trueelseCSharpIsBetter  false Notice that this code is just some demo code to prove that Csharp is better than Java 
+I want programing language to make games so what is better C or C
+thanks for taking the time to make this video and post this Extremely useful when picking up a new language and just want something direct
+I thought you went through the lists a bit too quickly I got confused on that part
+This is so much better than marathoning hundreds of c tutorials of ppl just talking nonsense and barely writing any code  thanks for this video
+wow thank you so much for responding I feel so happy and grateful I hope your day is going good and have a good upcoming Christmas Im trying to learn c so if I study your video and test my knowledge are you the one source for me mastering c that is 
+Wow i had no idea that C is so similar to Java
+Thank you man u saved my lifeThis video is great
+Thanks
+Amazing video many thanks
+Great video very helpful
+Seeing as Uni isnt teaching me as much as Id hope this is awesome
+Oh god ive been searching for a consice tutorial for those of us who come from other languages forever thanks
+I dont remember things well What should I do
+Great video Couldnt figure out why in c my if strAstrB wasnt working need strAEquals ha ha A little more concise in vb if strAstrA then
+Thank you what a refresher
+The video diction is clear and well articulated Bookmark this video as you will want to watch it again and againWith 35 years of programming I wanted something quick and to the pointThe first C Csharp video that did NOT put me to sleep Exc
+i never knew tha java syntex and the c were so similar it as if theyre twins
+Had to throw away my C textbooks
+Im trying out an older version of Visual Studios today  2008 Immediately I notice that there is no SystemThreadingTasks I wonder how much if at all this will affect my ability to follow you in this tutorial
+In my personal opinion the overall video was very good but the class portion of it felt very quick and lacking in explanation I tried slowing down the video to halfspeed to see if that would help but like most people would you just sounded drunk
+Awesome thank you Very compact and efficient
+Good short intro but tuts like these are always so superficial Like reading the first and last page of each chapter in a book and considering it read
+Man do you sound like James FrainTheo Galavan is teaching me C
+Thoroughly enjoy watching your tutorial fun examples yet showed lots of cool features any new video coming out soon thank you so much for your effort
+I feel stupid Spent a whole semester learning java at uni and after watching this video I see practically no difference in the two languages despite C being made as a competitor to java lol
+I just wanted to say youre amazing I really really really would die for a Learn NodeJS in 1 video sort of thing although multiple videos is okay too Cant wait Thanks so much for making these free videos Youve helped me and my friends picku
+jjjiiiijkkkkkko
+this is great thank you
+Microsoft Visual C 2013 Step by Step Step by Step Developer ORPro C 50 and the NET 45 Framework 6th Editionnote im an absolute beginner with like almost no experience what so ever so the clearer the book the better  any tips on which book
+Nice 
+As someone whos been using unity3ds mono c stuff for 3 years this video has been great on getting me up to date on features of C i never use
+I know Ive said this before but your videos are awesome Best tutsguides on the net and for a quick refresher on almost anything you need Thanks again for the time and effort you put into these videos to help us random coders
+Derek Banas  Finally C thank you D
+Excellent Derek Thanks a lot
+A nononsense straighttothepoint video Like it very much Thank you
+Thank you so much for this tutorial You have saved me so much time and I love the pace you go through the content
+For every video you do about All in One Video you cover OOP Doesnt it get redundant
+Thanks DerekI love learning from your tutorialsThis one will help me alot in the next 3 years at high school P
+Its difficult
+Similar to Java Nice 
+Thanks for the easy and fast tutorial  
+Good tutorial thank you 
+Great job
+Went thorough my entire college career with fragmented knowledge of OOP and this really cleared things up Thank You
+I shared this on my website
+Why is that book the best
+Thx pal very helpful 
+You just smashed out months of university study into the span of an hour and a half Fookin legend
+It is really helpful thank you
+Great tutorial Understood most of it already but really did help me understand some things I was unsure about New sub 
+How do you know almost every programming language like its so easy Major respect to you and all your work
+bool isThisVideoHelpful  true
+This tutorial is awsome one of the best I have seen if the author reads this you should go to khan academy to help out
+this was so fast but knowing other programming languages that just made it better it was a fantastic way to get into c
+Thank you for the tutorial I real enjoyed it
+For someone that has literally no idea what programming is i think that this would be quite difficult
+Awesome was waiting for this forever I feel so much at ease when i see your videos You make them look so easy 
+hmm
+Thank you Derek these videos you make serves as a great reference for those who are actually working as software developer but also helps us when we are starting a new language as a quick and strong entry pointI truly appreciate the effort you put 
+Super awesome video
+hi Derek can I ask you how did you develop your own website newthinktank What technologies did you use to do it  Thank you in advance 
+This is a good video tutorial but some candid feedback First it MUST be mentioned that its just a syntactic overview of C basic features Eventhough Generics Delegates Lambdas are covered here many other important features like Events Propertie
+excellent video D
+this helped me quickly figure out what I needed to study nice video
+Great job Clearly so even with excellent examples Thank you
+Im looking forward to a haskell tutorial video 
+Well heeeello internet 
+Hi Derek I am new to c but I want to code some games tell me what I do  Is there any other Studio for game development 
+Wooow Ive been programming in Java for a year and now learning C looks surprisingly easy Thank you so much
+I Dunno why but this tutorial doesnt work for me at all this is what is get My other UNI solutions work fineYoutubeTutorial1vshostexe CLR v4030319 YoutubeTutorial1vshostexe Loaded GWindowsMicrosoftNetassemblyGAC32mscorlibv40
+This guy sounds a lot more engaging than most people who make videos like this Its rare that I find a proglanguage guide that isnt just some shmuck mumbling into a microphone while going over code love this vid
+You are an absolute legend
+Really nice guide  Helped me a lot in prep for my practice  Was surpriced to see it how similar its to C
+Me 5 days ago I wish Derek posted some video about C
+What Irony Im actually learning it already started yesterday on another channel guess Ill switch over once I am done with that one Thanks
+I have a question Do you have many advantages with being so good at coding and if so which ones And do you code every day thanks Great tutorials btw 
+ConsoleWritelineAwesome VideoConsoleWritelinequick in explanation ConsoleWritelineeasy to understand
+Watched this at 2 times speed just taking notes on the differences between C and this
+Im just amazed at how much knowledge you have from body language to illustration software to programming software to food recipes to other stuff that i didnt even know existed until I came upon your channel lol
+c in one video in progress D
+You speak way to fast and lack general meat to most things
+Thanks a lot Derek I guess this is the best tutorial how to learn C ASAP
+I had to like and subscribe to this one it is nice to have for overview I know some of the beginning but can get mixed up as you go through class after class I love this as a refresher I am going to browse through and see if you have other languag
+Thanks a lot for this video The company where I will start my first job as a software engineer uses a lot of NET stuff and your video is the best resource so far for starting out to code in C I hope you do more videos on this
+C looks so simular to visual basic script
+Derek your videos are awesome I wish you a beautiful lifereturn gratitude 
+Thanks a lot  Are you going to cover Windows Forms or WPF at some point
+Its all ogre now
+you are dang awesome
+pi  314 lolololololol
+yes as you mentioned in the comment I kind of missed LINQ Lambda expressions and this stuff from you I just do not understand how you can keep track in so many languages I have been fighting with C sharp for 3 years and still I feel like some thin
+Hi DerekI really enjoy the way you explain codingI didnt understand much from other people but You explain it nice wayThanks for amazing tutorials
+A little fast for melolbut otherwise this is the perfect reference video I love how clear the ideas are put across and that link in the description to different subjects YES This has been priceless along side the other C series ive been wa
+is this a good first language to learn i plan to go to college for programming and analysis but I want to start learning before I go
+Good Job Bro 
+Are you planning to do series on C 
+Java and C are probably my favorite languages I love there simplistic style and syntax
+Thank you very much
+I just wanted to say Alraaaaight D
+thanks
+930 I must say this random number generator is a lot better than Lua I might just use C for my project instead Thanks for the vid
+Great video Will you be making another Go tutorial
+As someone with a background in Java this is just perfect Thank you
+you sound like on auction
+Great tutorial man Have you ever considered changing your name to Steven
+Learned a couple things I didnt know before very informative 
+Im gonna do my BCA main project in C Any topic suggestions Im gonna be learning on my own from the Internet
+Thank you very much for this
+So Derek whats next 
+Do you know how to write code in Boo  I saw the boo language in Unity 3D and i never saw everyone using it
+Thanks Derek for this great tutorial I have learnt a lot from your tutorials
+Tnx Derek you are the reason i can code DI Now Know ccjavascriptjavaandroid and a lot of basic stuff tnx 
+
+Thank you Derek for this exellent tutorial  It is both very instructive and delightful
+How do you do to know a lot of programming languages
+Thanks Derek really man thank you very much 
+its helpfulthank you
+I think I just found the Bob Ross of code
+You are my go to guy if I want to refresh something or get a quick idea about the languagesubject  Thanks for all the tutorials Keep it up
+Its good to see you have put the key core concepts required for the basics of C programming into this video as opposed to your C video Definitely something that novice programmers should have a look at
+Finally  again   Thank you for reading my mind for second time 
+How do you know so many languages Its crazy
+breathtaking tutorial  y Keep it up please
+Great Job Derek you mostly covered all the important area of C programming looking forward to some automation based tools tutorial 
+thanks sir I have learned c I want to learn aspnet with your tutorial Is it you have
+it should be foreachstring custs in custswWriteLinecust
+I loooooove LOVE LOVE TOTALLY LOOOOOVE ZOOMING NEVER STOP DOING THAT EVER JUST BECAUSE SOME PEOPLE DONT LIKE IT THAT IS THE USP OF YOUR CHANNEL
+Are you a superhuman or something You know everything lol
+lol in one long video
+Great Tutorial as always Derek  Thanks
+Damn Pascal Case antipattern 
+AWESOME Thanks man Im using Unity3D and CSharp is great for it so thanks
+I just love you
+I love the way you quickly and concisely explain coding without too much time wasted The editing also speeds up the process Very happy with this thank you
+1137 So if you are three years old you go to high school xD
+Ariel for the font Come on please
+Thank you very much  Have been waiting for this one
+Hey Derek Im a PHP dev with 1 year of professional experience  doing bachelors in CS This almost 1  half hour C tutorial was really helpful to get the ideaBunch of thanks from my side
+Woooow finally you are the best Derek And I would like to see you give a magic touch to TypeScript
+Thanks DerekLooking forward to this tutorialI suggest a 1 vid program designing pattern if you dont might Thank you
+so csharp is easy c 
+Ive watched almost every Java video of your tutorial and now watching this im feeling like watching the Java tut again D haha Those langs are so similar Can start making a game in Unity with no need learning new language
+Awesome and useful as usual Derek 
+it is like Java easy and simple
+No No No Do VB please  c
+What I dont get is that I know the basics of the program but what am I supposed to do with it I can only output stuff to the console as complex as it may be it doesnt feel like I am actually programming Can anyone tell me what to do
+Great work sir 
+Very Efficient Presentation Thanks
+I want to make android games and I decided to learn c for Unity3D is it a good decision
+Great tutorial love the speed of coverage
+This is gold Derek I needed a really fast way to get to know C and this was it perfect thank you very much
+Best for someone not new to programming but to C  Exactly what I was looking for Thanx  This totally got me started with my Unity projects in C now  Really appreciate it
+Hello Sir If we want to build a Poker game or any other card game by visual studio under c which tutorial we should concern Please comment the link below Thanks 
+Bueller
+I really hate the font  But this fantastic tutorial is enough to get me through the entire video haha 
+Thank you so much
+Derek you are a boss dog Thanks
+What happened to the next video
+This one is excellent for the experienced programmer who wants to learn C without trawling through a 8 hr video Well done
+ConsoleWriteLineEnter a number to get the Square RootInt32 userInputif Int32TryParseConsoleReadLine out userInput ConsoleWriteLineSquare Root of   userInput      MathSqrtuserInputMade my first Square Root calc
+Sick
+I would like to call a website and throw a set of input parameters at itI am able to launch the website but I want to throw a variable value to input the Website Site VarHow do I create a C that will accept set a Var value I throw at itIn
+Derek I am now seeing hyour Visual C tutorial for about the 2 nd time But I have been doing some work in Visual F recently so I was wondering if you ever in tend to make a F tut
+I wish I watched this video yesterday  but thank you btw
+Awesome Derek Great Job
+It was very helpful But what does it do
+Great tutorial derek
+Thank you bro Keep a good work
+loved the video
+I wanted learn C and I was wondering Why isnt derek making a C tutorial Look what we have here D THank you so much
+153  159 this is why I love these vids you just explained something in 5 seconds that others would waste 15 minute on
+what are your thoughts about code Academy and freecodcamp I think it is I feel like learning a lot non stop can be very healthy to your mind and all Studying your videos and doing those others aswell how effective do you think that is
+Dude youre freaking amazingI hope after this tutorial I can make something in Unity 5 thank youI really wanna make a game myself without downloading premade codes
+Is it really possible to learn the whole of C in one hour
+o
+THANK YOU SO SO SO MUCH
+You are amazingYou covered a lot just in one video Thanks
+I like your fast and no bullshit approach vid really helped me out Thx man
+Thank you very much the code file on your website is excellent for refreshing my knowledge of the c syntax
+Is it just me but he sounds like a robot
+Ive been waiting for this for along time thank you
+Dear I think it could be much helpful if camera result might be so good
+this is brilliant thank you
+apparently the fallthrough in the switch statetement doesnt work anymoreyour obligated to put a break after each swich statetement
+Ive bought the Microsoft StepByStep book on C
+Thank you very much Its something I jst needed
+You have the best teaching style of anyone I have run across Thanks How do you master so many topics  If its something other than being really really smart maybe you could make a video on that
+Dear Derek By complete C tutorial you mean we can apply for NET C job after having this complete video Please help
+programming is make me bang my head against this desk This is what is stopping me from making my game I need to learn c aaaaaaaaaaHH lol
+Pretty good video Nice
+Very good video Especially when coming from other languages and just wanting to see the way things are done in C without going through a full C course
+I was looking for a video tutorial on C having never really coding in C before I saw this and thought it was a joke but turned out to be just what I was looking for Thanks
+Finnally That was exactly what I needed and more imortant how I needed it Not 50 videos for beginners but straight to the point Thx
+Nice review Thank you Derek  I watched it at double speed so that might be why your voice got tired 
+Great video nice speed no nonsense Enjoyed it very much
+Genius as always Thank you very much
+Thank you very much 
+I waited for this for a logn time  Thank you
+You saved me hundreds of dollars offering this on YouTube Online courses are very expensive and is pretty much what youve covered here I tried VBnet online courses and its pretty similarly structured to what you have here I also appreciate the p
+Thank you for this video It covers mist of the important topics in one video
+Ive just started working in C and some people in my company have been developing in C for a couple of years and theyre often talking about the MVVM design pattern with data binding in WPFWill you cover that 
+Nice
+I just need to learn C for aspnet Dont ever intend to build desktop apps Will this video make it so I can hop into an aspnet tutorialassuming it is using C
+Amazing explicit and straight to the point video Love it
+Derek Banas  You will go down as a legend for this Many thanks D
+HIThanks for those tutorials This is my first time learning how to code and I hope I will enjoy it I have one question about multi platforms software development
+Are you planning on making a video on F tutorial F in one lesson
+In the longer C video you plan to do kindly cover GUI programming Database connectivity Threads more InputOutput options  Network Programming
+What Mic were you using during this video 
+This video moves at a great pace Its nice to have to stop the video to keep up rather than having to wait Thank you for this
+Thank u for this awesome video
+Thank u so much
+Thank you Derek   love your Videos  keep up the good work
+Great stuff  Im an intern right now and I work frequently with Visual C  I feel confident with the language but your video is going to give my understanding of the language even more depth and proficiency  Thank you
+Hi DerekI really love to develop gamesEspecially 2d gamesI can handle entire unity engine except coding partI always struggle to code my gamesDid you cover the all concepts need to create gamesDoes this video help me to create my own games simi
+Man you are not normal  You are genius
+Derek Can you use c to make good quality games or am I just wasting my time on c Because I want to make good 2d and 3d games with cBy the way I love your videos
+If I use MonoDevelop  will I be working with the same C syntax or do the same examples of the book even though it says to use VSE 
+Exactly what I was looking for Currently learning ASPnet MVC Thanks a lot
+nice work
+This is going to make my life much easier at University Thanks Derek
+I wish I could like this video more than onceGreat stuff mate
+everything really
+Thanks Derek Looking forward to this tutorial I cant praise you enough buddy Thank you 
+I need some help Im new to learning c sharp and its not clicking together for me so could any one please me Ive been trying to find out ways to write compile and test a program named WineGlass that display the pattern of a wine glass and I cant g
+This tutorial is brilliant I have basic knowledge of programming already so this quick guide to C is just perfect Really fast paced which is great ThanksKeep it up
+thank you Derek you make it so darn easy
+Finally a good tutorial 
+Your amazing derek I hope you know that
+Derek it would be a life shaping help if you would do a tutorial on visual studioI own a pcI like C a lot I have much that I am ready to take on Visual studio happens to be a software intuitively challenging without proper education If you wou
+Coming from a c background this is not hard at all to pick up Thank you sir
+thx mate i allready developed farcry 5 thx to you
+ConsoleWriteLineThank you bro
+God youre smart
+god the font you use kills me all of the characters have a different width and nothing ever lines up correctly 
+Sweet  Thanks for this tutorial
+Pretty much one of the best tutorial out there I even came across some oop principles which I probably missed when i was learning java Thanks a lot
+Oh wow Isnt it ironic that I actually started selfstudying Visual C 2013 lately Thank you very much Mr Banas 
+Great video helped me a lot Thank you very much for your effort 

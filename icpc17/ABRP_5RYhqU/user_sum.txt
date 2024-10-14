@@ -1,0 +1,56 @@
+can someone explain to me when to use void and when to use int
+why cant you do buckysclasscoolsaying
+If you were to write a public class called WarriorClass and give it functions called archerClass knightClass and mageClass could we not just call the functions without needing to worry about making objects for them all
+whats avast i like avg is avast better 
+how come there is no function prototype
+so class and object are the same
+Cool  I actually did not get why we have to define an object for this Why dont we simply do that TheClassNameFunction  its how it works in C 
+Do i have to change the object for different classes
+Cant you just do public class name 
+Can you make 2 objects for one class
+can u call ur object the same thing as your class
+*****
+Why did we not use the Function Prototype in there Is is not essential for the function to work When is putting the Function Prototype a necessity
+can u call ur object the same thing as your class
+Do i have to change the object for different classes
+Cant you just do public class name
+Why cant main be void
+why do you need all those extra lines and classes and objects when you could have gotten the same thing by just typing cout  preachin to the choir  endl
+Whats the point of classes Cant you just use heaps of functions
+I dont get it If you have classOne classTwo and a function called potato in each one then why cant you just write classOnepotato or classTwopotato Isnt the need for an object kind of redundant
+is there a difference between struct and class
+U know how u can go using namespace std so u dont hav to do stdcout is there any possible way to do that with objects and classes Im a beginner it kinda obvious
+*****
+why do you need the object why cant it be BuckysClasscoolSaying to access the function within the class
+why do you need all those extra lines and classes and objects when you could have gotten the same thing by just typing cout  preachin to the choir  endl
+Hi Buckys My codeblocks 1312 doesnt show the suggestion categories after I write dot after buckysObject nothing poped up like yours how do I fix this
+Can we not define the object right after defining the class
+why is the syntax different when using turbo c
+If you were to write a public class called WarriorClass and give it functions called archerClass knightClass and mageClass could we not just call the functions without needing to worry about making objects for them all
+Can someone explain to me when to use VOID and when to use INT
+why was the semicolon used at the end of Curly braces of class BuckysClass as it is not a statement that we end it with  please explain
+Why cant main be void
+Why did we not use the Function Prototype in there Is is not essential for the function to work When is putting the Function Prototype a necessity
+*****
+why cant main be void
+Why cant main be void
+Why did we not use the Function Prototype in there Is is not essential for the function to work When is putting the Function Prototype a necessity
+why exactly cant you place classes in the main function
+Can someone explain the need for the buckysobject prompt when in mainJust by specifying BuckysClass isnt that enough to indicate the class and then you could just write coolSaying below Or is buckysobject more of a naming concept within main
+What is the reason for making an object Why couldnt the language just use BuckysClasscoolsaying 
+i have a question do we NEED to define the object can we just do classnamefunction  instead of classname objectname objectnamefunction 
+In this example  640 I dont understand the NEED for an object Why not BuckysClasscoolSaying it seems like an unneeded step
+how come there is no function prototype
+i did exactly the same but when it runs the screen that pops up just blinks and i did put return 0 
+*****
+whats avast i like avg is avast better 
+but whats the use for a class if we set it as private Love your videos
+why exactly cant you place classes in the main function
+Why did we not use the Function Prototype in there Is is not essential for the function to work When is putting the Function Prototype a necessity
+Can someone explain to me when to use VOID and when to use INT
+Hello Buckys how do i use array in private classes because i want to store user inputplease adviseThanks
+hi bucky love your videos question what are the point to objects like why cant i do buckysclasscoolsaying instead of buckysclass buckysobject then buckysobjectcoolsaying if anyone can tell me i would very much appreciate it
+I still did not understand the importance of the object why didnt they do it like BuckyClasscoolsaying to execute the function within this class why do i have to creat an object that is attributed to the class
+Why cant main be void
+whats the differance between a class and a function
+*****

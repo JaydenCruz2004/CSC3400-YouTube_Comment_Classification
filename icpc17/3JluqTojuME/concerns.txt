@@ -1,0 +1,229 @@
+which html snytax do you use If i choose the normal HTMLSyntax it is shown to me as PHP l
+Hi thereThank you for knowledge on web design and sharing it with us I have one issue when creating my website I would like a portrait orientated website I would like to have a background image and then on top of that a background colour As you 
+how did he get a browser next to the note pad
+Hello I am having an issue I am new to this I followed every step and google is showing up as a hyperlink When I try to click on it I get a message that the page is not available Am I doing something wrong Any help will be greatly appreciated A
+Im a mac user do i have to enable websharing or something when i click on the html it doesnt show up in my browser
+Im going to sound stupid here but when he opened it on chrome I couldnt find how On Windows I have donwloaded sublime and saved an empty file with html now what do i do
+shouldve explained what indexhtml is at the startyou shouldve explained what that web browser page is doing as well and the connection
+how do i open my file in google Noob here
+What color scheme is he using
+i cant connect do localhost9000 what would u suggest doing
+is  DOCTYPE html necessary seen it alot not sure if required
+500 if you put your cursor between the open and close of head how do you get it that its lined out  If i put enter the head and head are lined under each other in your case its not how do you do that 
+Thanks for posting How do you open it up in Chrome
+im having trouble with sublime text and how to actually put the changes onto the website everything is correctly entered but when i press save it doesnt change the website at all i am already using a web test app 
+I was taking a course on web design and they kinda taught me BOTH ways of applying bold and italicsso the standard is em and strong instead of i and b
+When I type a hrefgooglecomgooglecomaIt searches for the file in my PC instead of going to the websiteInstead the file directs tofileCUsersMeDesktopgooglecomWhat do I do
+Hey Con someone pass me The img sorcetext a cant see ir right
+how can i save the file in sublime
+how is the text in colors
+hi i need help when i put the text onto the script exactly how u showed it nothing heppened on the webpage even after i refreshed it any solutions btw great video  i subbed and liked and im definitley excited to watch the rest of the series haha anyw
+What if you want to use an image from your own computer One without a URL
+Wont you need to start with DOCTYPE html 
+How do i put my own images on
+ey once i close all the projects and save em unfinished so i can continue next time but i cant find my saved html coding i cant add more codes does this mean u only have one life coding non stop im like come on man its takes alot of time to code what 
+How do you open your own local host
+LearnCodeacademy Hey thanks for posting these great vids Are you sure Sublime text is free It just prompted me to pay 70 for a license for continued use
+ok so now my img is just a little square with a tiny fold in the upper right hand corner  still no image
+hi nice vid but im having in using this sublime text i dont know how to put the indexhtml and theres no highlights in the code im typing im a total beginner when it comes to this stuff so i wish you could help me
+I have a simple question Why do you have to close ul It seems like Of course its just part of coding but when I took it off nothing changed Is this something that can glitch later on
+hiI recently enrolled for a java coursecore and advanced Can you please tell what are the various fields that I can apply myself to upon completing the courseHowever Im more interested towards web development In this scenario what is that i ne
+whats the code editor name
+How to move text in such gaps as he did
+It wont let me save it as html It keeps saying I need to ask the administrator for permission
+what font do you use in that software
+In their website the Sublime Text mentions Sublime Text may be downloaded and evaluated for free however a license must be purchased for continued use There is no enforced time limit for the evaluation What does it mean Does it mean that after 
+I downloaded sublime but how do I get to the website so I can start devolping
+whats the difference between the head and body tag
+what colour scheme are you using 
+how could i get this browser that when u write the code sublime text 2 its show on itI mean the white one next to the sublime text 2 
+Do you have to learn HTML and CSS in order to do JavaScript Or can you just do JavaScript Great videos by the way
+guys should i download this it keeps saying it may be harmful to my laptopyes or NO
+When I type in html and other tags and I look at chrome it just actually shows up as html HELP
+Great video but Im having trouble with saving the indexhtml file When I save it says its Unable to save indexhtml
+Hi when i try to write a tag and want to do a head tag it dosent shows me a list like if you do a h it gives you options how do i enable that 
+how the hell do u actually OPEN the folder up in crome am I missing something
+Why is Sublime Text better that notepad
+can you show me how to get to the JavaScript of younowcom
+how do i get that localhost website thing lol when i open chrome it just shows me google ik im dumb but im new to this stuff
+How do you move the text like in 1226 
+May I do this using pages on my macbook 
+I use notepad is there any difference from sublime text
+someone has probably asked this but how do I pull up the code on to a site so I can see the code online
+How did you get the liveReload to work
+dude you dont give any instruction on how to open the file in chrome really frustrating when a person doesnt know how and is trying to learn off of the video you provide if we already knew how to do it we wouldnt be watching this you need to edit
+how do I make my website instantly refresh like yours without having to save and refresh thanks 
+Any help  pleasehow can i start pages to start the webdeveloper
+what collor scheme you are using
+great tutorial i think people are getting confused on the saving and previewing it on chrome part
+when I save It  It becomes firefox index
+I know the basics of  javascript and jquery And I was wondering whether i should  just keep my javascript knowledge at basic and continue on to mastering jquery or should I master javascript first 
+is there a code to size down the image
+hey i want to learn about the basic setup you have here localhost and such i used apache2 as my web server on my Ubuntu and i am kind stuck at that point 
+How do I safe my work on notepad so that I can continue the next day
+How do you move the img to the side of some text
+How do I open a localhost like the one youre using
+I cant link a YouTube channel when I click on my link it says channel unavailable
+how do i use localhost
+How can i open my site 
+Hey Thanks for sharing this video I didnt know that there is text editor called sublimeI wanna try it now and how long we can use the free trial of sublimehow much is the purchasing fee
+I have a indexphp how do i convert that to html
+I cant save my indexhtml in sublime text
+what color scheme is this guy using
+Very helpful  why did you leave space every time you started a new one eg htmlbodybodyEtc
+How can i connect or go to webpage
+Please Please make a video like Design fundamentals etc
+Not enough explanation for the IDE dont know how you view it in browser after saving
+How do you get the auto webpage refresh function
+you should make playlist and separate everything outgithub bootstrap and everything is smashed into one playlist
+How did you get the auto suggestions while typing but I dont 
+i can not open my html file in internet I must me missing a step I am working on notepad
+How do I open it in chrome having problems
+Strong or B which is right  and why 
+How do I make the image I want to use smaller 
+how I will open my code on chrome 
+How can i open the indexhtml page
+Whats wrong with using DOCTYPE html to start then html langen or whatever and then head  then title then head again then body then h1 p h2 p h2 p and any other img a or we in between Thing is there are a lot of people developing
+So when selling something to a customer would you just send the completed file to them I would like to know the process please thank you
+Man i save that file indexhtml and when i want to open it its not opening in chrome  
+hi how to open sublime text on chromeanybody hepl me plz
+This img href doesnt work for me Am on a mac and using safari they picture comes up as a  every time 
+Using b u and i are still valid for cases when you dont want the screen reader to add emphasis where you dont need it
+where can I go to get the certification for JavaScript and html
+how did you get your local host pleas answer and how
+hi i really like this tutorial that you made i am new to web dev i downloaded the sublime and the crome it doesnt work to me please can you send me more info how set up this same way you do yours thanks
+Dude you know some good books for HTML CSS and JavaScript
+how can i see my html file live like youre doing in the video
+Hi there are there any errors in this code I made Would it work as a websitedoctype htmlHTML Langenusheadtitle My Example titleheadbody stylebackgroundcolorlightBLUEbh1 stylecolorblue My Example bh1i
+i saved my indexhtml how do i open file open in chrome to find my file were i have saved it i have a problem connecting google chrome and sublime text together please help
+how do i open this in chrome
+Image didnt load for me c
+how come that your browser is auto reload what browser you are using sorry for my grammar
+how do i get the second creen on the browser to open on my computer to view the live updates please reply thanks for the video
+Say me please whats name proqram which you used in this video  My komp window PC
+Why are my tags red
+source code plz 
+when i reload the page is still the same why
+PLS HOW DO YOU OPEN THAT PAGE YOU WORKED ON
+Please help i cant connect the localhost
+but dont most websites use php so why learn html and javascript
+What about the meta charsetutf8 
+what colour scheme is he using
+Im using text edit on mac and i was wondering how to open it in safariD thx before hand hope you can get back to me
+Hello Bro why I dont see 4 pls send me ur link about part4 Thanks you
+Do we use html instead of doctype html 
+can you open all types of sites if you know html css and javascript
+How did you get your Sublime Text to indent so beautifully No matter how much I play with the settings I cant get it to show the nesting in that way which makes it MUCH easier for me to read
+I have downloaded subline Text app but there are so many of them there such as dash2 textastic dash3 and siteSnitch which one shall i go for
+why are my tags in the brackets red am i doing something wrong
+How do you get the thing up in chrome that he has on the right
+why wouldnt you just just italic or bold with css
+how you set it up to show in the local host
+I have installed sublime text3 on windows 8 how to get the corresponding browser which will reflect concurrently how to get the same working platform like one u got
+How do I make this run on my google chrome I have Microsoft
+What if we want to put the image from the file in the computer and not from an online source
+Im having a problem and I hope you respond to this soon as possible bud I searched on google chrome localhost9000 and my google chrome will say Image Of What it says httpgyazocom7dbf01a2d8a3e06e31c757743520b18a I tried to connect to these 
+which notebook for web development mac or windows
+How do you make a drop down list
+This works the same thing on Windows right
+okay i may be an idiot or is just missing something but im trying to get my text to change color not just the back ground under color scheme It is saved as html so is there something i need to download or a setting i need to changeedit figured 
+okay so I downloaded sublime text installed it but is nowhere to be found on my pc I tried it a few times but it wont install successfully I guess or Im doing something wrong what actually could be the problem since Im very tired but if someon
+hi is this compatible with html5
+how do i name my untiled to indexhtml
+hi could you pls tell me how to set up my localhost and make my chrome to work the same as yours while editing with sublime text Mine doesnt connect to the localhost I would appreciate so much if you could film a tutorial video 
+Heycan i also type in javascriptAnd how can i get to my local host webpageThanks
+how do you get colored coded words when i type in html its just white
+when i put my image in a black x comes up how to fix
+so ca my friends access my website 
+thanx for the video  please i wanna ask what is the page that you are writing on  its better than writing on notepad
+How do I write in localhost
+LearnCodeacademy hey when you put your html file on the server how do you set up auto reload of your pageand how do you keep code so clean i mean its not messy all the time
+I have a question I embedded some soundcloud songs onto my website Im working on but I dont know how to apply css to those I wanted to make them look properly centered and styled appropriately Any Ideas
+how do you install this How do you get the browser like that
+What difference does sublime text make is it just the interface
+If I have a long document with 3050 paragraphs and I need to put p in front and p after every paragraphs Whats the fastest method I have emmet installed with sublime text if that helps
+For some reason I can run my html files Their save as html but afterwards I configure python for sublime I cant seem to run html files at all Help
+Sorry for ask  why i cant open localhost  or need some application to open 
+Is it the same if you use the indexphp
+I typed exactly what you typed for the image but it just shows up with a small sticker looking thing What should I do
+how to adjust multlines in text editor using shortcut  U are doing at 1231 minutesPlease reply meI am searching for that shortcut from many days
+Mine is a Local File How do I make it Public
+How do u link that notepad to the browser sorry but i am beginner
+how do i make my tags green in sublime or a different colour than the text haha
+Why doesnt the image come up Always had this problem
+i am not getting the image displayed in my first webpage
+Can I use Xcode to do HTML
+I use notepad  is that software fine LearnCodeacademy 
+hey its says web page not found on google chromeany suggestion
+maybe i missed the point how to run this realtime compiling the html css code
+Why cant I save my first file on sublime permission denied
+how did you get to that localhost9000 on your browser
+what books would you suggest to get on this subject
+would anyone please give me the link of sublime text download link
+How do I get it coming up on the right can u do a video on it pls
+What happened with lesson 4
+How do I see the website
+how should i learn web dev master html first or learn it in conjunction with css and java
+Isnt it required to use the alt attribute in the img tag
+Im using notepad but Im not sure how you get what you write on notepad to chromecould anyone help please 
+Im on a mac using text wrangler How can I create tabs across my webpage
+Hey i have a JavaScript prompt inside my HTML page in prompt i have a nonenglish text but inside HTML it works fine but when i place javascript file to another folder the text inside prompt encodes incorrectly how to fix it tell me please
+im sorry i have a problem everytime i try to build in chrome in russian weird symbols appear instead of cyrillic I already changed the encoding to cyrillic but when I build in chrome I still see weird symbols The encoding to use when the encoding c
+sorry but I cart see the text your writing but thank you for the help
+How do you get the result screen on SublimeText I downloaded the program but I cant see how the project looks I can only see the code Do I need to purchase the license
+Can you help me With a Web development IF u can Please reply here in this comment sectionYou make a good video I like this video
+Nice video  but i have a question how do we put the title to the centre of the screen centre alignment please reply as soon as you can 
+Why didnt you insert the DOCTYPE html to it im curious D
+can i get all video merged into one zip  for downloading plz
+how do i get to open file on chrome
+How did you get the live reload for your page Was it some sort of addon for Sublime or for the browser
+how do you get the web page opened next to sublime text I can input the codes into Sublime text but Im not seeing where the input is becoming output on a webpage Thanks
+i have no file open with chrome 
+I dont understand how u opened it on chrome im on windows 81
+Nothing shows up when I write anything
+is it okay to use notepad
+I understand the first five minutes or so of this perfectly but how come my code is showing up on my webpage along with what is in the body  Also my title shows up on the website as if it were content
+Hey I Have this schoolproject which is making a website I wanted some inspiration about the design and I found one that I really like My question is HOW CAN I MAKE A BUTTON NAVIGATION BAR LIKE THIS ONE AND HOW TO MAKE THAT LOGO UNDER THE BUTTONS 
+Great video Looks like you are using Apple laptop How do you set up view of the webpage you are developing side by side with Sublime Text Which SW or extension to use How to set it up Thanks
+Dumb question but how do I name it html
+LearnCodeacademy I need help on finding good books on HTML CSS and JavaScript for beginners  Please help
+do you not have to close the line break you put br next to the bold text but no br Anywhere I could see not having to close it since it begins and ends their if that makes sense just want to make sure before I go practicing
+iv installed sublime text bt cant open it with google can you plz help me out
+Did you have the 2 nd partI a beginner and I really want to learn
+Your videos are pretty good Do you have any advice for someone trying to make a form that includes a name email address subject message and send email button that sends an email to whatever email address you decide to in the code I am using HTML
+the image thing wouldnt work for me hmm
+Hey I am just getting into this stuff as I want to become an emarketer You now have to spend 70 on the license to use sublime text Can you make a video using notepad
+Hello Friends I am new into the web development I am trying to look in the internet how can I do that my code refresh automatically like in this video you mentioned that you are using LibraryLoad how can I do that my code refresh automatically in 
+hi will i follow your instruction on this video i dont know what is wrong on my file coz its not work the css when i link it to the html do you have any idea what is wrong
+Should you use the following code above the title tag meta charsetUTF8
+thank you so much for this web development  series  its very new to me so I keep running into snagsi havent yet been able to get the img link to work  ant ideas  it took me a while but I got the Google link to work just not the img
+LearnCodeacademy hey how are you showing these changes happening simultaneously on the webpage Can you explain that please
+How did you make it so your sublime changes the color of certain words like the html and the strong Mine is just white
+Sorry for being ignorant but how do i make my text apear on the websitelocalhost9000is it a program i have to download
+HOW DO YOU OPEN A LOCAL HOST
+Thank you for the share one question thou after awhile when I was using the sublimetext it jumped to a website saying that I need to purchase a licence to continue its USD70 How can I use it for free as I really like this programme thanks 
+how do i open file
+a newb question but how can i preview the code on chrome
+guys can u tell me how to open all my stuff in chrome please  ive tried everything but 
+why are the codes that youre using are green color but when im doing it i get them red is that a problem excuse me for my ignorance
+I cant quite understand you when you say what you are using to automatically see in real time what you write libraryload is it Great guide by the way im about to start a webmaster grade and i found this very helpfull
+Is this HTML5
+How do you get chrome to reflect the changes simultaneously without having to hit refresh every time
+i do exactly what you do but my html and title tags dont change colour when i write html it appears on my webpage im totally new to this what am i doing wrong why is everything different for me than everyone else
+how to i make it have custom domain like instead of fileCUsersXaidinatorx2000XDocumentsRexCraftRexCraft20Home20Pagehtml it says wwwexampleca or com u know plz help me
+For images how do you put an image in from your computer as opposed to a url
+How can i see it on localhost
+what software do you use
+Whats the proper tag for underline
+why there is no Tag options when I typing  like what happen on 410 I am a beginner Please help Thx
+How do you get it to auto complete I dowloaded sublime text but it does not autocomplete Thanks
+Hey Ive got a question My dir local project using Apache on Ubuntu looks sth like thisprojectfolderresources          css                   mycsscss          images                   bgpngindexphpWhen i try to refer to my b
+keeps saying permission denied when i try to save it 
+how to rename a webpage
+Help Why cant I find my saved files indexhtml in my finder searched the name also the name of the folder its in nothing is showingnote someone previously worked on sublime on my laptop and im now just getting into it so im not sure what kind o
+question is it possible to completely replace javascript with ruby or python Im just talking out of my ass right now but Im curious
+For my first project in sublime the code would color coat itself but when i opened a new window in sublime and started typing my second project it just stayed as white code Even tho it still works why is it doing that
+what software did u  use and why your site localhost9000
+Can you do this with a pc
+Hi Im a newbie to this How do I go about to having My webpage on google chrome I have saved the file on sublime text but I cant seem to open it in chrome Thanks
+need help can so when i make a new file it does not allow me to name ithelp please

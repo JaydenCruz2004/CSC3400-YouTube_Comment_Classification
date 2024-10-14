@@ -1,0 +1,500 @@
+That was great  Best review I can ever have My sincere thanks 
+This is OUR loss 
+A mark of a geniusCan we have some more video clips pliz
+I love it but u dont fucking get it
+Hi Derek what do you think of Netbeans vs Eclipse at the very least
+Thanks for this well done tutorial  It helps a lot 
+Is C And Unity a really good language and program to make  a game
+Hi Derek I love this fast tutorials is it ok after this tutorial to start on your videos on Patterns 
+Thanks for the video its a life saver because I am making a project for my math class using java and I only knew about 10 java tems
+I love Eclipse but one little detail that bites me in the  every time is that whenever I export a package I have to remember to change the name of the JAR file  It doesnt automatically change the name of the export JAR file to my project name so Im ALWAYS overwriting the wrong JAR whenever I switch from working on one project to another  Grrrr
+I guess this rapid fire typing and talking is what you get when you squeeze a programming language tutorial into 34 minutessigh
+Wow that was exactly what I needed  Thank you very much  I did some programming years ago and may get back into it  So many tutorials have so much space and timewaiting for the next point  Yours got right to it  Then when I got lost a couple of times I backed up and reran that part to get the idea  Really well done  Thank you
+Very well made Thanks for this
+Thank you I was watching so many fucking beginner Guides and wasted my time with explanations of what an if statement means and so on And thats very annoying when you are already programing for some time 
+Hi DerekThanks for your commitment and motivation to provide useful content to the internet worldCheers
+1 question how would I make a new lin inside a GUI n is not working for me I want to make a 400 length 400 width gui and I do not want the sentance to off the 400 witdh border
+hopefully this helps this is my 3rd class that I have to deal with java and in my first 2 i did not learn anything is there any other videos where I could learn really wellI have a project that is due soon that I need to create a contact book with vectors and I have no idea what to do help please
+Whoa That was sweet Fast and articulate Thanks
+Thank you so muchCould you add subtitle
+where is GUI programming Derek I am waiting your tutoriol about Java GUI aswell 3 Thanks for the video
+I dont understand any of this stuff
+What Derek did was absolutely fabulous
+Really awesome good job
+Cam one use toString and parse interchangeably 
+lost me in the first 30 seconds
+Excellant
+No offense to my lecturersIf they ever read this but youre way better at explaining I wish they posted video tutorials or had interactivevirtual online classes with all the resources they have Keep it up
+You are AWESOME SO MANY EDUCATIVE TUTORIALS Thank you
+Love it Thank you 
+Its okay if you dont understand this I was quite decent at java laid it off for three months and am even confused at some parts of this vid too
+This is one of the best videos Ive seen I learned more in the 34 minutes than I have throughout my 4 month Java class Very helpful 
+Hey Derek this was a really informative video I come from a Python background so it was really easy to understand a lot of the concepts Thanks for putting this knowledge out there
+ewsome manthanksplz tell me how is rocordeded this video
+It is completely utterly wrong to claim that Java even just the core can be taught in 30 minutes Professionals cant even learn Java in a whole week during intensive paidfor 5day courses so who are you kidding
+Understood nothing
+So cool Thanks a lot Derek
+coming to the end and it is more of programming than JAVA programming
+i love this
+Hey great video and assuming I just learned everything from that video and I wanted to start watching your java video tutorial series which video would I start on
+Its a good tutorialBut it takes time and a lot of practice to understand and a lot more of documentation Java programming basicsOverall it was good I learned something new like subclasses lol
+I actually downloaded Netbeans before and did all the free lessons on there Watched this video typed along as you went and everything became clear Awesome job
+If i dnt know how to programing in javaso somebody help meplzzzz
+dude ive seen a lot of your videos and they are good this one though youre jumping straight to the serious stuff slow down man keep it simple
+You use a lot of jargon without fully explaining it 
+good refresher
+u should become a rapper to do it in30 
+Hey Derek very nice tutorial Helped me alot I personally use NetBeans what are the pros and cons to use Eclipse over Netbeans
+That was awesome Thank You so much Derek for explaining the complete core JAVA in 30 odd minutes I have my final exam on Java a day after and I was feeling pretty lazy and scared to open the book but now I have the courage And yeah my favorite part was the Multi Dimensional Array 
+Note if you think you are a master at Java after watching this video if youre completely new to programming you have no idea how wrong you are Anyhow props to Derek for uploading this
+Derek Banas this video helps so much but would you add a subtitle to this videomy native language is not english Dplease
+I like u r videos  it it good to learn i also watch php videos but i have problem with monthly bill system
+it was a great tutoriali want to know whats the best UI framework to learn for rich desktop appsanther thing could you make a tutorial on it  
+It seems everyone that learns to code starts talking like a robot I want to be able to code basic stuff but I dont want to talk like a robot c
+Im stuck I installed java 8 and Eclipse EE Luna 44 but how do I get it to use javaFX Something about restriction error I thought fx was part of the new java 8 sdk Could you do a vid on how to installuse eclipse 44 with javafx
+Java is great but every tutorial I have seen seems useless By learning how to make random animal data what can I do I would love if you made an application development tutorial for those with an interest in making games and applications rather than just playing around with objects Thanks for the tutorial 3
+like the last guy said youre amazing im starting to learn java and this video of yours is great No i did not get everything you said but i was never lost i just know with all you put in i got to just repeatedly watch and drought down notes so im definitely revisiting this vid for the next couple of days or weeks to make my own study guide off of itTHANK YOU for taking your time to share your knowledge
+How do you program I mean do you download a program that lets you program and doing codes Or its just in your computer Please anybody Thank you 
+I watched the whole thing without pausing and i picked up the general Idea next time Ill follow along with it Pretty neat tutorial tho
+why did he use 0 rather then O
+Thank you very much for publishing the cheat sheet The explanations are so fast in this whew Great Great Great instruction however 
+Neat this should be enough to fiddle a bit around with java in the free timeI found it good that you made it so fast others waste too much time with unnecessary talkThanks for the video
+I feel like i just read a blummin dictionary cover to cover in one go
+Head First taught me so much and Im glad that was the recommendation
+Derek Banas I really love your channel You have good tutorials
+Hey I have a Java question unconnected to this so I wondered if you could help I am making a program that opens a text file and prints it on the console this is a test I know the file is text only and is short and counts the number of lines My plan is using FileInputStream to open the file and the print a line at a time while having a counter variable I am a beginner this I am doing because someone challenged me so I am kinda lost on the following how would I identify the file The main method is supposed to be used to get parameters which will be assigned to a file to be opened but I am unsure as to how to assign them What should I do
+haha good one Derek D I assume you opened with a joke when you put learn Java in 30 minutes in the beginning Nice tutorial though but its sure as hell gonna take much longer than 30 minutes to learn Java My teacher usually says to learn programming is not a walk in a path and it will require an iron will and great determination but if you can accomplish that and motivate yourself to really get into it you can do it 
+My face when he said I doubt new people hung around for this I was hear to learn not say I want to then leave lol Thank you for this tutorial it helped a bit with the basic if you know of any advanced tutorials that explain good can you please send me the link
+This video helped me out a lot even though i am somewhat of a beginner Also do you have videos on JavaScript too
+For a C person who is interested in Java but doesnt know anything about it this is the best 34 minutes and 29 seconds you could possibly spend on the subject Derek Banas  Favorites
+rightlearn java or ANYTHING for that matter in 30 mins impossible
+Very good
+Since when do cats say Moew
+1415 And dont try to memorize all of this stuff especially if youre new But I doubt new people hung around for this No one but me I guess Im just watching to see how much I have to learn
+I need a source file for the class making
+moew moew moew moew btw excellent video
+You shouldve specified that you need some prior knowledge of programming beforehand in order to easily understand what you are saying I already know C C a bit of Python a bit of PHP and a bit of C so your video is very useful for me since I want to get started with Java
+A bit fast but since you can pause it the video was very helpful
+wonderful overview thank you
+Sir you made Java sound so simpleThank you very much
+I would like the legends option so i dont repeat it so much but is a good video 
+my head hurts  i feel like im listening to a guy speaking for a foreign languageTT
+Do you have a video on Java Graphics
+Uhhhhill just stick to Batch scriptingand just watch videos on javaI cant do thisor maybe i can and im just not tryingidk
+Derek Banas You are a fucking GENIUS man genius
+LOL I doubt a new person hung out this long  I am new to programming and I hung out  Thank you for the resources
+zzzzzzzzzzzzzzzzzzz
+Dear Sir Derek you enlightened me with knowledge I do appreciate every word Thank you a lot
+amazing video really helpful i used to program visual basic and im trying to learn java its alot easyer
+for beginner to javaprogramming stop watching this now he doesnt know how to teach for beginners his totally sucks
+Good work Y in this way many students during study can take a lot of information and use as helpful material 
+Thanks now I know how to hack cats and dogs
+Just got a book about Java
+gud1 fr revision
+Im confused on 812 where you typed in main and replaced it doing control space I dont have you did that it didnt work for me I would manually type it but I dont how you would put that square symbol
+You sound like Seth Rogen 
+great video
+I need help can you make a not dificult video please
+Nicely donekeeping it short and sweetLove itTeaching me what you knownot showing off what you know
+I am a amateur who wants to learn how to use java i think your video is really helpful thx alot
+I like your video a lot many tutorials spend hours on teaching you slowly which is necessary before moving on to something fast like this but really annoying when changing from C to Java considering most the info is the same Great upload  further links in the description very helpful Thanks
+what is Systemoutprintln what is for each loop 
+Thanks for the quick refresher but C master race
+This should be called Java The Quick Revision
+After this 30 mins video I am going to be a pro JAVA programmer
+lost me in 2 minutes
+this is much better as a refresher than a tutorial which is good for me because i needed a refresher thanks
+Extremely good explaining video on javareally help me alotI will practise to code with java Thanks Derek
+If I knew how to code I would try to make something cool where I could get rich from Its so fun doing stuff on the computer
+Coming here from CThis all makes so much sense to me D
+Nice
+why you have used extends keyword if all 3 classes are in the same folder
+Why the 5  1 to summarize addition and so forth 
+This is Amazing I couldnt belive that were possible to learn a lot about java in just 30 minutes you are amazing Dude thank you
+Cute little video cheers mate Except Mastering java takes a lot of time There is no possible way for someone to learn or teach the entire language in 30 minutes
+I signed up for computer science class in my college I am taking the second class for computer science and I need help I still dont understand while and nested for loops For work I have to make these complecated patterns but I dont know how to Where can I learn nested for loopswhile loops arrays really good so I can be a pro in make patterns and stuff with ease Please help me
+This video makes me understand Java very much
+I just watched this video from start to end and this video is going to be a great help for me as something to look back to as a reference since Java is still new to me But I was wondering if you can do a tutorial like this one or a series of tutorials on ObjectiveC as well Possibly even going into creating an iOS App in the tutorials If you have time to respond to this comment please let me know because I would be very interested in having someone explain ObjectiveC Thanks
+Awesome Derek
+Wow I never knew Java shared so much in syntax with C Thanks for this video You saved me so much time being a C developer already 
+Excellent education Thank you very much I look forward to your other videos
+It misses Threads though but it was a great summary Thanks Derek
+Thank you very much for your videos
+I need IBM RPG in 30 mins
+If you want a comprehensive understanding of Java buy one of those thick Java books and dedicate yourself to one chapter per week with sufficient practice In a years time youll be a pretty good Java developer Or get a CS degree
+hay this is cool and all plus i am looking to do coding for java aand wow is this alot Derek Banas i love ur video plz make more i love this one 
+Hi Derek I sent you a msg before but just wanted to make sure you read itI need help with Eclipses formatting  I was tweeking the layout and somehow the tab which shows all my files on the left of your Eclipse Java videos has disappeared and Im not sure how to get it back How can I get it back thanks
+nice snapshot of core java can we get same kind of snap shot on advance java
+szkoda e nie popolsku nie rozumiem co mwisz
+What is static for It wasnt very clear to me 
+i know its not on the theme but can you make a tutorial about how to small talk and put it in your psycology playlist
+Execllent
+This tutorial literary erased what I thought I knew in java
+This is impressive as someone who only did a year in java 3 years ago its a great refresher Are you planning on making more Android App tutorials Making good use of them for my final year project as Ive never developed for android before
+I have a final next week on java programming in my first semester mcs class This tutorial was a great review for most of what I was taught in class Hoping to get an A thanks to you 
+Can You do Counter Strike 16 Server Development with AMX MOD
+Awesome
+But this is a 34 min video plz
+So ASCII numbers 97 through 122 are all lower case 
+ehhTHIS TUTORIAL TO LEARN CODING IS TOO HARD FOR ME
+Hi am  Gordon I have being following your video online for some time  they are in HD  it always show how sound you are in programming and the clips are are   Please if you have any tutorial on how I can print my jasper report with a print button from Netbeans app kindly give me the link
+Do you have a next level up java video Im not seeing
+Are this vidoe enougt like so you can go to dev games on java or 
+No multithreading IO regular expressions exceptions generics annotations or collections 
+Im dropping out of AP computer science its too fast but I still want to learn code
+Hey HTML enthusiasts please subscribe my channel for awesome HTML tutorials We post new videos every week on various topics of HTML all my videos are in HD so no shaking webcams and stuff PEACE OUT
+as a C programmer all I needed was a quick runthrough on the syntax so this was super helpful
+Perfect for me Thanks for the piece of knowledge
+Derek Banas you are the man No one teaches programming as well as you Bucky is really good but your style approach and explanations are much better Thank you for all the hard work you have done to provide us with such gems I absolutely love programming and you have helped me a great deal 
+Im ready to get that 5 on that AP test
+ true and false is used for what  
+I programmed quite a bit in c and this is exactly what i needed really good guide for ppl used to code in other languages
+This really helped me refresh my memory for my Java final Thank you
+I was wondering when do we use return in a method  Couldnt we get the same result with that return varNameSystemoutprintvarName 
+error Scanner cannot be resolved to a typeWhat am I missing
+Terrific efforts and brilliant video Loved it 
+This video is perfect for someone who already has experience with a different OOP language but just wants to learn java quickly Thanks man
+Love your tutorials very fun to watch and you dont sound boring I would suggest if you could tone down with the zoom in and out in your videos for the most part hd shows everything well and zooming in and out makes it hard for me to focus and in the long run gives me headache Othervise great stuff keep on the good work
+Its clear complete and easy to undestand  Nice stuff
+you should consider becoming a rapper
+Derek im relatively new to android app development but when using web services in eclipse do you use java Would you make a class for it
+Loving your videos They help me to grab the concept of most of my subjects with languages such as UML HTML Java xml css etc
+I think people struggle with the object orientation of these videos They need to have a look into that first
+I want to create program to print out all the files in a directory and its sub directory Any help
+please do GUIyour an amazing teacher
+Why is Java so so difficult to learn compared with other languages
+stringarray stringarray dadadadadadah Bet that joke doesnt ever get old  Ahem
+Arrays theyre basically boxes  Derek Banas 2014
+Dear DerekFirst of all let me to thank you for the great job and for the nice an easy learning wayI have a lot of questions but for now let me ask the most important one for my case I would like to start writing an Accounting and Auditing softwareapplication for a people they asking me to do it and I had been graduated in 1997 and from that date I didnt done any software for that I need your advice if you please by the way I got the first books of java JDK as I remember in 1997 and I start to learn it in 1997 by moving from C to Java and also I developed some few small applications using Delphi and  Borland C Hope you can advice meThanks
+cloneofArray  and copyOf are reserved words in java  
+How much crack did u smoke before u made thislol jk mani love the video ur a genius
+I was doing great until the last few minutes lol
+3158 Thats actually how Ive been the whole video I dont know why youre stopping to explain this one part You didnt do it for any other parts for the whole video Just like the fact that you kept repeating what public static void main meant but hardly stopped to explain what most of the other stuff meant or did simply for the fact of stuffing it all in so you do a 30 min java tutorial
+Thanks Derek I do a lot of C and C and I had been wanting to do Java for a while your videos are godsend Quick and concise
+Thanks Derek This was great and exactly what I was looking for I learned C and a bit of Python in the past and needed a quick reminder of programming and especially getting to know the Java syntax so this was perfect For those of you who dont know any object oriented language I recommend starting with the slower and more thorough videos Had a quick look at some of those and theyre also very good Really Derek Im so happy Ive found this you have no idea Thanks again hehe 
+im new and im here Derek I want to get into game design so Im learning how to code and im coping pretty well
+watching this with speed increased to 15 is awesome Also can someone explain the count to method with the i90 continueDont really understand that part
+Gibldy gobldy goop Im sure it made sense to people who have prior knowledge in java but to someone new this means nothing
+Great video  Covers a lot of the functions I use in Lua providing a firm base I can learn from  Very easy to comprehend functions of java like multidimensional arrays with a basis of the Lua scripting language
+Good choice of favorite number
+your magic is strong Subscribed
+how long does it take to code and make a game like minecraft do you think Derek Banas 
+What is a field
+Hi i have a modle of game on unk formatCan you make convert program obj a unkI want to make new models to game
+So I watched this video kinda randomly about a month ago and totally got lost I just finished an entry lvl programming course in C that was my first taste of programming ever Started learning Java yesterday and came back to take another shot at your video Still got a lil lost towards the end but this video just summed up the first 3 chapters of my Java book and made it so much easier to understand Great video Thank you for making it
+Yeah I added this to watch later a long time ago I only got 10 minutes into it all the way bored I am now learning to java code through a book and a few apps Maybe once I actually have a better fluency to the language I will look back at this video Anyway from what I can tell the best way to learn a language is to practice it so you arent going to be learning a video from just one guy skipping through a bunch of stuff to make a video on everything in 30 minutes Maybe I will look at the slower java tutorial Eh might as well right now
+
+i dont get templetes when i press ctrlspace
+Waaay tooo faaaast xD
+Great video Even for me  just a beginner still within my very first hours of code  this video really helped me get my head around what is needed to program in Java Thank you for giving efficient and clear explanations Big thumbs up
+Sorry but you should learn some more legitimate programming  Java is outdated a security threat and is in the hands of an unscrupulous company  FORGET IT and get a more dignified job
+Derek this video is awesome Im a teacher in Mxico and I share with my students it will be great add a close caption in SpanishDerek do you have a similar video but to Java and JBDC with MySQL Data BasesThanks  a lot Derek blessings
+Hi this is a very good video I also made one about how to learn java even faster in 8 minutes ofcourse it covers not everything and is more for a revision Take a look if you are interested
+i like that you theach java swing lib that is good and you should doa grapichs tutorials for evry languageand i dont like java evryone says that is hard but is easy because there are 999999999 libraries that makes it easy that why i like c more is more advanced thanks
+i really love your videos best teacher ever keep it up 100 Subscriber
+I need a Programming mentor for Java Im studying and I will start next month classes with zero knowledge can you help me
+U r Brilliant
+I love tutorials with cats and dogs thanks
+my little brain explode
+Guys set the speed to 05 makes him sound funny
+loved it  thanks a million
+This would be definitely beneficial for someone who already knows Java but at the speed you are explaining these stuff and for a beginner like me I will need to watch a few other videos before I am ready for yours Thanks a lot for your effort
+package thankfulpublic class tutorialspublic static void mainString thankYouString name  Derek BanasMe me  new MemeShowAppreciationToname
+This is really good tutorial Looking forward to other Java videos
+my brain is about to explode im very confused with object oriented programming
+Horrible way to teach slow down my friend Java is mostly for beginners who just picked up programming
+0010 In Pumped to learn Java0300 In Currently filling out McDonalds job application
+Man you are just awsomeHello Sir I am from IndiaI need to learn more of thisCan you please upload more of your videos with english sub titles
+Hi derek could you please help me I cant download Java on my computer I dont know how I have windows 8
+Wow My brain is a bit of a mush now from watching that but it was so informative and compact without including any unnecessary information
+you are awesome
+Kill me Instantly confused
+what about interfaces 
+Awesome Job Derek i love your channel watched up to video no 20 in your java series n came up with this game on google play Cant wait to watch the resthttpsplaygooglecomstoreappsdetailsidcombarakaannoyingballsandroid
+Thanks Clear and straightforward Just what I needed
+Thanks
+Hey Derek thanks for making this awesome tutorial I would love if you made a Learn C in blahblah minutes
+As someone who had never touched Java but has worked with Swift python and C I found this to be quite helpful in rapidly learning the basics and essentials of java
+u r great
+Hello DerekFor my college course the Teacher is going to have us make proxy servers using javaI am team leader of a group of fourBecause I am team leader I was hoping to get a head and learn how to accomplish the task before the teacher teaches usI was wondering if you could make a series that shows how to do this If not could you point me in the right direction to learn this
+hi derek I have no knowledge on java and i have installed eclipse and maven I need to start from basic tutorial and I cannot find any can you please help me
+Do you play hello internet dialog same every time It is pretty annoying But tutorials are awesomeit is crazy that how you record but you are awesome
+ 0930 you can use a Systemoutprintln to go to the next line
+Thank you for your video I just spent half a semester learning these functions individually Seeing them put together should help me going into the second half My 200 1239 page textbook can be overly wasteful with words for a beginner wanting the straight facts My brain is only so big
+This is good for if you just want a review of how to code in java or already know another language If you dont know another language expect to pause every 5 seconds to spend an hour learning it
+Thanks Derek Excellent headsup for Java programming
+junior in highschool taking AP computer science were learning java Just a heads up guys you arent going to learn how to code by watching a video or even taking a class most likely You have to learn it yourself or you wont understand it Ive been learning this stuff for about 45 months now and although Im only holding a C in the class now I understand a bit of what hes saying he lost me on this but thats the problem with trying to learn code through videos they will skip things that are pretty vital and you will spend forever thinking WTF goodluck
+how do you get the font size so big im having trouble seeing my screen its so small
+Hi Derek thanks a lot for these awesome videos I was going through the java tutorialshowever I couldnt find much on exception handling Can you please give me the link if Ive overlooked it In any caseI just wanted to know whether it is mandatory to use a catch block for a try block Can i just have a try with no catch or finally block at allAny suggestion would be helpfulThanks
+Thank you Derek
+Nice job Quick and efficient If you have used VBnet or C this will all be quite familiar
+huh java is extremely similar to c Same variables int float double char string some of the same commands like if it works similar way you need to enter libraries Java isnt that hard after all
+I pretty much understood everything thank you i have experience with CC python php javascript and perl
+is javascript the same as normal java
+But I doubt new people hang around for this heh Sadly walks away
+very good and thanks to the people who help people to improvement
+what font are you using it feel col in the eye
+fucking amazing tutorials thank you
+Hey Derek do you know if its possible to run eclipse on an android tablet and start programming on an android tablet thanks
+Love the speed of this tutorial always good when I need a recap on how java works sometimes I like learning things at fast rates so this video is perfect for me Thanks
+Mr Derek can Ive learned Javascript but didnt worked too much on it but I wanna learn JAVA can you suggest some books or book in particular which can help And please tell me that how did you get to learn JAVA and how you practiced it And yeah one more thing which was your first language you ever learned  Thanks in advance 
+Love these videos I have programmed in C for two years and am finially broadening my horizons Ive used your HTML CSS PHP MySQL and JavaScript videos to go from web development newb to a newb that can make some simple websitesBeing able to fly through it in half an hour lets me try out the language and get a feel for it before learning the more advanced stuff of that language and being that Ive had experience with C I can keep up with these videos as wellAwesome work and thanks for these videos
+These videos seem stupid But once you learn one language in detail these videos are really helpful for learning others
+Hey I really like how you teach do you have any java tutorials that i could download online by chance am a beginner by the way
+Hi Derek i need some advice from youIm about to install Ubundu its Linux OS i guess thats what Google gave meSo if the installation goes well how will my new PC look likeWill all programs work the same as on Windows support performanceUps and Downs and what do you think is it good ideaI am basicly intending to use OS for programming other programs and some hacking practice you know
+At 2221 you type sysout and from what Im guessing it autocompletes to SystemoutprintlnWhat did you do there
+Cant even understand a single word 
+That blew my mind
+I really like how all the basics were quickly ran through with great editsThis is like the first 3 or 4 chapters of lots of books in 30 minutesI hope you do more advanced videos as I want to learn what one does with all this information after one learns itLike most newbs I am most interested in seeing what once can do with java once all this stuff is learnedI like to get an overview of EVRYTHING before I know HOW to do things and What I am doing it forI will be sure to see just how many Java videos you have done so far and look forward to any more that you doThe more of an overview I can take in the better it will be for me to get started and know what to do with the info once I am more apt with itTHANKS
+Thank goodnes he didnt make the code about tuna and exgirlfriends 
+Great video thank you what version of Java should I install
+Your every tutorial is awesome and very helpful Can you please favor me to make a dynamic breadcrumbs code for primefaces menu I shall try to honor you for your time
+Is it hard to learn new Languages if i know C   like i learned it in highschool i learned all the basics and some advanced stuff but i dont think we covered everything  so like i kinda know programming is what im saying  but are all these languages different from each other  and will it be difficult to learn new Programming languages 
+Why are you talking like a Droid
+to all on here who are discouraged beginners first time getting into programmingbasically i was in your shoes when i first started my first ever computer science programming class 4 years ago for my software engineering degree the guy was like so ya use string here i was like the strings of the clothes 0 O or float in the airwaaaso i was depressed the whole time we were learning c the professor even started out with giving us a whole code and he says to fix iti had NO idea what the heel is going on at that time right now i can easily fix that in 30 seconds LOLit just lacked semicolons at the end of the lines but i had no idea about this syntax coding grammar basically and what not stuff about programming at that time as time passes and you continue watching lectures or videos on a constant basis and actually DO programs yourself you will start finding it makes sense of course i am not as fluent as this dude in the video i probably still have problems trying to implement what he simply did there but in the real world this doesnt matter that much because everything is there right now available the jist of programming is basically the logic i can understand mostly the logic behind all what he did in this video because i have went through this loong 4 year experience process it finally makes sense so you cant just give up right now and btw i took c for 2 years and then took web coding languages HTML  javascript PHP for just one semester last semester and i absolutely loved the web coding because i understood it better right away and i actually was having a blast developing our very own team website for the term project so as you move up you will eventually start understanding and everything will make sense my two favorite languages are C and HTML and i despise c xDyou will get to favorite certain languages while loving others depends on your coding preference good luck
+wow wow wow way to fast my brain is burning
+A protected can be accessed in another package by a subclass
+Josh sent me here
+wow this is great  The pace is just no nonsense awesome  I would love to see some of the actual programs you put out  thank you for this
+Very helpful
+Youve listed almost everything Ive learned which took me 1 month to learn
+Wow This was cool I was actually hoping to see a short clip saying that stop looking for shortcuts you cant learn or rather get a summary in 30mins and rather put hard work and effortsHowever once I started the video I could see that here someone actually means business In first few mins I was impressed with the way a lot of information was fluidly and coherently packed and presented in a very simplistic and easy to understand manner and was wondering if this flow will last till the endAfter watching the video I must say I am impressed and although the heading should be changed from learn java in 30 mins to something more realistic but it was a great video to get a very good summary and 30 mins well spent Thanks a lot Derek Banas for making this video and sharing with us Kudos
+i don t have experience in programmer and i think everything in this video is so difficult to learn
+I wonder how long he had to prepare for this
+I love this video It really helps to watch this every 100 pages I read in my book This video is a great reviewThanks
+It took me 4 years to get the hang of Java and Im still learning So dear everybody in existance dont rush
+Thx man its useful but i have a questionhow to creat an awesome game using java with awesome 3D objectsDid you hear about minecraftthe programmer used java to creat the game with 3D blocks objectcan you make a video to teach us howplz
+Im french and I understand everything you say D Do the language used to develop on Android is Java  Thanks 
+Any real world exams in a professional environment or project
+This is my first time ever seeing coding and I want to get advanced at it what do u suggest
+As always loving the content Mr DerekOn DevFactor channel we also have a variety of materials for learning Java programming and new tuts MWF for anyone interestedWould be interested in collaborating sometime if you would like
+if you want views you should have told in the title of the video that you are making a cat in java
+Im a developer learning a bit of Java in my spare time Dude I know you wanna teach this stuff quick but you whizz through multidimensional arrays and polymorphism way too fast I know what these things are within the Java paradigm  Java is very similar to other languages I regularly work with  but the only way I would grasp what you were saying is if I already knew them which means teaching them like this is a moot point Overall a good throw it at the viewer and see what sticks tutorial but definitely NOT for new programmers
+If you are an exp programmer getting into Java try watching this in x15 speed Great tut Derek 
+Hey  just to show you guys what you can do with Javascript httpsgithubcomamanuel2ngforum Try to contribute by starring project or make contributions
+Last time I checked the Beginner Manual for Java had 1400 Pages 
+So it looks like you can have a main method in the same package in two or more classes  I assume this is not recommended but the compiler knows what main method to execute depending on which one is active when you click the run button
+If Im going into the field of Physics what kind of tasks could Java be useful for In other words what would knowing Java help out with in the world of Physics and science in general
+if any one here complains note that im 10 and this is easy now
+Great Videos You are a fantastic teacher mate
+Before I knew for loops I though it was for every time this was true do it
+You sound like Andy Bernard
+Who else thinks he kinda sounds like Markiplier
+I thought protected data types can only be accessed by its own class and its sub classes where dog and cat extends animal am I wrong in that assumption
+please make a video about what should beginners know before we start any type of prgraming
+what do if it says theres no launch history
+Im french and my english is not very fluid but I can follow all your videos  they are awesome thank you so much for sharing your knowledge 
+These crash courses are great for people who are already well acquainted with programming but dont know a specific language However I dont think a newbie can learn programming in 30 mins It takes years for concepts to grow and for all the knowledge to fit together through experience
+This was an amazing refresher of Java
+this is more like a review for an experienced user there is no way a beginner can learn from this
+Nice though itd be awesome to have a version of this video for C programmers so that you dont have to explain as many of the basic things that are the same between the two languages if while for int double multidimensional arrays etc
+You just gave me in 30 minutes what a book would of taken weeks to explain really fast and really simple wow
+Derek I am getting a  javalangArrayIndexOutOfBoundsException Java Exception in the file below and I am wondering why public class MyHobbits    String name   public static void mainString args int i  3MyHobbits  ho  new MyHobbits3int a  0whilea  4 a  a  1hoa  new MyHobbitshoaname  Stevenifa  1hoaname  Markifa  2hoaname  MariSystemoutprinthoaname   is a   Systemoutprintln damned good hobbit name               
+This was a great refresher course for me the last time I used Java was a few years ago in college But along the lines as Austin P said this is no replacement for a proper class on programming But it is also great if you want to know the basics of Java syntax and such 
+is it me or does he sound like a robot
+Man some of the words you give extra emphasis on is hilarious XD STATIC
+1127 Every animal has a favorite character at least in my world it does haha Great vid
+you cannot do that in 30 minutes
+Great video for quick referencing Thank you
+DerekAre you going to do a learn in one video on SHAREPOINT ever
+feeling exhausted P but thank u so much for your efforts
+3
+Cat
+can anyone suggest tutorials videos websites or books that teach java programming from start for complete noobs
+Derek I just have one request  can you make a video series on internetprogramming with Java Servlets JSP HTTP ClientServer Programming In Java and stuff like that Thank you
+Let me congratulate you Derek that was the best no nonesense overview of Java I have ever witnessed  I learn t Java many years ago and unfortunately never obtained a job from which i could utilize my skills  So i needed a refresher as i now have a project which is perfect for java  In 30 minutes i was able to refresh most of what i need to get back on track  Such a great boost  Well done
+Errors riddled within the code and I dont know whyIt wont debug even though I did everything you did java is unforgiving for someone coming from python and ruby  
+I use intelliJ because I hate the eclipse GUI
+Derek i was curious if you could explain what a framework is and what the difference is from a library and could you maybe make a video summarizing it up thanks
+What program do u use to write the code
+WHY am I taking two classes that teach me java when I can just watch this video  s
+Again nice vid Someonenot necessarily you because I am eagerly anticipating the continuation of this series should create a vid showing the differences between Java Java and Android Java I would but I am still learning Android Java and really have no desire to learn Java Java but for those coming from Java Java it might be helpful So basically I am just rambling here feel free to ignore 
+Hi Derek Your videos are the best programming videos on YOUTUBE However why dont you make videos on how to parse data using XML Json that would be very helpful PLEASE make those tutorials and you will safe my life forever 
+Derek Banas Dude Today is the Luckiest day in my life Gotta chance to watch this Free Tutorial Hats Off To you 
+horribly obnoxious and not really informative glad you know how to program try teaching others
+Best
+This was just perfect thank you
+i understandet 37 from allIrealy wana cnow how to do these so i can tupe diferent codes maybe its too early for 14 ears old guy but i realy wana learn
+This was a great review for my java programming exam 
+I think this video is an excellent review of concepts I have already learned but I have not been able to learn anything new any time Ive watched it its too much too fast to be a video for beginners
+Hey Derek I have to say this is genius I bet learning java after C is easy but your video made it a lot easier for me to learn java quickly and effectively Thanks for sharing your decade experience Cheers
+Nice job Great pace finally a video that has information I dont have to wait for
+can you make a game development tutorial in java or c pleaseeeee I really want to make a pvp kind of game
+Uh what is the difference between java and JavaScript
+I find it interesting but hard to learn everything you said lol
+lolthis guy video is suitable for those who have solid programming language experience before i doubt those newbies who actually can understand what are this video is teaching hahaha
+Simple and precise keep up the good work 
+    Read more 13 lines
+thank you lord gaben
+Why use setters and getters Why not just thisname   Is it just one of those things you just normally do or is there something Im missing
+HiI have been watching the Java tutorial  im at episode 8 I have a question and that question is Why do you need to use constructors and what do they do If you are feeling extra generous please explain to me what a Blueprint is and why it does and maybe what it can be used for I know I can just Google it but maybe some of you guys have a more indepht and better explation and if I dont understand something I can just ask again Thanks D
+I swear to myself this is difficult i doesnt make sense
+thank you so much for all of your awesome videos  i just want to know if  java is good for making 2D games
+My eclipse i opened again but now whenever i click stuff it says error during activity monitor log and says check error logs and i dont know whats going on
+httpswwwfacebookcompagesProgrammingandothers1539543676297965refhl  To learn JAVA
+still confusing
+Can you please do Java servlets in one video
+Thank you I appreciate this so much What did you use to record your screen
+Idk how I did it but seems like I closed my project explorer panel and now I cant find a way to restore it can I have some help is there a shortcut or something for it makes life easier for me thanks
+Dear Derek I was wondering if you could help promote my programming channel since i have quite a few python videos and also am starting a java series shortly Although you have both i was still wondering if you could do that for me I will also start doing 3d printing tutorials using sketch up since i know how to design stl files Also i will do reviews and other things along with a computer build that ill be doing shortly Once again this might seem like a big favor but i would really appreciate if you do this for meThank YouKoustubh Nyshadham
+That was just superb  I never thought that one program can express that much can I have more like this
+Lol 30 minutes
+Any chance you will do a Spring tutorial 
+An awesome no nonsense video about Java
+Legend awesome
+Explain userInput next  versus userInputnextLine  Thanks
+this is more of a cheat sheet for people that have an idea of programming but still pretty good you get this positive comment and a sub
+You are awesome Derek I got exactly everything I wanted and I like how this tutorial make everything clear and concise keep up the good work
+The only thing you missed was to actually run the project you created Can you please do a video on that 
+A friend of mine is 14 years old and he already knows Java I think thats really awesome now Im gonna try too
+I love you so much right now lol This answered all my doubts and questions on how to do certain things in Java Thank you
+
+would you advise using eclipse or android studio for this because in your android studio tutorial video you said to not use eclipse
+So this voice goes on and on What is he saying
+What about subtitles Please Im not perfect in listening english  need it
+This is weird coming from python
+Excellent presentation Thank you This was my first exposure to Java and I feel much more confident now because I actually understood all of this on the first pass and yes I will be back for many more I am currently only fluent in Perl please dont laugh I love Perl and have decided to learn a second language After watching this video I decided to learn Java
+Awesome video
+what are you trying to make her a npc or npc of an dog and cat 
+This reminded me of what it felt like being a child watching star trek Very entertaining but I didnt understand every other word Maybe in a year ill come back and be like this stuff is easy A man can dream lol
+I usually dont subscribe to people but you had me sold in 2 minutes lol thanks very helpful for my Engineering classes
+Thanks a lot This is a very good video I like how you teach Thank you
+I cant input curly bracket in eclipse can someone help me with this
+Its a great video to brush up Java before an interview Thanks man
+Yeah Im a computer programmer and I assure you beginners should NOT watch this video to learn Java Programming This seems to only be for people that already KNOWor understand the language and simply wish to get a refresher
+1618 nice
+OWNED
+Its easy
+you are realy realy smarth man great video
+Youre voice recording is ahead of the videoIm using a android device watching this so maybe its usually not like that on pc
+mlg pro of Java
+Pretty awesome crash java course Taught you just about all you needed to know in 30 mins I can see this being difficult for anyone who doesnt have prior coding experience but for someone who knew Java and needs a quick refresher it was great Thanks
+I bought the book you recommend in the description I have to say its realy good the combination of your videos and all the information i can get from that book realy helps me to learn java but i have a question What programming language should i learn next I started with java to have the basics of a programming language and to make some android apps but i want to make some apps for Apple devices too and also i want to program the Raspberry Pi if you heard of it httpwwwraspberrypiorgthanks for the answer 
+I watched this video and towards the end it got really confusing for me I was wondering if it would be better if I just watched the slower and more in depth Java videos or would it take too much time
+Youve just made sense of the entire year I just spent in Java classes at Uni in a little over 30 minutes I could kiss you I really could Cheers
+I am taking a programming class and im really lost ive tried to find online tutors but they all want to get paid which i understand but i cant pay people like that right now is there anyone who is willing to help me out every now and then on a few labs
+Quick question what recoring software do you use
+after 10 min I started reading the comments D
+Is it possible to go faster I look up and youve created a zoo  barnyard  humans shooting said animals before I have int typed in  maybe Ill come back to this
+Is it possible to learn java in 30 mm only Those are basics
+Hey what program are you using to record your screen Thanks for the video
+What a great job Thank you man
+The fastest but greatest tutorial to Java I actually learned some good basic in 35 min
+I am learning java in class right now There is a chapter called SelfReferential Classes Do you have a video for that I didnt see the specific title for it Not sure is that in some part of other video Thank you
+Hey Derek what is the difference between x and x Im kinda stuck with that increment concept
+I didnt get what you said about the numberOfAnimals variable and the need to use static  Im going to go crazy and make this a static integer and this is integer is going to be the number of animals  Every single Animal object is going to share the same value for the number of animals and you want to mark any variable or function static if it doesnt make sense for an object to have that thing on its own  For example it doesnt make sense for a dog to know the total number of objects created  I didnt understand what you meant by if it doesnt make sense for an object to have that thing on its own  I dont understand the dog analogy  Why the default value of 0 for numberOfAnimals
+Im getting better at java I actually followed that for ten whole minutes Then nope
+Quick compact  straightforward An awesome refresherbeginner and one of the best tuts Id seen
+My head just exploded Awsome video Coming from Javascript and PHP this is a whole new world to exploreThanks for this great crash course
+Good video Thanks Derek
+Question If someone wants to start a tech company do they need to be a programmer I have sales experience and a big picture understanding of technology and markets but I am not a technical guy Is it ok if I just get someone to help me with that area
+always always love ur vids it is so concise
+I KNOW HOW TO FIND ALL YOU GUYS IP LOLIM NICE SO I WONTGG
+cool you made learning java looks so easy wtf awesome
+What should I learn next after understanding everything in Java Video Tutorial videos any book recommendations
+what program do you use to code
+I think many other people can agree that you went very quickly so it was hard to grasp the things you where teaching No hate just to explain all of these concepts it would take like 5 hours min not 30 minutes
+Thanks for this quick refresher It will help me revisit java after 10 years
+Clear enough to be understandable and fast enough to avoid boredom I find it hard to pay attention in class but this kind of videos works like a charm Good stuff
+So i have a passion for programming but im new to it dont actually understand which app i should download to start writing my programs Any suggestions
+Pff
+O M G  THIS IS AWESOME Thank you sooo much for this
+This is INVALUABLE to me  THANK YOUI have a background in other languages am taking a class on Java1 and learn extremely quickly when people explain it in regular english  Each time I watch this I pick up about another 5 10 minutes worth  SO much better than sifting through endless slow tutorials  This is GOLD
+Man Im 18 and seeing all these kiddie programmers coding in every language is crazy Lol I feel like I started lateGood video nonetheless
+Hello Derek Banas  i really want to learn programming but its hard for me  so i wanna ask you if there is any tips for me to get started to program Amor
+Lmao thankfully I already know all of this stuff so i can keep up with you but i feel like if I was a completely new to java this would have been very very noneducational or maybe even detrimental because of the overwhelming mass of information that could discourage a complete beginner Great video though good refresher
+Whats the difference between scripting and programming I want to get into programming a relatively tech savvy guy Ive built computers am familiar with lots of different programs CAD Photoshop etc but I dont get things like that Where would I want to start Like I dont know binary and the sorts Please help Thanks for the video btw it was really fast but hey its a crash course and was pretty comprehensive for how much content you covered in 30 mins
+This tutorial was pretty good
+I like your  in One Video  series  Very informative and useful for a revision or overview Kindly Do a Spring Framework in one video
+what
+30 minutes for the basics Anything beyond can take a good amount of time to master My degree is Computer Science
+Since Im kinda new to programming what do you mean when u refer to comment  like I said Im new to coding
+Good video but could be a little confusing if you are not familiar with OOP 
+I found this really helpful as a review since I havent used Java in two years and I suddenly have to use it again
+Now make video where I get it in 30 minutes
+Hi DerekIm writing an android app and I need to use labels  but when I use them to jump through more than one loops it says error undefined label  I used breakcontinue  but it didnt work Is there another way to do that 
+Hello possible link Download the program used in the commentary
+As always very nice video Im going for java programming course overall 35 hours in 5 days and wanted to get the core just to compare it with my C knowledgeThe video did its job quite nicely thanks 
+At 630 what does super do if you still have it there Would it call Objects constructor since its the base class of all classes Thanks
+Excellent tutorial you explain Java in 30 minutes better than some professors in an entire semester
+What the fuck is he talking about half the time
+Brilliant tutorial Derek
+Who needs a reference book when you have Derek Banas
+this video is for people who know java or are very familiar with it i understand it but only cuz ive been doing it in school for the past few months if you are new to java this video is a complete waste of time
+thankyou but can you programme games with Java
+Is it just me or is his screen really blurry and you have to really focus to make out what the words are
+wow this is an amazing video I started learning java at school 4 months ago 5h a week and we learned just about the same as shown in this video yet I learned and understood few new things that I wasnt sure about before Definiety looking into your other videos great job
+This is very helpful
+This is a great tutorial for someday already know a programming language Thank you very much and the code provided
+What font are you using
+were gonna create a class called AnimalBEAR with mehahahahahahahahahahahahaha kill me xD
+Bro The video is simply superb Very very time saving Just noticed a small bug correct me If I am wrong At 1545 youve mentioned that To convert String to Byte we use BytetoString but that should have been reverse However its a very small bug Can ignore it Just wanna show how keen and interested I was in listening to each and every detail of ur video
+no way you can learn java in 30 minutes
+Learnt programming Feels like a boss
+what can IntelliJ that Eclipse cant and vice versa
+I like how everything actually makes sense un java unlike in python Everything just seems very clear im comparison where as in python everything is kind of well diluted for the lack of a better word For me at least
+1100 min and i am be like ohh shut up
+How do I do I get to practice this
+At 740 how did you make 5 copies of your statement
+I have sent to you a message plz check it
+Waitwhy is eclipse not recognizing my Scanner commandThe fields are herepublic class dunno public static final double FAV  16180private String nameprivate int weightprivate boolean hasOwnerprivate byte ageprivate long uniqueIDprivate char favCharprivate double speedprivate float heightprotected static int noOfAnimals  0static Scanner userinput  new ScannerSystemin
+      import javautilscannerpublic class RandomTutorial      static Scanner inputnew ScannerSystemin          public static void mainString args          inputtest          public static void inputtest          String message  inputnextLine          if messageequalshi          Systemoutprintln Sup How are you          Hello String message public static String Hello String messageif messageequals goodSystemoutprintln Cool LaterelseSystemoutprint huhAny suggestions why it isnt working
+The reason why this might be hard to most people is because he starts coding right away without saying first whats the task he wants to accomplish or problem that needs to be solved Its a great summary video for people who already know java or have already understood what OPP is all about but it will do no good to a noob So dont be discouraged if you dont understand just find a real problem to solve and search for ways of solving it
+how can i get something to randomly pick from 2 words
+AWESOME WORK Derek Thanks
+Thank you so much These other tutorials are so long winded
+dose this work on BlueJ
+Derek I need help what does rawinput mean 
+Can you further explain what Static is used for that is where I got lost and always got confused on My professors wont explain it
+what
+Im new to this whole thing but I managed to watch the entire video and understood a little I tend to analogize things in order to better understand them and this video was very well done Judging by my profile picture alone Im sure you can guess why I am here Anyways thank you for the information sincerely I will like this and subscribe to your channel because I very much enjoyed every minute of this video Im still excited and want to start writing immediately If there is any advice for me please message me anytime D
+how much of math you have to know to be able to provide good java programming
+I got down to this part public Animal numberOfAnimalsint sumOfNumbers  5  1Systemoutprintln5  1    sumOfNumbersint diffOfNumbers  5  1Systemoutprintln5  1    diffOfNumbersint multOfNumbers  5  1Systemoutprintln5  1    multOfNumbersint divOfNumbers  5  1Systemoutprintln5  1    divOfNumbersint modOfNumbers  5  3Systemoutprintln5  3    modOfNumberspublic static void mainString args Animal theAnimal  new AnimalAnd when I try to run it Animal Dog and Cat arent options The only one I see is the sample I made when setting up Eclipse There are 10 warnings noted but I dont know if that means anything Not really sure what to do
+Well im designing a game a know java kinda well and have made a game before but every time i try to make a program with a int that  0 i try to find a way to  it every time a button is pressed but it needs to do that for ever pretty much and print it out again
+man its basicly fucking greek
+Hi DerekWell that was a fantastic tutorial just about covered the whole of my 2 years of Enterprise Computing Degree  haha I must of have made some error in the code though at the Systemoutprint    arrayNameijk     this throws an unresolved compilation error that I cannot seeand the public char setFavoriteChar int randomNumber  int Mathrandom  126  1in output this comes out with Favorite char being  Do you have the full code somewhere did you say  So I can check it I cant see where Ive gone wrong from the videoRegardsCaroline 
+I want to start programing and I have tried python but I just cant give myself the motivation I want to program games like the ones on the app store Their are so many good games and I feel like its a 1percent chance that my game would be successful in being popular I really want to do programing but I dont know If I would be good enough or if its already too late since so many younger kids than I are taking classes on programing is 16 a good age for starting to program or is it too late
+Lots of information  it helps if you are already familiar to the subject If you are a beginner this will be like trying to memorize a whole book in 5 minutes
+When do you recommend to call the super 
+Hey Derek This is what I have been wanting to see I love it I love Java This will help me better understand than reading  Plus your using Eclipse Yes sir As a future Java Developer this is very insightful I wish I found this while attending Java classes but I think this is a Wonderful video with KOOL explanations Very Java explanatory Your presentation is calming and friendly Do you have some videos of Javascript or JQueryThanksThis is Great  
+My brain is overloading
+Man ur the Man  keep it up X
+Are Javas library packages made with raw Java How do they do their job if this is all there is to Java I understand this is written raw Java
+Derekawesome vid my kid who is 9th grader is new to Java and would like to do a cool project for a grade any suggestions 
+Thanks Derek a very informative and eloquent video that made my brain bleed a little
+Hey Derek i have a couple of questions public static void speakAnimalAnimal randAnimalWhat are we passing in inside the parameters i  dont understand how these object creation works And what they doAnimal fido  new DogAnimal fluffy  new CatWhat does the    meanforString word  stringArrayDoes the values in the multidimensional always have to be in sets of 3s Or you can set it to be anythingThanks in advance
+Thank u for the short but very detailed explanation
+Would this be helpful to watch as a prelude to the new android videos that are coming
+This took me a full hour I want my money back on the grounds of false advertisement 
+At 3148 you input allot of values at once is there like a quick key shortcut or something
+This is a really good vid Its clear and usefull Didnt use it yet to program but I soon will Thank you random stranger
+Java is really a flexible language
+Cool I remember what I learned
+Im really liking how quickly he goes through everythingSo i can get a broad view of how to do everything and if i want i can always pause the video Then i can look up some documentation to explore a particular aspect of the code in depth
+beginner didnt walk away am going to cry a little in my bed right now
+Hi there Derek Ive been programming for a while now but its a while ago since Ive last programmed I learned Python untill classes some C a little bit Java and webdesignHTMLCSSetc I really want to pick up programming again using your tutorials but its so overwhelming What do you advise me I think I want to work my way to android programming Thanks in advance
+The question I have is  Does the javautil import all the java libraries existing
+too much of speed i could not understand what u r trying to teach
+Would of loved if you explained abstract methods and interfaces even though those principles are easy and quick to know by reading Of course other than that this video is how I was able to Ace my Java Computer Science course Thanks man 
+Truly Amazingggggg HATS OFF SIR
+I havent seen Java for 15 years  This was a great refresher  And in only half an hour  Pace of course was perfect for me  Many ThanksNeed Java for Android
+Hello Derek Banas Can you make a tutorial on how to program A algorithm Best First Search and Depth First Search on java
+I am subbingEverything I need to know is in this channel now I need to make my brain absorb the functions that are being described
+great find this book in amazoncom
+i keep finding all this unfinished tutorials anyone know of a really good java youtube channel
+me when i saw sysout  OO
+Hi DerekI have questions I want to ask you about Computer Science developing and internships and suchWhats the best way to contact you Email or Thanks
+This is amazing
+Very helpful tutorials I love the content of eachKeep up the work D
+HAHAHAHAHHAHAHAHHAHHAHAHAHAHAHAH and i got hang of NOTHING
+for anyone who thinks he does it way too fast take the speed to 05 i did it and it worked really good D
+I am in Computer Science UIL which deals with Java Programming and I placed First D In the districts Still waiting on the regionals to come
+great job man appreciate your work
+Though I doubt new people hung around for this I did
+Derek youre the person i always come to to refresh my knowledge or learn things quickly No one is as clear and concise as you are Thank you so much 
+I think this serves better as a review for those who have already taken java and just want to brush up on it than for those who know nothing about it Theres a lot of important questions that need to be addressed beyond the what is and what it does questions They also want to know the significance of the those aspects and why its important in development The real disconnect over programming comes when they fail to see how these aspects fit into the grand scheme of the code 
+Thanks very much Derek Ive got the necessary knowledge just to apply for a QA job that needed an understanding of Java basic syntax  This video was exactly what I neededThanks again 
+My brain hurts so much
+Going way too fast Derek Please slow down I have to teach this class this year and I am relying on videos like yours to teach me how to program Please slow down
+What variable private means
+the way u explained that multi dimensional arrays at 3233 is classic feeling enlightened Dman have something like this  Lunch with Derek  contest for all those who share your videos  pick one lucky programmer every week hopefully they can extract a fraction of ur wisdom  obviously the lucky programmer will pay for it  cheersPS i wish u covered inheritance and encapsulation in this no worries  i l go check that specific video

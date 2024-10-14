@@ -1,0 +1,252 @@
+AGH Every time I try to run the debugger I get this im using visualstudio btw FirstProjectexe Win32 Loaded CWindowsSysWOW64ntdlldll Cannot find or open the PDB fileThis is repeated with different variations of the directory How 
+Why dose it say an error on  using namespace std in my eclipse
+My Eclipse code compiler is set to Java EE how do I change this 
+I heard that usingusing namespace stdis a bad habbit and is dangerous is that right
+I checked my computer and I see my computer has whole bunch of Microsoft Visual C 2008 and C 2005 that installed in different dates  Is it ok if I delete the one that installed the oldest  Does it affect my computer
+The MinGW GCC does not show up for me
+Do you use version 381
+I cant find the MinGW CC toolchainplease help
+when i run it says BINARY NOT FOUND
+Mine doesnt have MinGW GCC I just installed the latest version Is this a third party plugin Youre using the wrong version of Eclipse Agentleader1 Google Eclipse C
+why did u have to type age  0  cant you just set it as age
+The namespace std part it gives me errors on My code is below Please help meCodeinclude iostreamusing namespace stdint main    cout  this is a test programn    return 0
+Hi there how can i download the editor or compiler installer for c
+Im using Mac what compiler would I use for this X Code
+programing tutorial What compiler are you using and also how do you get MinGW gcc for the toolchain it wontnt show up for me thanks
+im getting errors for cout and std both of them could not be resolved
+will u please help me to solve these below program  1to detect if person salary falls between 30000 and 100000 in C
+I run the first program but it says nothing to build for first project Help
+can you help me  when i try to run my program it shows nothing on the console  what can i do 
+My Hello World has like 13 errors at the bottom lots of them saying 1 Program g not found in PATH 2 Program make not found in path or 3 Program gcc not found in pathThe hello world still runs like it does in your video but I am concerned it 
+can anyone tell me the version of this c  link or smthing 
+hey can you please make that a little simple please it might not be hard for you guys but not for me
+what do i do if i dont get the option min gcc whan i create a new projectplease help
+which software is used to learn coding can anyone thelp me
+MinGW GCC does not apear 
+ Build of configuration Default for project FirstProject   WARNING The Default Configuration may not build    because it uses the cdtmanagedbuildtoolchaingnumingwbase    toolchain that is unsupported on this sys
+what is he using to do this shit
+please helpit is showing errors like g not found in path
+hi guys when i hit build button it shows nothing and in console it shows like this  Build of configuration Default for project First Cannot run program make Launching failedplz reply
+what the name of the software i really a noob
+Help Whenever I click on run it says launch failed binary not found Pls help
+whats the difference in stdiohconiohand iostreamhi am having difficulties understanding the use of header files
+The toolchain isint showing up and only does when i turn off Show project types only if they are supported on the platformAny help
+how to open C
+When i Run it in the end it says Terminated but nothing comes written in the end Please help
+no binary was found how do i fix it
+Hello Very good tutorial but I dont think my Eclipse is doing what its supposed to be doing lol my test doesnt change color like that and its not putting the  after the 
+Severity and Description Path Resource Location Creation Time IdError launching external scanner info generator gcc E P v dD CUsersIvoworkspacemetadatapluginsorgeclipsecdtmakecorespecscpp StartofProgramming Unknown 1390654267405 4
+how do i get de MinGw for my platform
+Is this windows only  I am on mac and do not have MinGW
+I am an absolute beginner Is it possible if you could create a video to show installation and configuration of Eclipse the JDK and the MinGW I tried doing this on my own with some research but I am still having trouble getting even the C is Fun
+Where did you get the software I tried with notepad and did not work
+how do i downlaod this pls tell me
+Umm does this work on notepad Im using that software
+Thanks for the tutorial  I installed the Mingcc files but now Im getting 4 errors that g gcc not found in path Can you help with this Thanks
+what is that software used to write c prog
+Where i can download the program please give me link or name of the program
+Symbol std could not be resolved       Semantic errorWhy What should I do
+Hello Im running into a little problem with my Hello World program I copied the from what you typed and Im using the same compiler but when I run it after Ive built the program it just says FirstProjectexe has stopped working everytime Any help 
+where do I write C programs in
+Why not use visual studio is 1000 times better than eclipse i only use eclipse with java and visual studio is sooo much better
+I use version 381 and when I try to run it it says Launch failed No binary found
+help pleaseunresolved std error
+std gives an error what now
+i can do this on notepad
+When ever I decided to learn c besides learning java I always come across this std cant be resolved After  while googling I found many solutions to that and going from one to another nothing works correctly sometimes I need to reinstall the compi
+Surely a boolean will be allocated 1 bit as its either true or false 1 or 0 2234
+I dont have MinGW
+Cant run it I did everything and it keeps telling me launch faild binary not found someone please help im new to all of this
+Its not displaying anything in the console even though Ive debugged and saved I originally typed  instead of  but I fixed that How do I make it display C is Fun My code is just like his
+instead of using eclipse can i use notepad 
+Hello can I use codeblocks IDE to perform the same procedures as your IDE
+Isnt IOStream a header that is copied into FirstPRogramcpp before its compiled
+What is diffrence betwen PrintfEnter your name  instead of cout  Enter your name  and scanfsname instead of cin  name sry my english kinda bad so you save up few lines of code or Is that why we used using namespace std
+When I do include iostream in eclipse i just got C and get this error Unresolved inclusion
+What program are you using in the video
+What do I do there is no MinGW GCC in my tool chains 
+how can I download it on on window 8
+Im completely new in this programming thing have to learn it for a class so im going to need all the help i could get Id be very much thankful if anyone could help me out here Okay so where can i get this programming appprogram Also are mac
+I run the first program where you have to print something out and and it said it had nothing to build for my project
+i tried to open eclipse but it says java was started but returned exit code 13 blahblahblah what do i do
+Can anyone help me Please tell me how can i turn text bold in my codeblocks C programthanks
+cant find MinGW
+Im getting 2 errorsDescription Resource Path Location TypeSymbol cout could not be resolved FirstProgramcpp FirstProject line 6 Semantic ErrorandDescription Resource Path Location TypeSymbol std could not be resolved FirstProgramcpp 
+Wouldnt it be best if you used endl after each line of code
+can I do this in notepad the normal notepad not the notepad thanks
+I download turbo C  for window 10 64 bit from wwwc8com to follow your steps but it does not look like what u are teaching which software i should download to follow your instructions
+I have a problem 1044 this doesnt show on the console and it says binaries not found When i go to Project i cant find the executable file Someone HELPP
+Hi people one questionShould i start learning C or C if i want to get into programmingafter a couple of videos i see some differences like printf instead of cout include stdioh and iostream etcAny good tips
+which   eclips   pakege are you   using
+why dont i see the MinGW GCC 
+this tut would be good if it also worked with other version of the program like 432 its so annoying u cant even open the source window HELP plz
+whats Eclipse
+Is visual studios c is the same as eclipse c Im new to this
+i got errors for not getting resolved
+When i make a new project it shows a little red box with a tiny white X in it and when i type exactly the code in your video its full of errors 4 to be exact What should i do
+when i pressed build it didnt create the exe and the console displayed  Attempting to build   g O0 g3 Wall c fmessagelength0 oFirstProgramo FirstProgramcppInternal Builder Exec errorLaunching failedBuild error occurre
+how to install c
+I have a problemwhen I run it trough c then it works but when I run it from the desktop I enter my name and my age and it just closes
+do you need to use MinGW or can you use the other 2 options
+Whenever I try to run the exe almost immediately a FirstProgramexe has stopped working window pops up Any fixes Here is the codeinclude iostreamusing namespace stdint maincout  C is FUNnreturn 0
+when I type this into eclipse it is underlined in red and when I run it it doesnt run please someone help
+great start da fuq is MinGW GCC It isnt on my screen
+I just installed eclipsee by default it says Java  Eclipse and when I go to file there is no option for C project I think Im missing a component or something please help
+MinGW MortalThis does not appear
+Mine cant find Binaries for some reason
+I dont have MinGW GCC  under toolchian can someone help
+do i have to download anything else besides eclipse to have the code run
+What eclipse are you using and I love your videos
+std and cout couldnt be resolved Did i do anything wrong perhaps EditSolution Pressing Ctrls made them disappear for me Thanks PotatoSauceMC Creations 
+why did the exe file didnt created after i press on the build battenplease help someone
+it says InfoNothing to build for project name
+any one have any idea what release of Eclipse he is using 
+i get  Symbol cout could not be resolved and also for std
+Could you please provide me the solution for the followingProduct of PrimesAny integer can be expressed as a product of its primesWrite a program that prompts the user to enter an integer and then displays that integer as a product of its primes
+launch failed binary not found
+why does my run window blink for a second and go away in visual c express edition please help me
+Symbol std could not be reslovedSymbol cout could not be reslovedAny help
+I just dont understand what does a string means
+On my PC An AMD APU With Windows 8 MinGW GCC is unavailable  incompatible and others i have tried it has failed on the Debug
+when i tried to make the firstprogram 200900my Eclipse saySymbol std could not be resolvedSymbol cout could not be resolvedthx in advance for any help
+Ive got the same errors What should I do to solve this problem
+Hey I need help my thing does not have iostream I dont know why
+how do i install this
+i dont have the ability to run it it just sayslaunch failed no binaries even after i have built it
+Is there any difference in coding when we use c in eclipse and c in Microsoft I mean Microsoft c and also turbo c  Iam new over here  please  help me  Thank you in advance  
+My program wont launch
+What program do you use to write the C codes  beacause i cant find any good programs to install right now  
+When I installed eclipse MinGW was not available as a tool chain and now I cant run anything
+when i do the std it says it could not be resolved and for cout is says the symbol cant be resolved please tell me why it says that and how to fix it
+Can someone help me When i run the exe the console says nothing only terminated i done everything from the video
+can you tell me how to donwload please 
+Instead of bool gameWon I used boolean Are they the same
+It says that the binary is not found I dont know what I did wrong though
+why i dont have MinGW GCC
+Can i use Notepad for this I dont like to use Eclipse
+can someone just tell me how to open the Project Explorer tab i closed it and now i dont know how to open it again and i really need it
+coutprintfcinscanfAny1 help me with this
+HELP it say I dont have the iostream
+When I typed using namespace std it showed a bug error where on your screen the blue box is to the left of the source file It said it couldnt find what std was Somebody please help
+where can i find a java 170 or another version to run this
+How did you get that Cross GCC I dont have it
+is the n the same as using endl at the end of the line
+I did my project in console How do I stop my command prompt from closing when the program is complete Everything works but command prompt exits before I can see the results
+Where can i donwload it 
+When I open eclipse and open a project I can choose empty project but I cant pick MinGW GCC Please help
+PLEASE HELPWen I go to run it it says Info Nothing to build for Bloom Dock Bloom Dock is my application
+hi i am a fan of your C tutorial channel btw 038 but i was wondering what if i the option for MinGW GCC does not show up as a option plz reply back for an answer i really want to learn c and i feel like this tutorial could help Thankyou
+Is eclipse even good for c
+Hey My eclipse software doesnt have the option for minGW GCC and it says that I cant run programs that I have created What eclipse software do I need and how do I install minGW GCC 
+How do you install this program 
+how do you have that bar at the top with the symbols
+I want to learn this programme Where can I get that software 
+I cant be the only one who hates putting the curly brackets underneath the functions right
+isnt the include directive called a header
+Do you have guide on how to build DLL that can block process or something like exes
+I dont get C  what is he doind making a game 
+Can i get exactly this c software link for download D
+It says there is nothing to build and I cant build anything
+Info Configuration Debug uses toolchain MinGW GCC that is unsupported on this system attempting to build anywayInfo Internal Builder is used for buildg O0 g3 Wall c fmessagelength0 o FirstProgramo FirstProgramcpp FirstPr
+Can you do a Java tutorial in english
+Why does no tutorial help me on where to download this stuffWhy wasnt mingw gcc included when i downloaded from eclipse
+where can I download C programming notepad 
+I know this is a old video but still I need help Is there some way that i can store a cout message in a variable I have searched on internet but didnt find any solutions
+when I try to luanch the program it doesnt work and pops up an error message saying Binary not found
+can you help me with some  c problems i have
+my eclipse didnt start with a c project I am using mac if anyone can help me
+Any specific reason why you use Ming Also I liked how you taught that cout means character out Most tutorials font teach you anything about cout or cin except how theyre used I actually came across one tutorial where a guy did teach more into IO 
+Do these tutorials work basically the same for DevC
+where can i download the c compiler he has
+This wont work on my computer Why
+i cant build it it says could not find file
+Whats a good compiler
+In my toolchains I dont have the option for MinGW GCC What do I do about that
+How is your eclipse version called Im using a sort of standard version but none of my interface looks like yours
+i got these errorsDescription Resource Path Location TypeProgram g not found in PATH FirstProject Project Properties C Preprocessor IncludeProviders CDT Cross GCC Builtin Compiler Settings options CC Scanner Discovery ProblemProgra
+one question how come if i put a letter instead of a number when it asks me my age it responds with a zero
+Also I have errors on the include line the namespace line AND t he cout line
+I just downloaded eclipse CC version on eclipseorg and I pressed File  C Project and theres no MinGW GCC on Toolchains Please help me
+how can i download this
+When I press run i get an error message saying FirstProjectexe has stopped working then asks me to check online for a solution which doesnt do anything or close the program which also does nothing I have no freaking clue what to do
+Great Video thanks a lot But when i open the exe it shuts down automatically after something like 200ms Whats the problem
+eclipse doesnt recognize the iostream anyone know the answer
+is anyone else having a problem when you enter std it says it is an unrecognizable variable
+how do you get the winGW GCC
+how to open c
+mine said this when i clicked the build button what do i doError Program g not found in PATH
+I need helpIn the Toolchains when you make a new project the MinGW GCC dosent show up any help
+at 039 i dont have the option to select MinGW GCC only the first two i installed the latest Eclipse Mars1 package what now
+The moment I try to input my second name it does a weird thing and everything disappearsKindly help Rest everything is working I can input my first name but whenever I press the spacebar it does a weird thing and everything disappear This does no
+what to do if u dont have MinGW GCC inthe tool chains
+HiI need help for programming in CIs someone able to help me and to hear my problem
+Need some help please I am using eclipse and I have errors  std and cout when I type this exact same thing It says they both cant be resolved Anyone know how to fix this step by step since I am quite new to this
+My computer says it cant find the iostream library
+The MinGW GCC doesnt show up for me
+Please helpI did ALL what he does but when I Run the program crashesI get no errors 
+can someone give me a link for download please D
+Unresolved inclusion iostream Weird  using Helios here 
+for some reason when I try this an error message saying fatal error iostream no such file or directory Can someone help with this
+MinGCC is not there for me neither is that Hello World C Project Why not
+Cannot run program make in directory CUsersRafaelWorkPCworkspaceFirstProject CreateProcess error2 The system cannot find the file specifiedWhat am i doing wrong
+What is the program that he is using
+When i open up my project folder there is no Binaries there is olny a debug folder
+Where can I download eclipse for windows 7 32 bit
+Program g not found in PATHi know on video it allways works but i wonder why so simple thing not working for me 
+how do u download it
+int20full number decimal number  float im i right about this
+hi guys help me please i have problem while running progrm it shows that Cannot run program make Launching failed binary not found i dont know about it plz help me thanxprogramming tutorials
+Dont have the binaries in my projective tryed you check PE windows Praser but still i dont have the binaries in my project even if i make a new project there is no binaries sto cout could not be resolvedcan anyone help
+error expected primaryexpression before  token at that line how fo ifix this
+um im using this program in project explorer the folder i have has a some red x on it and the cpp program in it does as well saying it doesnt recognize things like cout cin or the libraries what am i missing here
+what do I do if it says the Binary not found Please help thanks
+where can i download that kind of softwire ur using
+I am very confused about when I should create a new Project and when I should create a new Source File To me it seems just easier to make new source files but this often runs me into trouble Could someone explain Thanks
+In toolchains i dont see the MinGW GCC option What should do so that i can get that option
+why it says binary not found when i run the programpls help
+Can someone give me link to download C
+I cant find MinGCChellp
+should I be worried that the std could not be resolved
+I dont have binaries help
+if i have lets see string name and i want my program generate an error if the user enters an int or float number instead of string how can i do that please help
+How do I get MinGw GCC in my keychain please help thanks
+Where can I find eclipse c
+Hi I tried to BUILD ALL to compile this project but it says there is 2 errors first one is make  FirstProject error and the second one is symbols not found for architecture x8664I am using mac I have installed xcode and its COMMAND LINE 
+plz i need a link to download the C program it self
+is it n or endl for the newline
+I dont have the MinGW GCC option 
+What Am I Doing Wrong Hereinclude iostreaminclude stringusing namespace stdint main int a  0Get Player Namestring Playernamecout  Player Name cin  PlayernameAsk If They Can PvP Wellbool answer1cout  Can Y
+symbol std could not be solved any help
+what is the purpose of having   at the end of cout 
+why is so many errors popping up when I type in what you have written such as g not found in PATH
+Can you use notepad for this
+where can i download the software that your using i want that too im using netbeans ide 802 and it needs to download compilers
+When I press run it terminates the exe but it doesnt show anything I have tried many default Hello World codes and none of them show the text Is my Eclipse broken or is it my settings
+does this work in notepad
+i dont have the MinGW GCC option in executablewhat do i do
+When I tried this the toolkit you said to select wasnt in the list It only showed Cross GCC and Microsoft VIsual C Is there something wrong with my version of Eclipse I dont think its some sort of lack of having MinGW GCC on my computer becau
+I have DevC is it the same as this one 
+When I try typing using namespace std It creates a bug I dont know what I did wrong 
+itcant find binary  what did i do wrong
+My compiler has no build button
+When I run the program to have C is FUN appear in the consoleNothing appears Is there a problem
+how do i get mingw gcc because i dont have that
+it doesnt recognize cout
+When I click build only an empty folder named debug comes up Whaaat
+Can you tell me how to Open thathelp me pls
+I get some problems doing this both are symbol couldnt be resolvedI get this both for std and coutany suggestions
+So supposing you actually want to output the characters n to the screen rather than this being a command for a new line Is there anyway of doing this It seems strange to me that n as a command appears with the double quotation marks and not 
+Any on know were I can get the tool for this a link or a download Plz 
+Im a CS student trying to learn C and I was hoping this video would clarify when youre supposed to use the carrot brackets  Can anyone help me
+I need help Whenever I hit the run button it doesnt display in consoleC is FUNI have to run debug THEN hit resume
+does he teaches just programing with c or the c language
+I have run eclipse and downloaded code block and I followed the steps by steps of your guide i have got 2 errors  program g not found in PATH and program gcc not found in PATH how can i solve this
+I have recently installed Eclipse for CC and I keep running into these problemsProgram g not found in PATHProgram gcc not found in PATHI have looked online and NONE of the solutions make any sense if someone could please make a video o
+What should I do my Eclipse doest have MinGW GCC anyone knows how to fix it
+what are you using as a c software
+why would you not want iostream
+can you please put the c eclipse download in description
+There is no MinGW GCC in mineplz help
+ Build of configuration Default for project car Cannot run program make in directory CUsersUserworkspacecar CreateProcess error2 The system cannot find the file specifiedi cant get this error done anyone could help me out
+it wont work it says launching failed when i build what do i do
+do you have the link to download this c program

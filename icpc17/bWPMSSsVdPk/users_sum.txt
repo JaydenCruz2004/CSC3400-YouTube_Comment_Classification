@@ -1,0 +1,55 @@
+i did everything and when i save and open it it bring the code itself please tell me what to do
+im on a mac using text edit and when i do basic html coding i then open it and all the browser google chrome does is display the codes not the titles and stuff any help 
+I am on windows 7  Not working at all  I am saving the file as eg newpagehtml but its opening like a usual explorer page can you please help
+The header and its paragraph wont showed up on my browser Is something wrong I did the exact thing as shown in the video Have tried it on Internet Explorer still nothing just a blank page Fortunately the Title did showed up
+how did u get the bitmap image thing i dont have it im using win10
+hey i have a question does it matter where you place your text or tags in the document
+what happened to putting DOCTYPE html in first
+Im having a problem with the bmp pulling up Each time Ive tried different pictures btw both the short pathway and the full pathway explanation I am only getting Errfile notfound
+Do I need internet explorer Im using Google Chrome and it doesnt want to open it anything
+hi how to add link or video
+*****
+I dont get the image i made when i put Img srcimgbmp
+how do you center the main title
+hi how to add link or video
+Guysafter saving my WebpageHTML i cant open itI have access to internet and i created my HTML in my computer Please help
+How do you add a link and get things next to each other and change the colour of the hr etc
+i got windows 7 and im stuck in the part of the image thing the image is saved in a folder in my desktop named web development inside that it contains also the file im working on but can someone help me the image shows up as a small box with a x on
+what happened to putting DOCTYPE html in first
+how do we make it so that the file is uploaded to the website but its private
+pls wont u mind showing me the basics to adding a menu with sub menus
+can you make a video on creating tables in html and styling them internal and external styling
+*****
+when i try this and save it just like you did the commands like for example html and its closing part  show up on my browser  can you help me w this plz
+can you show me how to create a login and register page thanks
+I am on windows 7  Not working at all  I am saving the file as eg newpagehtml but its opening like a usual explorer page can you please help
+my picture didnt upload and at the end of the vid you said only you was able to be able to view the site if you have it in your documents whats the point of creating a web site if no one else can view it from theree home
+I dont get the image i made when i put Img srcimgbmp
+yeabut how to publish a page on web
+Do I need internet explorer Im using Google Chrome and it doesnt want to open it anything
+What about DocType
+Is It Possable To Change The URL For The File If Yes How Example  fileCUsersCenteredNameDesktophome20school20workProgramingBat20WorkWebPagehtml  To  wwwExamplecom
+u forgotten the  a href
+*****
+I dont get the image i made when i put Img srcimgbmp 
+how do you get it to display on the browser I saved it to my desktop as all files and then opened it up in firefox and it just shows the code
+stuck on the actually bit where it turns into a website
+how to switching to browser please help
+you dont need doctype html
+yeabut how to publish a page on web
+how do we change the internet address for the website
+it shows up as the same as the document when i try to open the webpage 
+what happened to putting DOCTYPE html in first
+how did you get it from notepad to on the webpage on internet explorer
+*****
+how did u get the bitmap image thing i dont have it im using win10
+i have not option of bitmap image how i getplz replay quickly
+how to switching to browser please help
+you dont need doctype html
+This is pretty cool Thanks Question so to start a web page is not important to start with the DOCTYPE html tagJust html tag works
+How to i upload this to the web so i can access the sight with google chrome
+hey i cnt see anything other than my title and nothing else what to do now
+Do I need internet explorer Im using Google Chrome and it doesnt want to open it anything
+What does h1 means again
+What does src stand for
+*****

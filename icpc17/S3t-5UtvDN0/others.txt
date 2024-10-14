@@ -1,0 +1,248 @@
+Does anybody wanna join up with me to learn about this cause none of my friends like i have friendsare as passionate as i am i got a skype and i use code blocks so just hit me up if ur down
+ I bet this guy can make a great Kermit the Frog voice
+Who is this guy This channel obviously stole this vid but Im looking for more vids from him There is only 7 here and the other ones are some bunch of  videos
+thank u so much for ur video i need more and more videos pls upload more videosi must learn c
+Awesome Video Hey and also if you could look at my channel that would be great i do all kinds of coding and tutorials Thanks and love from astries
+Ive learned more from you than I have from my college professor
+u r just awesome
+I highly recommend reading a book on C if you can and use these video to supplement what you studied
+Well bro the way you teached is good but some beginners wont understand things like for example chardoublebool etcIm a C pro and thats why i understood them but they wont so you should have told more detail about them
+so much easier on linux
+Informative and clear Thanks
+I want to make video games and the unreal engine which is a free engine you use c to code it so I want to learn it and the other coding languages
+WOW really good tutorial keep up P D
+Bill Gates is doing this tutorial
+when i was learning c we used printf and scan instead of cout and cin
+BIRIGUI  CURSO DE PROGRAMAO C EM INGLS USA
+ya easy to develop the knowledge and also good teaching but there is a problem in clerity otherwise good
+I find it funny that the first video in this series has 500k views and the second one has only 81k
+I just wanted to thank you I am taking some very basic programming courses at college after already having a Bachelors Degree in Criminal Justice So I am back in school but was struggling understanding some of the very basic intro programming inform
+pls is anyone very god at this c programming
+dont watch this tutorial it ends bofore getting to classes
+good I though this tutorial was going to be in spanish
+OH YAY C ECLIPSE CANT BE DOWNLOADED ANYMORE EDIT it can i am just dumb XD
+LOOOOL it gained 150k views in just 4 months not only this video but a bunch of others Great to see people are taking the time to learn programing languages
+The most complicated way to write code is in binary zeros  ones  That runs the fastest  The more you add to make it easier for us humans the slower the program runs  At least that is my experience  Take an old very old DOS Operating and inst
+thanks a lotreally helpful
+This tutorial is terrible
+Okay the repetitive Youll notice eclipse automatically closes symbol x with opening symbol x gets annoying after a while but great tutorial nonetheless
+Lol the same in qb for dosINPUT Name nameINPUT AgeagePRINT Your name is name Your age is age
+thanks for all the help 
+Semmuhcolon
+Do you need to remember all those codes or is it possible to constantly copy paste them
+i had problems with codeblocks with the fking errors then problems with eclipse so i tried visual studio 2013 looks amazing i think has the quick featureslike eclipse and plus NO ERROS
+Great video  thanks One little thing I cant resist  its an illness Its not ASTERIX  he was a cartoon gaul Its ASTERISK  RISK not RIX Pity me
+stop baby talking us and tell us how to make spyware already
+Intresting thanks a Lot explained like Edutainer X videos
+You over explain everything that you do
+save my life and grade Thank YOU
+The tutorials are pretty good for mei liked them thoughhope to continue learning much of cpp and develope more as a programmer basically game or application programmer thanksOswald
+its simple if you know bat programming
+I did exaclty what he did but im still getting errors
+Best tutorial Ive found so far
+every one try using codeblock c its way better then visual studio C pro
+For those complaining why its not done with Visual Studio One of the reasons may be because unless its the express edition Visual Studio costs money and is only for Windows Eclipse is free and can be used on Windows as well as on Linux and Mac As
+good to have it
+I really prefer Codeblocks S
+I Like Java I Heard Java and C Is The Same But What Should I Learn First Java or C
+I want try computer science 
+this made me dumber
+Thanks 
+thank you
+The person that made this video did a great job  Its really to bad that there are only a few lessons Please do some more or let us know where to find more
+Holy shit I thought my biophysics studies were a waste of time but hey I can actually kind of follow this tutorial But just for clarification does a boolean statement use 1 bit or 1 byte of memory allocation Considering 1 bit should be enough for
+I plan on making the worlds smartest stormworm and taking over the world MWAHAHAHAHAHAHAH Understand a joke and Dont kill me fbi
+tnx
+thanks
+couldnt even launch eclipseIt cant even find java on its own
+I usually format my code like this because Im used to java Pint main cout  C is FUNnreturn 0instead ofint main cout  C is FUNnreturn 0
+Cool tutorial  thanks for teaching me
+What this is something I dont get
+Thank you for a great tutorial Helped me alot
+I really need a teacher
+For anyone that dislikes putting n at the end of your strings there is an alternativecout  Hello World  endlendl is another item from the std namespace and essentially ends the line This means that next time text is printed it will
+thats so hard java EE is so much easyer
+Thank you 
+i want to make a hack XD
+dont forget    systemPAUSEfor peepz on other programz
+This was extremely helpful I really like how you went into detail about what everything meant Other beginner tutorials Ive tried didnt do that so I didnt know how what I typed related to what the computerprogram did ie the detail helped me ab
+This does not show what operators to download
+i just found this app on google play store i think it may help some one httpsplaygooglecomstoreappsdetailsidcomBacharCppSyntax
+This video gave me STDs
+For those who need the MinGW GCC this is an excellent tutorial Search How to Install and Setup Eclipse IDE for C Development on Windows
+I wanna learn more of this C stuff im trying to get into computers more and i wanna under stand how to use certain programming stuff and even using the comand prompt
+Why choose mini instead of microsoft
+I really thought he was going to make a joke when he said std
+Great video One thing I would mention is that if you use in to get a name and enter a first and last name you wont get the full output You would need to use getlinecin name to get the full name
+I think you dont have to bring string libraries in code blocks because it works without it
+Is this where i can learn to do some grand theft auto pc script mods i wanna learn to do coding 
+Nice video but you can watch this for better
+This is free my Proff I pay like 1200 gives me much less in about 3x the timenuff said
+ok im completely new to coding what would be a good program if i want to make like a small 3d open world game eventually with HD graphics can i use C for that or is there some kind of specific program to use because I dont wanna do a ton of work
+is this Bill Gates instructing
+Awesome tutorial 
+what if you try and add exwhat is your name what is your agewhat year are you born i try but it keep saying its wrong and wont build it im using sublime text 2
+Good
+941 voice crack lol
+can i use this to create a vstfor fl studio
+Youd make a great teacher Thanks for the videos
+Thanks a lot I just subscribed the way you tutor is great because you take your time to break it down for us dummy beginners I had no clue of WHERE to start learning programming til I came across your you tube page Now I will be studying my ass off 
+Very interesting but you explain too much 
+What is this
+which is better Code Blocks or Eclipse or Visual Studio I have seen many different people using one or the other but I cant tell
+Your name is colon
+what are we coding
+Not a disket a floppy disk
+ 0230 any1 else tried to move a cursor
+Im a more advanced beginner in C Id like to know how to turn those MakeFiles into executables ie exe or a Linux executable
+CONSOLE lol
+I just got bugs doing exactly what he did for the C is FUN bit
+Thats a hash include not a pound include 
+nice video bro way to go
+Nice work Really helpful and easy to understand tutorial D
+Part 1 400000 people came here to learn somethingPart 2 340000 people failed to learn something
+If you are having problems with Eclipse use NetBeans 81
+fuck your fucking really  good
+im a java developer looking to understand C but wanted to know if its necessary to know C before getting to it
+no puedes escribirlo en un puro programa pendejo
+Thanks for taking the time and going through the effort of doing this instructional video It is well appreciated
+the first line of cyoode
+Crocodile
+For the direct link to the software needed to follow this video go to httpwwweclipseorgdownloadsdownloadphpfiletechnologyeppdownloadsreleaselunaReclipsecpplunaRwin32x8664zip and click United States OSU Open Source Lab http
+Peopl I need help Im a guy who wants to learn programming c and be able to make programs I started many times but after a week I just stopped for no reason many times I want to start and never end again
+Im helping anyone who wants to learn programming I have 26 tutorials on my YouTube channel If you have any questions just ask Introduce yourself when you start so I can help you with anything you need as you go through them
+Anyone looking for some extra support we have a programming group on skype for programmers new and experienced Just add acronor D
+For the love of all that is good I cannot get this to work Downloaded MinGW installed the basic package Followed every single instruction in this video Redid the project many times and still it will not print C is FUN in the output In fact NO
+hey i want to learn programming but i even dont knw the letter a of programming please help me to start
+Do you want to protect your Applications from beeing downloaded illegally Look at my channel there is a Video
+can i use c and is  this a difrent program then c
+I am having trouble with loading eclypse I have to run the exesetup file to start it
+Bamf you need to right C in a IDE like visual studioCodebloc
+For CC use Visual Studio or Qt Creator
+This programming language doesnt seem hard to learn but for fuck sakes why is it so hard to set up the IDE Lol
+First program that is not Hello World  Heresy 
+Great tutorials guy expert inf more dude
+LOVE THIS VDO THANK
+x86 means its a 32 bit program Not which manufacturer of CPU it will run on
+I hope this will work with Clickteam Fusion 25 Thanks for posting this
+You should have been a teacher After waching some other tutorials and almost loosing hope of understanding something I came across this and it is AWESOME  the way you explain stuff your clear voice and everything English isnt my mother tongue T
+Is that you Wobbles
+The universal icon for Save is a floppy disk which is strange since we dont use floppy disks anymore
+Really helped me out looking forward to more of your videos Thank you so much You have no idea how much I finally just got it Unfortunately I am a bottom line person and your teaching actually cut to the chase but with helpful understanding as to
+You have no idea how grateful i am for your tutorials and how well you explained everything I have my first test tomorrow and I havent been understanding it in class and the teacher moves too quick through things You are a life saver
+Very interesting I like the way you present the videos the pace is quite good for someone who is a beginner to follow Thanks for the great video
+First line of Keeuwd
+hi Derek 
+For some reason the text doesnt show up for me ugh
+Hey thanks programming tutorials I love programming I wanna make a video game thats a world war 1 shooter in my opinion theres too many world war 2 shooters I like your videos thanks and have fun                                               
+Its nice for beginnersunderstandable
+Hi It is me again I fixed the error I posted in the previous message There was just variables I defined incorrectly But fixing it was kinda pain First I fixed everything and I built it it still said there was an error So I have to delete that pr
+this video is basically shit
+is it just me or is C very similar to c Ive been familiar with c for some time but I never picked up c until this video and its so similar
+too bad we cant get  a degree from youtube videos
+Please note in the tittle that this is a tutorial on ECLIPSE using C
+This is the exact step by step guide to actually help learnTHANK YOU fucking love the details covers all
+it would be easy if it was up to date and you didnt have a bunch of plugins installed
+how regular will these videos be Thanks for the video 
+I dont have MinGW GCC
+This is more confusing than Java 
+Oir
+Cosugdiipriii
+Thanks for teaching me how to cuuuuud
+program2exe has stopped working
+hi sir do you have a tutorial for java programming using Jcreator 
+i love your videos
+Firsr 14 minutes Error 404 brain not found
+The problem is he explains some subjects very theoretical so that some people dont understand what he means But if he goes to the practical part than it becomes easier to understand I think
+Is C a good first language to learn or would you guys recommend something easier
+This guy sounds like theradbrad
+my c looks diffrent
+Awesome video thanks a ton for starting with the very basics
+ its my first year in college i take information tech this is very helpful thanks D
+Helped a lot 
+Is the title of this video a joke The explanation of every line of code is filled with jargon I already understood this particular beginner stuff but if I didnt I wouldnt have a clue what was going on other than this program is printing something
+Subscribe me For Programming Courses
+Its a Number sign pound sign Sharp sign all of this before we call it a hash I was just discussing this how everybody took to calling it a hash tag in relation to twitter the re branding of things to make them seem new Did the cloud exist before 
+You are the one of the best teachers I had Your teaching technique is awesome Thanks man
+this video is relay helping me understand c im starting to fall behind in my class
+It is really fun it works on my cellphone Thanks by the way
+it doesnt want to save me
+hello new subsciber here and i am currently workless and didnt finish my medie and communication and looking too become a programmer too become a game designer or atleast on the road i cant c and are not good in math what shall i begin too read t
+Thank you for this video I am taking notes so I can always look back at it when im having trouble and using it to memorize the topics of C that was addressed in this video Once again thank you
+May  I use these videos in my website youtube embed code
+Nice link
+I think Lua is easiest for me
+Its a hashtag not a pound idiot  Bousculo
+He sounds like theradbrad
+Make sure your  is facing the right way if you have problems Just figured that out
+I think this was great
+Awww shit
+Thank You Im trying to learn C11 to make a video game
+c is fun
+WHERE ARE ALL THE OBJECTS 
+Hmm I always thought cout meant console output not character output
+very typical IDE
+Wow this looks so complicated I use python 3 and to print I just writeprintpython is fun and then press F5 to save and run If you are fluent in C then I salute you Lol
+Im also going to be making programming tutorials on my channel check it out
+Hey bro I use Eclipse too Im programming Java in it We must be twins XD
+Ok I have Visual 2010 yes I downloaded the old one and i dont really want the new one and every time I build something on the program comes up and disappears On Codeblocks it wouldnt build because of the compiler in the toolchain didnt go with the 
+Thanks Derek You seriously help me studying  
+Similar questions  real examples with bugs are touched upon in this free ebook httpsyadiskizKHIOS84r87nk
+does not work
+subscribed
+Your video is helping me alot in university I didnt took programming in highschool So I was struggling in c But after watching this video it helped me a lot Thank you 
+man the first proper c tutorial You can tell he defnitely knows his shit THanks
+Making a game in unity I kinda need some programmers  anyone wanna help 
+Love it You helped me a lot Thank you very much
+Awesome you explain so well
+This guy sounds like TheRadBrad
+Very useful and informative Thanks for going slowly and explaining things in easytounderstand ways
+good work 
+Ive just started to pick up coding but im more interested on the prerequisites before you start
+well time to wait for eclipse to open be back in an hour
+Nevermind about my last comment I found it 
+My mind is hellbent on switching my major to game design Under the required courses I saw C Programming which led me to this video Now Ive had experience before in computer theory back when my major was Computer Science I studied a lot of Binary
+Nice tutorial I should start learning C soon
+Whats your favourite language Mines Python
+326 std hahahaha
+
+Great lesson very understandable You sir earned a sub
+Awesome videoThanks for uploading
+Should have told us to download mingw took me 30 minutes to find and figure out how to download it Would have been helpful if explained only problem with these videos
+ Certificate in Introduction to C Programming get learn here  httpshrslcomd22w
+I am just learning to do my C programming with the Leafpad editor and good old g D
+Coding is ridiculously difficult Although I kind of wish I majored in CS in school and learned coding and programming Its a tangible skill to have after college Unlike finance like I decided to choose
+Is this still relevant in 2016
+Awesome A tutorial on how to use that shitty program Pass
+This looks so confusing
+All kinds of weird stuff on YouTube
+beautiful the way it is explained here is outrageous i have been takin the classes from niit those people teach considering u r an engineerm a management student and this video completely make sense probably nt at first time but after w
+Its really not that complicated Learn HTML first if youre completely new to codeI understand what hes saying and never touched programming before
+I hate this it doesnt work on mine been trying for hours
+Who is the author or this tutorial series Is 7 really the last one
+This is sort of making sense to me only because I know how to do basic programming in Python
+Workes perfect and you teach so well Keep it up
+why does nobody use visual studio anymore 
+Thank you for this first lessonIts a great help for me
+i only had Cross Gcc and Microsoft Visual C available not sure what to do any suggestions 
+Kafaaidaysi wacan
+Amazing tutorial
+Dev C is one of the best programs to write c code and compile
+undersandable program 
+You can use any one of them
+Im 8 minutes in and im so confused
+So you have all Tutorial Of C  
+is this epicnamebro
+What accent is that Sounds like Texan with a hint of French S
+Very Nice Good 
+guys im learning this to make a virus its going to be named keric so ya thought u should know becuase i plan on doing damage hops into his car with 4 circles on front and yells im audi here
+aaaaaaand subbed I do reccomend more indepth explaining but I did understand and learn a lot Thank you
+TOO ALL WHO HAVE TROUBLE WITH GETTING MINGW JUST GO TO THEIR WEBSITE DOWNLOAD INSTALL THEN IT SHOULD WORK
+You are a good teacher man
+Great Tutorial
+This video is the best video ever In all seriousness the level of detail that you covered like mentioning how to open the project explorer if it wasnt open by default or mentioning that the x86 refers to the processor architecture that the progr
+Good presentation Thanks
+I havent yet seen a single video tutorial for programming that I understand
+Ahahahahaha std
+Thank you
+1216 lesson 2

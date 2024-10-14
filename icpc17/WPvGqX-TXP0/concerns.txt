@@ -1,0 +1,109 @@
+Is C And Unity a really good language and program to make  a game
+Hi Derek I love this fast tutorials is it ok after this tutorial to start on your videos on Patterns 
+1 question how would I make a new lin inside a GUI n is not working for me I want to make a 400 length 400 width gui and I do not want the sentance to off the 400 witdh border
+hopefully this helps this is my 3rd class that I have to deal with java and in my first 2 i did not learn anything is there any other videos where I could learn really wellI have a project that is due soon that I need to create a contact book with vectors and I have no idea what to do help please
+Thank you so muchCould you add subtitle
+where is GUI programming Derek I am waiting your tutoriol about Java GUI aswell 3 Thanks for the video
+Cam one use toString and parse interchangeably 
+Hey Derek very nice tutorial Helped me alot I personally use NetBeans what are the pros and cons to use Eclipse over Netbeans
+Derek Banas this video helps so much but would you add a subtitle to this videomy native language is not english Dplease
+it was a great tutoriali want to know whats the best UI framework to learn for rich desktop appsanther thing could you make a tutorial on it  
+Im stuck I installed java 8 and Eclipse EE Luna 44 but how do I get it to use javaFX Something about restriction error I thought fx was part of the new java 8 sdk Could you do a vid on how to installuse eclipse 44 with javafx
+Java is great but every tutorial I have seen seems useless By learning how to make random animal data what can I do I would love if you made an application development tutorial for those with an interest in making games and applications rather than just playing around with objects Thanks for the tutorial 3
+How do you program I mean do you download a program that lets you program and doing codes Or its just in your computer Please anybody Thank you 
+why did he use 0 rather then O
+Hey I have a Java question unconnected to this so I wondered if you could help I am making a program that opens a text file and prints it on the console this is a test I know the file is text only and is short and counts the number of lines My plan is using FileInputStream to open the file and the print a line at a time while having a counter variable I am a beginner this I am doing because someone challenged me so I am kinda lost on the following how would I identify the file The main method is supposed to be used to get parameters which will be assigned to a file to be opened but I am unsure as to how to assign them What should I do
+I need a source file for the class making
+Im confused on 812 where you typed in main and replaced it doing control space I dont have you did that it didnt work for me I would manually type it but I dont how you would put that square symbol
+I need help can you make a not dificult video please
+what is Systemoutprintln what is for each loop 
+why you have used extends keyword if all 3 classes are in the same folder
+Why the 5  1 to summarize addition and so forth 
+I just watched this video from start to end and this video is going to be a great help for me as something to look back to as a reference since Java is still new to me But I was wondering if you can do a tutorial like this one or a series of tutorials on ObjectiveC as well Possibly even going into creating an iOS App in the tutorials If you have time to respond to this comment please let me know because I would be very interested in having someone explain ObjectiveC Thanks
+Hi Derek I sent you a msg before but just wanted to make sure you read itI need help with Eclipses formatting  I was tweeking the layout and somehow the tab which shows all my files on the left of your Eclipse Java videos has disappeared and Im not sure how to get it back How can I get it back thanks
+nice snapshot of core java can we get same kind of snap shot on advance java
+What is static for It wasnt very clear to me 
+Can You do Counter Strike 16 Server Development with AMX MOD
+So ASCII numbers 97 through 122 are all lower case 
+Hi am  Gordon I have being following your video online for some time  they are in HD  it always show how sound you are in programming and the clips are are   Please if you have any tutorial on how I can print my jasper report with a print button from Netbeans app kindly give me the link
+Do you have a next level up java video Im not seeing
+ true and false is used for what  
+I was wondering when do we use return in a method  Couldnt we get the same result with that return varNameSystemoutprintvarName 
+error Scanner cannot be resolved to a typeWhat am I missing
+Love your tutorials very fun to watch and you dont sound boring I would suggest if you could tone down with the zoom in and out in your videos for the most part hd shows everything well and zooming in and out makes it hard for me to focus and in the long run gives me headache Othervise great stuff keep on the good work
+Derek im relatively new to android app development but when using web services in eclipse do you use java Would you make a class for it
+please do GUIyour an amazing teacher
+cloneofArray  and copyOf are reserved words in java  
+watching this with speed increased to 15 is awesome Also can someone explain the count to method with the i90 continueDont really understand that part
+What is a field
+i dont get templetes when i press ctrlspace
+Man you are just awsomeHello Sir I am from IndiaI need to learn more of thisCan you please upload more of your videos with english sub titles
+Hi derek could you please help me I cant download Java on my computer I dont know how I have windows 8
+what about interfaces 
+Hello DerekFor my college course the Teacher is going to have us make proxy servers using javaI am team leader of a group of fourBecause I am team leader I was hoping to get a head and learn how to accomplish the task before the teacher teaches usI was wondering if you could make a series that shows how to do this If not could you point me in the right direction to learn this
+hi derek I have no knowledge on java and i have installed eclipse and maven I need to start from basic tutorial and I cannot find any can you please help me
+ 0930 you can use a Systemoutprintln to go to the next line
+how do you get the font size so big im having trouble seeing my screen its so small
+Hi Derek thanks a lot for these awesome videos I was going through the java tutorialshowever I couldnt find much on exception handling Can you please give me the link if Ive overlooked it In any caseI just wanted to know whether it is mandatory to use a catch block for a try block Can i just have a try with no catch or finally block at allAny suggestion would be helpfulThanks
+is javascript the same as normal java
+what font are you using it feel col in the eye
+Hey Derek do you know if its possible to run eclipse on an android tablet and start programming on an android tablet thanks
+Mr Derek can Ive learned Javascript but didnt worked too much on it but I wanna learn JAVA can you suggest some books or book in particular which can help And please tell me that how did you get to learn JAVA and how you practiced it And yeah one more thing which was your first language you ever learned  Thanks in advance 
+Hi Derek i need some advice from youIm about to install Ubundu its Linux OS i guess thats what Google gave meSo if the installation goes well how will my new PC look likeWill all programs work the same as on Windows support performanceUps and Downs and what do you think is it good ideaI am basicly intending to use OS for programming other programs and some hacking practice you know
+At 2221 you type sysout and from what Im guessing it autocompletes to SystemoutprintlnWhat did you do there
+Great video thank you what version of Java should I install
+Your every tutorial is awesome and very helpful Can you please favor me to make a dynamic breadcrumbs code for primefaces menu I shall try to honor you for your time
+Im french and I understand everything you say D Do the language used to develop on Android is Java  Thanks 
+So it looks like you can have a main method in the same package in two or more classes  I assume this is not recommended but the compiler knows what main method to execute depending on which one is active when you click the run button
+If Im going into the field of Physics what kind of tasks could Java be useful for In other words what would knowing Java help out with in the world of Physics and science in general
+I thought protected data types can only be accessed by its own class and its sub classes where dog and cat extends animal am I wrong in that assumption
+please make a video about what should beginners know before we start any type of prgraming
+what do if it says theres no launch history
+Derek I am getting a  javalangArrayIndexOutOfBoundsException Java Exception in the file below and I am wondering why public class MyHobbits    String name   public static void mainString args int i  3MyHobbits  ho  new MyHobbits3int a  0whilea  4 a  a  1hoa  new MyHobbitshoaname  Stevenifa  1hoaname  Markifa  2hoaname  MariSystemoutprinthoaname   is a   Systemoutprintln damned good hobbit name               
+Derek I just have one request  can you make a video series on internetprogramming with Java Servlets JSP HTTP ClientServer Programming In Java and stuff like that Thank you
+What program do u use to write the code
+Hi Derek Your videos are the best programming videos on YOUTUBE However why dont you make videos on how to parse data using XML Json that would be very helpful PLEASE make those tutorials and you will safe my life forever 
+can you make a game development tutorial in java or c pleaseeeee I really want to make a pvp kind of game
+Uh what is the difference between java and JavaScript
+Why use setters and getters Why not just thisname   Is it just one of those things you just normally do or is there something Im missing
+HiI have been watching the Java tutorial  im at episode 8 I have a question and that question is Why do you need to use constructors and what do they do If you are feeling extra generous please explain to me what a Blueprint is and why it does and maybe what it can be used for I know I can just Google it but maybe some of you guys have a more indepht and better explation and if I dont understand something I can just ask again Thanks D
+My eclipse i opened again but now whenever i click stuff it says error during activity monitor log and says check error logs and i dont know whats going on
+Can you please do Java servlets in one video
+Idk how I did it but seems like I closed my project explorer panel and now I cant find a way to restore it can I have some help is there a shortcut or something for it makes life easier for me thanks
+Explain userInput next  versus userInputnextLine  Thanks
+The only thing you missed was to actually run the project you created Can you please do a video on that 
+would you advise using eclipse or android studio for this because in your android studio tutorial video you said to not use eclipse
+What about subtitles Please Im not perfect in listening english  need it
+what are you trying to make her a npc or npc of an dog and cat 
+I cant input curly bracket in eclipse can someone help me with this
+I watched this video and towards the end it got really confusing for me I was wondering if it would be better if I just watched the slower and more in depth Java videos or would it take too much time
+Hey Derek what is the difference between x and x Im kinda stuck with that increment concept
+I didnt get what you said about the numberOfAnimals variable and the need to use static  Im going to go crazy and make this a static integer and this is integer is going to be the number of animals  Every single Animal object is going to share the same value for the number of animals and you want to mark any variable or function static if it doesnt make sense for an object to have that thing on its own  For example it doesnt make sense for a dog to know the total number of objects created  I didnt understand what you meant by if it doesnt make sense for an object to have that thing on its own  I dont understand the dog analogy  Why the default value of 0 for numberOfAnimals
+what program do you use to code
+I like your  in One Video  series  Very informative and useful for a revision or overview Kindly Do a Spring Framework in one video
+Since Im kinda new to programming what do you mean when u refer to comment  like I said Im new to coding
+Hi DerekIm writing an android app and I need to use labels  but when I use them to jump through more than one loops it says error undefined label  I used breakcontinue  but it didnt work Is there another way to do that 
+At 630 what does super do if you still have it there Would it call Objects constructor since its the base class of all classes Thanks
+thankyou but can you programme games with Java
+What font are you using
+Bro The video is simply superb Very very time saving Just noticed a small bug correct me If I am wrong At 1545 youve mentioned that To convert String to Byte we use BytetoString but that should have been reverse However its a very small bug Can ignore it Just wanna show how keen and interested I was in listening to each and every detail of ur video
+what can IntelliJ that Eclipse cant and vice versa
+At 740 how did you make 5 copies of your statement
+Waitwhy is eclipse not recognizing my Scanner commandThe fields are herepublic class dunno public static final double FAV  16180private String nameprivate int weightprivate boolean hasOwnerprivate byte ageprivate long uniqueIDprivate char favCharprivate double speedprivate float heightprotected static int noOfAnimals  0static Scanner userinput  new ScannerSystemin
+      import javautilscannerpublic class RandomTutorial      static Scanner inputnew ScannerSystemin          public static void mainString args          inputtest          public static void inputtest          String message  inputnextLine          if messageequalshi          Systemoutprintln Sup How are you          Hello String message public static String Hello String messageif messageequals goodSystemoutprintln Cool LaterelseSystemoutprint huhAny suggestions why it isnt working
+how can i get something to randomly pick from 2 words
+dose this work on BlueJ
+Derek I need help what does rawinput mean 
+Can you further explain what Static is used for that is where I got lost and always got confused on My professors wont explain it
+how much of math you have to know to be able to provide good java programming
+I got down to this part public Animal numberOfAnimalsint sumOfNumbers  5  1Systemoutprintln5  1    sumOfNumbersint diffOfNumbers  5  1Systemoutprintln5  1    diffOfNumbersint multOfNumbers  5  1Systemoutprintln5  1    multOfNumbersint divOfNumbers  5  1Systemoutprintln5  1    divOfNumbersint modOfNumbers  5  3Systemoutprintln5  3    modOfNumberspublic static void mainString args Animal theAnimal  new AnimalAnd when I try to run it Animal Dog and Cat arent options The only one I see is the sample I made when setting up Eclipse There are 10 warnings noted but I dont know if that means anything Not really sure what to do
+Well im designing a game a know java kinda well and have made a game before but every time i try to make a program with a int that  0 i try to find a way to  it every time a button is pressed but it needs to do that for ever pretty much and print it out again
+Hi DerekWell that was a fantastic tutorial just about covered the whole of my 2 years of Enterprise Computing Degree  haha I must of have made some error in the code though at the Systemoutprint    arrayNameijk     this throws an unresolved compilation error that I cannot seeand the public char setFavoriteChar int randomNumber  int Mathrandom  126  1in output this comes out with Favorite char being  Do you have the full code somewhere did you say  So I can check it I cant see where Ive gone wrong from the videoRegardsCaroline 
+When do you recommend to call the super 
+Are Javas library packages made with raw Java How do they do their job if this is all there is to Java I understand this is written raw Java
+Hey Derek i have a couple of questions public static void speakAnimalAnimal randAnimalWhat are we passing in inside the parameters i  dont understand how these object creation works And what they doAnimal fido  new DogAnimal fluffy  new CatWhat does the    meanforString word  stringArrayDoes the values in the multidimensional always have to be in sets of 3s Or you can set it to be anythingThanks in advance
+Would this be helpful to watch as a prelude to the new android videos that are coming
+At 3148 you input allot of values at once is there like a quick key shortcut or something
+The question I have is  Does the javautil import all the java libraries existing
+Hello Derek Banas Can you make a tutorial on how to program A algorithm Best First Search and Depth First Search on java
+What variable private means

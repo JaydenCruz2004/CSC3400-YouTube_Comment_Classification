@@ -1,0 +1,106 @@
+why do you need the object why cant it be BuckysClasscoolSaying to access the function within the class 
+The more correct term is defining a class because no memory is being allocated
+So why do we have to declare an object Why doesnt the program allow for BuckysClasscoolSaying  It seems like extra work to have to declare the object then use the object to call the class What is the reason that we cant simply call the class directly
+Whats the difference between a class and a namespace Seems like they have a very similar function but namespaces are a lot less of a hassle You could do thisnamespace BuckysClassvoid cooldSayingcout  preachin to the choir  endlint mainBuckysClasscoolSayingreturn 0
+So if you make a class do all the variables and functions get stored somewhere in memory Or does that only happen when theres an instance of a class in this case the object he created buckysObject
+i type the same code in CodeBlocks but the compiler gives me one error Expected primaryexpression before  token  how do i fix it 
+Hi Buckys My codeblocks 1312 doesnt show the suggestion categories after I write dot after buckysObject nothing poped up like yours how do I fix this
+Can someone explain to me why building and running this triggered a virus alert for a Trojan Horse
+Why cant you just do BuckysClasscoolSaying  Why exactly do you need to put a name and make the crap longer
+I cant do public int function
+whats the differences between exclipse and c because c looks easy and fast because a code line is cout  print something n for it to print out and this you got to to go through different things and and you make plugins and script java with c or just eclipse but can you still make mc plugins with c or no 
+Can we not define the object right after defining the class
+Question since it looks like you dont doObject name  new ObjectDo constructors and sub classes exist I c So you could doClass coolClass  new SubClass32 dog
+What if void coolSaying wasnt public and was private Also At 0652 you said If we had a bunch of different classes it wouldnt know which function named coolSaying to use Did you mean to say if we had a bunch of different classes that each had a function named coolSaying it wouldnt know which to use Because what you said doesnt help clarify why the object is needed that having a bunch of classes with only one containing a function coolSaying then it would seem an object isnt necessary that putting simply coolSaying should work So I think you need to slow down a bit in your videos and really think out your presentation prior Leaving out detailed information on your explanations will just annihilate your comment section with lots of what if questions Also I think it would be wise to really drive the topic into our skulls with more examples but different style and technique as shown in the comments section Showing the different ways to do each method will help tremendously Plus I think it wouldve been cool in your first video to explain what iostream is in more detail like what cout and cin are Like the c in cin cout stands for console and not c as in the language c Or how they are correct me if Im wrong objects So you can do cinvariablefunction or coutvariablefunction of and input and output library which Im guessing is a class as well So iostream is a header file library that contains an input class and output class Forgot what those input and output classes are called 
+Bucky mines not printng anything I did it all correctly 
+i did exactly the same but when it runs the screen that pops up just blinks and i did put return 0 
+Whats avast I like AVG Is avast better 
+why is the syntax different when using turbo c
+Hmmwhy wouldnt you just be able to use BuckysClasscoolsaying instead of creating the object BuckysClass buckysobject and then buckysobjectcoolsaying If the idea is that the computer needs to know where to pull coolsaying from then wouldnt the BuckyClasscoolsaying tell it to go to BuckysClass and grab coolsaying from it Im just a novice dont beat me up just help me understand this lol
+If you were to write a public class called WarriorClass and give it functions called archerClass knightClass and mageClass could we not just call the functions without needing to worry about making objects for them all
+i have a question do we NEED to define the object can we just do classnamefunction  instead of classname objectname objectnamefunction  
+can someone please answer me umm my only confusion is when do i use this  and this  and when do i use both of this  because when Im going to type my own code i forgot and always get confusion 3 thx in advance
+why cant you do BuckysClasscoolSaying
+crampssss so that you can have multiple objects refer to a single class for example he can have BuckysClass buckysObject as well as BuckysClass buckysObject2 Imagine if there is a calculation in the class say ab and we want to do that calculation with different values of a and b By using different objects we can use BuckysClass over and over again and continue to store the data in objects throughout the entire program its a lil complicated but it is necessary 
+Dont you have to implement the class or is that just optional And what is the use of implementation anyways And how many ways can you implement the class
+So whats the point of doing this over just writing cout  preachin to the choir  endl They do the same thing and I dont see why there is an advantage to doing it like this Any help
+bucky what code editor are you using 
+I dont really understand what exactly a Class is Can anyone help me out here
+In this example  640 I dont understand the NEED for an object Why not BuckysClasscoolSaying it seems like an unneeded step
+I wrote word for word this program and it says no newline at end of file Whats wrong 
+Do his tutorials cover the whole C And if so how much of it is it some deeper knowledge about C or just scratching the surface Will it be enough to make smaller games after all 73 videos
+how come there is no function prototype
+Do you have any videos on vectors in C
+How did you do indent thing in codeblocks Where you can minimis it
+why do you need all those extra lines and classes and objects when you could have gotten the same thing by just typing cout  preachin to the choir  endl
+is it possible to create games with c you need libraries and stuffi am just learningi dont knowcorrect me i want to correct me D
+Woah that escalated quickly But still a very well done tutorialMy only suggestion would be that after every tutorial you could give us one or two exercises or programmes to do based on what you taught us in that part That would be a lot more effective rather than just flipping through videos
+what does return 0  do  
+why was the semicolon used at the end of Curly braces of class BuckysClass as it is not a statement that we end it with  please explain
+So basically classes are apis
+why do we even need classes cant we just use functions
+I was trying to add in a class to separate out variable declaration from the main script but I it keeps that the variables were not declared I have the whole code included below but i think the only thing that needs to be looked at is the top 20 lines why wont it declare ps any way i can make this code more conciseinclude iostreamusing namespace stdclass letterspublicvoid variablesint inputint aint bint cint dint eint fint test0int mainletters abcsabcsvariablescout  Calculatorint repeat1while repeat1cout  nnWhat would you like to do n1Division with remainder n2Multiplication n3Addition n4Subtractionnn   endlcin  inputif input1 If one of values were not chosenif input2 ifinput3ifinput4 cout  Incompatible Entry nnrepeat1if input1  Division with remaindercoutNumerator cin acoutnDenominator cinbcoutnAnswer is abifab0cout with no remainderifab0cout with a remainder of abendlif input2  MultiplicationcoutnnPlease enter values ncinacoutMultiplied by cinbcoutnYour product will be abendlif input3  Additiond  0cout  nHow many numbers would you like to addn  endlcin  fcout  nPlease enter   f   valuesnnwhile 0fcin  ecout   endld def f1cout  The answer would be   d  if input4  Subtractioncout  nPlease type in a number followed by a second number  endlcin  a cout  n cin  bcout  The answer would be   ab  cout  endl endl endlwhile test1  to determine weather or not to run more calculationscout  Would you like to perform another calculationn Y1 N2 n cin  repeatif repeat1 if repeat2 cout  Incompatible Entry nn elsetest1 elsetest  1if repeat  2 Goodbye Messagecout  nByenreturn 0
+lol i used cout object1myfunction and my pc crashed
+I dont understand the part at 200 Can someone name an example when you do NOT want to use a function from your class in the main
+Can you do this I know java so I am wonderingBuckysClasscoolSaying Instead of creating a new object
+If I didnt already know how objectoriented programming works from learning ObjectiveC I would be really confused You should actually explain all the concepts before you show the syntax
+Yeah me three BuckysClass and coolSaying already seem to define the function why do we have to include another intermediate step I guess its just convention
+so class and object are the same
+I understand having a class so I can free up object names in other parts of the program to lessen errors or confusing the program  What I have trouble understanding is lines 13 and 14  Why cant I just put in BuckyClasscoolSaying  why must I first define a separate object to tie coolSaying to in order to use it
+what program are you using to write your code
+Whats the point of classes Cant you just use heaps of functions
+Why cant a class wont work when its under int main
+What is the reason for making an object Why couldnt the language just use BuckysClasscoolsaying 
+So from my perspective I would ask myselfAs the creator of C why wouldnt you just have to use it like thisBuckysClasscoolSayingWhat is the reason to use the class through an object instead of using it directlyI mean you dont influence the class when you use it so why would you have to create a different medium for it
+hello Bucky thanks alot for your videos about C i learned alot i have Q  if i wanna learn how to do app on ios or android should i master C or should i jump to the SDK of the os i want to program sorry for bothering you and thanks again
+Can someone explain to me when to use VOID and when to use INT
+Cool  I actually did not get why we have to define an object for this Why dont we simply do that TheClassNameFunction  its how it works in C 
+I wish to add cout  Anything more   end after the object but it got error for me I cant print anything else after any objects
+I dont get it If you have classOne classTwo and a function called potato in each one then why cant you just write classOnepotato or classTwopotato Isnt the need for an object kind of redundant
+Do i have to change the object for different classes
+is there a difference between struct and class
+zsehanovic hmm can u explain a bit more please i understand much better if someone explain it to me but not online tutorials  also can i use classes in 100 of the coding or do structurres have their own priorities in coding too
+how would i call the function from a class to a if statement or cout etc rather than just calling it like shown in this video
+but whats the use for a class if we set it as private Love your videos
+can you prototype functions for your class inside the class or that an unneeded andor unnecessary step 
+When you said they store similar functions what did you mean by similar
+I tried making the class under the main and it wouldnt work I even tried prototyping the class and the function at the top it wouldnt work  
+is there another way to use a class in in c
+why public have to use    
+Can someone help me understand what Im doing wrong It keeps returning the same error at the last  but is looks like Buckys exampleinclude iostreaminclude cstdlibinclude ctimeusing namespace std Random D6 generaterclass D6Rollerpublic    void D6Roller    srandtime0    forint x1 x6 x        cout  1rand 6  endlint mainClass D6Roller D6RollerobjectD6objectD6Roller
+Im sorry if Im not getting this but heres my understanding A class houses several functions some being private so the main function cannot access them and some are public allowing the main function to use them Please tell me if Im correct 
+i got a fucking error in the return 0  It was there from defaul My code is exacly the same  fml
+Right so I figured out that AVG blocks this code from running I turned AVG off and it worked does anyone know why AVG would do that Should I turn off my internet What if I make a program and AVG stops it from working 
+one questioni still dont understand why u need to react an object
+What is Scope Resolution Operator    
+y cant u just say BuckysClasscoolSayings
+Hi I watched this tutorial a couple of times but I still have a problem I can start the program but it refuses to display the coolsaying What could be my problem Or is tere a way to figure it out Thanks
+U know how u can go using namespace std so u dont hav to do stdcout is there any possible way to do that with objects and classes Im a beginner it kinda obvious
+How would I use quotations in text 
+whats the differance between a class and a function
+to use a function in a class can you also use this line of code                                       void BuckysClasscoolSaying  If not what it the difference from the code above to your code
+funny but wierd avg picked this up as a virus when i clicked build and run any fixes
+Hi Bucky Just wondering to access the function cant you make and objct then acces the function with the  example class Foo curlyBrace public example curlyBrace cout text endl curlyBrace curlyBrace int main curlyBrace Foo foo fooexample return 0 curlybrace Would this work please respond I know i missed the less than signs but utube wouldnt allow them LucaSeem2000
+i looked at my code and its exactly the same as hauss over here but it keeps saying class does not name a type wtf
+What program are you using to write C in
+Why cant main be void
+I still did not understand the importance of the object why didnt they do it like BuckyClasscoolsaying to execute the function within this class why do i have to creat an object that is attributed to the class
+can you prototype a class
+Hello Buckys how do i use array in private classes because i want to store user inputplease adviseThanks
+When I got to learning classes There are several ways to initialize members and functions and there is the whole overloading also What is the purpose of using setters and getters when you can construct and initialize a class member using the scope operator ie ClassnameClassnameint intIm quite confused about classes I was first introduced a simply way to make a class and then subsequently introduced better and better ways to do them Why not just make them the best way right off the bat and not worry about the other stuff
+why cant i write BuckysClasscoolSaying  
+Could class be considered to be the same as the Def function
+Cant you just do public class name 
+Why did we not use the Function Prototype in there Is is not essential for the function to work When is putting the Function Prototype a necessity
+why exactly cant you place classes in the main function
+whats the purpose of using classes actually  and whats the point of using private if i dont want the other functions to access it  
+ohhh that was a good example thanks for that It made much more sense when you explain it that way So you can run functions that just affect the object that they are run from right For example you have enemy28healthBoost then only the 28th enemy would get that healthboost but if you used the class and said EnemyhealthBoost then every enemy would get it correct
+Can you make 2 objects for one class
+Why do I have to make the object Cant I just say  BuckysClasscoolSaying  instead of  BuckysClass BuckysObject BuckysObjectcoolSaying  
+so i get why the computer has to know what class to pull from but why does there have to be an object too why cant it be setup to just write buckysclasscoolsayings  do objects have other purposes too am i missing something
+can u call ur object the same thing as your class
+Can you tell me what IDE you are using
+can a class be written after the main function
+Hi Bucky love your videos question what are the point to objects like why cant i do BuckysClasscoolsaying instead of BuckysClass buckysobject then buckysobjectcoolsaying if anyone can tell me i would very much appreciate it
+Can someone explain the need for the buckysobject prompt when in mainJust by specifying BuckysClass isnt that enough to indicate the class and then you could just write coolSaying below Or is buckysobject more of a naming concept within main
+Can use getch for no Please click a button to continue

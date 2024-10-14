@@ -1,0 +1,56 @@
+What is static for It wasnt very clear to me 
+Hi Derek I love this fast tutorials is it ok after this tutorial to start on your videos on Patterns
+What is a field
+what are you trying to make her a npc or npc of an dog and cat 
+what is Systemoutprintln what is for each loop 
+Hey Derek do you know if its possible to run eclipse on an android tablet and start programming on an android tablet thanks
+I cant input curly bracket in eclipse can someone help me with this 
+is javascript the same as normal java
+Mr Derek can Ive learned Javascript but didnt worked too much on it but I wanna learn JAVA can you suggest some books or book in particular which can help And please tell me that how did you get to learn JAVA and how you practiced it And yeah one more thing which was your first language you ever learned  Thanks in advance 
+where is GUI programming Derek I am waiting your tutoriol about Java GUI aswell 3 Thanks for the video
+*****
+Hey Derek do you know if its possible to run eclipse on an android tablet and start programming on an android tablet thanks
+What is static for It wasnt very clear to me
+What program do u use to write the code
+Explain userInput next  versus userInputnextLine  Thanks
+is javascript the same as normal java
+I cant input curly bracket in eclipse can someone help me with this 
+My eclipse i opened again but now whenever i click stuff it says error during activity monitor log and says check error logs and i dont know whats going on
+I didnt get what you said about the numberOfAnimals variable and the need to use static  Im going to go crazy and make this a static integer and this is integer is going to be the number of animals  Every single Animal object is going to share the same value for the number of animals and you want to mark any variable or function static if it doesnt make sense for an object to have that thing on its own  For example it doesnt make sense for a dog to know the total number of objects created  I didnt understand what you meant by if it doesnt make sense for an object to have that thing on its own  I dont understand the dog analogy  Why the default value of 0 for numberOfAnimals
+Hi derek could you please help me I cant download Java on my computer I dont know how I have windows 8
+Hello Derek Banas Can you make a tutorial on how to program A algorithm Best First Search and Depth First Search on java
+*****
+What is static for It wasnt very clear to me
+what is Systemoutprintln what is for each loop
+What font are you using
+Mr Derek can Ive learned Javascript but didnt worked too much on it but I wanna learn JAVA can you suggest some books or book in particular which can help And please tell me that how did you get to learn JAVA and how you practiced it And yeah one more thing which was your first language you ever learned  Thanks in advance 
+where is GUI programming Derek I am waiting your tutoriol about Java GUI aswell 3 Thanks for the video
+Hi Derek i need some advice from youIm about to install Ubundu its Linux OS i guess thats what Google gave meSo if the installation goes well how will my new PC look likeWill all programs work the same as on Windows support performanceUps and Downs and what do you think is it good ideaI am basicly intending to use OS for programming other programs and some hacking practice you know
+Im confused on 812 where you typed in main and replaced it doing control space I dont have you did that it didnt work for me I would manually type it but I dont how you would put that square symbol
+please make a video about what should beginners know before we start any type of prgraming
+So it looks like you can have a main method in the same package in two or more classes  I assume this is not recommended but the compiler knows what main method to execute depending on which one is active when you click the run button 
+can you make a game development tutorial in java or c pleaseeeee I really want to make a pvp kind of game 
+*****
+What is static for It wasnt very clear to me 
+What program do u use to write the code
+I didnt get what you said about the numberOfAnimals variable and the need to use static  Im going to go crazy and make this a static integer and this is integer is going to be the number of animals  Every single Animal object is going to share the same value for the number of animals and you want to mark any variable or function static if it doesnt make sense for an object to have that thing on its own  For example it doesnt make sense for a dog to know the total number of objects created  I didnt understand what you meant by if it doesnt make sense for an object to have that thing on its own  I dont understand the dog analogy  Why the default value of 0 for numberOfAnimals
+Would this be helpful to watch as a prelude to the new android videos that are coming
+what is Systemoutprintln what is for each loop 
+where is GUI programming Derek I am waiting your tutoriol about Java GUI aswell 3 Thanks for the video
+please do GUIyour an amazing teacher
+is javascript the same as normal java
+Hi derek could you please help me I cant download Java on my computer I dont know how I have windows 8
+Im confused on 812 where you typed in main and replaced it doing control space I dont have you did that it didnt work for me I would manually type it but I dont how you would put that square symbol
+*****
+Explain userInput next  versus userInputnextLine  Thanks
+where is GUI programming Derek I am waiting your tutoriol about Java GUI aswell 3 Thanks for the video
+What is static for It wasnt very clear to me 
+I watched this video and towards the end it got really confusing for me I was wondering if it would be better if I just watched the slower and more in depth Java videos or would it take too much time
+What font are you using
+Hello Derek Banas Can you make a tutorial on how to program A algorithm Best First Search and Depth First Search on java
+I got down to this part public Animal numberOfAnimalsint sumOfNumbers  5  1Systemoutprintln5  1    sumOfNumbersint diffOfNumbers  5  1Systemoutprintln5  1    diffOfNumbersint multOfNumbers  5  1Systemoutprintln5  1    multOfNumbersint divOfNumbers  5  1Systemoutprintln5  1    divOfNumbersint modOfNumbers  5  3Systemoutprintln5  3    modOfNumberspublic static void mainString args Animal theAnimal  new AnimalAnd when I try to run it Animal Dog and Cat arent options The only one I see is the sample I made when setting up Eclipse There are 10 warnings noted but I dont know if that means anything Not really sure what to do
+Well im designing a game a know java kinda well and have made a game before but every time i try to make a program with a int that  0 i try to find a way to  it every time a button is pressed but it needs to do that for ever pretty much and print it out again
+What variable private means
+1 question how would I make a new lin inside a GUI n is not working for me I want to make a 400 length 400 width gui and I do not want the sentance to off the 400 witdh border
+what program do you use to code
+*****

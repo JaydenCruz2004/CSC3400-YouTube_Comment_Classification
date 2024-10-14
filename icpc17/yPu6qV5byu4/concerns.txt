@@ -1,0 +1,115 @@
+witch my sql connector u need for the php mysql connectionmay u need a driverthanks derek 
+Thank you for this wonderful tutorial Derek Could you please explain what is the difference between HAVING and WHERE
+Hey Derek Amazing video Could you do one like this for real world javascript or HTML5 and CSS3 That would be awesome 
+Is this lecture really covered most of the functionalities in SQL as you mentioned
+Hi Derek I watched some of your tutorials like Java Python C MySQL These are very nice One thing that I want to ask you about new tutorial related to DataModelling Underlying database is not a concern at all but Oracles any version would be good XE is nice and free So is it possible for you to create a new tutorial on Data Modelling
+Hey Derek Just finished the whole video You explain things very well Thank you I dont know how often you read your comments or if youre still taking requests But Id like to request another video on MySQLSQL that focuses on JOINS With an indepth explanation of each kind of join and lots of examples of course Id also love to get some infoexamples on subqueriesnested queries Please 
+Very nice and informative thanksNeed tutorial on store procedures and functions
+hey man you are the best teacher i didnt understand the order by command thanks a lot
+Love the tutorial You should do SAS
+love the videos but I have not seen anything on updating one or more fields of an existing row
+please tell me how to install my sql
+I cannot connect to mysql using terminal It always says Command not found Someone please help
+Which version of MySQLWorkbench are you using please The one I downloaded has a GUI that is radically different to the one shown here Edit Spelling
+Hey Derek Thanks for all of these tutorials I have a question You have made all of the code available Does that mean it is free to use I am working on a website for my classes that will need the exact functions and databases that you have created here as an example I really could not have found a better example of what I want to do anywhere else on the internet I still want to learn how it works and will continue the lessons but I wanted to make sure I didnt cross over a lineCheersPeter
+Hi Derek Thank you very much for your tutorial Ive been struggling with MySQL for months but now its fnially clear I just wanted to know How do I connect MySQL to an extern server or extern database
+Hey thanks for taking the time of recording this and putting it online you really did a great job there Personally the breaks between each next set of information could be a tiny bit longer so that I can take notes more adequately but I just hit the pause button a bit more often so ultimately I guess thats fine I watched the whole thing as a reminder for my IT classes and to get some good examples of complicated queries for inspiration However what Im struggling with is to come up with ideas for the actual sample data that makes sense to students  I want them to feel the need to create alter new tables etc so Id love to give them a choice of projects they can choose from to set up the data in the first place So while your student data base made perfect sense for this tutorial it doesnt strike me as suitable for the youngsters 1617 yearolds Have you got any other ideas for sample databases that are not too scary Ive got plenty of ideas for proprietary use but Id love to give them a project that speaks well teenager 
+How to delete a database named testcom or something like thatcouse I tried that drop database method on that database didnt work
+Where do I find User Administration in the new Workbenchs GUI Thank you 
+Can you help me i just created my first connection and when ever i try to connect it says Cant connect to MySQL server on 127001 61
+Nice Great Job Can you have similar for MySQL admin perspective
+can i learn mySQL without understanding PHP
+On your last query arent you describing a full outer join and using an inner join or is it different in mySQL Great tutorial
+what is the version he is using
+please can put a trigger tutorial
+I plan on watching this video but before I do I wanted to check if this will teach me what I need because Im not exactly sure what I need is not being an astute web developerI have created a webpage not live which allows users to sign into using and account from another website When they sign in their public data is saved into a file as variables username profile picture users URL I want to be able to save this data into a secure database permanently for each user I also want to link other variables points the user earns on website nickname to each specific user and have some of these elements users points available to be called upon edited and used within the site while also changing in the database My site is in HTML with PHP scripts What I want to know is 1 Can I learn this from this video2 Im not advanced at web development the complicated scripting for my site was not made by me Is this too advanced for a newbie to take on Would you recommend it  I know I could spend time and learn a lot more about this but I am also in the middle of learning Game Development and dont wish to take on another huge load of study3 If yes would this be a large or small project to hire someone forSorry for bombarding you with questions but I wasnt quite sure where to ask this and you seem quite adept at the subjectThanks
+How did you resize text on mysql for ease of visualization
+Derek Banas  When I put in a phone number 1234567890 it gives me a error however if I put in 1234567890 its fine That data type is a varchar so it should not matter how I put it in right You are phenomenal at explaining things That is the reason I am a long time subscriber 
+How did you shrink that size on terminal 
+Hi can we get a copy of the database that you used so that i could practice or experiment on something like for example what if i did not included the group by in one of the commands that you performed what could be the result thank you
+Great Work That basically covers everything in DB class except for Relational Algebra If you can make a quick video explaining Relational Algebra that would be great
+Im trying to create a cart of sorts and you say early on not to have a table with similar information My thought then was to create an items table and pull the items into a cart but Im not sure how to save this or if I could create a table of the items chosen How would you propose to save this I dont want this to last only while the person is logged in it should last until it is edited by the user
+I watched the whole thing Haha I was wondering how you brought up the past 3 lines at around 3335 after making the mistake Or did you just skip that part of the video where you typed it in again I know if you press up or f3 u can only bring up one line at a time
+They teach us in school just SQL but the commands compared to MySQL are pretty much the same thing Is there a difference between these two and is there a reason why they chose to teach us SQL for ASPNET
+Nothing about using the graphical interface 
+1716 arent you just telling it to make the studentid and eventid primary keys with PRIMARY KEYeventid  studentid later 1952 the describe score says that you got two primary keys inside that table
+Hi Derek I am trying to access the Mysql through the terminal and when I type mysql or mysql5 it says bash command not found I am able to access the database using sql scripts within the workbench so i presume that I have it installed correctly I am running the latest version of mysql so how should I access it in the terminal
+What about procedures Nothing was said about them in video UnionsAnd triggers too In what cases do we need to use triggersGrants are not commonly used
+Is there an IDE to do all this instead of command line 
+which version are you using because mines looks different
+My GUI looks completely different Any idea why I downloaded workbench from the MySQL website Any ideas Could you post a link to the correct file Windows 8 64bit
+I think that your second LIMIT command 2551 only worked because you had 10 entries While playing around SELECT firstname lastname FROM students LIMIT 4 9 kept returning 6 entries instead of 5 I think that LIMIT works by discard  of matches return  of matches So yours worked because it tried to return the next 10 entries after discarding the first 5 which was the last 5 entries It really should have been SELECT firstname lastname FROM students LIMIT 5 5 GREAT VIDEO Im learning a lot
+Amazing I cant believe I cant even get past the first 15 seconds of the video without getting totally lost  The very first screen in this tutorial and all tutorials shows three main areas SQL Development Data Modeling and Server Administration  Problem is I dont see thoseAll I see is a big black screen that says MySQL Connections in the upper left hand corner  Unfortunately NONE of the tutorials Ive found tell you what to do from THERE  
+Is it really that easy to get rid of a database Just DROP database01 and poof now you are a florist
+Zipcode cannot be an integer My zipcode is 02120 I believe INT cannot start with a 0 can it
+altering and ordering columns failed for test table on  mysql57 alter table test add maxscore INT NOT NULL AFTER type failed Escaping type didnt help So I added the table then tried to change column order but it never worked Any sols
+Already lost 45s in My MySQL workbench looks really different And How did you get mysqldlocalhost to show up Did you create a database before hand How do you already have users and passwords
+How do you adjust the display of messy output
+what the keyword UNSIGNED mean
+How do I get your terminal  screen thing Im seeing a whole SQL Workbench GUI
+Derek Banas Would it be possible to sit an oracle exam on MySQL with the contents of this video
+hii Derek i am trying to learn MySQL and I installed it and for some reason my workbench looks different than yours and its home page lack some of the features you have on your home page do you why its like that
+HiI was pretty confused that you said the number in varchar is just an estimate I interpreted it on first hearing that its kind of a size hint for mysql Reading the docs its really hard limit and you receive either an error or the value is truncated if you try to insert a longer value
+Can you give this lecture in Hebrew I dont know English very well Please
+Derek I was wondering if you could do a video performing queries on the Sakila database I dont see hardly any queries using it I think it would give us all a more realistic MySQL situation Maybe you could cover real world advanced queries against that database
+Cool tutorial But i cant find how to open the MySQL terminal Any help D
+Why didnt you make a table for quizzes and one for tests
+how do you open that terminal at 104 in the MySQL Workbench
+Very nice tutorial but I didnt find solution what i was looking for Lets say you delete one of the studentsID i mean take one student off the table totally lets say in row 6Im making the database in an app so Im not using terminal input interface like in your tutorial If I then add a new student in the table with autoincrement on and offcourse want to fill up the empty gap in studentIDrow 6 to the new student Instead it places it last in the table lets say the last place is 12 so after a while deleting students from the table it will be a mess that maybe looks like this studentID 135781112How do I insert new student in the first row that was deleted like for instance row 6Ill hope you can answer Been looking for an answer for months now Thanks
+cant we use WHERE instead of HAVING at 3004
+Why did you not have to state they were foreign keysFor example shouldnt CREATE TABLE test end in FOREIGN KEY classid REFERENCES ClassClassid
+Should email also be a primary key
+Im just so lostI got MySQL Workbench but there is no button named Server Administration therefore I cannot create a new user therefore I cannot login into console PS Do you mean CMD Windows or the Python Scripting Shell Or Maybe the SQL Utilities ShellIm so lost I dunno where to start Im sorry if im missing something obvious but I just cant figure out how to start the SQL Server eitherEDIT I think I created a user
+Is it true that this video covers 95 of what we need to know about MySQL 
+I have both Mysql and Mysql Workbench installed in my system are they both the same thing and are they linked to one anotherI know Mysql is command line based and Mysql Workbench is a GUI but can i use them interchangeably and both have the same dataplease help
+What is Scarlet  You typed that in the beggining
+At 445 when you describe the names and emails and press enter how can you switch back to the row above the current prompt to modify what you typed Eg is you accidentally typed firstname VARCHARR30 NOT NULL with 2 R in VARCHAR but pressed enter how can you access the row to modify it
+Thank you for the wonderful teaching can you help us to learn how to print or display database created in mysql
+When I open MySQL Workbench it looks nothing like that and I dont see Server Administration anywhere
+Heres a question for you I want to check if a row with a unique identifier exists If it does exist I want to update data in specific columns in that row If it doesnt I want to create the row and enter all required data How would I perform that checkEGIF ROW EXISTS WHERE coluniquename  somenameUPDATE VALUES col2  somevalue col4  somevalueELSEINSERT INTO table VALUEScol1 col2 col3 col4 col5
+Hi Derek a great clear and concise video My question is if I want to have a website that has a form where data is submitted to the MySQL database would I use the following process HTML format form in broswer JavaScripst form validation PHP send the data to the MySQL database and create the tables within the MySQL database for the PHP to send the data to Thanks in advance 
+Hey Derek great videosOne comment Id like to add is to probably sometime slow things a bitYou write ant talk really fastso sometimes its kind of hard to keep track of everything but overall the information is greatI am watching your Java videos Keep up the good work
+very cool video from the very last query example you show the inner join pulling back ALL data from both table in SQL it will only pull back data that is common to both tables in order to pull back ALL data from both you would need to use UNION so is inner join from MySQL the same are UNION in SQL
+cool video Derek Could you make another video only about joins
+is this work with netbeans 
+Hi how do shink down in size at 1138minsThank you
+Appreciate the help but I cant get mysql to open in the terminal It keeps telling me command not found when i input mysql or mysql5 How would I figure out what my computer calls it
+how i know  type of mysql i mean u type mysql5 or anything else 
+zipcode should really be char5 or varchar10 as some zip codes start with one or more leading zeros and newer zip codes are extended to 9 digits Thats a design issue not a MySQL issue
+What version of workbench is he using on his mac My workbench looks totally different
+How did you shrink the table in the CMDIm using windows I cant see everything in the table and I cant make the CMD window wider
+how do you even get into the terminal to use thisis there an option or do you have to open the cmdshelletc
+When I open mysql workbench I get a page with a black background and a totally different layout How do I get to the page where you started
+Excellent Video That was great I think you did an amazing job of going thru it quickly enough and yet still covering almost anything that can be done Very informative and well demonstrated Bid thumbs upI was wondering if it is possible for two systems to use either one table for users which possibly could be a combination of both tables or maybe even pull the data from either table as both have a userid without changing the code on the back end of both systems Is it possible to do it from the phpMyadmin for example
+For some reason and Im using Windows 8 I cant find the terminal used in the video How do I open the terminal
+then please give me the URL of that tutorials
+please upload video over PLSQL also
+Is it pronounced Ess Que Ell or Sequel
+Could you do one video for PostgreeSQL and other for MongoDB It would be very helpful
+I typed this into MySQL command line in order to import data into my tables but I keep getting this error What am I doing wrong Is my file location in the wrong area I have it in the Temp file on my C drive Please advisemysql LOAD DATA INFILE TempTest1csv INTO TABLE TestTableERROR 1290 HY000 The MySQL server is running with the securefilepriv option so it cannot execute this statement
+Damn was hoping you would have covered stored procedures functions triggers and events Possibility 
+Thanks Derek for great videoI have question about last example What is diference if You use SELECT studentfirst namestudentlastnamescorestestidscoresscoreFROM student scoresWHERE studentstudentidscoresstudentid AND scoresscore15ORDER BY scorestestid  
+When you CREATE a table using the terminal can you go up one line if you typed something wrongI know you can use   and  to go left and right but can you go up and down while you are creating a table I am using Windows Powershell and it does not appear to be easy to go up a line once you type ENTER
+hai  do you have any  video  my SQL runs on a system i dont know if my was question correct im still confusing but this video was teach me a lot
+I learned more from a book of SQL than this lecture I loved how you explained DML but what of schemes domains and privileges assertions indexes views isolation levels SQL function or abstract data types definition Are they included in MySQL How does MySQL connect to a distributed network
+excellentb tutorial one question  for Visual basicwindows path file syntax iscusersmanueldesktopdatosxlsI need change  for this new path file will becusersmanueldesktopdatosxlsplease help me 
+I HATE MYSQL i only want to save 20mb video inside DB as longblob but it doesnt allow me it gives some error like Row size too large  8126 In MS Access i know its jst a small DB but it allows me to store videos as huge as i want WHY DO MYSQL prevent me from doing it
+Can someone give me a rundown on how to install the workbench I have downloaded both the installer and the ZIP file however whenever I double click the file MySQLWorkbench it says The program cant start because MSVCR120dll is missing from your computer I can find somewhere to download this dll but where am I supposed to place it
+How can i do tha on 3336 to fix my typing errors
+Can you also make a video about the MySQL privilegesconnections etc for beginners Because on this video its straight to coding but I would like from the beginning Thanks
+Hi Professor Derek can you make a complete one for  Javascript
+HI Derek Thanks for the video Could you explain how to import data from excel to mysql I have spent days trying to install phpmyadmin but to no avail 
+I downloaded MySQL workbench but its totally differentIt looks black now and I dont see the server administrationHave I downloaded the wrong toolbtw nice lifehack with that fever in 1 day
+please tell me how to make webprojects like college website I know html very well
+I liked this video It was a good refresher before I attempt to create the largest mysql database Ive ever done One question though Is there a reason you dont declare foreign keys in your create statements You mention certain columns will act as foreign keys and give a good explanation but you dont actually identify them with your code Just wondering
+Have an issueselect  from person where factory IN southnorthLets say I want the persons who are in both regions and not one person who is in either one of themIN statements give me all possible solutions I want only the ones who are combined How do I proceed
+Hi Derek Banas thanks for the tutorials I have a question I use msql 57 for some reason I keep getting error message for the last line studentid INT UNSIGNED NOT NULL AUTOINCREMENT PRIMARY KEY  what Im I doing wrong
+Hey dude sorry for a stupid question but i dont know where u opened that tab i  mean where is workbench central   
+Thanks for another great video One thing I noticed you didnt mention is that when doing a COUNTCOLUMN select it wont count NULLs unless you use  Not sure if this is important since you tended to include conditionals that expected values such as COUNTDISTINCT state
+ALL tutorials should be like this fast and to the pointNow can you use this in a sentenceMeaning whats the next step I get creating tables and rows and adding data and pulling data out but people work all day in the command line when dealing with MySQL do theyWhat should I learn next
+Derek can we use MySQL database to store our personal information daily missions notes language learning materials and other stuffI think that would make a lot of practice at the same that
+Hello DerekIs it possible to install the very basic SQL standalone database on Windows7and get it up and running just to learn and practice CRUD using just Command Line    Ive downloaded MySQL package unzipped and moved it to Program Files    But it didnt work somehow or maybe i did something wrong
+Thanks man this really helped a lot but could you also do a phpMyAdmin version if you get the chance the terminal is leaving me a little uneasy about what im doing in phpmyadmin I only ask this because my uni only has phpmyadmin otherwise i would love to use it this way
+How about a REST tutorial  
+Where i can download MySQL
+do i need to do this when a website is saying Error connecting to mysql or does the website it self

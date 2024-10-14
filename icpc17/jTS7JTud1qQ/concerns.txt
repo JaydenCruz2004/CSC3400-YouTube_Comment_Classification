@@ -1,0 +1,156 @@
+why can having class variables in public mess up a program 
+But why do I have to take the long path creating a private variable and then having to make two public functions in order to get the variable when I can just make a public variable I dont understand whats the big deal
+ I have a problem not really a problem but mine works with out including string how
+Why did he make extra function in class include iostreaminclude stringusing namespace stdclass klasapublic    string funkcijastring n            ime  n        return ime    private    string imeint main    klasa objekt    coutobjektfunkcijazec    return 0
+Should int variables be private as well If so is the process the same for getting and int variable
+why make two functions if you can do this string getNamestring x name  x return name 
+How can we use the variable name in the setName and getName functions before the variable is declared itself I thought C had a topdown execution
+what is a string  dit you talk about it before 
+in setName function how does the program store something in name and it wasnt initialized yet 
+hello what is the difference between setName and getName i am confused about the two
+What if we have the user enter their name how do you do that And in the main why do we only call the set function and not the get kind of confused
+inputiostream namespace std  int maininta  intbint anserab    cout   This is a calculatorendl   cout    Enter a numberendl  cin   a  cout  enter another memberendl  cin   b  cout  Your anser is  anser endl   return 0   i write this but i keeps on erroring
+can someone please explain to me why he needed two functions rather than one couldnt he had just make the void setname into a string rather than void and then had added on the return
+can this be used with switch statements
+If you did all that so that people couldnt access the variable surely they could access the function to change the variable anyway
+Are you calling it in main
+Why not just have the return name inside the setname function of course change the return type as well
+still dont get about that include string tho why you include that
+It tends to be something simple A lot of my errors come from having a line of code in the wrong place Is everything in the bracket set its supposed to be in
+What I dont understand is why if we cant have variables as being public we then define the variable x in a public function Can anyone please explain this to me
+Im still a little fussy on why it is nessesary to use a function rather then access the variable directlyi mean if you have to type the class name first ie ClassNameVariableName then dont really risc accessing the wrong variable as with global variableCould someone pls explane this to me
+Will calling get and set slower than accessing the variable in c Javascript will so i am thinking will c affect the performance
+what if i wanted to ask the user for the string in main rather than just setting it would the class still be the same
+to use String data type Do we need to include string header fileI tried once without including string header fileMy program ran sucessfully
+Man Im Confused I did everything correct but its not running and its saying CreateProccess  No such File Or Directory
+So I want to string x which is the the variable for my name which is equal to x and then return not x but name which will somehow find that name is equal to x which is the variable I want to find  This feels like giving 5 pennies to get a nickle so I can trade it back for my 5 pennies to trade it once more for a nickle  My head is exploding right now
+Thats is a bad way to use variable and also a proper way to use variable Why we need to do all the way long to get the string from the private Since it is a variable why dont we do in a simple way likeint main string nameSir Bucky Wallacecout  name  endlreturn 0Can someone explain it further 
+Right so when would you make a variable public and exactly what problems could it cause Im basically asking where I can find this out if its not something that would fit in a youtube comment
+Or is it that anything in the parameters doesnt count as a variable
+hi im 12 and in my function that returns the string variable i get an error that says the variable wa not declared in this scope
+I dont understand why using public class is bad
+Why didt you just added coutnameafter the line namex in the function void setName instead of making more confusion with string getName to print out the name
+what compiler are you using
+writing public is actually unnecessary isnt it unless you had previously declared an entire section private
+tell me the difference between public and private
+if you dont set a variable in class private or public what is the default 
+Is a single variable really worth going through all this trouble for
+Why do you have to place return name
+i never could understand what is the use of includeiostream or includestring can someone explain 
+bucky they way u made the fuction print our the specific name sir bucky wallace was trough the parameters right
+what I need to activate to get suggested function or class name or anything that I have used before in the same file My program editor is not giving suggestions for preused function names
+I TURBO C How to run this programm the header file Includestringh does not work  it gives error
+ok what is the worst thing that will happen if you make the variable public 
+What is the benefit in making your variables private and having to jump through hoops to get them
+In one of the previous videos bucky mentioned compilers compiles line by lineSo when it comes to line 8the variable name is not yet createdso the compiler should point it out as an errorright Thanks in advance
+Ok so I get the concept and I was able to write a code on my own that outputs my Name Age Weight and Height but how do I go about it if I want to actually want to ask someone their Name Age etc and then retrieve it instead of setting it in the beginning as InformationsetnameStephanie Like what if I dont know their name and I want them to input it and then be like My name is BLAH BLAH BLAH whatever the user inputs
+So we dont need to call a constructor And therefore does BuckysClass bo implicitly call a default constructor
+can any one plz tell me why we use void
+so why do we use  include string now and not earlier
+cant you just put string name in the parenthesis why is x that important
+what is the point then for private someone please explain 
+How would I be able to do this with multiple variables Would I have to put each variable in the parameter where he has string x
+is setName function fixed or can I name it whatever I want itlike void myName123string xname  x
+Mess other stuff up later Very vague and still tells me nothing If you already have classes and call to the functions inside it whats the problem with that The functions inside wont call outside of the class unless it calls another class so whats the point of being able to call a function inside a private section if it wouldnt matter either way
+Hello I get a red underline at line 21 At the Insertion Operator to be exact It says No operator matches these operands Can anybody help me Please
+Why is setName void 
+why the variable is at the bottom of the class how can the funcions acces this variable  PC is reading the program from the top to bottom isnt it 
+in the setName function why is the argument string x not string name
+yesterday i did my first program using privates variablesand it really involves FAR MORE coding than usual i wanted to make a simple program that multiply 2 numbers and print the resultthose 2 numbers are added by the userwhich means that i must use CIN but everytime i did it i got an errorfor now i can only make programs with values that i already give to the variables how do i make a program that allow users to introduce numbers through the keyboard using private variables
+help i cant understand what is string please help
+you should make a calculator and see if this answer is true
+Hey ive got a question Couldnt have he just used return name in the setName function and then later either gave the return value to a new variable inside main or just used the function inside cout This kind of looks like a lot of code for something so simple I understand this is just an example but i was just wondering
+I dont know how Is done it but it seems live Is done it When I compile my program instead of showing me what the first portion of this videohavent watched past 247 shows Bucky it shows me the previous code from last video I dont know what is going on
+why dont you just return the name in the SetName function
+Hello guys I followed this tutorial step by step and Im getting an error when Im trying to run it In function main undefined reference to meme Where is the problem Everything has been done step by step following the tutorial
+I understand the code whats going on I also have my code written exactly like yours But when i run the project all I get is blank Is it cause im using a newer newest version of codeblocks
+How does the getName string work
+Is it because youre attempting to assign a private class variable using cin If so the solution would be to put the cin inside a public function inside the class
+what compiler do you use
+So youre making it private only to make it public but its still private I understand you make a public so you can access it in the main function Im just confused as to how it matters if its private if youre making it public I think I just dont understand the private part When would you only want to set it to private to only use it in the class Can you give me a scenario where that would occur
+Method and a function is NOT the same thing buckyy Function in a class is called a method and function outside a class is called a function
+i can understand the need for private and public functions but it seems like it isnt really making anything private i thought private would be for variables you dont want anybody to be able to change here it seems like only the name of the functionname is private but the data it represents sir bucky wallace is public so i dont really see the point anyone help me out herenew to c a 2 day noob
+i dont understand why PRIVATE is a thing You are still able to setget the private variable indirectly can you help me understand with a situation where i do want to make it Private please thx
+Is there any Tutorials for INLINE FUNCTIONS  Im so undone with that thing 
+sooooooooooooooooooooo you dont have to declare things when using classes eh
+Awesome vids Bucky Question on the name functions Could you also just create one function that does it all Say I have this class example publicstring getNsetNamestring x name  xreturn nameprivate string nameWould that be doing the same thing
+so whats the diffrence between public and private they are still doing the same things  initializing string name
+Can someone actually explain to me what string is for  And differences between int and void 
+If the computer reads the program from top to bottom how does it recognize the string name which is in the public class before he has officially set up name as a string in his private class
+bucky i dont able to understand the private but i was clearly got the public could you please eplain the private
+Since we are setting and getting the variables using the public functions we are essentially accessing the variables from outside the class indirectly so why is it a wrong practice to use the variables as publicplz explain
+why i cant get this work  it start but it does not showing what i writethisi s codeinclude iostreaminclude stringusing namespace stdclass Merhat   public      void setName string x      x  name            string getName       return name        private    string nameint main    Merhat Welikiq    WelikiqsetName GJ    cout  WelikiqgetName     return 0
+the function setName is already include the name in the class what is the use of private string name over there
+Ok so I get this errorError C3867 MyClassgetName nonstandard syntax use  to create a pointer to member test This is my code include iostreaminclude stringclass MyClass publicvoid setNamestdstring x name  xstdstring getName return nameprivatestdstring nameint main MyClass myObjectstdstring namestdstring changeNameOptionstdcout  Enter namenstdcin  namemyObjectsetNamenamestdcout  Your name is   myObjectgetName  stdendlstdcout  Do you want to change your name YNnstdcin  changeNameOptionif changeNameOption  Y  changeNameOption  y stdcout  Enter new namenstdcin  namemyObjectsetNamenamestdcout  Your new name is   myObjectgetName  stdendlelse if changeNameOption  N  changeNameOption  N stdcout  Your name is still  myObjectgetName  stdendlwhile true return 0
+what does the include string does please someone
+how come he doesnt put  behind string name in the private class
+Your setting the variable name to the value of x so when you use the setName function which if you follow along gets turned into sir buckyetc  it sets that x value to that string your first creating the variable name in private for security reasons etc then using that variable in a public function which can be used anywhere questions 
+Okay Need to clear some of my doubts here Can anyone tell me the different between class and struct  Because I know that both need object to be use inside main but I need more explanation 
+Could someone please explain to me why he used string getName instead of void getName
+why does the variable name become capitalized when put with set and get in front of it
+Im kind of confused How come the variable name did not have to go before the functions getName and setName
+does making the variables public pose any threat
+OK guys im stuck at somethingnothing to do with this tutorialbut close i have 1 class in the main function i create it  then in another function  move  i want to move the object i made in the main function so in short void move  i want to move the object i made how  int main  myClass myObject move  
+Why do you need an object for a function couldntwoudlnt it be easier just type ByckyClasssetNameSir Bucky Wallace 
+Can someone explain when I dont put the include string the program still works HELP
+includeiostreamincludestringusing namespace stdclass anannyasclass    public    void setNamestring x            x  name        string getName            return name    privatestring nameint main    anannyasclass ao    aosetNametasnim    coutaogetName    return 0why it prints nothing
+Will someone please look at my code and tell me if its alright It compiles and works i just get that shaky feeling like it could fall apart If you could look over it and tell me if its good practice or bad and why It would be really appreciatedinclude iostreaminclude stringusing namespace stdclass DoppyClasspublicvoid setNumint x int ya  xb  yint getNumreturn cvoid addNumcabprivate     int cint aint bvoid inNumint x int yint main DoppyClass ec1int xyinNumxyec1setNumxyec1addNumcoutec1getNumreturn 0void inNumint  x int ycoutPlease enter your first number endlcinxcoutPlease enter your second number endlciny
+Would it not be better practice to declare the private variables before the public functions
+How do I know when I should use   and when I shouldnt
+How can a variable name declared in private be used in public  Can anyone please clarify 
+why cant you just use char as the text variable identifier
+Can anyone explain why we need include string because I deleted it and it still worked
+Hey Can plz give me live world example where we can easily implement this practice because it will really help me understanding this that y to use this practice  plz  reaply as soon as possible 
+what IDE is that 
+You can use a variable of a class in a function of the same class without passing it as argument or why the function getName returned the name without passing it as an argument of the function ie getNamename someone who could help me please
+Okgot itbut WHATS THE LOGICAL REASON TO MAKE VARIABLES PRIVATE
+how to coop with 2 parameters where is the mistake pls helpincludeiostreamusing namespace stdclass Myclasspublicvoid setDigitint xint ymoneyxageyint getDigitreturn moneyageprivateint moneyageint main Myclass momosetDigit10023coutmogetDigitreturn 0
+I dont understand why you cant use return name under set name and then output it
+Wasnt you suposse to get an error since string name was not declared yet when you called bosetName or this wont apply to classes
+Is the following code the best way to do it Its awfully long is there any way to shorten itclass Strings publicvoid setString1string a string1  astring getString1 return string1void setString2string b string2  bstring getString2 return string2void setString3string c string3  cstring getString3 return string3void setString4string d string4  dstring getString4 return string4privatestring string1string string2string string3string string4
+Do you need a different object for every variable
+i dont really understand the line string getName why you used string instade of void thats my only question
+ah it was because I used do instead of bo when i typed in do it was in blue and bo wasnt is do meant to be another command or something
+could someone please explain me why you cant just use the string in private I know he said that its complicated but I dont care
+What is a stringhe explained really bad can anyone help me out
+hey buddy I tried the program you made but the compiler is showing error that string is undefined symbolI have include iostream as well as stingboth with hPlease help I am using TurboC
+If a computer runs through the code top to bottom how was he able to use the variable name in the function getName and setName before the variable was declared Shouldnt he get an error
+so is string just replacing int when we were using numbers so instead of setting a number variable we are setting a word string variable
+HI i have a doubtgreat video instead of writing void cant we write string setNamestring x
+is anyone having problems with codeblocks autocompletion my classes and functions arent popping up Dx
+Wait cant someone screw up the public part of the function that affects the private string essentially doing the same as if they screwed up the private function if it wasnt private
+He made them into modules is the best way I could explain it If we was only going to use that class for setting the name then calling it then yes you could do that For example when you create a character in a video game you set the name and then it gives you a confirmation repeating the name now that you have done that you can see your character screen in order to see you name you wouldnt want to have to call that single function and have to rename your character every time would you
+if your using more than one string would you have to make another function just to return it 
+What if I want to put multiple private variables in 1st class
+im doing exactly what this says and ist give me the error nonstandard syntax use  to create a pointer to member
+how do you use multiple variables this way
+which compiler you are using
+can somebody clearly explain the second part of the video
+What are a list of all classes you can use with the include preprocessor directive
+can you put one functions in this class and in this functions U can set the variable and return it 
+I wonder whats the big difference between private and protected thoughIs protected something like static while private is still dynamic Or is it the sameAnd did you really needed to copy setName over set LEL You couldve just typed it wouldve been easier
+How about declaring private string name before public  Because it works fine
+Hey Bucky how did you set your c such that then you clicked a variable it highlights all variables in red btw Im using Visual Studio Professional and Im loving your tutorial videos D
+bucky can you please explain in short why name  x  i am confuse here 
+You didnt ever really explain why youd ever want a private section in classes Youre just hiding it from yourself
+it is not working if i say xnameAnyone know why
+but a string can also be used as a function right Like string getname
+Why do we need to include the include  string I tried to use all of this with out putting that in and it worked fine
+So variables being private is better practice but sometime and some variables need to be public Ok what would be an example of a variable that would need to be public
+Is there a way to have the user input a name instead of using setName in main to declare the name 
+and i had question for you buckyi had learnt PythonSo in it we simply return the values in a function by writing below return and the variable in the same functionBut here you made a different function getname
+How does the compiler know what the variable name is if you are not declaring it until after the functions
+Yo I would like to know why does the very last part not give you an error You declared the string variable name after you started changing it how does that work
+Just a little question I tried to type cout  name in the getName function to see if I can do that instead of typing in cout  mahObjectgetName and just type mahObjectgetName but for some reason the program runs and doesnt print out the name I set Im a little confused Oo
+Thanks a lot  i was wondering if we can put the setName and the getName functions together in one function public void setgetNamestring anameacout  a  endlits working  but is it right 
+cant we change private to public instead of writing the new public code
+why did i get an error on line 19
+please also share a lecture on strings as it is very difficult to understand this without the concept of strings
+if we want to print sir bucky wallace why dot coutbosetname i mean why do we have to make a return  just cout the the bosetname
+It took me a couple of watches but I get it now I was confused on the whole setting a variable as a string especially as on your screen the string comes up in gray and not a different colour it took me a while to realise the word string was identifying name as a variable
+Well yes I dont know where else I would I followed the exact same format as Bucky did except that I added cout  name into the getName function and in main I typed mahObjectgetName
+You have to give us more detail than that
+Is it good practice if you declare the private function before the public one it works just fine at least in your programIt seems more intuitive to me to do that first you declare what you are going to manage and then you configure the way to get access to it
+Why doesnt line 8 give an errorIt says name  x which is fine except for the fact that the string name has not even been declared yet
+how can i code it if i want to prompt the user to enter the name and store in the private variable
+that means that if we want to build variables in private we need to create two functions for every one of variables  isnt a lot of work  

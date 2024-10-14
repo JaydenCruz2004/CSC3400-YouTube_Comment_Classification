@@ -1,0 +1,500 @@
+why do you need the object why cant it be BuckysClasscoolSaying to access the function within the class 
+The more correct term is defining a class because no memory is being allocated
+So why do we have to declare an object Why doesnt the program allow for BuckysClasscoolSaying  It seems like extra work to have to declare the object then use the object to call the class What is the reason that we cant simply call the class directly
+turn out i already now this its just like configurating plugins for minecraft
+Having exams in 2 hoursBucky thanks budddy
+aks000123 i dont know either just do it or you get an error maybe because its not the main 
+you and me both man  you an me both
+Whats the difference between a class and a namespace Seems like they have a very similar function but namespaces are a lot less of a hassle You could do thisnamespace BuckysClassvoid cooldSayingcout  preachin to the choir  endlint mainBuckysClasscoolSayingreturn 0
+Best ever
+Youre awesome THANK YOU  you should teach in my skol p
+133 I declare classes you impressed
+awesome video you rocks 
+This explanation completely misses the core reasoning behind classes and Object Orientated Programming As confused commenters rightly ask if classes just bunch together functions why the hell would we bother using them Why would we want the added annoyance of having to access functions through objects But objects are way more useful than this explanation suggests Far from the object being an annoying middle man the object is the core of the entire class system the functions in classes define what we can do to and with objects For instance suppose we were playing a video game Then each player in the game might be represented as an object of type Player  that is an instantiation of the Player class As well as telling us everything about Players such as their health attack equipment and so on the Player class tells us everything that Player objects can do and have done to them for instance there might be a PlayersetHealth function that allows us to change a particular players health Then wed be able to say bobsetHealth100 to set Bobs health to 100 Now that is a brilliantly simple and useful way of keeping track of each player their attributes and the things they can do and have done to them Of course thats just one illustration and I recommend people look elsewhere for more explanation
+this one is awesome I cant wait for the rest
+So if you make a class do all the variables and functions get stored somewhere in memory Or does that only happen when theres an instance of a class in this case the object he created buckysObject
+i type the same code in CodeBlocks but the compiler gives me one error Expected primaryexpression before  token  how do i fix it 
+M3GAFAST Before you can learn the fancy things involving game design you have to learn the basics 12 is an excellent age to start programming but dont expect to make a game that will be like the ones in stores Start small and work your way up Large games have teams of programmers working on different aspects of the game Watch all of Buckys C videos and learn the basics Just keep practicing and learning the basics and someday you might help design big games 
+but what use is it when your never going to use it
+Hi Buckys My codeblocks 1312 doesnt show the suggestion categories after I write dot after buckysObject nothing poped up like yours how do I fix this
+Its not strange at all well for me it wasnt
+amazingit was a ni8marebut seems things have changed
+Can someone explain to me why building and running this triggered a virus alert for a Trojan Horse
+You should get a job with the Ohio State University and teach my OSU cse 1222 course maybe I would actually learn something lol I go to you when I have problems understanding what they dont clear up in the 50 min sessions of a joke we call a class or maybe its just me being a terrible computer programmer lol I dont really know But I appreciate the time you took to make this video its helping me and the C world out a ton Keep up the good work Bucky
+I learned something I seriously did not know that C was objectoriented Thank god I learned Java before I learned this
+Why cant you just do BuckysClasscoolSaying  Why exactly do you need to put a name and make the crap longer
+Naw turns out i have it next simmester i will do it then
+I cant do public int function
+Awesome video
+whats the differences between exclipse and c because c looks easy and fast because a code line is cout  print something n for it to print out and this you got to to go through different things and and you make plugins and script java with c or just eclipse but can you still make mc plugins with c or no 
+Can we not define the object right after defining the class
+Question since it looks like you dont doObject name  new ObjectDo constructors and sub classes exist I c So you could doClass coolClass  new SubClass32 dog
+Good
+I didnt like the way you expressed the sentence put your crap
+Hey man I dont know if you will see this but I am truly thankful for these videos I took my first computer science class last semester and did well up until we got to the class section This video made the concept of a class so understandable in 8 minutes Really thanks
+I did not understand at first But I watched it 3 times then did some classes of my own and I now UNDERSTAND what is going on THANK YOU BUCKY
+I apologize for that you were right
+they have C in code academy
+Because a class is just a general definition If you have an AppleClass you cant say AppleClasseat because you dont actually have an apple By creating a class you know that an apple can be eaten but you have to have some apple first to do so Thats why we need objects AppleClass Apple Appleeat
+Bucky blah blah blah class blah object blah blah blahMe This is way too hard to memorize Oh wellBucky You guys have no idea how important what you just learned isMe Oh shit practices for an hour
+I know but Im saying that a person first learning java is probably going to do it Java style and someone learning c first is probably going to do it like c I personally learnt Java first and thats how I do my coding
+What if void coolSaying wasnt public and was private Also At 0652 you said If we had a bunch of different classes it wouldnt know which function named coolSaying to use Did you mean to say if we had a bunch of different classes that each had a function named coolSaying it wouldnt know which to use Because what you said doesnt help clarify why the object is needed that having a bunch of classes with only one containing a function coolSaying then it would seem an object isnt necessary that putting simply coolSaying should work So I think you need to slow down a bit in your videos and really think out your presentation prior Leaving out detailed information on your explanations will just annihilate your comment section with lots of what if questions Also I think it would be wise to really drive the topic into our skulls with more examples but different style and technique as shown in the comments section Showing the different ways to do each method will help tremendously Plus I think it wouldve been cool in your first video to explain what iostream is in more detail like what cout and cin are Like the c in cin cout stands for console and not c as in the language c Or how they are correct me if Im wrong objects So you can do cinvariablefunction or coutvariablefunction of and input and output library which Im guessing is a class as well So iostream is a header file library that contains an input class and output class Forgot what those input and output classes are called 
+I love you BUckky and im a MAn hehe
+isnt great
+WTF Slow It took my teacher two classes that were each 4 hours long to explain this and Bucky just did it in 8 minutes 
+Thanks I liked how you taught this Also youre kinda funny
+thx man 
+Bucky mines not printng anything I did it all correctly 
+Preaching to the COYER 
+Got it working when I found how to disable it from scanning that folder
+helped a lot thanks
+You are awesome And very clear Thank You Thank You Thank You 
+I am going into high school this year and I was planning on taking a programming class on the sideI cant wait until the teachers likedo any of you know any programming languagesI will raise my hand and be likeHTMLCSSCJavaand JavaScriptTeachers gonna be like WTF
+cool saying  Like a boss
+Tuna class was expecting that from the very beginning Lolzzz
+i did exactly the same but when it runs the screen that pops up just blinks and i did put return 0 
+If youre on windows you can use the systempause command also or you can click CTRLF5 or debug  start without debugging At least I think so Im using Visual Studio 2011 beta but CTRLF5 Im sure works tho
+C Snake Gamehttpsyoutube0NWKeTMDrM
+Youre a good teacher Keep it up Godbless you THANKS
+surprisingly he spelled choir correctly
+THANK YOU SO MUCH I am Learning more from your videos that from my School Teacher S Thanks Again
+thank you sir much appreciated
+Im studying my first year of Games Programming at University and these tutorials are a damn lifesaver
+So glad I found this channel0 to subscribed in 825
+My teacher sucks at explaining things ILOVEYOU
+Basically void means nothing or no type There are 3 basic ways that void is used Function argument int myFuncvoid  the function takes nothing Function return value void myFuncint  the function returns nothing Generic data pointer void data  data is a pointer to data of unknown type and cannot be dereferenced Note the void in a function argument is optional in C int myFunc is exactly the same as int myFuncvoid It is required for a return value
+Thanx a lot BuckyGreat explaination
+ihr1414 This is a terrible thing to say
+Not really thats only the predefined header You can start with an empty project and then it wont be necessary 
+stuuuuuuupppiiiiddd
+should BuckysClass extend BuckysObject   do classes extend objects
+You are awesome Bucky a class apart
+oh yeah online is hard to followi cant even follow a normal class props to you
+am i the only one having hard time lerning youst this one 
+Whats avast I like AVG Is avast better 
+PoizonFart he used a function called tuna in one of his previous videos 
+Haters gonna hate 
+What would be nice though would be for us to see HOW this is useful like letting us see some of this in action Can someone help  direct me 
+Lololol
+GOOD TUTORIALS
+Hi thenewboston  you just saved my programming career I was stuck trying to understand classes and objects for a month I was almost giving up until i accidentally ran into your course on c This is the best explanation of classes and objects ever So simple and straight to the point I think the number one reason people fail in programming is the absence of quality simple to understand materials Once again thanks for this You should write a book on c I would buy it And id like to leave by saying Bam wam thank you maam lolz
+Bam wham thankyou Maam Is a cool saying 3
+why is the syntax different when using turbo c
+Cant thank you enough i would buy you a beer if i could hh 
+This is excellent your videos are really helping me at university and they are much appreciated please keep it up  
+Hmmwhy wouldnt you just be able to use BuckysClasscoolsaying instead of creating the object BuckysClass buckysobject and then buckysobjectcoolsaying If the idea is that the computer needs to know where to pull coolsaying from then wouldnt the BuckyClasscoolsaying tell it to go to BuckysClass and grab coolsaying from it Im just a novice dont beat me up just help me understand this lol
+Since Java was a lot easier to learn C is easy as well because they bare striking resemblances in syntax
+If you were to write a public class called WarriorClass and give it functions called archerClass knightClass and mageClass could we not just call the functions without needing to worry about making objects for them all
+Nice explaination about class
+Where is this fabulous skol
+The fact that at the end he said You guys have no idea how important the information you just learned is means a lot to me It tells me that this is what programming is all about etc
+I finally understand this thank you Bucky
+People with no life
+i have a question do we NEED to define the object can we just do classnamefunction  instead of classname objectname objectnamefunction  
+Not necessarily he might just not suit your learning style
+can someone please answer me umm my only confusion is when do i use this  and this  and when do i use both of this  because when Im going to type my own code i forgot and always get confusion 3 thx in advance
+why cant you do BuckysClasscoolSaying
+crampssss so that you can have multiple objects refer to a single class for example he can have BuckysClass buckysObject as well as BuckysClass buckysObject2 Imagine if there is a calculation in the class say ab and we want to do that calculation with different values of a and b By using different objects we can use BuckysClass over and over again and continue to store the data in objects throughout the entire program its a lil complicated but it is necessary 
+First time I watched this I didnt understand and gave up on video 12 I then went to his Java tutorials and watched those up to like 35 understood everything including the classes and objects so I came back and I completely understand now JAVA MAKES C REALLY EASY
+its the two people that watch all the series and never understand anything
+Dont you have to implement the class or is that just optional And what is the use of implementation anyways And how many ways can you implement the class
+watchvS7K9yA0fxc 2 tutoirlas
+bucky is the best teacher ever
+thx thenewboston
+now who are the 16 faggots that disliked it
+you and me both man  you an me both
+RKRIt02i4t23  My antivirus software says its a Win32malware every time I try to compile and run it
+for basics i think he should try game maker
+you guys im having a bit of a problem herei cant memorize some of things that this awsome teacher bucky is teachingplease help me i dont know how to keep these things in my head i find my self reviewing alot lately and i dont like that i want to be able to remember it foreverplease again can u guys help me with some tips
+preadchuib to the choir
+I go to skol too
+thats simply awesome 
+shaeath hes using code blocks on the first video of this playlist it tells you how to get it
+So whats the point of doing this over just writing cout  preachin to the choir  endl They do the same thing and I dont see why there is an advantage to doing it like this Any help
+when i ran this program my anti virus actually picked it up as a trojan 
+Thanks for the encouragement I appreciate it
+Codeblocks 
+Thank for the info Its quick and clear right to the point while still being easy to understand and not overly convoluted
+bucky what code editor are you using 
+one person is still stuck on batch file programming
+It gives you friends and something to show the employers
+I dont really understand what exactly a Class is Can anyone help me out here
+Thanks alot buddy Seriously man Great work 
+In this example  640 I dont understand the NEED for an object Why not BuckysClasscoolSaying it seems like an unneeded step
+I understand Imagine making thousands of functions in one class and you have to use those function again in a line in main U could just simply type the class name create the object and surprise u just copied all that information into main with just a few words U save a lot of time and make it look more organized
+Im new to C but if i think you can by listing them after the closing curly brace but before the semicolon
+The highlighted text in the thumbnail looks like a sniper rifle
+the toll went upto 17 where is this world going lol
+whats up with the word tuna oO
+I wrote word for word this program and it says no newline at end of file Whats wrong 
+they were aiming for the like button and missed
+Thats because HTML and CSS are not programming languages
+Do his tutorials cover the whole C And if so how much of it is it some deeper knowledge about C or just scratching the surface Will it be enough to make smaller games after all 73 videos
+There is nothing called eclipse code Its java Minecraft uses Java Code which is why you need to download java to make it work Java code is a whole other language than C So C wouldnt make any sense for Minecraft You would just completely break minecraft xD C is a whole other language so it wouldnt work on Mc plugins because Mc doesnt speak that language That makes sense 
+Pretty cool 8 minutes is enough to understand classes and object
+ the crap   I love when things are taught in a natural manner
+If my teacher asks you You are my teacher bucky P
+When I am typing my object and then the dot separator I dont get the popup showing anything from my class Nothing comes up The program works if I just type it out Just wandering if I need to set an option somwhere in Code Blocks to make it work
+preadchuibn
+how come there is no function prototype
+Thank you very much Now I understand classes in C
+Thank you sir Really helped clear up classes and objects
+
+ihr1414 I give up completley on computers im gonna grow up on the dole and be a homeless guy cos im too old to start learning now youve said that
+Very useful but somewhat slow
+My antivirus had a heart attack when I tried to run this program lol
+Bam wham Thank you maam xD
+Bucky is awesome
+That was a really good feedback Thanks man You helped me out loads I was stuck on classes for ageees
+Hahahahaa
+I really appreciate what youre doing man Many many thanks really
+maybe but its king in this business go turn off javascript and try to enjoy the web unistall java compilers in android  dont give kids minecraft maybe u should start thinking hey java is so bad yet it has so many uses all around me why thats when you cant keep saying is that terrible maybe there are better one but java portability is really good and here i go on why java is unique and every language is unique you should keep and eye out instead of re inveting the wheel java 1
+It Is Similar with Struct P
+thank you so much i understood it all from first time listening
+Because they hate class
+my godddddddddddddd I wish my teacher explains this way OMG loved it
+Learn more from you than from my professor and a 120 book Unreal You are pretty darned good
+In Like every video he tells us how important the info we are learning is and how easy it is to learn after you learn it
+Bucky is the best
+ what is going on guyz p
+ihr1414 really inspirational man i needed to hear this D
+Do you have any videos on vectors in C
+Y are u obsessed with fishes 
+Hey I just want to THANK YOU for your awesome tutorials You have helped me so much
+Awesome bro thanks 
+ObliviuxProductions Just that it makes it MUCH easier to have more than one person making the same app It also helps to organize the program
+Go ahead and
+coutThanks you so much Burckys  
+Though python is way simpler C is way easier when it comes to Classes That fucking intself shit is so annoying
+515  This is the same method that you would use for calling a database aspnet
+thanks i dont know how to thank u enough for uploading this God bless you
+dirnol Its How now brown cow actually
+Bucky i like when you say crap xD
+includeiostreamint main    int hello    cout  Enter a number    cin  hello     ifhello7        coutOallo m8    else        coutHey there fella      return 0
+Not to be corny but one ahole watched this video
+Very easy to understand Thanks 
+ctimesrocker78 Id think it would be rather subjective which age is the best to start programming at Furthermore the menial gap between 12 and 14 does not warrant saying that one is the Best age and that the other is way too young
+Tomorow it will be 1 YEAR 
+YOU ARE BETTER THAN MY PROFESSOR YOU GAVE IT TO ME IN 8 MINUTES My professor was not able to explain it to me in a week 
+bucky u r amazing 
+what is friend in c
+Bam Wham Thank you mam
+How did you do indent thing in codeblocks Where you can minimis it
+Bam Wham Thank you maam
+why do you need all those extra lines and classes and objects when you could have gotten the same thing by just typing cout  preachin to the choir  endl
+is it possible to create games with c you need libraries and stuffi am just learningi dont knowcorrect me i want to correct me D
+I have a brain in my skol
+omergawd I got this first try and memorized it so much easier then I thought C would be
+nyc one joh
+Woah that escalated quickly But still a very well done tutorialMy only suggestion would be that after every tutorial you could give us one or two exercises or programmes to do based on what you taught us in that part That would be a lot more effective rather than just flipping through videos
+WHY DO YOU HAVE SO MANY TUTORIALS ARE YOU HUMAN
+what does return 0  do  
+Yes my dear I know that C is a programming language but the environment of c that hes using I really liked it so I wondered which version he is using  I use Microsoft visual C 2008 express edition  
+why was the semicolon used at the end of Curly braces of class BuckysClass as it is not a statement that we end it with  please explain
+This is super helpful thank you
+TheDgdsmaster madam are you implying that he is a girl
+To summarize to the best of my knowledge An object is a particular instantiation of the class and the class holds data variables This allows classes to be reused through the program I believe this is why OOP is so popular Check out the website called cplusplus for help
+So basically classes are apis
+bam wham thank you mam
+thanx dude u gave me  the hope to pass this subject thanks a lot
+Best tutorials I think Ive ever seen on YouTube You rule
+why do we even need classes cant we just use functions
+cout   I love your comment ya man   endl 
+mykel maalouli wants to share its thoughts awal chiiii am  yeddahak w manno 3eyzak  thats one bitch tnennnnnn bi 2ellakchtozo khalass ya kalb
+I was trying to add in a class to separate out variable declaration from the main script but I it keeps that the variables were not declared I have the whole code included below but i think the only thing that needs to be looked at is the top 20 lines why wont it declare ps any way i can make this code more conciseinclude iostreamusing namespace stdclass letterspublicvoid variablesint inputint aint bint cint dint eint fint test0int mainletters abcsabcsvariablescout  Calculatorint repeat1while repeat1cout  nnWhat would you like to do n1Division with remainder n2Multiplication n3Addition n4Subtractionnn   endlcin  inputif input1 If one of values were not chosenif input2 ifinput3ifinput4 cout  Incompatible Entry nnrepeat1if input1  Division with remaindercoutNumerator cin acoutnDenominator cinbcoutnAnswer is abifab0cout with no remainderifab0cout with a remainder of abendlif input2  MultiplicationcoutnnPlease enter values ncinacoutMultiplied by cinbcoutnYour product will be abendlif input3  Additiond  0cout  nHow many numbers would you like to addn  endlcin  fcout  nPlease enter   f   valuesnnwhile 0fcin  ecout   endld def f1cout  The answer would be   d  if input4  Subtractioncout  nPlease type in a number followed by a second number  endlcin  a cout  n cin  bcout  The answer would be   ab  cout  endl endl endlwhile test1  to determine weather or not to run more calculationscout  Would you like to perform another calculationn Y1 N2 n cin  repeatif repeat1 if repeat2 cout  Incompatible Entry nn elsetest1 elsetest  1if repeat  2 Goodbye Messagecout  nByenreturn 0
+These videos accelerate my learning at a level at least ten times faster than any book Ive read or other tutorial Ive watched Keep up the good work Bucky
+lol i used cout object1myfunction and my pc crashed
+most modern compilers  ides assume that you want to return 0 even if you do not say it explicitly
+Thanks for lesson
+i came here because i saw a sniper rifle
+Thanks man things has become clear 
+jjbuttcheese buttcheese LMAO
+Once you get your head around it it is actually very fun D I hope that if I learn it all now when I get to uni I will be able to overtake everyone who is just starting to learn the basics
+iam not dumb but i got lost on this one and the last guess iam have to watch them over again
+you will even without understanding c completely
+D Excellent explanation thank you
+same there
+me to P 
+This is disgusting It is shocking you making these videos and people liking them because half this information is just terrible and wrong
+Extension of structureskind of
+Im gonna watch it again P
+you da best
+I dont understand the part at 200 Can someone name an example when you do NOT want to use a function from your class in the main
+Can you do this I know java so I am wonderingBuckysClasscoolSaying Instead of creating a new object
+i think sobut wait for that awsome human beings reply
+bucky is great 
+  thank you
+the Compiler hes using is called Codeblocks and he made a Tut of how to install it and wat to choose so if u wanna now go to the first Tut and see for urself D
+i swear i just started understanding right now
+People who gave up
+Thank you a lot for your reply my dear 3 
+If I didnt already know how objectoriented programming works from learning ObjectiveC I would be really confused You should actually explain all the concepts before you show the syntax
+Yes that also happened to me I uploaded the project file to virustotaldotcom to see if there was a problem such as the trojan AVG detected and there wasnt I suggest you try the same with your file In AVG Ive now added an exception for the folder Im saving my Code Block project files to and it all works fine Hope this helps somewhat ps Thanks for these amazing tutorials Bucky absolutely fantastic
+So true
+Yeah me three BuckysClass and coolSaying already seem to define the function why do we have to include another intermediate step I guess its just convention
+so class and object are the same
+Da Fa
+I understand having a class so I can free up object names in other parts of the program to lessen errors or confusing the program  What I have trouble understanding is lines 13 and 14  Why cant I just put in BuckyClasscoolSaying  why must I first define a separate object to tie coolSaying to in order to use it
+bam wam thank you mam
+A milliards of thanks for youA very perfect explain
+After watching this 3 times I finally get it I watched it the first few times and didnt get it then came back an hour later and tried and I understand it now D
+Sirepicwin Haha P So you mean its a weakness of C D
+Forget what you know about java LOL classes are super important If you make a video game youre gonna have a MonsterClass CharacterClass MapClass SoundClass This will enable you to quickly development any type of problem you want to make through Object Oriented Programming
+what program are you using to write your code
+Whats the point of classes Cant you just use heaps of functions
+no man u cant it is specific to use classname objectnameobjectnamefunctionbut u can replace object name by anythingand dude try it urself to see if it works or notim just sayingP
+Use Void at the beginning of afunction that does not return anything For example if the function just prints something out on the screen Use int if the function returns a number
+the langue lol all the crap boy i love bacon what is this
+This tutorial is trash
+seriously every single tutorial you make I understand it right away I tried three sources to teach myself functions didnt get it at all then you explain it and I feel instantly stupid for not getting it Its just that so many people think they are teaching a beginner but they are using programming lingo left and right and leaving out way too many details
+Dont Dont use systempause Include the conioh library at the top and use the getch function 
+I have started trying to learn c so many times only to get stuck repeatedly Partly because the books I bought use none nube terms which can be very confusing Although I started getting fuzzy at lesson 10 I thing the fog is finally clearing I like your  its really that simple approach Thanks for the inspiration
+Why cant a class wont work when its under int main
+ssj2bby Think a project and create this For example create a project Calculator  you will have a lot of functons that do basic arithmetic things or something you will think The best way to learn and remember code is to RUN YOUR CODE Good Luck
+What is the reason for making an object Why couldnt the language just use BuckysClasscoolsaying 
+thanks for taking the time to make these videos 
+131 all ur crap 
+i understand all of buckys tutorials but i cant remember a lot of it so can someone give me tips on how to remember all of this
+you have no idea how much you helped me i wish i looked this up before so i could save time when studying for my exam  really appreciate it bucky you are the best ever
+Man i really was so consfused about this stuff I am taking advanced c my instructor kind of sucks This explained it to me in 8 mins thanks NewBoston guy
+Thats such an Great tutorial you just cleared my mind of what a Class  Object  function is Thank you Subscribed
+before i return to this tutorial i watched a whole series of object oriented design by iraqi archive from lyndacom to familiar myself with the concept of object oriented programming Iraqi is the name of the user only the host of the video is a great presenter and diagrams are used for easy understanding
+FROM ALGERIA THANKS BACKYS 
+So from my perspective I would ask myselfAs the creator of C why wouldnt you just have to use it like thisBuckysClasscoolSayingWhat is the reason to use the class through an object instead of using it directlyI mean you dont influence the class when you use it so why would you have to create a different medium for it
+Someone Geek Hating Hes making it to easy to code and there jealous
+for comparison Example programinclude iostreaminclude stringusing namespace stdclass Smalldick        public    void coolsaying             coutmy name is bucky and i have a small dickendl       void sayit        coutsay itendl        int main    Smalldick buckspenis    buckspeniscoolsayingbuckspenissayit return 0
+hello Bucky thanks alot for your videos about C i learned alot i have Q  if i wanna learn how to do app on ios or android should i master C or should i jump to the SDK of the os i want to program sorry for bothering you and thanks again
+The better C programming context is to define it as public before the class so the whole class is public
+All of these videos are so damn helpful I was learning on my own fine until I hit arrays and classesobjects but you really are a life saver Youll totally get a credit in my first game that I publish  Thanks a million
+it was 16 when he wrote it facepalm
+you are the best
+yea C is stubborn for no reason
+Bucky can I please be in YOUR class
+Cout  Thank you so much for making these you glorious bastard  endl
+Buckys awesome First time Ive been able to follow through and understand a programming language Im really enjoying C Thanks
+I used codeacademy and it took me about 23 weeks
+Can someone explain to me when to use VOID and when to use INT
+making Games
+Cool  I actually did not get why we have to define an object for this Why dont we simply do that TheClassNameFunction  its how it works in C 
+I wish to add cout  Anything more   end after the object but it got error for me I cant print anything else after any objects
+Just a tip I figured outRather than using systempauseUse cinignoreThat way you wont see the message Please click a button to continue
+nice explain need more depth tricky programming ty
+Dude can u pls tell me which compiler are u using and which even which software are u using
+I dont get it If you have classOne classTwo and a function called potato in each one then why cant you just write classOnepotato or classTwopotato Isnt the need for an object kind of redundant
+JapaneseTentacleRape id just make a function for it im too lazy to make a class for it
+Everything all your functions all your variables all your CRAP goes inside your class  Bucky Hhahaha xD xP
+Bam Wham Thank you mam  552
+you have to create the object first couldnt tell you why though
+The screen shot for this video looks like a riffle
+I love this Thank YOU SO Much Making my life easier and better with your tutorial
+What course are you doing at Uni just curious cause I want to do Computer science and I was wondering of its hard and what kind of stuff you do in it 
+Cooli understood it in 5min
+Really Java is hard as fuck for me C is way easier for me lol Cheers
+Hope I didnt spell that wrong in front of all my subscribers Whoops
+lol but its not written in c that doesnt mean you cant understand it though P
+Do i have to change the object for different classes
+Theres so much more he should have covered in this tutorial This video should have been at least half an hour long
+they are jealous of bucky
+is there a difference between struct and class
+There are gals watching 000
+havent done any c in uni for awhile because we were using C but ill soon be using C again  so I wanna get a head and learn new things and I thought Id start with classesJust wanna say it was a great tutorial and I quickly grasped exactly what you were saying
+yeah its simple as u said in the very first tutorial Thanks Man
+hey can anyone explain this to me better i dont understand please help i will subscribe
+Okay im off to create a program that allows the user to convert temperature in a Temp class c and im coming back tomorrow to learn more about classes xDD this is great revision
+even a simple 2d game can become really difficult to program from a scratch 
+zsehanovic hmm can u explain a bit more please i understand much better if someone explain it to me but not online tutorials  also can i use classes in 100 of the coding or do structurres have their own priorities in coding too
+Thanks Bucky
+For those who dont understand classes are used for storing data and are sort of like a new datatype that you are creating similar to the datatypes  int float string etc
+how would i call the function from a class to a if statement or cout etc rather than just calling it like shown in this video
+since your making all the 7th grade comments its worth saying im in seventh grade and easily following your videos best way to learn c 
+but whats the use for a class if we set it as private Love your videos
+There are four friends Following data of a friend is given name height weight A basketball team collectsplayers in two positions with the following data title height range Write a program which providesrecommendations for each of a friend to claim for a particular position
+can you prototype functions for your class inside the class or that an unneeded andor unnecessary step 
+EC ProgramsMy First Programmainomaincpp undefined reference to InformationsetUsersName  Build finished 1 errors 0 warnings   help
+When you said they store similar functions what did you mean by similar
+Excellent response I have been wondering why these are useful for a while
+Great now I can access all the crap in my class
+Basically a class is a set of functions and variables that control an object defines how it works  For example you want a ball object  So you create a ball class that has variables that store the location of the ball on screen the colour of the ball the size of the ball and how fast the ball is moving as well as which direction it is moving in  You can then use this class to create several ball objects so you have different colour balls different sizes which are all located at different places moving different speeds and directions  All using the same class  Classes allow you to more easily take a real world object and create a nicely packaged piece of code that describes it like we did with the ball example  For a pong game you could have a paddle class as well which describes it you would then create two paddle objects for each side of the screen they move independently of each other but they follow the same rules that all paddles must that is to only move up and down reflect the ball off of it etc  You could even have a score class which describes the location on screen of it perhaps score upper limits it could then be used in two separate objects again to have a score for the right and score for the left player  All these are easily managed and you can quickly track down any bugs  No matter which paddle does not work as intended you know to look in  the paddle class if it does not to correct the problems  Or you could add to a class say you want to make the balls round and add on a light reflection off the surface of them etc you change the class and all ball objects will then change at once  I hope this helps you understand them better
+Because the point of having classes is that youre able to create any number of objects that are of the same class The class is nothing but a blueprint for creating a new object that are going to have the properties that you specify in that class
+You should make simple enough shirts
+thats creepy
+from c too
+128 xDDD there is an sad face under class 
+Why are you all saying that you understood this here but not in class
+davidmckenna96 because if you put a normal one your program would really stink
+I tried making the class under the main and it wouldnt work I even tried prototyping the class and the function at the top it wouldnt work  
+Bam wam thank you maam lolz
+Love 2D is pretty good given how easy it is to learn Lua
+In this scope
+Eclipse uses Java which is a completely different programming language and while C may look easier it gets a lot more complicated than Java Also you cant make minecraft modsplugins with it
+Great videos man Thanks
+I expected the coolSayin function to print out Hey now brown cow
+all you functions all your variables and all your crap goes inside here
+is there another way to use a class in in c
+I LOVE YOU BUCKY IN THE MOST HOMO WAY POSSIBLE
+After wading through many hard to understand C textbooks your tutorials suddenly made everything crystal clear for me Thank you so much I am religiously following your videos please keep updating
+Heres a better explanation Lets say you want to make a game with enemies youd make a class called Enemy and then youd write all of the code for that enemy in the class Now if you need to make several enemies you just create several new objects of that enemy class Like enemy1 enemy2 and so on And then if you need a specific enemy to die all you have to do is to reference that enemy like enemy4die for instance You wouldnt want every single enemy to die at once
+4 lmao
+BUCKY I LOVE YOU
+All your crap 3
+dude youre like my new best fwiend youre going to help me pass my C module at uni p if only you did maya 2012 tutorials then id probably ace my first term at uni D
+psmile11 Because until you make the object C has not made a connection or bridge if you prefer between the classes You can also make function WITHIN the first class this is the way C is used
+I would subscribe if I had a youtube account 0o LOL
+Did you say it Lol I wanna know 
+why public have to use    
+by the way your tutorials are very clear and very very helpful and understandable casue i looked at one you did with a struct in c that i had to use for a program for school and i actually got it done and understood 
+It wouldnt fit in one comment so I posted it on Pastebin You can read the explaination on why objects are needed  and why we cant do BuckysClasscoolSaying  here pastebincomJHKGDCsf Replace that underscore by a full dot or youtube wont let me post  Feel free to ask if theres still somehings unclear 
+every single programmer on earth should know at least the basics of classes and objects they are really useful
+BuckysClassgood
+theyre really similar
+Can someone help me understand what Im doing wrong It keeps returning the same error at the last  but is looks like Buckys exampleinclude iostreaminclude cstdlibinclude ctimeusing namespace std Random D6 generaterclass D6Rollerpublic    void D6Roller    srandtime0    forint x1 x6 x        cout  1rand 6  endlint mainClass D6Roller D6RollerobjectD6objectD6Roller
+You just had to say itdidnt you Now there are 3
+you are much better than my professor in school thank u very much
+Pretty cool huh
+You are Genius  Bucky i love u 3  
+Why see i in every turtorial 2 dislikes
+You can use the variables in the class by creating the interface as he showed The interface has two functions for reach private variable in the class In this case setName and getName are the functions that create a bridge between main and the private variable name In this example the function setName is the mutator and the function getName is the accessor The variables are kept private to avoid messing up or ruining the code So the class is still very useful
+THE BIGGEST PROBLEM WITH THIS SHIT ARE THOSE LITTLE braketsso frustratingalways errors poping out 
+lol
+Thumbs up for Object Oriented Programming  
+Im sorry if Im not getting this but heres my understanding A class houses several functions some being private so the main function cannot access them and some are public allowing the main function to use them Please tell me if Im correct 
+I learned C back in the days and I thought the difference between C and C is extremely huge I was surprised to find out that I was wrong and whoever learned C before C can easily understands C also
+if you watch these at 15X speed it sounds like Bucky is hopped up on coffee
+Switch to avast or something
+Thats a pretty terrible explanation of what a class is and why they are used
+i got a fucking error in the return 0  It was there from defaul My code is exacly the same  fml
+TheGalionKnight thats pretty hard with a written language xD
+Heres a way to stop it from detecting your programs Open AVG  Tools  Advanced Settings  Resident Shield  Exceptions  Add Path  then select the folder you save your projects to
+daeheadshot Buckys voice D xD
+yea
+many thanks
+Right so I figured out that AVG blocks this code from running I turned AVG off and it worked does anyone know why AVG would do that Should I turn off my internet What if I make a program and AVG stops it from working 
+classes are making code easier to share 
+I think by far html and css are the easiest But that is an impressive amount of programming languages 
+DUDE  you are just awesome  you are too good  seriouslyyour explanations are just so good and actually understandable that it just made c a lot easier for me  cheers
+Hahah i love the way you use funny comments almost every part of your video  and also staying really positive by not making it look complicated D
+stickmakerman Listen to this part 551
+He who drop watch in toilet bound to have  timen
+What do you like better
+Well if you paid attention what he did ishe had build the trojanSo when you put it to public it went straight into your computerand those who dont have a virus blocker got the virusWhat it does Well thatI dont know
+This Is What I figure Out What You Can Do With Class And ObjectIm A Beginner Too I Learn All This From This Guy Tutorialinclude iostreamusing namespace stdclass Temperature publicvoid Firstcout  This Is Test 1 endlvoid second cout  And This Is Test 2 endlint main int acout  Please Enter Your Selection endlcin  aTemperature Tempifa1TempFirstif a2Tempsecondreturn 0
+no because all functions were written after main so main doesnt know them if you declared a function before main you can define after main but if you declared and did not defined before main it wouldnt work The compiler has to be able to see the definition of the class before it can use it You need to put your class before your main function or preferably in a separate header file which you include
+one questioni still dont understand why u need to react an object
+What is Scope Resolution Operator    
+y cant u just say BuckysClasscoolSayings
+Hi I watched this tutorial a couple of times but I still have a problem I can start the program but it refuses to display the coolsaying What could be my problem Or is tere a way to figure it out Thanks
+U know how u can go using namespace std so u dont hav to do stdcout is there any possible way to do that with objects and classes Im a beginner it kinda obvious
+Hmhh I know how to make a class and even the basic usage but I cant really see how they are helpfull At least my text rpg was really hard to manage with classes I kinda use cpp and header files instead with global variables lol
+can you please not say crap dude
+You doing very good work keep up making programming videos 
+awesome tutorial and way to hit every concept right on the head of the nailbooks can be soooo confusing when explaining technicalities thank you
+This really helped Thank you
+je vous remercie du fonds de mon coeur
+Thank you very much
+Programming tutorials C and JAVAcoming soon now on my channel Please check them out and any questions dont hesitate
+How would I use quotations in text 
+not at all
+Im pretty sure it isI learned it there or I watched bucky 
+Im doing a simple text based RPG game Ive understand strings if and else statements and variables so far i havent come across anything that I havent been able to do I just need help with classes and objects Thanks Bucky
+whats the differance between a class and a function
+to use a function in a class can you also use this line of code                                       void BuckysClasscoolSaying  If not what it the difference from the code above to your code
+No man Dont be one of those supposedly game developers who uses other peoples programs to make games 
+You guys have no idea how important the information you just learned wasRestarts video
+Love it when it just clicks Thanks for the tutorial 
+funny but wierd avg picked this up as a virus when i clicked build and run any fixes
+Thank you very much
+You said nothing about a Javascript JVM only Javascript I can use Javascript perfectly fine without Java thank you C can be very portable and there are standard types for fixedsize ints I already said C was less portable No one expects you to use the latter if youre after portability
+Hi Bucky Just wondering to access the function cant you make and objct then acces the function with the  example class Foo curlyBrace public example curlyBrace cout text endl curlyBrace curlyBrace int main curlyBrace Foo foo fooexample return 0 curlybrace Would this work please respond I know i missed the less than signs but utube wouldnt allow them LucaSeem2000
+Man you are a genius Thank you for all your work 
+i really appreciate you man  thanks for this wonderful video
+Arihant65 a function prototype is only necessary if you put the actual function BELOW THE MAIN function if the function is written above the main function  like in buckys example  then its not necessary
+void coolSayingcout  Pretty cool huh  endl
+saved my life 
+Its a conspiracy I say
+So now  sounds really funny after you say it 10 times  But amazing tutorial Im really thankful
+i looked at my code and its exactly the same as hauss over here but it keeps saying class does not name a type wtf
+Alright
+baamm wyaam Thankyou mam hahah 
+What program are you using to write C in
+lol You named yourself ComputerScienceKid before you could even program
+Why cant main be void
+all your crap in the class xD
+Here is a class with all the Console text Colorsclass ColorMessagespublicvoid blackColorHANDLE textColor  GetStdHandleSTDOUTPUTHANDLESetConsoleTextAttributetextColor 0void dblueColorHANDLE textColor  GetStdHandleSTDOUTPUTHANDLESetConsoleTextAttributetextColor FOREGROUNDBLUEvoid dgreenColorHANDLE textColor  GetStdHandleSTDOUTPUTHANDLESetConsoleTextAttributetextColor FOREGROUNDGREENvoid dcyanColorHANDLE textColor  GetStdHandleSTDOUTPUTHANDLESetConsoleTextAttributetextColor FOREGROUNDGREEN  FOREGROUNDBLUEvoid dredColorHANDLE textColor  GetStdHandleSTDOUTPUTHANDLESetConsoleTextAttributetextColor FOREGROUNDREDvoid dmagentaColorHANDLE textColor  GetStdHandleSTDOUTPUTHANDLESetConsoleTextAttributetextColor FOREGROUNDRED  FOREGROUNDBLUEvoid dyellowColorHANDLE textColor  GetStdHandleSTDOUTPUTHANDLESetConsoleTextAttributetextColor FOREGROUNDRED  FOREGROUNDGREENvoid dgrayColorHANDLE textColor  GetStdHandleSTDOUTPUTHANDLESetConsoleTextAttributetextColor FOREGROUNDRED  FOREGROUNDGREEN  FOREGROUNDBLUEvoid grayColorHANDLE textColor  GetStdHandleSTDOUTPUTHANDLESetConsoleTextAttributetextColor FOREGROUNDINTENSITYvoid blueColorHANDLE textColor  GetStdHandleSTDOUTPUTHANDLESetConsoleTextAttributetextColor FOREGROUNDBLUE  FOREGROUNDINTENSITYvoid greenColorHANDLE textColor  GetStdHandleSTDOUTPUTHANDLESetConsoleTextAttributetextColor FOREGROUNDGREEN  FOREGROUNDINTENSITYvoid cyanColorHANDLE textColor  GetStdHandleSTDOUTPUTHANDLESetConsoleTextAttributetextColor FOREGROUNDGREEN  FOREGROUNDBLUE   FOREGROUNDINTENSITYvoid redColorHANDLE textColor  GetStdHandleSTDOUTPUTHANDLESetConsoleTextAttributetextColor FOREGROUNDRED  FOREGROUNDINTENSITYvoid magentaColorHANDLE textColor  GetStdHandleSTDOUTPUTHANDLESetConsoleTextAttributetextColor FOREGROUNDRED  FOREGROUNDBLUE  FOREGROUNDINTENSITYvoid yellowColorHANDLE textColor  GetStdHandleSTDOUTPUTHANDLESetConsoleTextAttributetextColor FOREGROUNDRED  FOREGROUNDGREEN   FOREGROUNDINTENSITYvoid whiteColorHANDLE textColor  GetStdHandleSTDOUTPUTHANDLESetConsoleTextAttributetextColor FOREGROUNDRED  FOREGROUNDGREEN  FOREGROUNDBLUE  FOREGROUNDINTENSITY
+I still did not understand the importance of the object why didnt they do it like BuckyClasscoolsaying to execute the function within this class why do i have to creat an object that is attributed to the class
+I was suffering till this video Thank you bro Your videos have helped more people than you could ever imagine 
+can you prototype a class
+Hello Buckys how do i use array in private classes because i want to store user inputplease adviseThanks
+When I got to learning classes There are several ways to initialize members and functions and there is the whole overloading also What is the purpose of using setters and getters when you can construct and initialize a class member using the scope operator ie ClassnameClassnameint intIm quite confused about classes I was first introduced a simply way to make a class and then subsequently introduced better and better ways to do them Why not just make them the best way right off the bat and not worry about the other stuff
+My teacher spent half hour talking about this and I didnt get a single thing but with this video now I get it Looking back I didnt understand because my teacher decided too use some confusing fancy names for the examples
+Probably Java programmers
+pretty cool huh
+Excellent tutorial Bucky thank you very much Even I havent learnt any programming stuff before I have zero problem understanding what you taught Keep up the good work
+ya let me guessYou didnt pay attention during class and now that you have a test u go and blame your professor 
+why cant i write BuckysClasscoolSaying  
+Bam wam thank you mam
+Could class be considered to be the same as the Def function
+Thank you for this tutorial 
+lol unity is crap
+omg 666 666 views when i wrote this comment
+bam wam thank you maam XDD lol nice tutorial tho 
+Awesome Explanation  
+Thanks man youre awesome
+Cant you just do public class name 
+this is the only video i feel lost haha i think i have to watch it more times
+Why did we not use the Function Prototype in there Is is not essential for the function to work When is putting the Function Prototype a necessity
+SlyRoogon I might be wrong but Ill try and explain it First of all you must have the main to tell the computer where to start running the code from In theory it is possible to write everything in main but as your program grows and does more stuff it is almost impossible to manage Therefore classes are a way to organize the messy code Relate this to real life situation You have a school you can have everyone in one class or you can split them up into maybe year subject etc
+why exactly cant you place classes in the main function
+The Java is so easy compared to C if you ask me Not that C is hard at all Java is just easier and more straight forward C likes to confuse you a lot in my opinion when its really not all that necessary 
+Its on his first tutorial D btw its codeblocks
+Bam Vam Thankyou mam D D D hahaha
+Had to watch it twice just for the object part man its not easy as it looks  
+Bucky we need teachers like you at the university
+Should I still get a comp sci degree after discovering the videos Im thinking it will help me get a job more easily but I will learn most of my programming from bucky
+That would be a false positive 
+You like tuna dont you
+class apples who can guess that reference
+lol bamwam thankyoumam
+This doesnt work for me I have wrote it the same way made sure everything was the same and it doesnt work 
+Hello there young padawan This is a common problem This is what you should do Start watching the first few tutorials and force yourself to learn it all without copying code or watching the tutorials Just do your best to remember the code After that youll be able to freely type code and understand much more I also recommend getting a book on the subject Good luck
+Its just makes it neater for reading the code in a class rather than in main 
+pretty cool huh D
+whats the purpose of using classes actually  and whats the point of using private if i dont want the other functions to access it  
+Why cant my college have professors like you The pricks they have are so out of touch not engaging at all Thanks for having done this tutorials
+I learnt the use of functions and objects the hard way while using Python and Pygame for my coursework So now i know its value They are very useful
+I think bucky It is enough to make our base for every type of program 
+BAM WAM THANK YOU MAM thats all i have to say ladies and gentleman
+ohhh that was a good example thanks for that It made much more sense when you explain it that way So you can run functions that just affect the object that they are run from right For example you have enemy28healthBoost then only the 28th enemy would get that healthboost but if you used the class and said EnemyhealthBoost then every enemy would get it correct
+I actually understand classes now It was an awesome explanation
+Do the similarities between python and C continue or do i need to just forget what i learned 
+so lets go ahead
+OMG repeated this video to understand it 4 times O i think i wont be programmer xD 
+code blocks
+every tutorial leaves me hungry for tuna LMAO
+He isint making any new c videos
+WAM BAM THANK YOU MAAM wussup bitches
+Can you make 2 objects for one class
+Why do I have to make the object Cant I just say  BuckysClasscoolSaying  instead of  BuckysClass BuckysObject BuckysObjectcoolSaying  
+so i get why the computer has to know what class to pull from but why does there have to be an object too why cant it be setup to just write buckysclasscoolsayings  do objects have other purposes too am i missing something
+can u call ur object the same thing as your class
+JapaneseTentacleRape id just make a function for it im too lazy to make a class for it
+Great another definition for the word object I need to store in my brain because it wasnt already overused like the mother of an Xbox live user 
+Thank you bucky roberts 
+Bucky is my homie
+TheNanoStuff What do you recommend as a source
+Problem is I didnt I learned Java but have been struggling with C Pointers operator overloading are new concepts and C just seems like a lot of work 
+It seems like some people or just a couple are getting a little confused about why you need to have an Object before and a Class Maybe this explanation will helpTo start off a Class is what makes up the Object the class gives the Object its functions and tells the Object what it can do For example if you were building a house lets say the class would be the blue print to that house It would say where all of the infrastructure would be the water pipes etc However you cannot live in a blueprint and that blue print is not actually a house The actually Object would be the house and that houses physical appearance would be based on the blueprint Class So once again for example lets say I wanted to make a Dog object and this Object would essentially draw a 2D image of a dog on the screen You would first have to create a Class and in that Class is where you would specify things like how tall the dog would be what colour certain parts of the dog are where on the screen the dog is located Then the actual process of making an Object would allow my dog Object to be created and allow me to have a picture of a dog on my screenSo one might still be asking Okay but why did the people at Microsoft still make us create an Object Why cant C just look at the class we made and think Well that person made a class so he obviously wants to use it as an Object so Ill just create it into an Object  Heres the thing the reason why you go about and type what you want to call youre object The variable name of youre object is because if you created more than 1 Object from the same class you could differentiate between one or another Imagine if I wanted to make 2 dogs appear on the screen so I try using the Dog Object as mentioned before twice And lets also assume that C will simply just make the class into an Object so we can just type out DogdrawOnScreen or something of the sort if you wanted to draw a dog on the screen Well heres the thing you would essentially end up drawing those two dogs you wanted on the exact same location of the screen You probably couldnt make them different colours couldnt give them each a different hight so essentially it would look like you just had one dog on the screen because they are virtually identical and are over lapping each other Now lets say that instead we had to create our own Objects so something like Dog dogFred and Dog dogAl Im creating 2 Dog Objects One is called dogFred the other dogAl These are just some dog names Now lets say that you wanted to call a function from one of the Dog Objects that would change its location to the upperlefthand corner of the screen In this case dogAl You could type dogAlmovetopLeftOfScreen Or something along those lines In the past if you tried to move youre second Dog Object it would essentially affect both Objects location but now only the dogAl Object will move relocated and dogFred will stay put Now imagine if you wanted 10 Dog Objects you can now control each individuals location colour height maybe even breed if you wanted to incorporate that I hope that this was of some help if any questions still arise feel free to ask If anyone else has any other good explanations Id love to hear them as well and I imagine the same for those learning
+Can you tell me what IDE you are using
+please stop doing this I had to correct someone who commented the same thing on another video He can get his fucking adsense banned if you click it his ads for that reason especially if youve coconspired by telling everyone
+I thought it would be hard to learn C when i allready know java so well and that everything would be different and that i would mess things together and end up with billions of errors P Actually java is so simular to C that knowing java is a oportunity for learning C Thumbs up if you thought like me 
+CodeBlocks He has a download link in the first episode of these tutorials
+can a class be written after the main function
+all of your crap hehe 
+I wrote it exactly the same and it worked fine check again
+its my first time dealing with classes ever and i really find your tutorial helpful a whole two hours of studying went to 8 mins thanks very much
+Hi Bucky love your videos question what are the point to objects like why cant i do BuckysClasscoolsaying instead of BuckysClass buckysobject then buckysobjectcoolsaying if anyone can tell me i would very much appreciate it
+Creating an object from a class is known as instantiation 3
+M3GAFAST check out tornado twins unity tutorials
+Can someone explain the need for the buckysobject prompt when in mainJust by specifying BuckysClass isnt that enough to indicate the class and then you could just write coolSaying below Or is buckysobject more of a naming concept within main
+Can use getch for no Please click a button to continue
+Looks like bucky puts on sunglasses has got class
+Bucky for president Thanks alot for doing this dude 

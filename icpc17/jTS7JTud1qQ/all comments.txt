@@ -1,0 +1,500 @@
+thank youbut that all i understood but to understand better i need a live world example not the code just the example
+Youre never gonna get a job as computer engineer if you make your variables public LOL
+So first you assume all moms are complete computer retards and now you dont realize that females can right codeplease leave xD
+snati4  Douche
+William Wallace is one of Mel Gibsons many splitpersonalities
+broadude Oh then whos he
+The reason you might want to make variables privet is mabey lets say you make a game and you dont want EVERYONE to be an admin and do whatever they want so you would make it so only Admins can become an admin and mabey you want it so when they log in it sais there name like Hello Bob if Bob logged in variables are varry important and VARRY useful and used ALOT in professional games id run through his tutorial a few times till you fully understand them
+why can having class variables in public mess up a program 
+Just wanted to drop a comment on how great your tutorials are and how easy it is to understand I never understood why I needed getter and setter methods until now All universities should just link their programming courses to your Youtube channel
+But why do I have to take the long path creating a private variable and then having to make two public functions in order to get the variable when I can just make a public variable I dont understand whats the big deal
+ I have a problem not really a problem but mine works with out including string how
+Why did he make extra function in class include iostreaminclude stringusing namespace stdclass klasapublic    string funkcijastring n            ime  n        return ime    private    string imeint main    klasa objekt    coutobjektfunkcijazec    return 0
+if you are coding by yourself how would you know to do this lol
+Should int variables be private as well If so is the process the same for getting and int variable
+why make two functions if you can do this string getNamestring x name  x return name 
+How can we use the variable name in the setName and getName functions before the variable is declared itself I thought C had a topdown execution
+what is a string  dit you talk about it before 
+Just wanted to let you know you have made my life SO much easier with your tutorials
+broadude Oh thats so cool
+BUT WHY THE HELL DID YOU REPLY TO ME SAYING YOU WILL BECOME FAMOUS DOES IT LOOK LIKE I GIVE A SHIT GET LOST AND STOP SPAMMING MY INBOX
+brave heart
+dude i fucking love you srs
+so instead of putting then all in public you put them in private and then use functions to say for example PlayerPosition EnemyPosition just like that
+Braveheart l
+in setName function how does the program store something in name and it wasnt initialized yet 
+hello what is the difference between setName and getName i am confused about the two
+Braveheart
+thanks for the video Yes Ive heard Kills men by the hundreds And if HE were here hed consume the English with fireballs from his eyes and bolts of lightning from his arse great movie
+mom probably doesnt know how to turn on the computer let alone get surprised by a C source code 
+What if we have the user enter their name how do you do that And in the main why do we only call the set function and not the get kind of confused
+inputiostream namespace std  int maininta  intbint anserab    cout   This is a calculatorendl   cout    Enter a numberendl  cin   a  cout  enter another memberendl  cin   b  cout  Your anser is  anser endl   return 0   i write this but i keeps on erroring
+can someone please explain to me why he needed two functions rather than one couldnt he had just make the void setname into a string rather than void and then had added on the return
+Less CPU usage though it is not noticeable on most computers today 
+Looked at it 1000 times every inch every specific key that was typed
+Whats with all that I am 5  12 years old and i am fluent in Java C and 100 other languages including machine code in every single programming tutorial on youtube And not only programming tutorials also in math tutorials but not as often as in programming tuts And whenever i click on that kid all a see is Minecraft and Call Of Duty videos not so intelligent I think they just want to look like they are geniuses
+Ive been following along with your tutorials and changing Bucky to William so I typed out Sir William Wallace and got a good laugh when you said it out as I was thinking it
+can this be used with switch statements
+If you did all that so that people couldnt access the variable surely they could access the function to change the variable anyway
+you da best
+Are you calling it in main
+I am completely lost 
+Why not just have the return name inside the setname function of course change the return type as well
+Look I didnt say learning C was going to easy I know how difficult it is trust me Ive been there Your right about the book OK Mind you though I do remember a couple good titles from Herbert Schildt His teachings are good for beginners To be honest with you C is not a good foundation language you must learn C and learn it well first Yeah Jesse liberty is also a good teacher my old copy the pages are turning yellow   
+watched your videos and now i am teaching to my teacher in school also i am gettin paid by them
+still dont get about that include string tho why you include that
+Maybe Im just tired but I am totally confused Still love the Tutorials Bucky Keep up the good work
+Lol youre hella good dude
+thanks Eli
+These tutorials are amazing great recap on what Ive learnt from my last couple of books  exam is next week think I should ace it Thanks Bucky
+It tends to be something simple A lot of my errors come from having a line of code in the wrong place Is everything in the bracket set its supposed to be in
+Now to get around this problem you have to create a PUBLIC function that can be access outside of your class in main Because the function is usable outside BuckyClass you then code the function so that it is able to change the PRIVATE variable you created earlier By convention a function that does this is called a setter Every setter by convention has a getter function The getter function is also public and all it does is retrieve the info that is contained by the PRIVATE variable 
+What I dont understand is why if we cant have variables as being public we then define the variable x in a public function Can anyone please explain this to me
+Im still a little fussy on why it is nessesary to use a function rather then access the variable directlyi mean if you have to type the class name first ie ClassNameVariableName then dont really risc accessing the wrong variable as with global variableCould someone pls explane this to me
+MrReload888 it is pretty simple if you are still willing to give c a go this is pretty much all you need to know for this video Classes are a way to organize all your functions Objects are there so they can address your classes Easy
+Because its not returning anything its simply changing data
+Will calling get and set slower than accessing the variable in c Javascript will so i am thinking will c affect the performance
+what if i wanted to ask the user for the string in main rather than just setting it would the class still be the same
+1 week left in my C class Wish I found Bucky earlier in the semester
+I just wanted to thank you so much You saved my life with these courses Finally I can understand C Im in university right now studying IT and I have a C course and the professor is terrible I dont understand anything Thanks again Excellent work xoxo
+Braveheart  Real Irish historical freedom fighter
+to use String data type Do we need to include string header fileI tried once without including string header fileMy program ran sucessfully
+A public string can be directly accessed by say typing boname whereas a private string wouldnt be accessible its just good programming technique and saves you some trouble in the long run Also makes it less likely to accidentally make syntax errors with the string
+Man Im Confused I did everything correct but its not running and its saying CreateProccess  No such File Or Directory
+So I want to string x which is the the variable for my name which is equal to x and then return not x but name which will somehow find that name is equal to x which is the variable I want to find  This feels like giving 5 pennies to get a nickle so I can trade it back for my 5 pennies to trade it once more for a nickle  My head is exploding right now
+Likely due to my incompetence but I dont understand the point of this other than for security
+William Wallace Every man dies not every man truely lives Aye fight and you may die run and youll live at least awile and dieing in your beds many years from now would you give all the days from this day till then for one chance JUST ONE CHANCE to meet back on this battlefeild so you can tell your enimys that YOU MAY TAKE OUR LIVES BUT YOULL NEVER TAKE OUR FREEDOM Good turorials Buckey Pretty sure your like one of my heros 
+Well this is just fantastic Seeing how Im apparently retarded I guess Im stuck watching this video at least a billion times Smooth sailing until this point 
+Actually thats inaccurate Just like Braveheart
+Thats is a bad way to use variable and also a proper way to use variable Why we need to do all the way long to get the string from the private Since it is a variable why dont we do in a simple way likeint main string nameSir Bucky Wallacecout  name  endlreturn 0Can someone explain it further 
+Right so when would you make a variable public and exactly what problems could it cause Im basically asking where I can find this out if its not something that would fit in a youtube comment
+Or is it that anything in the parameters doesnt count as a variable
+thats not simple xx its confusing
+hi im 12 and in my function that returns the string variable i get an error that says the variable wa not declared in this scope
+I dont understand why using public class is bad
+RSFireworm999 Good Advice
+william wallace was a scottish rebel wasnt he
+You are the patrickjmt of Computer Science
+Why didt you just added coutnameafter the line namex in the function void setName instead of making more confusion with string getName to print out the name
+broadude Because you need a statement for the program to execute  Yours was blank cus there was no statement
+I showed my pubic code to his mom 
+Your simple explanations were very helpful for a beginner to quickly learn the fundamental Keeping it simple here was key
+errrrthats a semicreepy comment but Ill simply leave this post here
+the software he runs his programs through is CodeBlocks
+what compiler are you using
+I know its tough what helped me to internalize what he said was writing my own program that used the things I learned in the video ie making an Object Oriented simple calculator
+Thanks a tonbuddy I watched a couple of videos and theyre pretty interesting and informative 
+writing public is actually unnecessary isnt it unless you had previously declared an entire section private
+to show off C is generally regarded as the symbol of intelligence
+Thats called an opinion he probably covers it in later videos
+Thats a crazy assumption to make about Mom not knowing how to turn a computer on x Most moms can work the basics of a computer 
+tell me the difference between public and private
+if you dont set a variable in class private or public what is the default 
+To make them invisible to other classes this is so they can only be used by methods inside the class the private variable was initialized
+Is a single variable really worth going through all this trouble for
+Why do you have to place return name
+Thumbs up if you googled Sir WIlliam Wallace XD
+
+Thank you Bucky for saving the day  now i understand a bit more
+Yea its hella funny in his computer building tutorials theres a few times where hell say whoa there bessie lmao
+lol that subtitle generated tho xD
+Sugar tits Mel Gibson
+80 diffrent languages u roooock dude
+ifusercomcastREP cout  SLAP  endl return 0 
+is youre using visual studio remove the return 0 and add systemPAUSE
+i never could understand what is the use of includeiostream or includestring can someone explain 
+bucky they way u made the fuction print our the specific name sir bucky wallace was trough the parameters right
+what I need to activate to get suggested function or class name or anything that I have used before in the same file My program editor is not giving suggestions for preused function names
+heydude8999 because you might have the same variables for different classes The variables inside each class are usually only useful for the class itself to do something with it so main doesnt need to know about it Main just needs the functions from the class If the variables were public then if you used the same variable name somewhere else in the program there would be an error
+Give this Guy a NOBEL
+I TURBO C How to run this programm the header file Includestringh does not work  it gives error
+ok what is the worst thing that will happen if you make the variable public 
+Yay I knew William Wallace from the movie Braveheart D
+Says the guy whos never made a real C program before
+i finally understand 
+I find one problem with teaching Class so early on is that without knowing how to reference or point you are going to be limited to main and scope
+really really informative c 
+WTF IS GOING ON
+80 programming languages r u kidding me
+Sir William Wallace was a Scottish landowner who became one of the main leaders during the Wars of Scottish Independence
+What is the benefit in making your variables private and having to jump through hoops to get them
+I think this is the first video I see on youtube that the comments relate to the video P
+derivativesarecool you are correct but im actually related to the real William Wallace
+well then you can do GetNamebladebla
+2 people well do i really need to say it
+Sir William Wallace AKA braveheart was a Scottish lord during the height of the British Isles wars He overall kicked ass and sacrificed his life for his cause he also got laid a lot 
+In one of the previous videos bucky mentioned compilers compiles line by lineSo when it comes to line 8the variable name is not yet createdso the compiler should point it out as an errorright Thanks in advance
+Okay I need to replay this one
+That awkward moment when you write pubic instead of public then show it to your mom
+SenneTeddy than
+Ok so I get the concept and I was able to write a code on my own that outputs my Name Age Weight and Height but how do I go about it if I want to actually want to ask someone their Name Age etc and then retrieve it instead of setting it in the beginning as InformationsetnameStephanie Like what if I dont know their name and I want them to input it and then be like My name is BLAH BLAH BLAH whatever the user inputs
+Buckys tutorial is for beginners You wont absorb all of the technicalities through any tutorial or book That can only come from good ol fashion fucking up until you get it right That book is not for beginners Its for people whom are intermediateadvanced In this case youre comparing a noodles to spaghetti You start making spaghetti by boiling your noodles You dont just hop into spaghetti immediately
+Same this video is really confusing me
+So we dont need to call a constructor And therefore does BuckysClass bo implicitly call a default constructor
+I am so stupid I just went over this 5 times with the same error then figured out it was because I accidentally left out the r in string 
+can any one plz tell me why we use void
+Age of Empires taught me more than school
+FREEEDOOOM wifes handkerchief drops
+Because that sets whatever you decide as x to name
+Ive already figured it out after watching it again I thought I had removed that comment
+hey now brown cow is now hey nwornown dow
+BRAVEHEART 
+Thank you very much Buckyyou made my learning very easier and i always learn from your videos and seems like i have attached to your videos and you made my life brighter you are Genius
+This guys spelling makes me lol Hey now brown cow hey nwornown dow I think I picked up a chuckle in his voice when he wrote that lolol
+haha true Probably because people getting into this stuff are more intelligent and above all that
+awesome bro 
+so why do we use  include string now and not earlier
+cant you just put string name in the parenthesis why is x that important
+what is the point then for private someone please explain 
+He had to go take a train and a plane and a bus just to avoid making a public variable All just to get the program to print out a name
+How would I be able to do this with multiple variables Would I have to put each variable in the parameter where he has string x
+dat pubic void
+Sir William Wallace was a Scottish landowner who became one of the main leaders during the Wars of Scottish Independence I know this because Age of Empires II and i am part Scottish and English on top of it so its not that hard to figure out which civs i play in that
+is setName function fixed or can I name it whatever I want itlike void myName123string xname  x
+M3GAFAST Go back to the first video Watch it OVER AND OVER AND OVER until you understand it perfectly then go to the next one It helps D
+I am 15 years old just learning c BTW the name Sir William Wallace comes from the movie Braveheart
+Mess other stuff up later Very vague and still tells me nothing If you already have classes and call to the functions inside it whats the problem with that The functions inside wont call outside of the class unless it calls another class so whats the point of being able to call a function inside a private section if it wouldnt matter either way
+Whats up
+Im from the future so Im expected to be born within the next few weeks and I just wanna tell you guys that I reached a level of c with which I can Youtube comment in the past
+Hey now brown cow  hey nwornown dow Bucky logic
+thenewboston id be very grateful if u could make a text on your yt movies about C
+But does he look like a bitch
+Hello I get a red underline at line 21 At the Insertion Operator to be exact It says No operator matches these operands Can anybody help me Please
+Why is setName void 
+This was the hardest one to follow so far After watching it like 6 times and pausing it so I could see the full code and writing it 2 or 3 times I think I got it now I think Would have been better if you described in detail what each line and word or whatever was doing though I had to run it through my head a few different times before I was able to make sense of it Im still a bit of a noob but heres my understanding of itclass DrunkManpublicvoid setNamestring xname  xstring getNamereturn nameprivatestring nameint mainDrunkMan objectobjectsetNameLemmycout  objectgetNamereturn 0class is just an organization of functions that are in the same category more or less The words after it are just its titlepublic means what can be directly accessed by int main and private means what cannot be accessed by int mainvoid means has no value and wont be returned to callersetName is defining the title of the first object or function or whatever in the classstring x is assigning a variable to a line of textname  x is saying that the string x is the string name down in the private bit of the functionstring getName I think is saying that the second object is going to be a line of text with the title getNamereturn name is saying to return name which is also string x back to callerstring name is defining the title of the line of textint main is just the main function that runs everything I think DrunkMan is the name of the classobject is both defining the word you will use for the objects above as well as saying that you want to use an object I thinkobjectsetName is saying that you are selecting the first object in that classLemmy is now what the string x says and thus the string name in the private bitcout is just saying to print on screenobjectgetName is selecting the second object of which is returning the string name and thus printing it off on screen
+I only know William Wallis was a Scottish Revolutionary guy who fought the English to make Scotland its own Country There is a film Brave Heart about it not sure how accurate the film is to the truth though But I am not sure if he meant that or if he was talking about the actual history of the name
+bc its easy to mess up isnt just about everything in life easy to mess up yea thats confusing 
+why the variable is at the bottom of the class how can the funcions acces this variable  PC is reading the program from the top to bottom isnt it 
+in the setName function why is the argument string x not string name
+Why are you even talking to that Cereal Killer
+why all that stuff to print only Bucky robets
+i havent had 1 single problem with your tutorials so far but this one seems to be incredibly hard
+By providing functions to access and set the value of the variable you have greater control over what values can be assigned to the variable and the effect of changing the variable For example lets say you had a driving game and you had a variable for the colour of the vehicle Whenever the function setColour is used you would be able to make sure it is a valid colour eg blue red green You would also then be able to call another function to actually update the colour of the vehicle
+You are really an awesome teacher I respect you man Thank you so much for the tutorials Tutorial 12 and 13 just cleared all the confusion I had about classes Thank you again
+FREEEEDDDDDOOOOOOMMMMMMMMMMMM
+Freeeeeeeeeeddddooooooommmmmmmmmm
+Thanks for posting this video Sir Bucky Wallace and with this said we honor you with the second Knighthood the first knighthood being conferred by the Queen herself lol so from now on we shall refer to you as Sir Sir Bucky Wallace Great job and thanks for sharing
+yesterday i did my first program using privates variablesand it really involves FAR MORE coding than usual i wanted to make a simple program that multiply 2 numbers and print the resultthose 2 numbers are added by the userwhich means that i must use CIN but everytime i did it i got an errorfor now i can only make programs with values that i already give to the variables how do i make a program that allow users to introduce numbers through the keyboard using private variables
+help i cant understand what is string please help
+what ya also need to know is that there is alot more stuff out there that bucky isnt teaching That isnt because bucky is bad ofcourse theres just to much to cover Especially on algorithms knowing what statements go in loops stuff like that and its one of the most important subjects Also databases may confuse you in the future
+I understand it now
+yeah im sorry but there NO reason why i want togo ahead and write all that when the wrong way as he said in the beginning worked just fine and was WAY easier to write outso bucky im sorry but till you give a good example on HOW this can end up not working out for me despite the fact that even tho you just did it it worked out just fine  i think everyone will do this simple wrong way  even om some forums i hear that using private is bad practice and in here i hear you say the opposite THIS is why all the confusion happensthere no wrong way its all the same
+Doesnt william wallace come from the age of empires 2 campaign
+you should make a calculator and see if this answer is true
+Sir William Wallace was the guardian of Scotland and was captured by England and was hanged by King Edward the First of England 5th grade history comes to mind Im now in 6th lol
+It seems kinda hacking D
+great teaching
+william wallace  BraveHeart best movie ever
+This video goes over a programming concept called Encapsulation If youre still confused about this just do a youtube search for it and youll learn moreAlso there tends to be confusion about Functions vs Methods One naming terminology goes like this If a Function is nested in a Class its called a Method If its not nested in a Class its just called a FunctionThe reason for these two names is that it makes it easier to talk about functions If someone talks about a method you know immediately that its attached to a class and must be assigned an object to be used On the other hand if they talk about a function you know that you can just call it directlyI hope this isnt too confusing 
+Hey ive got a question Couldnt have he just used return name in the setName function and then later either gave the return value to a new variable inside main or just used the function inside cout This kind of looks like a lot of code for something so simple I understand this is just an example but i was just wondering
+Love your vids You won me over by the Will W referenceCheck out Scottish Chiefs by Jane Porter
+I dont know how Is done it but it seems live Is done it When I compile my program instead of showing me what the first portion of this videohavent watched past 247 shows Bucky it shows me the previous code from last video I dont know what is going on
+Shtring  P
+bo  Buckys Object
+why is this neccasarydammmmmmmmmmmn you agi sgduiag jsahtieAGFASHJEGABZAG PBBU Gerbg bghviahduasjbhagb ah
+Lijrobert LMFAOO it was the top comment but mine took its place lol it was long time ago I forgot what he said I guess you should go back through comments x
+WaitWilliam Wallace wasnt a knight was he Whyd you say Sir William Wallace
+BUCKY you dah best mangggggyou make this so easy for me
+because its a string variable not a function
+why dont you just return the name in the SetName function
+same thing here but trust me just keep trying and youll get it
+I believe it is CodeBlocks Google it and will come right up its Free as far as I know 
+Hey guys im 14 and iwaitwhatno one caresreallyok 
+thanks thats what i needed to know much apreciated D
+Hello guys I followed this tutorial step by step and Im getting an error when Im trying to run it In function main undefined reference to meme Where is the problem Everything has been done step by step following the tutorial
+I understand the code whats going on I also have my code written exactly like yours But when i run the project all I get is blank Is it cause im using a newer newest version of codeblocks
+How does the getName string work
+thanks so much
+Is it because youre attempting to assign a private class variable using cin If so the solution would be to put the cin inside a public function inside the class
+030 hahaa you rock
+what compiler do you use
+so clear thanks so much
+Ive found these by accident and decided to watch thinking the whole series would be pretty amateur and not including much about proper practice but the getters and setters and encapsulation idea took me by surprise and my view on the series to a whole new level You do know what youre on about Bucky 
+Lol
+bo also stands for black ops P
+I think cause your declaring the variable x as name but you want name to equal x so when you use the setName function your telling it to use what ever is stored as string x Hope this has helped Im still learning so this might not be all correct check out cplusplus website for help with C 
+So youre making it private only to make it public but its still private I understand you make a public so you can access it in the main function Im just confused as to how it matters if its private if youre making it public I think I just dont understand the private part When would you only want to set it to private to only use it in the class Can you give me a scenario where that would occur
+BRAVEHEART
+Thanks
+dude what did he say just wonderin
+Youre awesome but you cant spell for shit
+Method and a function is NOT the same thing buckyy Function in a class is called a method and function outside a class is called a function
+y would u ever say the wrong way
+William Wallace one could say Bravehearts Mel Gibson or the real William Wallace that he portrayed who fought for Scotish Independence Gosh I dont want to scroll into all the comments here wondering how many times this got answered lololol
+Only after watching his family and wife be butchered and then tortured for a few days
+Im pretty sure braveheart was the name of the film about William Wallace Not his nickname 
+Its CodeBlocks he showed on the first video of the serie
+you needs some Help  asap
+SirRediazVh first try to work with notepad batch files then this is a lot easier
+I think William Wallace was a famous Scottish swordsman from way back in the day I only remember him from Age of Empires II 3
+I like this
+Thanks Bucky
+Oh my gosh you are just hilarious yet i still learn heaps from you damn keep it upD
+i can understand the need for private and public functions but it seems like it isnt really making anything private i thought private would be for variables you dont want anybody to be able to change here it seems like only the name of the functionname is private but the data it represents sir bucky wallace is public so i dont really see the point anyone help me out herenew to c a 2 day noob
+Im on 13th Tutorial i get all the other ones and this one is quite messed upyou are not explaning the String file and getName function well its confusing
+Thanks to you bucky i got 915 Marks in my first semister
+hey nwornown dow  These videos are helping me so much Your an amazing teacher
+this one was a lil rough it took me a while to run it without any errors
+i dont understand why PRIVATE is a thing You are still able to setget the private variable indirectly can you help me understand with a situation where i do want to make it Private please thx
+Hey now brown cow Lol I officaly find Bucky random P
+saa442 Makes them easy to mess around with by hackers and such thats the impression I got at least
+Is there any Tutorials for INLINE FUNCTIONS  Im so undone with that thing 
+hey nwornown dow xD
+Who is here to learn how to make a sprx mod menu for gta 5 with c
+I dont know Ive never included it
+If this video was hard to follow then you didnt understand the 12th video to begin with lol
+This really helped Thanks alot 
+sooooooooooooooooooooo you dont have to declare things when using classes eh
+Shtrings
+youthere are much more basic stuffsuch as pointersarraysclasses and private classes is so much for beginnersits too early for this stuffvery good teacherbut i combine him with another video teacher and 23 forums
+M3GAFAST Most people dont start programming until they are in College Secondly this is one of the tougher beginner lessons You definitely need strong Algebra skills and Thinking outside the box math skills At the end of the day you are going to have to come up with Algorithms that solve problems These problems can only be solved doing math and sometimes you have to get very creative A beginner example would be to make a program that accepts 5 numbers and prints out the highest 
+Awesome vids Bucky Question on the name functions Could you also just create one function that does it all Say I have this class example publicstring getNsetNamestring x name  xreturn nameprivate string nameWould that be doing the same thing
+Cus its in the same function P
+so whats the diffrence between public and private they are still doing the same things  initializing string name
+William Wallace is related to the Crawford lot as it said on some house program recently
+After watching this for 7 times I finally understand how to use variables in classes Thanks Bucky there goes new subscriber
+Aye I know where the name Sir William Wallace comes from But first I must have my Freedom
+didnt get it at first too but when he recapped it made sense
+Can someone actually explain to me what string is for  And differences between int and void 
+Braveheart
+CloudDecim wth is that supposed to mean
+80 different language o u serious bro 
+If the computer reads the program from top to bottom how does it recognize the string name which is in the public class before he has officially set up name as a string in his private class
+bucky i dont able to understand the private but i was clearly got the public could you please eplain the private
+when ever i run this program it gives the output the name of the string ie any sets ubject insted of value inside the parametr
+Since we are setting and getting the variables using the public functions we are essentially accessing the variables from outside the class indirectly so why is it a wrong practice to use the variables as publicplz explain
+why i cant get this work  it start but it does not showing what i writethisi s codeinclude iostreaminclude stringusing namespace stdclass Merhat   public      void setName string x      x  name            string getName       return name        private    string nameint main    Merhat Welikiq    WelikiqsetName GJ    cout  WelikiqgetName     return 0
+So this is great information I guess my question is do you have any challenges that can go with this material IE make a program that does x y z If not do you know of any websites that I can go to that can offer this
+Oh god I love you Bucky i would love it if you blew your load of coding knowledge all over my face Oh gawwddd please GUI my interface before i EXEplode Pls respond
+the function setName is already include the name in the class what is the use of private string name over there
+Ok so I get this errorError C3867 MyClassgetName nonstandard syntax use  to create a pointer to member test This is my code include iostreaminclude stringclass MyClass publicvoid setNamestdstring x name  xstdstring getName return nameprivatestdstring nameint main MyClass myObjectstdstring namestdstring changeNameOptionstdcout  Enter namenstdcin  namemyObjectsetNamenamestdcout  Your name is   myObjectgetName  stdendlstdcout  Do you want to change your name YNnstdcin  changeNameOptionif changeNameOption  Y  changeNameOption  y stdcout  Enter new namenstdcin  namemyObjectsetNamenamestdcout  Your new name is   myObjectgetName  stdendlelse if changeNameOption  N  changeNameOption  N stdcout  Your name is still  myObjectgetName  stdendlwhile true return 0
+what does the include string does please someone
+Scotland
+Im 12 what is this
+how come he doesnt put  behind string name in the private class
+I TRIED LESSONS 12 AND 13 BUT IT SEEMS THE CODES IN 12 OVERIDES THE OUTPUT OF LESSON 13 I TRED USING DEV C SAME RESULTS
+Mhmm cottonmouth I see what your doin
+Bucky you saved my ass
+NOVAphenom  who is this bitter bitch
+Doesnt william wallace come from braveheartthe movie
+he used string type to GetName function because he needs to return a string type if he used void  he cant return any value therefore  he used a string  and void in c means return nothing just execute
+Like this if you googled Sir william Wallace
+Why dont video games let the user decide whether or not he won Or how many points he gets Try to write your classes in Private as much as you can By taking a few minutes to add gettersetter methods to a class you have made your classes extensible and saved your company countless thousands in mantenance costs It doesnt cost anything in CPU time inlined functions make direct accesses and even if otherwise procedure jumps cost a lot less than people are taught to believe
+William Wallace is a Scottish warrior who gave Scotland its freedom by defeating the English army after recruiting more people who wanted independence They fought for there land which is still Scotlands today William Wallace Great warrior 
+my code is the same as yours but it wont wok 
+Hello I would like to ask why the computer didnt freak out when it got to line 8 and saw name before it was declared Thank you in advance D
+Your setting the variable name to the value of x so when you use the setName function which if you follow along gets turned into sir buckyetc  it sets that x value to that string your first creating the variable name in private for security reasons etc then using that variable in a public function which can be used anywhere questions 
+713 FREEEEEDOOOOOMMM
+Okay Need to clear some of my doubts here Can anyone tell me the different between class and struct  Because I know that both need object to be use inside main but I need more explanation 
+Oh ya he was hanged because he was of his high treason against England from leading battles againts England
+Dont worry it comes with time and practice If you truly want to make a program easily then I recommend Visual Basic The language is fairly simple to learn and it has a great interface Visual Basic is a good basis for learning programming then progress from there  Bucky even has videos on Visual Basic Although done by a different person but on his channel Visual Basic or Visual C are both good starting points
+His highness sir bucky wallace has a browncow 
+Could someone please explain to me why he used string getName instead of void getName
+why does the variable name become capitalized when put with set and get in front of it
+Im kind of confused How come the variable name did not have to go before the functions getName and setName
+Thumbs up if you did understand this tutorial
+Hey can u please share the link of your compiler
+Love your videos but  just to be precise I feel like someone have to correct you when using naming conventions In C the functions inside the class should be called member functions not functions and not methods  methods 
+I stumble across source code every now and then that use getters and setters in objects yet make all their fields public as well
+Do i need this
+does making the variables public pose any threat
+Make sure you have the include iostream include string headers and make sure you have no spellings
+you cant printf only works in C
+I made a fully functional calculator yays Thanks Bucky
+Anybody else unlucky enough to have Turbo C in their school course 
+But great tutorial D
+OK guys im stuck at somethingnothing to do with this tutorialbut close i have 1 class in the main function i create it  then in another function  move  i want to move the object i made in the main function so in short void move  i want to move the object i made how  int main  myClass myObject move  
+Oh damn its getting hard to follow
+Thank you Bucky for such a brilliant tutorial Woo Good thing that Ive subscribe you Thumbs up 
+Why do you need an object for a function couldntwoudlnt it be easier just type ByckyClasssetNameSir Bucky Wallace 
+Braveheart   sir william wallace
+It is weird There are people here who cant get some things I am 13 and everything makes sense
+Shes mom is a programmer xD 
+Can someone explain when I dont put the include string the program still works HELP
+includeiostreamincludestringusing namespace stdclass anannyasclass    public    void setNamestring x            x  name        string getName            return name    privatestring nameint main    anannyasclass ao    aosetNametasnim    coutaogetName    return 0why it prints nothing
+dude this is lesson 13 wtf are you talking about I think you skipped ahead way too fast
+Can anyone help me with these 2 tasks pleaseI need them for a C examhttpgooglMCdafXthenewboston
+Some of the reasons to do things this way is so you can say check to make certain the length of the name string is valid you can do this in the class without changing any other piece of code in your program  The setName function is still the same but now it could include code to check the length other error checks etc  It can be modified at any time on how to handle setting names without you changing any other part of your code where it sets it only the class itself needs to be changed  On tiny projects like this it doesnt make sense but if youre working for a living at this or even on your own on a large project with multiple files which could have a large number of calls to the same class you want to be able to adjust these things by only changing one piece of code in the class and not have to search down every area in your code where you used it  Its also more secure this way you can enforce limits in your class etc just countless reasons to do it this way the right way as he described  Oh one other note in a class everything is public by default there is no need to actually enter public in there just put all your public functions first and then put in  the private keyword along with your private variables etc after it
+Will someone please look at my code and tell me if its alright It compiles and works i just get that shaky feeling like it could fall apart If you could look over it and tell me if its good practice or bad and why It would be really appreciatedinclude iostreaminclude stringusing namespace stdclass DoppyClasspublicvoid setNumint x int ya  xb  yint getNumreturn cvoid addNumcabprivate     int cint aint bvoid inNumint x int yint main DoppyClass ec1int xyinNumxyec1setNumxyec1addNumcoutec1getNumreturn 0void inNumint  x int ycoutPlease enter your first number endlcinxcoutPlease enter your second number endlciny
+Technically getName is a method here A method is a function associated to an object The reason Java only has methods is that everything is in a class
+william wallace  we had a mission in campaign in AGE OF EMPIRES where we had SIR wiliam wallace Am i right
+Is yours We know she certainly isnt an English teacher
+Youre never gonna get a job as computer engineer if you make your variables public Well thats just rude
+Would it not be better practice to declare the private variables before the public functions
+How do I know when I should use   and when I shouldnt
+keep it up i dont know what i would do without your tutorials
+a new programming language made by BuckyQUICK SOMEONE MAKE A COMPILER FOR THIS
+believe its not pointlessmaybe for now but once you start to think of more complex codes and etc that will be extemely helpful
+How can a variable name declared in private be used in public  Can anyone please clarify 
+William Wallace was the best unit in Map Generator in Age of Empires II the guy from Braveheart and a legend from Scottland or something William Wallace is a legend and we will never consign him to oblivion
+because the compiler reads from left to right In the video x was setgiven to the variable name name  x
+why cant you just use char as the text variable identifier
+BRAVEHEART LADDIES
+I like c cause I learned a little bit of java and it is very similar What I dont like about c is that it doesnt have class files Java uses the create object almost the same exact thing
+i didnt do too well on the calculator tutorial
+as I remeber functions do not return STRINGS nor ARRAYS 
+Can anyone explain why we need include string because I deleted it and it still worked
+Hi
+oh mando I love this guymy teacher should take some lessons of this guy
+You lost me until half way through the video Then I was like Oooh I get it Nice tutorials man Youre awesome
+MrReload888 need help 
+You know 80 different programming languages Oo
+0037 s vs 0026 s
+may I know what is flag
+Whats William Wallace got to do with anything D
+acrazyindian you will find this out sooner or later
+Hey Can plz give me live world example where we can easily implement this practice because it will really help me understanding this that y to use this practice  plz  reaply as soon as possible 
+Cottonmouth hahahaThis guy can explain things well and is funny without even knowing it Great series
+for example if you dont want the programmer or program accidently edit a variable you can make it read only with private modifier and a public function that returns the private variable in c its called encapsulation and its easier S sry for bad english
+what IDE is that 
+How do you write code so neatly only to butcher the phrase Hey now brown cow like you were drunk as a skunk and trying to text someone shivering in the snow Im only curious
+Actually it is really good to use private declarations because from experience it will cause problems when using publicSay you were making FIFA 15 with C and you use public it means you will need to have like name  Arsenal but you cant use name  Chelsea because chelsea will overwrite arsenal so yuo will need to use Arsenalname  Arsenal chelseaname  chelsea and that will be effort for more than 2000 clubs so its better to declare them private so yuo can access name  arsenal and name  chelsea by just calling them from their classes class Arsenal    class team        class player            function properties                first name  Carzola                 last name  Santi                 age  2000 yearsclass Chelsea    class team        class player            function properties                first name  Drogrba                 last name  Didier                 age  2000 yearsif you  declared the sub classes as public it will be too confusing and there will be a lot of repetition and the programmer and the program will suffer                  
+You can use a variable of a class in a function of the same class without passing it as argument or why the function getName returned the name without passing it as an argument of the function ie getNamename someone who could help me please
+Okgot itbut WHATS THE LOGICAL REASON TO MAKE VARIABLES PRIVATE
+how to coop with 2 parameters where is the mistake pls helpincludeiostreamusing namespace stdclass Myclasspublicvoid setDigitint xint ymoneyxageyint getDigitreturn moneyageprivateint moneyageint main Myclass momosetDigit10023coutmogetDigitreturn 0
+William Wallace was a Scottish rebel and was featured in Brave Heart 
+So let me get this straight You use classes to basically organize certain functions to call them when needed in your main function The classes have two parts to them public or private The functions in the public part of the class can be accessed by the main function however the private functions are not accessible by the main function To make them accessible you need to make two functions within the public section of the class one to give the ability to change the variable value
+I dont understand why you cant use return name under set name and then output it
+hes from the movie braveheart but he was one of the leaders of the Scottish rebellion against king edward England
+ok im confused 
+Bucky these are great tutorials Thank you VERY much
+Newbies P
+Wasnt you suposse to get an error since string name was not declared yet when you called bosetName or this wont apply to classes
+When we are programming these simple programs it may seem useless to have indirect access But when you are making larger programs you will have many many more variables and functions Things may get confusing and muddled up The last thing you want is other functions accessing and changing variables This is why it is better practice to use get and set methods It is not wrong just tidier and gives less room for error D
+Is the following code the best way to do it Its awfully long is there any way to shorten itclass Strings publicvoid setString1string a string1  astring getString1 return string1void setString2string b string2  bstring getString2 return string2void setString3string c string3  cstring getString3 return string3void setString4string d string4  dstring getString4 return string4privatestring string1string string2string string3string string4
+We call em STTERS AND GETTERS THANKS BUCKY
+Wow this video and the one before were extremely helpful Ive been trying to wrap my head around classes for a while now and I think Im getting it now
+x is the string he chosen in which will be stored the name we wantor phrase The way we do with strings its the same we do with the integers int but strings as bucky said stores names andor phrases and int stores numbers PS You can name a string how you want they simply store words not number characters  Im sorry for my possible mistakes in english I am not that friendly with this grammar
+Do you need a different object for every variable
+i dont really understand the line string getName why you used string instade of void thats my only question
+Damn too hard man
+You teach much better than my tutor in college 
+Thats ok Just watch the video again until you understand it
+Matija442 with the function setName you must pass a string variable and if you have return in there it would return the variable youve just passed with two separate functions you can call one to change the variables name and the one to get back the variables name So in short no you cant have return type in setter function
+ah it was because I used do instead of bo when i typed in do it was in blue and bo wasnt is do meant to be another command or something
+who ever designed this computer programming shit did a horrible job
+could someone please explain me why you cant just use the string in private I know he said that its complicated but I dont care
+What is a stringhe explained really bad can anyone help me out
+again very good explaination sir Thanks 
+I totally agree 
+because if you can brake down some process in parts function  do it later on its much easer so you can set name few times without returning it and when you want to return it you call get name so you dont need to set it again it will be clear when you get to more complex problems 
+I love you and your tutorials
+So many typos  I should of spell checked that one
+hey buddy I tried the program you made but the compiler is showing error that string is undefined symbolI have include iostream as well as stingboth with hPlease help I am using TurboC
+William Wallace is from Age of Empires II 
+for more coding xD
+SOGGPurple Its always good to have an early start That way when your friends decide to start learning C you can teach them 
+Programming is not that hard just follow the tutorials one by one and make small useless programs about everything you learn to practis your skills search in Google for other surse codes to understand how the pros do it and if youre really interested go download a pdf version free or buy How to think like a computer scientist C Version its agreat book about C and will give you the skillset to learn eny programming language easaly
+Love sir much respect for teaching me i was so much out of knowledge and exam is tomorrow
+William wallace Braveheart
+If a computer runs through the code top to bottom how was he able to use the variable name in the function getName and setName before the variable was declared Shouldnt he get an error
+perfect video extremely understanding you have just put things inside my brain thanks
+Sorry I couldnt help
+Braveheart lol
+SOGGPurple haha Im a beginner Just a high schooler trying to support his robotics team
+Hope you guys will make it to the end of this series
+so is string just replacing int when we were using numbers so instead of setting a number variable we are setting a word string variable
+HI i have a doubtgreat video instead of writing void cant we write string setNamestring x
+is anyone having problems with codeblocks autocompletion my classes and functions arent popping up Dx
+Maybe Wallace is the last name of the girl you met at the store when you made the ObjectiveC or iPhone Development tutorials
+Sir William Wallace was  one of the main leaders during the Wars of Scottish Independence
+william wallace is a scottish hero right
+o hey nwornown dow is the new encoding meaning hey now brpwn cow I once saw a documentry about shakespeare complaining and being concerned that the english language is becoming hard to control and to make sense of i think if he saw that he would commit suicide 
+Wait cant someone screw up the public part of the function that affects the private string essentially doing the same as if they screwed up the private function if it wasnt private
+He made them into modules is the best way I could explain it If we was only going to use that class for setting the name then calling it then yes you could do that For example when you create a character in a video game you set the name and then it gives you a confirmation repeating the name now that you have done that you can see your character screen in order to see you name you wouldnt want to have to call that single function and have to rename your character every time would you
+I only know Marcellus Wallace
+if your using more than one string would you have to make another function just to return it 
+Im 13 and this is helping me a lot Thanks Bucky 
+have you found out yet 
+everytime you should say s you say sh and most of the time I dont care but when you say shhhhhtring its really annoying
+madoubled cout was just to display text on the screenthe string bit at the top allows you to set the variable as a stringso i think
+Nope You cant EVER return anything from a void function That goes for any coding program you use regardless of whether its xcode or not Void ONLY does stuff Currently your getName function isnt getting anything Its just printing a variable To get the variable then print that you would need to do something like string getName  return name  Then in your main MyClass classObj cout  classObjgetName Hopefully that clears things up for you
+No I didnt not get a reply 
+What if I want to put multiple private variables in 1st class
+im doing exactly what this says and ist give me the error nonstandard syntax use  to create a pointer to member
+how do you use multiple variables this way
+LOL Bucky i know William Wallace im scotish D
+It may look like that because everything in one file But classes can be on separate files And the messy thing is to do everything in one file Be patient I bet Bucky gonna show how to make classes on separate files
+Been doing well with these but this one Eek kind of lost
+Im 6 months old so all the 12 year old programmers why are you complaining
+which compiler you are using
+can somebody clearly explain the second part of the video
+What are a list of all classes you can use with the include preprocessor directive
+can you put one functions in this class and in this functions U can set the variable and return it 
+dude this is so confusing i typed the code just myself only to find out no errors nor any outputs i matched my code with yours but found everything correct took me half an hour to figure out that if you put xname you wont get the same results as namex so anyone who has stumbled upon something like this i hope this helped
+I had to watch this twice to get what the string was all about Its basically like int but for text variables
+I wonder whats the big difference between private and protected thoughIs protected something like static while private is still dynamic Or is it the sameAnd did you really needed to copy setName over set LEL You couldve just typed it wouldve been easier
+ Example programinclude iostreaminclude stringusing namespace stdclass BuckysClass        public        void setnamestring x        name  x        string getname        return name        private    string name    int mainBuckysClass bobosetname bucky robertscout  bogetname endl return 0
+Babbys first language
+How about declaring private string name before public  Because it works fine
+Hey Bucky how did you set your c such that then you clicked a variable it highlights all variables in red btw Im using Visual Studio Professional and Im loving your tutorial videos D
+Hey guys Im 3 years old and I understand this tutorial perfectly I dont know how you 12 year olds struggle with thisYes age is indeed relevant
+bucky can you please explain in short why name  x  i am confuse here 
+schchchchchchctring
+Hey I Highly recommend to make ALL of the Tutorial Practices I did that  each console application With this Name Tutorial1 Tutorial2 etc etc etc Ohh and in the code ADD NOTES after your write something important or something that you might forget add  Double Slash and everything that you write from there will turn Gray and Will not affect your code in Any Way  Example include iostream this is an objectoriented library etc etc ect
+You didnt ever really explain why youd ever want a private section in classes Youre just hiding it from yourself
+AGE OF EMPIRES TWO
+Hi guys Im 20 oh wait you bakka fucking gai jin As if any one cares 
+Since the compiler reads from left to right the correct way to write that sentence is namex
+it is not working if i say xnameAnyone know why
+but a string can also be used as a function right Like string getname
+Why do we need to include the include  string I tried to use all of this with out putting that in and it worked fine
+What other languages does he do videos on When I take other classes I would LOVE to watch some of these videos as well 
+thank you man D 
+So variables being private is better practice but sometime and some variables need to be public Ok what would be an example of a variable that would need to be public
+Yes but there he is declaring a variable not a function
+The reason is because Bucky is showing a really simple program that uses a class A class really is used to do something really really really specific in your prorgam And instead of writing the code for something that specific in your main you create a class for it because its so specific For example  you might have a program that compares Polygons and so you might create a Rectangle and Triangle class that sets and gets the length and width and a function to find the area and perimeter 
+Is there a way to have the user input a name instead of using setName in main to declare the name 
+and i had question for you buckyi had learnt PythonSo in it we simply return the values in a function by writing below return and the variable in the same functionBut here you made a different function getname
+How does the compiler know what the variable name is if you are not declaring it until after the functions
+Everyone Hey now brown cow Bucky hey nwornown dow
+Its not safe as in security but more about stability If a variable is inside the function then the class wont remember it between function calls It might seem excessive with simple float values for multiplication but lets say youre using a vector to keep track of many X Y pairs for coordinates it becomes ESSENTIAL that you maintain the x y x y x y order one mistake and all data afterwards is off by one lead to out of range errors and its a pain to debug
+Easy  simple  clear  Thank you 
+Yo I would like to know why does the very last part not give you an error You declared the string variable name after you started changing it how does that work
+Ive deleted everything restarted my computer and it still shows the last program
+Posibly to save the memory
+Just a little question I tried to type cout  name in the getName function to see if I can do that instead of typing in cout  mahObjectgetName and just type mahObjectgetName but for some reason the program runs and doesnt print out the name I set Im a little confused Oo
+pretty cool ha
+Thanks a lot  i was wondering if we can put the setName and the getName functions together in one function public void setgetNamestring anameacout  a  endlits working  but is it right 
+Sir William Wallace P
+hey guysim an unborn chinese fetus and i already speak c java and phyton fluentlyonly a noob will struggle to learn c
+This is awesome learning and all but how can I remember all of this 
+make sure your  and  are facing the correct direction
+BRAVEHEART
+I would like to mention that Im sitting here watching this video and you caught me offguard at 709 because my name is actually William Wallace Good
+cant we change private to public instead of writing the new public code
+why did i get an error on line 19
+ya no I find that axesin class variables wen their axes specifiers pvt  axesin them via public functions is as good as makin the class variables public I mean youre just indirectly makin the pvt class variables publicso just to make simple u could put up that bad programming practice doesnt make much difference to me wether the variables are indirectly made public usin public functions or makin them public direclty
+MrReload888 Bad choice its not really hard to understand just watch it over and over again until you understand I paused my C learning many times and that caused me to forget a lot of stuff I regretted that later cuz I wanted to learn it again so I had to start over Dont do that 
+Programming drives me crazy Im sitting at 2 am trying to create a programm like this searching the video like 9 times and finally find the problem Just spelled the object wrong once
+i got a c exam on monday and i heardly know how to program
+one class to declare them allone class to find themone class to call them all and in the function define them
+please also share a lecture on strings as it is very difficult to understand this without the concept of strings
+owwwwwww no you didnt
+once these tutorials are done how can we utilise them is that answered later 
+if we want to print sir bucky wallace why dot coutbosetname i mean why do we have to make a return  just cout the the bosetname
+Im just here for the William Wallace commentCarry on 
+braveheart
+Braveheart Go me 
+It took me a couple of watches but I get it now I was confused on the whole setting a variable as a string especially as on your screen the string comes up in gray and not a different colour it took me a while to realise the word string was identifying name as a variable
+And why would you show a program code to your mom
+And got hungdrawn and quartered
+Shtring Shtream Not that Im nitpicking but I find Buckys english accent interesting
+Okay first the string part is an identifier like int or void but since this is just for text its string Then what it does is essentially like the usual return x or whatever you want to return in any function The thing is it just returns name which it already has access to since its in the same class Basically the function is there so you can use name from the class with just that after its already been set some textinstead of going through a function where you need to add the text
+The concepts of class and data structure are so similar that both keywords struct and class can be used in C to declare classes ie structs can also have function members in C not only data members The only difference between both is that members of classes declared with the keyword struct have public access by default while members of classes declared with the keyword class have private access For all other purposes both keywords are equivalent cplusplus dot com good resource
+This is probably the easiest thing you will ever do Do I hear this every tutorial D 
+Well yes I dont know where else I would I followed the exact same format as Bucky did except that I added cout  name into the getName function and in main I typed mahObjectgetName
+I watched this video 7 times i still dont fully get it
+I actually learned how to code by following good tutorials on how to make a certain type of program as they explained how it works But what you advised is still good because still today been programming for 67 years now I put in comments to refresh myself on how the code works 
+cput LOL
+You have to give us more detail than that
+Is it good practice if you declare the private function before the public one it works just fine at least in your programIt seems more intuitive to me to do that first you declare what you are going to manage and then you configure the way to get access to it
+Im not too sure but thats what bucky said Bucky knows all
+When you declare a function with a variable type for example string getname or int getage it means that getname will RETURN a string or getage will RETURN a integer It doesnt mean that it IS a string or an integer Sorry this is the best way I can describe it but if you want more you can just rewatch Tutorial 9 and you should get it
+Why doesnt line 8 give an errorIt says name  x which is fine except for the fact that the string name has not even been declared yet
+MrReload888 its pretty logic to be honest but you just get too much info in a small amount of time Watch the vid type what he types and test it to make sure you did that correctly Then take a 2 min break watch the video again and take notes of what he says and try to understand it Write it in your own words when you understand all the steps and then boom you got it Its really not that hard but the previous vids were just a lot less complex Goodluck
+Took me a while to actually understand this
+how can i code it if i want to prompt the user to enter the name and store in the private variable
+that means that if we want to build variables in private we need to create two functions for every one of variables  isnt a lot of work  
+Saves memory when running a program It makes it easier on a computer if a variable is only called in that one class to make it private If its public and never called in another class then theres no point to making it public anyway It may save 000001 memory when running the program but that still saves memory
+ALLtheNAMESare7AKEN Well I learned C first and I have to say that also works vice versa
