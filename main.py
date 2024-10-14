@@ -27,13 +27,14 @@ def crossVal(classifier, X_train, y_train, X_test, y_test):
 
     # Cross-validation scores
     f1 = cross_val_score(classifier, X_train, y_train, scoring='f1_weighted', cv=10)
-    print('F1: ' + str(round(100 * f1.mean(), 2)) + "%")
     accuracy = cross_val_score(classifier, X_train, y_train, scoring='accuracy', cv=10)
-    print('Accuracy: ' + str(round(100 * accuracy.mean(), 2)) + "%")
     precision = cross_val_score(classifier, X_train, y_train, scoring='precision', cv=10)
-    print('Precision: ' + str(round(100 * precision.mean(), 2)) + "%")
     recall = cross_val_score(classifier, X_train, y_train, scoring='recall', cv=10)
-    print("Recall: " + str(round(100 * recall.mean(), 2)) + "%")
+
+    print("F1: %.2f%%" % (100 * f1.mean()))
+    print("Accuracy: %.2f%%" % (100 * accuracy.mean()))
+    print("Precision: %.2f%%" % (100 * precision.mean()))
+    print("Recall: %.2f%%" % (100 * recall.mean()))
 
     if hasattr(classifier, "predict_proba"):
         y_prob = classifier.predict_proba(X_test)[:, 1]
@@ -83,27 +84,27 @@ if __name__ == '__main__':
                     miscfiles.append(line)
                     allComments.append(line)
 
-    # Encode the target labels (concern = 0, misc = 1)
-    zeros = np.zeros(len(concernFiles))  # Concern comments as 0
-    ones = np.ones(len(miscfiles))  # Miscellaneous comments as 1
+    # Encode the target labels.
+    zeros = np.zeros(len(concernFiles))  # Concern comments are 0
+    ones = np.ones(len(miscfiles))  # Miscellaneous comments are 1
 
-    # Creates the feature matrix and label vector
+    # Creates the feature matrix and label vector.
     vectorizer = CountVectorizer()
     X = vectorizer.fit_transform(allComments)
     y = np.append(zeros, ones)
 
-    # Create the tf-idf
+    # Create the tf-idf.
     tfidf = TfidfTransformer()
     X_tfidf = tfidf.fit_transform(X)
 
-    # Split into train and test sets
+    # Split into train and test set
     X_train, X_test, y_train, y_test = train_test_split(X_tfidf, y, test_size=0.3, random_state=42)
 
     # Initialize classifiers
     SVMclassifier = LinearSVC(random_state=0)
     NaiveBayesclassifier = MultinomialNB()
-    DecisionTree = DecisionTreeClassifier(random_state=0, max_depth=4)
-    RandomForest = RandomForestClassifier(random_state=0, max_depth=4)
+    DecisionTree = DecisionTreeClassifier(random_state=0, max_depth=5)
+    RandomForest = RandomForestClassifier(random_state=0, max_depth=5)
 
     # Print each classifier and their scores
     print('SVM Classifier Scores:')
