@@ -37,8 +37,4 @@ The project includes a report comparing the results of each classifier, with a f
 - **Python 3.x**
 - Libraries: `pandas`, `scikit-learn`, `matplotlib`, `numpy`, `seaborn`
 
-## How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/youtube-comment-classification.git
